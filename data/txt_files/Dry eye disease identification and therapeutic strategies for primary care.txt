@@ -1,0 +1,1109 @@
+REVIEW ARTICLE
+Dry eye disease: identification and therapeutic strategies for primary care
+clinicians and clinical specialists
+John Shepparda
+, Bridgitte Shen Leeb and Laura M. Perimanc
+a
+Virginia Eye Consultants, Eyecare Partners, Norfolk, VA, USA; b
+Vision Optique, Houston, TX, USA; c
+Periman Eye Institute, Seattle,
+WA, USA
+ABSTRACT
+Dry eye disease (DED) is a multifactorial disorder characterized by loss of tear film homeostasis
+with an estimated worldwide prevalence of 5% to 50%. In DED, dysfunction of the ocular struc￾tures that create and regulate the tear film components—including the lacrimal glands, meibo￾mian glands, cornea, and conjunctiva—causes a qualitative and/or quantitative tear deficiency
+with resultant tear film instability and hyperosmolarity. This initiates a vicious cycle of ocular sur￾face inflammation and damage that may ultimately impair the quality of life and vision of
+affected patients. Many factors can contribute to the development of DED, including ocular and
+systemic diseases, topical and systemic medications, and environmental conditions. Because
+DED is a chronic disorder, treatment is most often long term and may utilize both pharmaco￾logic and nonpharmacologic interventions to address all etiologic components. The long-term
+management of DED can be challenging and most often should involve eye care specialist refer￾ral. However, primary care clinicians (PCCs) are often the first points of contact for patients with
+DED and importantly provide initial diagnosis and preliminary patient education about the dis￾ease process. Consideration of DED is also vital for the practice of various specialties due to the
+large number of comorbidities and medications that can contribute to DED pathogenesis and
+progression. Therefore, it is important that PCCs and clinical specialists be aware of the etiology
+of DED and its available therapeutic options. This manuscript provides an overview of DED
+pathophysiology and treatment and discusses specific considerations regarding DED manage￾ment for PCCs and clinical specialists.
+KEY MESSAGES
+
+Successful management of dry eye disease often requires the use of various pharmacologic
+and/or nonpharmacologic therapies, as well as environmental and lifestyle modifications, to
+mitigate the underlying etiologies and restore tear film homeostasis.
+
+Primary care clinicians play an essential role in dry eye disease management by establishing
+a diagnosis, educating patients about the disorder, and providing referrals to eye care spe￾cialists for initiation of specialized treatment and long-term follow-up.
+
+Primary care clinicians and clinical specialists should consider prescribing medications with
+fewer ocular surface effects whenever possible in patients at risk for or with existing dry
+eye disease.
+ARTICLE HISTORY
+Received 5 August 2022
+Accepted 6 December 2022
+KEYWORDS
+Dry eye disease;
+keratoconjunctivitis sicca;
+therapeutics; primary care;
+family medicine;
+specialty medicine
+Introduction
+Dry eye disease (DED) is a multifactorial disorder char￾acterized by loss of tear film homeostasis that leads to
+a self-perpetuating cycle of ocular surface inflamma￾tion and damage [1,2]. Loss of tear film homeostasis is
+secondary to dysfunction of one or more ocular struc￾tures that create and regulate the tear film compo￾nents, including the lacrimal glands, meibomian
+glands, cornea, and conjunctiva [1,3]. Many factors
+may affect these structures and contribute to the
+development of DED, including ocular disorders such
+as blepharitis and meibomian gland dysfunction, as
+well as various systemic diseases such as diabetes
+mellitus, Sjogren syndrome, rheumatoid arthritis, and €
+systemic lupus erythematosus, among others [3].
+Environmental factors such as low humidity, increased
+airflow over the ocular surface, dust, tobacco smoke,
+and air pollutants, as well as lifestyle influences like
+poor eyelid hygiene practices, extensive use of digital
+CONTACT John Sheppard jsheppard@cvphealth.com Virginia Eye Consultants, Eyecare Partners, Suite #210, 241 Corporate Blvd, Norfolk, VA
+23502, USA
+
+2022 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0/), which permits
+unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+ANNALS OF MEDICINE
+2023, VOL. 55, NO. 1, 241–252
+https://doi.org/10.1080/07853890.2022.2157477
+devices, and contact lens wear, can also promote DED
+[2,3]. In addition, several commonly prescribed topical
+and systemic medications may cause or exacerbate
+DED [2]. The resultant lack of normal tear production
+(aqueous deficient DED) and/or increase in tear evap￾oration (evaporative DED) leads to qualitative and/or
+quantitative tear deficiency, hyperosmolarity, and tear
+film instability [3,4]. This causes chronic ocular surface
+inflammation and injury that may ultimately impair
+vision in affected patients [3,5].
+The estimated worldwide prevalence of DED ranges
+from 5% to 50% and varies by population [4,6].
+Associated symptoms include ocular redness, dryness,
+itchiness, grittiness, foreign body sensation, eye
+fatigue, and visual disturbance [1,3,7]. Dry eye disease
+can adversely affect perceptions of both physical and
+mental wellbeing in affected patients, decreasing their
+overall quality of life [8,9]. In fact, studies have demon￾strated that patients with moderate to severe DED
+rank the loss of utility associated with their disease
+similarly to patients affected by disorders such as dis￾abling hip fracture and severe angina [10,11]. Dry eye
+disease has been found to negatively impact work
+productivity and activities of daily living, indicating
+significant socioeconomic impacts of the dis￾order [12,13].
+Establishing a diagnosis of DED can be difficult, as
+signs and symptoms of the disease may not correlate
+with one another, and other conditions that may pre￾sent similarly must be excluded [1,14]. Diagnosis is
+most often based on a combination of relevant
+patient history and multiple clinical diagnostics that
+detect tear film or ocular surface abnormalities [14].
+These may include symptom questionnaires, ocular
+surface staining, lipid layer analysis, tear breakup time
+(TBUT), tear osmolarity, tear production, detection of
+ocular surface inflammatory markers, meibography, or
+eyelid health examination [14]. Once a diagnosis of
+DED has been made, treatment should be initiated as
+appropriate on an individualized basis.
+In clinical practice, the diagnosis and management
+of DED can be challenging, and patients often require
+eye care specialist referral for long-term care [15,16].
+However, DED is a common condition initially pre￾sented to primary care clinicians (PCCs) and is fre￾quently associated with comorbidities treated by PCCs
+and clinical specialists [3,15]. This review aims to
+increase awareness of the etiology and pathophysi￾ology of DED among PCCs and clinical specialists,
+inform these clinicians about the available pharmaco￾logic and nonpharmacologic treatment options for
+DED, and discuss special considerations regarding
+DED management.
+Discussion
+Treatment of dry eye disease
+The treatment of DED is often chronic and
+multifaceted to mitigate all etiologic components, and
+potentially involves both pharmacologic and nonphar￾macologic interventions [2]. Treatment commonly pro￾gresses in a stepwise fashion, beginning with
+appropriate conservative therapies and advancing to
+more intensive treatments as indicated based on the
+severity of disease [2]. Overall goals of DED therapy
+are to restore and maintain ocular surface homeosta￾sis, to minimize clinical signs and long-term ocular sur￾face damage, and to ultimately maximize visual
+function and patient quality of life [2,4,16].
+Pharmacological therapeutics
+Many pharmacological agents are used in the treat￾ment of DED, including topical and systemic medica￾tions. Commonly used topicals include lubricants,
+corticosteroids, lifitegrast, and cyclosporine A [2].
+Systemic agents administered orally may include anti￾biotics (azithromycin and tetracyclines), poly-unsatur￾ated omega-3 fatty acid supplements, and antioxidant
+supplements [2]. Additionally, varenicline nasal spray
+(TyrvayaTM, Oyster Point Pharma, Princeton, NJ) is a
+newly approved cholinergic agonist nasal spray indi￾cated for the treatment of the signs and symptoms of
+DED [17,18]. Table 1 summarizes key information
+about the approved pharmacological agents available
+for DED treatment.
+Nonpharmacological therapeutics
+Nonpharmacological interventions used in the treat￾ment of DED comprise procedural and device-based
+therapies as well as lifestyle modifications. Common
+procedural therapies include punctal occlusion, meibo￾mian gland thermal pulsation and expression, intense
+pulsed light therapy, low-level light therapy, and micro￾blepharoexfoliation [2,38]. Device-based therapies
+include eyelid hygiene devices, neurostimulation devi￾ces, heat or moisture goggles, and warm compresses
+[2,39]. Table 2 summarizes key information regarding
+these procedural and device-based therapies.
+Many potential environmental and lifestyle modifi￾cations may be implemented to improve DED [2].
+Environmental adjustments include increasing indoor
+humidity levels and avoiding desiccating conditions
+that may exacerbate DED, such as air conditioning,
+242 J. SHEPPARD ET AL.
+ANNALS OF MEDICINE 243
+Table 1. Summary of available pharmacologic agents for the treatment of dry eye disease.
+Indication
+Expected length
+of therapy Mechanism of action Contra-indications
+Minimum age
+at treatment Safety during pregnancy
+Topical agents
+Artificial tears Replace or supplement natural
+tear film in patients with
+DED [2]
+Chronic [16] Tear substitutes targeting 1
+or more layers of the tear
+film [2]
+Preserved solutions in patients
+requiring frequent dosing or using
+other chronic topical therapies [2]
+Safe for pediatric
+use [19]
+Refer to specific product
+information
+Corticosteroids Stop cycle of ocular surface
+inflammation inherent in
+DED [2]
+Short term (several
+weeks) [2,16]
+Anti-inflammatory and
+immunosuppressive effects
+mediated through multiple
+receptors [2]
+Ocular hypertension, cataracts, active
+infection [2]
+Use with caution in
+pediatric
+patients [19]
+No adverse neonatal
+outcomes
+observed [20]
+RV Lifitegrast (Xiidra ) Treatment of the signs and
+symptoms of DED [21]
+12 weeks [21] Lymphocyte
+function–associated
+antigen-1 antagonist [21]
+Hypersensitivity to lifitegrast or any
+other ingredients in
+formulation [21]
+17 years [21] No available data to
+inform drug-associated
+risk [21]
+Cyclosporine A
+RV Restasis Increase tear production in
+patients whose tear
+production is presumed to be
+suppressed due to ocular
+inflammation associated with
+DED [22]
+6 months [22] Calcineurin inhibitor
+immunosuppressant [22]
+Hypersensitivity to any ingredients in
+formulation [22]
+16 years [22] Maternal use not
+expected to cause fetal
+drug exposure [22]
+TM Cequa Increase tear production in
+patients with DED [23]
+12 weeks [23] Calcineurin inhibitor
+immunosuppressant [23]
+None [23] 18 years [23] No adequately controlled
+studies to inform
+risk [23]
+Intranasal agents
+Varenicline
+TM) (Tyrvaya
+Treatment of the signs and
+symptoms of DED [18]
+4 weeks [18] Nicotinic acetylcholine
+receptor agonist [18]
+None [18] Adult [18] No available data to
+inform drug-associated
+risk [18]
+Systemic agents
+Antibiotics
+Azithromycin Treatment of blepharitis, MGD,
+and rosacea associated with
+DED [2]
+5 days or pulse dosing
+for 1 month [2,24]
+Stimulator of meibomian
+gland function with anti￾inflammatory properties [2]
+Hypersensitivity, use with
+antipsychotics or other drugs that
+prolong the QTc interval, use with
+P-glycoprotein substrates, long￾term use in HSCT recipients [25]
+Safe for pediatric
+use [26]
+Considered generally safe
+for use during
+pregnancy [27,28]
+Tetracyclines Treatment of chronic anterior
+blepharitis, MGD, and rosacea
+associated with DED [2]
+4–10 weeks or chronic
+low dose [2]
+Broad-spectrum antibiotic
+with anti-inflammatory
+properties [2]
+Hypersensitivity, pregnancy or
+breastfeeding, children under
+16 years old, use with penicillin or
+isotretinoin [24,29,30]
+16 years [29] Use during pregnancy
+contraindicated [29,30]
+Supplements
+Omega fatty acids Inhibit proinflammatory cytokine
+production and T-lymphocyte
+proliferation implicated in
+DED [2]
+At least 3 months [2] Precursors of eicosanoids that
+modulate systemic
+inflammation [2]
+Liver disease, atrial fibrillation,
+] bleeding disorders [2
+Safe for pediatric
+use [31]
+Only pharmaceutical￾grade fish oil
+supplements safe for
+use during
+pregnancy [32]
+Antioxidants Prevent oxidative cellular injury
+that leads to ocular surface
+diseases like DED, improve
+ocular surface health [2,33]
+At least
+1 month [2,33]
+Neutralize reactive oxygen
+species (free radicals) [33]
+May increase risk of certain cancers,
+cardiovascular disease, or diabetes;
+use controversial in patients on
+chemotherapy [34]
+Safe for pediatric
+use [35,36]
+Limited studies of safety
+during pregnancy [37]
+DED: dry eye disease; HSCT: hematopoietic stem cell transplant; MGD: meibomian gland dysfunction; QTc: corrected QT.
+244 J. SHEPPARD ET AL. Table 2. Summary of available nonpharmacologic therapeutics for the treatment of dry eye disease. Indication FDA approval Expected length of therapy Mechanism of action Contraindications Minimum age at treatment Procedural therapies Punctal occlusion Treatment of disorders benefitting from tear retention on the ocular surface, such as DED [2] Yes [40,41] Short term (absorbable punctal plugs), long term (nonabsorbable punctal plugs), or permanent (surgical
+occlusion) [2]
+Physically blocks tear drainage with
+punctal plugs or surgical punctal
+occlusion [2]
+Hypersensitivity to plug material,
+lacrimal pathway obstruction,
+ectropion, active ocular
+infection [42]
+Use with caution in
+pediatric
+patients [19,43]
+Meibomian gland
+thermal
+pulsation
+RV (Lipiflow )
+Application of localized heat
+and pressure in adults
+with chronic cystic eyelid
+disorders including MGD
+(evaporative DED) [44,45]
+Yes [45] Every 3–12 months as
+needed [44]
+Applies heat to both inner eyelids to
+liquefy contents while pulsating
+pressure is simultaneously applied to
+outer eyelids to evacuate meibomian
+glands [44]
+Ocular surgery or injury within
+3 months, ocular herpes within
+3 months, active ocular
+infection or inflammation,
+history of recurrent ocular
+inflammation within 3 months,
+eyelid abnormalities affecting
+function, ocular surface
+abnormalities compromising
+corneal integrity [46]
+Adult [44]
+Intense pulsed
+light
+(OptiLight)
+Treatment of conditions such
+as MGD, rosacea, and
+telangiectasia, which may
+lead to DED [47,48]
+Yes [49] Every 4 weeks as
+needed [48]
+Photothermolysis: uses specific
+wavelengths from pulsed light source
+to destroy unwanted blood vessels by
+targeting their chromophores [47]
+Acute ocular inflammation [50] No studies evaluating
+efficacy or safety in
+children for treatment
+of MGD [51]
+Low-level light
+therapy
+RV (Epi-C Plus )
+Treatment of MGD
+contributing to DED [52]
+Yes [38] Twice weekly for at
+least 1 month [53]
+Photobiomodulation: irradiation with
+nonionizing light to stimulate
+meibomian gland ATP production
+leading to endogenous healing and
+promoting meibum flow [52]
+Eyelid margin tattoos [52] No randomized clinical
+trials for treatment of
+MGD or DED [52]
+Microblepharo￾exfoliation
+RV (BlephEx ,
+TM) AB Max
+Treatment of Demodex
+infestation, blepharitis, and
+MGD leading to
+DED [54–56]
+Yes Every 4–6 months as
+needed [57]
+Microsponge cleaning of the lid margin
+and lashes for removal of biofilm,
+bacteria, Demodex, and toxins
+promoting inflammation [55]
+None [58] Safe for use in
+a pediatric patients
+Device-based therapies
+Moisture
+chamber goggles
+Treatment of MGD and
+DED [59,60]
+No [61,62] Twice daily for at
+least 3 weeks [62]
+Steam transfers heat to soften
+meibomian gland secretions, and
+moisture helps retain tear fluid [2,62]
+a None No clinical studies
+evaluating efficacy or
+safety in children
+Warm compresses Treatment of obstructive
+MGD associated with
+DED [63]
+Yes [64] Twice daily for at
+least
+2 weeks [59,63]
+Heat softens or liquefies secretions
+obstructing meibomian glands [2]
+Use caution in patients with
+keratoconus or corneal
+thinning [65]
+Safe for pediatric use [43]
+Eyelid hygiene
+devices
+TM (NuLids )
+Treatment of MGD,
+blepharitis, and DED [66]
+No Once daily for at least
+30 days [66]
+Cleaning tip oscillates to facilitate
+removal of bacteria, mites, and dry
+skin from eyelid margin and opening
+of meibomian gland orifices [66]
+None [66] No clinical studies
+evaluating efficacy or
+safety in children [66]
+Neurostimulation
+device
+RV (iTear 100)
+Increase acute tear
+production [67]
+Yes [67,68] 30 s twice per day for
+up to
+30 days [67,69]
+Vibratory stimulation of external nasal
+nerve increases tear production by
+activating nasolacrimal reflex [67,68]
+None [70] Adult [67]
+aBased on the authors’ clinical experiences.
+ATP: adenosine triphosphate; DED: dry eye disease; FDA: US Food and Drug Administration; MGD: meibomian gland dysfunction.
+open car windows, extended airline flights, or blowing
+fans [2,3]. Additionally, individuals frequently using
+computer stations should implement ergonomic
+adjustments such as lowering the screen, which allows
+a downward gaze that decreases exposure of the ocu￾lar surface to the air and reduces tear film evaporation
+[2]. Lifestyle modifications include implementing daily
+eyelid and eyelash cleansing routines to decrease irri￾tant and allergen exposure and reduce bacterial
+buildup, taking frequent screen breaks to ensure
+adequate blinking for cornea-protecting tear film dis￾tribution, and using appropriate prescription eyewear
+to prevent eye strain [2,71]. Maximizing general well￾ness by ensuring adequate sleep, hydration, nutrition,
+exercise, and psychological wellbeing may also help to
+improve the DED disease state, reduce any associated
+stress, and mitigate symptoms [2]. Environmental and
+lifestyle adjustments are often among the first recom￾mended DED treatment interventions; compliant
+adherence to these principles is vital for long-term
+success [2,71].
+The role of primary care clinicians in dry eye
+disease management
+As is the case with many medical conditions, PCCs are
+often the first points of contact for and evaluators of
+patients with DED. In this role, PCCs have the oppor￾tunity to provide essential preliminary patient educa￾tion about the underlying disease process [2,15].
+Effective patient education facilitating realistic expect￾ations and encouraging long-term treatment adher￾ence is essential for successful DED management
+[2,16,71]. Additionally, PCCs may be the first to sus￾pect or diagnose DED and may initiate nonspecialized
+treatment or provide recommendations to help miti￾gate symptoms and minimize ocular surface damage
+[15,16]. For example, PCCs may treat underlying disor￾ders thought to be contributing to DED, or may con￾sider medication discontinuation, dose adjustments, or
+alternative options for agents that increase the risk of
+DED [2,15]. They might recommend conservative inter￾ventions such as ocular lubricants or warm eyelid
+compresses, or suggest individualized environmental
+modifications and/or lifestyle adjustments such as
+dietary changes that improve DED [15]. After initial
+diagnosis and patient education, PCCs should provide
+patient referrals to an ophthalmologist and/or optom￾etrist as soon as possible for more in-depth evaluation
+and initiation of any necessary specialized treatment;
+thereafter, these eye care specialists most often will
+continue to manage the condition long term [15,16].
+Considerations for primary care clinicians in the
+management of dry eye disease
+As previously discussed, a multitude of factors contrib￾ute to the development of DED, including ocular and
+systemic diseases, topical and systemic medications,
+and environmental influences [2,3,5]. Thus, it is import￾ant that practitioners carefully consider patient histor￾ies and implement individualized treatment protocols
+for patients affected by or at risk for DED to avoid
+exacerbating the condition as much as possible. For
+example, when selecting medications for treatment of
+comorbidities in patients with DED, PCCs may consider
+using agents with fewer ocular surface effects, imple￾menting dose modifications, or prescribing less drying
+topical rather than systemic products when avail￾able [2].
+Topical ocular medications may promote the devel￾opment of DED due to their potential allergic, toxic, or
+inflammatory effects that disrupt the tear film layer,
+inhibit aqueous secretion by the lacrimal glands, or
+damage the ocular surface epithelium, corneal nerves,
+or eyelids [72]. For example, glaucoma medications or
+other topicals containing preservatives like benzalko￾nium chloride may contribute to DED by inducing
+ocular surface irritation and damage leading to dys￾function [2,72–74]. In high risk patients requiring these
+medications, PCCs may consider alternatives like pre￾servative-free agents or agents with less harmful pres￾ervatives (e.g. sodium chlorite, sodium perborate, or
+polyquaternium-1) [2,75]. Other topical medications
+potentially promoting DED include prostaglandin ana￾logues, which are used in the treatment of glaucoma
+or eyelash hypotrichosis and may cause obstructive
+meibomian gland dysfunction leading to DED [76–78].
+Topical medications with an osmolarity or pH that dis￾turbs the normal tear film may also worsen DED [72].
+A large number of commonly prescribed systemic
+medications contribute to the development of DED;
+these may do so by inhibiting tear production, affect￾ing sensory nerve signals and reflex tear secretion,
+triggering secretory gland inflammation, or irritating
+the ocular surface through secretion in tears [72]. Such
+medications include, but are not limited to, antide￾pressants, antipsychotics, anxiolytics (such as benzo￾diazepines), oral contraceptives, hormone replacement
+agents, analgesics/antipyretics, nonsteroidal anti￾inflammatory drugs (NSAIDs), systemic and inhaled
+corticosteroids, antihistamines, diuretics, and isotreti￾noin [2,72,79]. Gomes et al. (2017) provides complete
+lists of topical and systemic medications contributing
+to DED [72].
+ANNALS OF MEDICINE 245
+Considerations for clinical specialists in the
+management of dry eye disease
+Consideration of the risk of DED is important in a
+wide variety of specialties due to the large number of
+contributory comorbidities and concomitant medica￾tions. Practicing clinicians should be familiar with DED
+and how it interrelates with their field. Key considera￾tions for certain specialties are described below.
+Psychiatrists
+Many psychoactive medications, including antidepres￾sants, antipsychotics, and anxiolytics, predispose
+patients to DED [72,80,81]. The mechanisms respon￾sible for this are not definitively established and likely
+vary by drug class [82,83]. For example, tricyclic anti￾depressants likely cause DED by binding muscarinic
+acetylcholine receptors in the lacrimal gland and con￾junctival goblet cells, decreasing their secretory func￾tion [83,84]. Selective serotonin reuptake inhibitors
+(SSRIs) have minimal anticholinergic activity but may
+promote DED by increasing the amount of serotonin
+and inflammatory mediators in the tears, causing dys￾function of and damage to ocular surface structures
+[83,85,86]. Serotonin and norepinephrine reuptake
+inhibitors (SNRIs) such as venlafaxine and duloxetine
+may be less drying antidepressant options due to their
+noradrenergic action; in a study by Koc¸er et al. (2015),
+patients taking SSRIs had greater reductions in tear
+production and were more likely to have DED than
+patients taking SNRIs [82,83].
+Psychoactive medications can promote DED, and
+patients with DED have increased incidences of stress,
+anxiety, depression, and sleep and mood disorders,
+which, in turn, may require treatment [2,8,87,88]. Thus,
+appropriately managing DED may be integral to opti￾mizing mental health.
+Neurologists
+Similarly to tricyclic antidepressants, many antiparkin￾sonian medications, such as levodopa, pramipexole,
+and benztropine, have anticholinergic activity leading
+to abnormal tear production and DED [72,84].
+Additionally, numerous neurological disorders, includ￾ing but not limited to stroke, paralysis, migraines,
+myasthenia gravis, diabetic neuropathy, and neuro￾trophic keratitis, are associated with tear film abnor￾malities and DED due to potential impairment of
+sensory and/or motor ocular innervation [89–92].
+However, patients affected by DED are not always
+symptomatic for this condition [93]. Therefore, in add￾ition to addressing the underlying disease process,
+neurologists should consider referring patients to an
+eye care specialist for periodic ocular surface evalu￾ation [93].
+Rheumatologists
+Autoimmune disorders such as Sjogren syndrome, €
+rheumatoid arthritis, and systemic lupus erythemato￾sus are known risk factors for DED [3,89,94]. These
+conditions are thought to contribute to DED by caus￾ing immune cell infiltration and increased inflamma￾tory cytokine expression in ocular structures including
+the lacrimal glands, conjunctiva, and cornea, which
+lead to inflammation, tissue dysfunction or destruc￾tion, and failure of normal tear production [3,95–97].
+Regular ocular surface evaluation should be consid￾ered for these patients [95]. Medications used to treat
+rheumatic conditions, such as NSAIDs and corticoste￾roids, are also associated with increased incidence of
+DED [72,80,81,98,99]. Aspirin and ibuprofen are
+secreted in the tears and may induce tear film abnor￾malities in this way; NSAIDs may also be associated
+with decreased corneal sensitivity, which can impair
+normal tear production [100,101].
+Dermatologists
+Chronic facial and ocular rosacea are commonly asso￾ciated with ocular disorders including blepharitis and
+meibomitis, which may lead to meibomian gland dys￾function and subsequent atrophy [102,103]. This
+causes tear film instability and decreased tear produc￾tion [102]. Additionally, patients with ocular rosacea
+have greater concentrations of proinflammatory cyto￾kines on the ocular surface, which commonly results
+in DED [102]. When rosacea-induced DED is severe or
+accompanied by corneal ulcers and/or scarring,
+affected patients may experience permanent visual
+impairment [102].
+Common dermatologic medications may also pre￾dispose patients to DED. For example, isotretinoin (13-
+cis-retinoic acid), which is used topically and/or sys￾temically for the treatment of aging and acne vulgaris,
+can cause blepharitis, meibomian gland dysfunction,
+and DED [72,104,105]. Isotretinoin is secreted by the
+lacrimal gland into the tears; in the sebaceous meibo￾mian glands, it then isomerizes into all-trans retinoic
+acid, which causes meibomian gland dysfunction and
+atrophy [72,104,105]. This leads to reduced quality of
+meibomian gland secretion, reduced tear film stability
+(increased tear osmolarity and decreased TBUT), and
+worsened symptoms of DED [72,104]. These isotreti￾noin-induced changes to the meibomian glands are
+reversible with cessation of treatment [105,106].
+Interestingly, isotretinoin does not appear to affect
+246 J. SHEPPARD ET AL.
+lacrimal gland secretion, signifying that DED induced
+by isotretinoin is likely due to meibomian gland defi￾ciency rather than aqueous tear deficiency
+[72,105,107]. Isotretinoin may also be harmful to the
+conjunctiva and cornea. Patients receiving isotretinoin
+were found to have decreased density of conjunctival
+goblet cells with reduced intercellular contact and
+increased nucleus:cytoplasm ratio; this may alter
+mucin formation and thereby disrupt the lipid layer of
+the tear film [105,108,109]. Additionally, patients
+receiving isotretinoin were shown to have statistically
+significant decreases in corneal sensitivity after
+3 months of treatment [110]. This can impair protect￾ive ocular mechanisms including blinking and tearing
+responses, and potentially lead to ocular surface dam￾age [105].
+Obstetrician-gynecologists
+The association between hormone therapy and
+increased incidence of DED is seen in multiple studies
+[72,79,80,111]. Schaumberg et al. (2001) noted that
+hormone replacement therapy (HRT), especially with
+estrogen alone, conveyed an increased risk of DED in
+postmenopausal women and that the risk of DED
+increased with duration of HRT [111]. Chia et al. (2003)
+also found that HRT was associated with increased risk
+of DED in Australian individuals aged  49 years [80].
+Hormonal contraceptive use in women also contrib￾utes to DED; increased risk is noted with regular use
+and higher quantities of contraceptives used [79]. The
+underlying mechanism responsible for the association
+between hormone therapy and DED is not yet known
+[79]. Possible explanations are that drug binding to
+meibomian gland estrogen receptors prevents normal
+secretion and/or that progesterone alters molecular
+processes essential to lacrimal and meibomian gland
+function [79]. Alternatively, decreased testosterone lev￾els, which are often found in peri- and postmeno￾pausal women and women using hormonal
+contraceptives, may promote the development of
+DED, since androgen binding to meibomian gland sex
+steroid receptors stimulates lipid synthesis and glan￾dular secretion [112–115].
+Pediatricians
+The prevalence of DED in pediatric patients is likely
+underestimated due to the shortage of epidemio￾logical data for this population, the challenges of
+symptom interpretation in younger individuals, and
+the tendency of practitioners to associate DED only
+with congenital or autoimmune disorders in these
+patients [43]. Pediatric DED prevalence estimates vary
+widely depending on the examined population and
+presence of preexisting risk factors; values range from
+0.2% in patients aged 2–17 years in the general US
+population to 97.5% in patients aged 3–6 years with
+preexisting allergic conjunctivitis in China [43,116,117].
+Gupta et al. (2018) found that 42% of predominantly
+white US children aged 4 to 17 years who were
+asymptomatic and without a previous diagnosis of
+DED had meibographic evidence of glandular atrophy
+[118]. Risk factors promoting DED in pediatric patients
+include congenital disorders like congenital corneal
+anesthesia and cystic fibrosis; autoimmune diseases
+such as Sjogren syndrome and juvenile rheumatoid €
+arthritis; inflammatory disorders like ocular allergy;
+dermatologic conditions such as ocular rosacea and
+ocular demodicosis; nutritional deficiencies of vitamin
+A, zinc, vitamin D, or omega fatty acids; and environ￾mental or lifestyle factors like contact lens wear
+[19,43,116,119–127]. Kocamis¸ et al. (2021) and Moon
+et al. (2016) found a correlation between increased
+screen time and risk of developing DED in pediatric
+patients, which is significant considering the increas￾ing dependence on digital devices in this popula￾tion [128,129].
+Diagnosing DED is challenging in the pediatric
+population due to the difficulties of identifying symp￾toms, the lack of validated diagnostic criteria and nor￾mative data, and absence of tests specifically designed
+for pediatric patients [19,43]. Typically, the presence of
+corresponding symptoms plus at least 1 objective
+marker of DED (decreased TBUT, increased tear osmo￾larity, or positive ocular surface staining) are the key
+findings used to establish a diagnosis of pediatric DED
+[43]. The mainstays of initial treatment are similar to
+those of adults and include patient and/or caregiver
+education, environmental and/or lifestyle modifica￾tions, nutritional support, eyelid hygiene and/or warm
+compresses, and use of ocular lubricants [19,43]. Any
+underlying conditions contributing to DED should also
+be addressed [19]. Prescription medications and/or
+procedural interventions may be implemented in
+moderate to severe cases with failure of these first-line
+therapies [19,43].
+Due to the many challenges of diagnosing and
+managing DED in pediatric patients, referral to an eye
+care specialist is recommended as early in the course
+of disease as possible in suspected cases [19,124].
+Delays in diagnosis and treatment can lead to poten￾tially serious complications, including corneal surface
+irregularities, epithelial defects, neovascularization,
+infectious ulcers, and corneal scarring, all of which
+may cause vision loss in these young patients [120].
+ANNALS OF MEDICINE 247
+Conclusions
+Primary care clinicians, as well as many clinical special￾ists, play a vital role in DED management by educat￾ing patients about the disease process, establishing a
+diagnosis and potentially prescribing nonspecialized
+treatment, and providing referrals to eye care special￾ists for evaluation and initiation of chronic therapy.
+Successful DED management often involves the use of
+multiple pharmacologic and/or nonpharmacologic
+therapies, as well as environmental and lifestyle
+adjustments, to address any underlying etiologies and
+restore and preserve tear film homeostasis in affected
+patients. Primary care clinicians and clinical specialists
+should carefully consider their treatment protocols for
+patients at risk of or with existing DED and, when pos￾sible, utilize medications with fewer ocular surface
+effects to minimize ocular surface damage.
+Acknowledgements
+Medical writing and editorial assistance were provided by
+Jennifer Masucci, VMD, of AlphaBioCom, LLC, under the dir￾ection of the authors and were funded by Sun
+Pharmaceutical Industries, Inc.
+Author contributions
+All authors were involved in the design, critical revision for
+intellectual content, and final approval of this manuscript; all
+authors agree to be accountable for all aspects of this work.
+Disclosure statement
+JS reports personal fees from Allergan; Alcon; Avedro;
+Bausch & Lomb; Claris Bio; Clementia Pharma; Dompe;
+EyeDetec; EyeGate; Lacrisciences; Novartis; Ocular
+Therapeutix; Science Based Health; Senju; Shire; Sun
+Pharmaceutical Industries, Inc.; TearLab; TearScience; Topcon;
+and TopiVert; and other fees from Alcon/Novartis, Kala
+Pharmaceuticals, Novaliq, Noveome, Ocular Therapeutix,
+Shire, TearLab, and Visus. BSL reports personal fees from
+Lumenis; MacuHealth; RVL Pharmaceuticals; Santen; and Sun
+Pharmaceutical Industries, Inc; and other fees from Johnson
+& Johnson Vision; Kala Pharmaceuticals; and SightGlass. LMP
+reports research support from Lumenis and Olympic
+Ophthalmics, is a shareholder for Eyedetec and Visant, and
+reports consulting fees from Alcon; Allergan; Avellino; Azura;
+EyeVance; Novartis; Science Based Health; Sight Sciences;
+Sun Pharmaceutical Industries, Inc.; and TearLab.
+Funding
+This work was funded by Sun Pharmaceutical Industries, Inc.
+Data availability statement
+Data sharing is not applicable to this article because it is a
+narrative review and as such, no new data were created or
+analyzed in this study.
+References
+[1] Craig JP, Nichols KK, Akpek EK, et al. TFOS DEWS II
+definition and classification report. Ocul Surf. 2017;
+15(3):276–283.
+[2] Jones L, Downie LE, Korb D, et al. TFOS DEWS II
+management and therapy report. Ocul Surf. 2017;
+15(3):575–628.
+[3] Bron AJ, de Paiva CS, Chauhan SK, et al. TFOS DEWS
+II pathophysiology report. Ocul Surf. 2017;15(3):
+438–510.
+[4] Craig JP, Nelson JD, Azar DT, et al. TFOS DEWS II
+report executive summary. Ocul Surf. 2017;15(4):
+802–812.
+[5] 2007 Report of the international dry eye workshop
+(DEWS). Ocul Surf. 2007;5(2):65–204.
+[6] Stapleton F, Alves M, Bunya VY, et al. TFOS DEWS II
+epidemiology report. Ocul Surf. 2017;15(3):334–365.
+[7] Begley CG, Chalmers RL, Abetz L, et al. The relation￾ship between habitual patient-reported symptoms
+and clinical signs among patients with dry eye of
+varying severity. Invest Ophthalmol Vis Sci. 2003;
+44(11):4753–4761.
+[8] Na KS, Han K, Park YG, et al. Depression, stress, qual￾ity of life, and dry eye disease in Korean women: a
+population-based study. Cornea. 2015;34(7):733–738.
+[9] Morthen MK, Magno MS, Utheim TP, et al. The phys￾ical and mental burden of dry eye disease: a large
+population-based study investigating the relation￾ship with health-related quality of life and its deter￾minants. Ocul Surf. 2021;21:107–117.
+[10] Schiffman RM, Walt JG, Jacobsen G, et al. Utility
+assessment among patients with dry eye disease.
+Ophthalmology. 2003;110(7):1412–1419.
+[11] Buchholz P, Steeds CS, Stern LS, et al. Utility assess￾ment to measure the impact of dry eye disease.
+Ocul Surf. 2006;4(3):155–161.
+[12] Nichols KK, Bacharach J, Holland E, et al. Impact of
+dry eye disease on work productivity, and patients’
+satisfaction with over-the-counter dry eye treat￾ments. Invest Ophthalmol Vis Sci. 2016;57(7):
+2975–2982.
+[13] Greco G, Pistilli M, Asbell PA, Dry Eye Assessment
+and Management Study Research Group, et al.
+Association of severity of dry eye disease with work
+productivity and activity impairment in the dry eye
+assessment and management study. Ophthalmology.
+2021;128(6):850–856.
+[14] Wolffsohn JS, Arita R, Chalmers R, et al. TFOS DEWS
+II diagnostic methodology report. Ocul Surf. 2017;
+15(3):539–574.
+[15] Verjee MA, Brissette AR, Starr CE. Dry eye disease:
+early recognition with guidance on management
+and treatment for primary care family physicians.
+Ophthalmol Ther. 2020;9(4):877–888.
+248 J. SHEPPARD ET AL.
+[16] Akpek EK, Amescua G, Farid M, American Academy
+of Ophthalmology Preferred Practice Pattern Cornea
+and External Disease Panel, et al. Dry eye syndrome
+preferred practice patternVR . Ophthalmology. 2019;
+126(1):P286–P334.
+[17] Guttman Krader C. Varenicline nasal spray approved
+as a treatment for dry eye disease. Ophthalmology
+Times. 2021;46(19):11–12.
+[18] Oyster Point Pharma. Tyrvaya (varenicline solution)
+nasal spray full prescribing information. 2021.
+[19] Alves M, Dias AC, Rocha EM. Dry eye in childhood:
+epidemiological and clinical aspects. Ocul Surf. 2008;
+6(1):44–51.
+[20] Hashimoto Y, Michihata N, Yamana H, et al.
+Ophthalmic corticosteroids in pregnant women with
+allergic conjunctivitis and adverse neonatal out￾comes: propensity score analyses. Am J Ophthalmol.
+2020;220:91–101.
+[21] Novartis Pharmaceuticals Corporation. Xiidra (lifite￾grast ophthalmic solution) full prescribing informa￾tion. 2020.
+[22] Allergan, Inc. Restasis (cyclosporine ophthalmic
+emulsion) 0.05% full prescribing information. 2017.
+[23] Sun Pharmaceutical Industries, Inc. Cequa (cyclospor￾ine ophthalmic solution) 0.09% full prescribing infor￾mation. 2018.
+[24] Wladis EJ, Bradley EA, Bilyk JR, et al. Oral antibiotics
+for meibomian gland-related ocular surface disease:
+a report by the American academy of ophthalmol￾ogy. Ophthalmology. 2016;123(3):492–496.
+[25] Sandman Z, Iqbal OA. Azithromycin. Treasure Island,
+FL: StatPearls Publishing; 2022. https://www.ncbi.
+nlm.nih.gov/books/NBK557766/?report=printable
+[26] Ovetchkine P, Rieder MJ, Canadian Paediatric
+Society, Drug Therapy and Hazardous Substances
+Committee Azithromycin use in paediatrics: a prac￾tical overview. Paediatr Child Health. 2013;18(6):
+311–316.
+[27] Sarkar M, Woodland C, Koren G, et al. Pregnancy
+outcome following gestational exposure to azithro￾mycin. BMC Pregnancy Childbirth. 2006;6(1):18.
+[28] Bookstaver PB, Bland CM, Griffin B, et al. A review of
+antibiotic use in pregnancy. Pharmacotherapy. 2015;
+35(11):1052–1062.
+[29] Nazarian S, Akhondi H. Minocycline. Treasure Island,
+FL: StatPearls Publishing; 2022, https://www.ncbi.
+nlm.nih.gov/books/NBK554519/?report=printable
+[30] Patel RS, Parmar M. Doxycycline hyclate. Treasure
+Island, FL: StatPearls Publishing; 2022, https://www.
+ncbi.nlm.nih.gov/books/NBK555888/?report=
+printable
+[31] de Ferranti SD, Milliren CE, Denhoff ER, et al. Using
+high-dose omega-3 fatty acid supplements to lower
+triglyceride levels in 10- to 19-year-olds. Clin Pediatr.
+2014;53(5):428–438.
+[32] Dunstan JA, Simmer K, Dixon G, et al. Cognitive
+assessment of children at age 2(1/2) years after
+maternal fish oil supplementation in pregnancy: a
+randomised controlled trial. Arch Dis Child Fetal
+Neonatal Ed. 2008;93(1):F45–50.
+[33] Blades K, Patel S, Aidoo K. Oral antioxidant therapy
+for marginal dry eye. Eur J Clin Nutr. 2001;55(7):
+589–597.
+[34] Harvie M. Nutritional supplements and cancer:
+potential benefits and proven harms. Am Soc Clin
+Oncol Educ Book. 2014:e478–e486.
+[35] Sencer SF, Kelly KM. Complementary and alternative
+therapies in pediatric oncology. Pediatr Clin North
+Am. 2007;54(6):1043–1060; xiii.
+[36] Chung Y, Dumont RC. Complementary and alterna￾tive therapies: use in pediatric pulmonary medicine.
+Pediatr Pulmonol. 2011;46(6):530–544.
+[37] Rumbold A, Duley L, Crowther CA, et al.
+Antioxidants for preventing pre-eclampsia. Cochrane
+Database Syst Rev. 2008;2008(1):CD004227.
+[38] Stonecipher K, Komm C, Potvin R. Low level light
+therapy as an adjunct treatment for meibomian
+gland dysfunction. Act Sci Oph. 2020;3(11):13–18.
+[39] Kent C. Devices for treating the meibomian glands.
+Rev Ophthalmol. https://www.reviewofophthalmol￾ogy.com/article/devices-for-treating-the-meibomian￾glands
+[40] Conforming punctum plug granted FDA approval.
+Ocular Surgery News. 2022. https://www.healio.com/
+news/ophthalmology/20120331/conforming-punc￾tum-plug-granted-fda-approval
+[41] FDA approves Lacrivera punctum plug. Primary Care
+Optometry News. 2022. https://www.healio.com/
+news/optometry/20141211/fda-approves-lacrivera￾punctum-plug#: :text=Lacrivera%20received%20U.
+S.%20Food%20and,sterile%2C%20disposable%
+20inserter%2Fdilator
+[42] Best AL, Labetoulle M, Legrand M, et al. Punctal and
+canalicular plugs: indications, efficacy and safety. J
+Fr Ophtalmol. 2019;42(4):404–414.
+[43] Villani E, Nucci P. Pediatric dry eye. Am Acad
+Ophthalmol. https://www.aao.org/disease-review/
+pediatric-dry-eye.
+[44] Blackie CA, Coleman CA, Holland EJ. The sustained
+effect (12 months) of a single-dose vectored thermal
+pulsation procedure for meibomian gland dysfunc￾tion and evaporative dry eye. Clin Ophthalmol. 2016;
+10:1385–1396.
+[45] 501(k) summary: LipiflowVR Thermal Pulsation
+System. 2016.
+[46] Summary of important safety information for the
+LipiflowVR Thermal Pulsation System. Johnson &
+Johnson Vision. 2022. https://www.jnjvisionpro.com/
+important-safety-information#tab-2.
+[47] Kassir R, Kolluru A, Kassir M. Intense pulsed light for
+the treatment of rosacea and telangiectasias. J
+Cosmet Laser Ther. 2011;13(5):216–222.
+[48] Liu R, Rong B, Tu P, et al. Analysis of cytokine levels
+in tears and clinical correlations after intense pulsed
+light treating meibomian gland dysfunction. Am J
+Ophthalmol. 2017;183:81–90.
+[49] D H. FDA approves IPL device to manage dry eye
+disease. 2022. https://www.ophthalmologytimes.
+com/view/fda-approves-ipl-device-to-manage-dry￾eye-disease
+[50] Yin Y, Liu N, Gong L, et al. Changes in the meibo￾mian gland after exposure to intense pulsed light in
+ANNALS OF MEDICINE 249
+meibomian gland dysfunction (MGD) patients. Curr
+Eye Res. 2018;43(3):308–313.
+[51] Cote S, Zhang AC, Ahmadzai V, et al. Intense pulsed
+light (IPL) therapy for the treatment of meibomian
+gland dysfunction. Cochrane Database Syst Rev.
+2020;3(3):CD013559.
+[52] Markoulli M, Chandramohan N, Papas EB.
+Photobiomodulation (low-level light therapy) and
+dry eye disease. Clin Exp Optom. 2021;104(5):
+561–566.
+[53] Toyos R. The effects of a red light technology on dry
+eye due to meibomian gland dysfunction. Invest
+Ophthalmol Vis Sci. 2017;58(8):2236.
+[54] Choi MB, Stein R. Lid hygiene versus lid hygiene
+plus microblepharoexfoliation for the treatment of
+demodex folliculorum blepharitis. Acta Sci
+Ophthalmol. 2020;3(9):29–35.
+[55] Bowden FW. A review of meibomian gland dysfun￾tion as presented at dry eye university. JDED. 2020;
+3(SP1).
+[56] Epstein IJ, Rosenberg E, Stuber R, et al. Double￾masked and unmasked prospective study of terpi￾nen-4-ol lid scrubs with microblepharoexfoliation for
+the treatment of demodex blepharitis. Cornea. 2020;
+39(4):408–416.
+[57] How BlephExVR Works. BlephEx.com. 2022. https://
+blephex.com/patients/index.php/how-does-blephex￾work.html
+[58] Loh J. Reviewing in-office dry eye disease treat￾ments: a look at what is available, and their specific
+benefits. Corneal Physician. 2021;25:30–33.
+[59] Matsumoto Y, Dogru M, Goto E, et al. Efficacy of a
+new warm moist air device on tear functions of
+patients with simple meibomian gland dysfunction.
+Cornea. 2006;25(6):644–650.
+[60] Korb DR, Blackie CA. Using goggles to increase peri￾ocular humidity and reduce dry eye symptoms. Eye
+Contact Lens. 2013;39(4):273–276.
+[61] BlephasteamVR . Thea. 2022. https://www.thea-phar￾maceuticals.co.uk/products/blephasteam
+[62] Magno MS, Olafsson J, Beining M, et al. Chambered
+warm moist air eyelid warming devices - a review.
+Acta Ophthalmol. 2022;100:499–510.
+[63] Geerling G, Tauber J, Baudouin C, et al. The inter￾national workshop on meibomian gland dysfunction:
+report of the subcommittee on management and
+treatment of meibomian gland dysfunction. Invest
+Ophthalmol Vis Sci. 2011;52(4):2050–2064.
+[64] Digital Heat Corporation heated eye pad ophthalmic
+warmer medical device identification. Food and
+Drug Administration. 2022. https://fda.report/GUDID/
+B172HEP10
+[65] Solomon JD, Case CL, Greiner JV, et al. Warm com￾press induced visual degradation and Fischer￾Schweitzer polygonal reflex. Optom Vis Sci. 2007;
+84(7):580–587.
+[66] Schanzlin D, Olkowski J, Coble J, et al. Efficacy of
+self-administration of a personal mechanical eyelid
+device for the treatment of dry eye disease, blephar￾itis and meibomian gland disease. JDED. 2020;3(1):
+e1–e5.
+[67] US Food and Drug Administration. Marketing
+approval for iTearVR 100 NeurostimulatorTM. 2022.
+https://www.accessdata.fda.gov/cdrh_docs/pdf21/
+K213623.pdf
+[68] Ji MH, Moshfeghi DM, Periman L, et al. Novel extra￾nasal tear stimulation: pivotal study results. Transl
+Vis Sci Technol. 2020;9(12):23.
+[69] Inc. OO. iTearVR 100 patient brochure. 2022. https://
+olympicophthalmics.com/itear-100/.
+[70] Inc. OO. Patient guide for the iTearVR 100
+NeurostimulatorTM. 2022. https://olympicophthal￾mics.com/itear-100/
+[71] Shen Lee B, Kabat AG, Bacharach J, et al. Managing
+dry eye disease and facilitating realistic patient
+expectations: a review and appraisal of current
+therapies. Clin Ophthalmol. 2020;14:119–126.
+[72] Gomes JAP, Azar DT, Baudouin C, et al. TFOS DEWS
+II iatrogenic report. Ocul Surf. 2017;15(3):511–538.
+[73] Leung EW, Medeiros FA, Weinreb RN. Prevalence of
+ocular surface disease in glaucoma patients. J
+Glaucoma. 2008;17(5):350–355.
+[74] Erb C, Gast U, Schremmer D. German register for
+glaucoma patients with dry eye. I. Basic outcome
+with respect to dry eye. Graefes Arch Clin Exp
+Ophthalmol. 2008;246(11):1593–1601.
+[75] Zheng L, Yu MD, Ta C. Comparative in vitro toxicity
+of artificial tears. JSM Ophthalmol. 2015;3(1):1026.
+[76] Mocan MC, Uzunosmanoglu E, Kocabeyoglu S, et al.
+The association of chronic topical prostaglandin ana￾log use with meibomian gland dysfunction. J
+Glaucoma. 2016;25(9):770–774.
+[77] Ha JY, Sung MS, Park SW. Effects of preservative on
+the meibomian gland in glaucoma patients treated
+with prostaglandin analogues. Chonnam Med J.
+2019;55(3):156–162.
+[78] LatisseVR (bimatoprost opthalmic solution) 0.03%. Full
+prescribing information. Allergan, Inc. 2012.
+[79] He B, Iovieno A, Etminan M, et al. Effects of hormo￾nal contraceptives on dry eye disease: a population￾based study. Eye. 2022;36(3):634–638.
+[80] Chia EM, Mitchell P, Rochtchina E, et al. Prevalence
+and associations of dry eye syndrome in an older
+population: the blue mountains eye study. Clin Exp
+Ophthalmol. 2003;31(3):229–232.
+[81] Schein OD, Hochberg MC, Munoz B, et al. Dry eye ~
+and dry mouth in the elderly. Arch Intern Med.
+1999;159(12):1359–1363.
+[82] Kocer E, Kocer A, Ozsutcu M, et al. Dry eye related
+to commonly used new antidepressants. J Clin
+Psychopharmacol. 2015;35(4):411–413. Aug
+[83] Rakofsky JJ, Rakofsky SI, Dunlop BW. Dry those cry￾ing eyes: the role of depression and antidepressants
+in dry eye disease. J Clin Psychopharmacol. 2021;
+41(3):295–303.
+[84] Wong J, Lan W, Ong LM, et al. Non-hormonal sys￾temic medications and dry eye. Ocul Surf. 2011;9(4):
+212–226.
+[85] Chhadva P, Lee T, Sarantopoulos CD, et al. Human
+tear serotonin levels correlate with symptoms and
+signs of dry eye. Ophthalmology. 2015;122(8):
+1675–1680.
+250 J. SHEPPARD ET AL.
+[86] Zhang X, Yin Y, Yue L, et al. Selective serotonin
+reuptake inhibitors aggravate depression-associated
+dry eye via activating the NF-kappaB pathway.
+Invest Ophthalmol Vis Sci. 2019;60(1):407–419.
+[87] Li M, Gong L, Sun X, et al. Anxiety and depression in
+patients with dry eye syndrome. Curr Eye Res. 2011;
+36(1):1–7.
+[88] Ayaki M, Kawashima M, Negishi K, et al. High preva￾lence of sleep and mood disorders in dry eye
+patients: survey of 1,000 eye clinic visitors.
+Neuropsychiatr Dis Treat. 2015;11:889–894.
+[89] Wang TJ, Wang IJ, Hu CC, et al. Comorbidities of dry
+eye disease: a nationwide population-based study.
+Acta Ophthalmol. 2012;90(7):663–668.
+[90] Achtsidis V, Eleftheriadou I, Kozanidou E, et al. Dry
+eye syndrome in subjects with diabetes and associ￾ation with neuropathy. Diabetes Care. 2014;37(10):
+e210-1–e211.
+[91] Misra SL, Patel DV, McGhee CN, et al. Peripheral
+neuropathy and tear film dysfunction in type 1 dia￾betes mellitus. J Diabetes Res. 2014;2014:848659.
+[92] Versura P, Giannaccare G, Pellegrini M, et al.
+Neurotrophic keratitis: current challenges and future
+prospects. Eye Brain. 2018;10:37–45.
+[93] DeMill DL, Hussain M, Pop-Busui R, et al. Ocular sur￾face disease in patients with diabetic peripheral
+neuropathy. Br J Ophthalmol. 2016;100(7):924–928.
+[94] Schargus M, Wolf F, Tony HP, et al. Correlation
+between tear film osmolarity, dry eye disease, and
+rheumatoid arthritis. Cornea. 2014;33(12):1257–1261.
+[95] Punjabi OS, Adyanthaya RS, Mhatre AD, et al.
+Rheumatoid arthritis is a risk factor for dry eye in
+the indian population. Ophthalmic Epidemiol. 2006;
+13(6):379–384.
+[96] Resch MD, Marsovszky L, Nemeth J, et al. Dry eye
+and corneal langerhans cells in systemic lupus eryth￾ematosus. J Ophthalmol. 2015;2015:543835.
+[97] Wang L, Xie Y, Deng Y. Prevalence of dry eye in
+patients with systemic lupus erythematosus: a meta￾analysis. BMJ Open. 2021;11(9):e047081.
+[98] Colebatch AN, Marks JL, Edwards CJ. Safety of non￾steroidal anti-inflammatory drugs, including aspirin
+and paracetamol (acetaminophen) in people receiv￾ing methotrexate for inflammatory arthritis (rheuma￾toid arthritis, ankylosing spondylitis, psoriatic
+arthritis, other spondyloarthritis). Cochrane Database
+Syst Rev. 2011;11:CD008872.
+[99] Singh JA, Saag KG, Bridges SL, Jr., et al. 2015
+American college of rheumatology guideline for the
+treatment of rheumatoid arthritis. Arthritis
+Rheumatol. 2016;68(1):1–26.
+[100] Fraunfelder FT, Sciubba JJ, Mathers WD. The role of
+medications in causing dry eye. J Ophthalmol. 2012;
+2012:285851.
+[101] Rodriguez-Pomar C, Pintor J, Colligris B, et al.
+Therapeutic inhibitors for the treatment of dry eye
+syndrome. Expert Opin Pharmacother. 2017;18(17):
+1855–1865.
+[102] Palamar M, Degirmenci C, Ertam I, et al. Evaluation
+of dry eye and meibomian gland dysfunction with
+meibography in patients with rosacea. Cornea. 2015;
+34(5):497–499.
+[103] Karaman Erdur S, Eliacik M, Kocabora MS, et al. Tear
+osmolarity and tear film parameters in patients with
+ocular rosacea. Eye Contact Lens. 2016;42(6):
+347–349.
+[104] Aslan Bayhan S, Bayhan HA, Colgecen E, et al.
+Effects of topical acne treatment on the ocular sur￾face in patients with acne vulgaris. Cont Lens
+Anterior Eye. 2016;39(6):431–434.
+[105] Ruiz-Lozano RE, Hernandez-Camarena JC, Garza￾Garza LA, et al. Isotretinoin and the eye: a review for
+the dermatologist. Dermatol Ther. 2020;33(6):e14029.
+[106] Mathers WD, Shields WJ, Sachdev MS, et al.
+Meibomian gland morphology and tear osmolarity:
+changes with accutane therapy. Cornea. 1991;10(4):
+286–290.
+[107] Moy A, McNamara NA, Lin MC. Effects of isotretinoin
+on meibomian glands. Optom Vis Sci. 2015;92(9):
+925–930.
+[108] de Queiroga IBW, Vieira LA, de Nadai Barros J, et al.
+Conjunctival impression cytology changes induced
+by oral isotretinoin. Cornea. 2009;28(9):1009–1013.
+[109] Karalezli A, Borazan M, Altinors DD, et al.
+Conjunctival impression cytology, ocular surface, and
+tear-film changes in patients treated with systemic
+isotretinoin. Cornea. 2009;28(1):46–50.
+[110] Fouladgar N, Khabazkhoob M, Hanifnia AR, et al.
+Evaluation of the effects of isotretinoin for treatment
+of acne on corneal sensitivity. J Curr Ophthalmol.
+2018;30(4):326–329.
+[111] Schaumberg DA, Buring JE, Sullivan DA, et al.
+Hormone replacement therapy and dry eye syn￾drome. JAMA. 2001;286(17):2114–2119.
+[112] Davison SL, Bell R, Donath S, et al. Androgen levels
+in adult females: changes with age, menopause, and
+oophorectomy. J Clin Endocrinol Metab. 2005;90(7):
+3847–3853.
+[113] Gagliano C, Caruso S, Napolitano G, et al. Low levels
+of 17-beta-oestradiol, oestrone and testosterone cor￾relate with severe evaporative dysfunctional tear
+syndrome in postmenopausal women: a case-control
+study. Br J Ophthalmol. 2014;98(3):371–376.
+[114] Peck T, Olsakovsky L, Aggarwal S. Dry eye syndrome
+in menopause and perimenopausal age group. J
+Midlife Health. 2017;8(2):51–54.
+[115] Zimmerman Y, Eijkemans MJ, Coelingh Bennink HJ,
+et al. The effect of combined oral contraception on
+testosterone levels in healthy women: a systematic
+review and meta-analysis. Hum Reprod Update.
+2014;20(1):76–105.
+[116] Chen L, Pi L, Fang J, et al. High incidence of dry eye
+in young children with allergic conjunctivitis in
+southwest China. Acta Ophthalmol. 2016;94(8):
+e727–e730.
+[117] Dana R, Bradley JL, Guerin A, et al. Estimated preva￾lence and incidence of dry eye disease based on
+coding analysis of a large, all-age United States
+health care system. Am J Ophthalmol. 2019;202:
+47–54.
+[118] Gupta PK, Stevens MN, Kashyap N, et al. Prevalence
+of meibomian gland atrophy in a pediatric popula￾tion. Cornea. 2018;37(4):426–430.
+ANNALS OF MEDICINE 251
+[119] Cimaz R, Casadei A, Rose C, et al. Primary sjogren
+syndrome in the paediatric age: a multicentre sur￾vey. Eur J Pediatr. 2003;162(10):661–665.
+[120] Mac Cord Medina F, Silvestre de Castro R, Leite SC,
+et al. Management of dry eye related to systemic
+diseases in childhood and longterm follow-up. Acta
+Ophthalmol Scand. 2007;85(7):739–744.
+[121] Uchino M, Dogru M, Uchino Y, et al. Japan ministry
+of health study on prevalence of dry eye disease
+among japanese high school students. Am J
+Ophthalmol. 2008;146(6):925–929 e2.
+[122] Chamaillard M, Mortemousque B, Boralevi F, et al.
+Cutaneous and ocular signs of childhood rosacea.
+Arch Dermatol. 2008;144(2):167–171.
+[123] Liang L, Safran S, Gao Y, et al. Ocular demodicosis as
+a potential cause of pediatric blepharoconjunctivitis.
+Cornea. 2010;29(12):1386–1391.
+[124] El-Shazly AA, Mohamed AA. Relation of dry eye to
+disease activity in juvenile rheumatoid arthritis. Eur J
+Ophthalmol. 2012;22(3):330–334.
+[125] Bhargava R, Kumar P, Phogat H, et al. Oral omega-3
+fatty acids treatment in computer vision syndrome
+related dry eye. Cont Lens Anterior Eye. 2015;38(3):
+206–210.
+[126] Kurtul BE, Ozer PA, Aydinli MS. The association of
+vitamin D deficiency with tear break-up time and
+schirmer testing in non-Sjogren dry eye. Eye. 2015;
+29(8):1081–1084.
+[127] Alanazi SA, El-Hiti GA, Al-Baloud AA, et al. Effects of
+short-term oral vitamin a supplementation on the
+ocular tear film in patients with dry eye. Clin
+Ophthalmol. 2019;13:599–604.
+[128] Kocamis¸ O, Temel E, As € ¸ikgarip N, et al. Electronic
+device screen time and meibomian gland morph￾ology in children. J Ophthalmic Vis
+Res.;16(4):531–537.
+[129] Moon JH, Kim KW, Moon NJ. Smartphone use is a
+risk factor for pediatric dry eye disease according to
+region and age: a case control study. BMC
+Ophthalmol. 2016;16(1):188.
+252 J. SHEPPARD ET AL.

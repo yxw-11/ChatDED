@@ -1,0 +1,971 @@
+Systemic Conditions Associated with Severity of Dry Eye Signs 
+and Symptoms in the Dry Eye Assessment and Management 
+(DREAM) Study
+Kimberley Yu, BA1, Vatinee Bunya, MD MSCE2, Maureen Maguire, PhD2, Penny Asbell, MD3, 
+Gui-Shuang Ying, PhD2, DREAM Study Research Group
+1Perelman School of Medicine at the University of Pennsylvania, Philadelphia, Pennsylvania
+2Department of Ophthalmology, Perelman School of Medicine, University of Pennsylvania, 
+Philadelphia, Pennsylvania
+3Department of Ophthalmology, University of Tennessee Health Science Center, Memphis, 
+Tennessee
+Abstract
+OBJECTIVE: Certain systemic conditions are reported to be risk factors for dry eye disease 
+(DED), but their associations with DED severity are not well-studied. We evaluated whether 
+systemic conditions reported to be DED risk factors are associated with severity of DED signs and 
+symptoms.
+DESIGN: Secondary analysis of data from the DREAM Study, a large-scale multi-center 
+randomized clinical trial of patients with moderate-to-severe DED.
+SUBJECTS: 535 adult patients with moderate-to-severe DED from 27 US centers.
+METHODS: Patients reported their medical history at baseline. They underwent ocular surface 
+exams and symptom evaluation using standardized protocols at baseline, 6 months, and 12 
+months. We analyzed the associations of systemic conditions (a systemic disease or smoking 
+history) reported as potential DED risk factors with the severity of DED signs and symptoms 
+using generalized linear regression models adjusted by age, sex, race, and visit. To be included, 
+conditions had at least 25 patients.
+MAIN OUTCOME MEASURES: DED symptoms assessed using the Ocular Surface Disease 
+Index (OSDI), six DED signs (tear break-up time, anesthetized Schirmer testing, corneal 
+Corresponding Author: Gui-shuang Ying, Ph.D., 3711 Market Street, Suite 801, Philadelphia, PA 19104, Tel: 215-615-1514, Fax: 
+215-615-1531, gsying@pennmedicine.upenn.edu. 
+Publisher's Disclaimer: This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our 
+customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review 
+of the resulting proof before it is published in its final form. Please note that during the production process errors may be discovered 
+which could affect the content, and all legal disclaimers that apply to the journal pertain.
+This article contains additional online-only material. The following should appear online-only: Supplemental Tables 1, 2, 3, 4, 5, and 
+DREAM Study Research Group Credit Roster.
+Conflict of Interest: No conflicting relationship exists for any author.
+Meeting Presentation: Accepted to the American Society of Cataract and Refractive Surgery Annual Meeting 2021 (Las Vegas) and 
+the Association for Research in Vision and Ophthalmology Annual Meeting 2021 (Virtual)
+HHS Public Access
+Author manuscript
+Ophthalmology. Author manuscript; available in PMC 2022 October 01.
+Published in final edited form as:
+Ophthalmology. 2021 October ; 128(10): 1384–1392. doi:10.1016/j.ophtha.2021.03.030.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+fluorescein staining, conjunctival lissamine green staining, tear osmolarity, and meibomian gland 
+dysfunction), and a composite signs severity score with range 0-1 (1 most severe) calculated from 
+the six DED signs.
+RESULTS: The mean±SD age was 58±13.2 years, and 81% were female. More severe DED signs 
+were significantly associated with Sjögren’s syndrome (mean±SD of composite signs severity 
+score: 0.52±0.17 with disease vs. 0.43±0.13 without disease, p<0.001), facial rosacea (0.47±0.13 
+vs. 0.43±0.13, p=0.002), rheumatoid arthritis (0.47±0.14 vs. 0.42±0.12, p=0.002), peripheral 
+artery disease (0.50±0.14 vs. 0.43±0.13, p<0.001), and daily smoking history (0.45±0.13 vs. 
+0.43±0.13, p=0.047). Thyroid dysfunction, osteoarthritis, diabetes, irritable bowel syndrome, 
+hypercholesterolemia, hypertension, and hypertriglyceridemia were not significantly associated 
+with DED signs. No conditions were significantly associated with OSDI.
+CONCLUSION: In this large, well-characterized cohort of DED patients assessed under 
+standardized procedures, patients with certain systemic diseases and smoking had more severe 
+DED signs compared to patients without the condition. The profile of significant DED signs varied 
+by systemic condition, reflecting different DED etiologies. Understanding the systemic conditions 
+and underlying etiologies that predispose some patients to severe DED can improve management.
+Keywords
+Dry Eye Risk Factors; Dry Eye Syndromes; Keratoconjunctivitis Sicca; Peripheral Artery Disease; 
+Rheumatoid Arthritis; Rosacea; Smoking; Thyroid Dysfunction
+INTRODUCTION
+Dry eye disease (DED) is a common chronic, inflammatory, multifactorial disease of the 
+tears and ocular surface causing ocular discomfort, fatigue, and visual disturbances.1, 2 
+The disease is associated with a substantial negative impact on quality of life, such as 
+interference with reading, computer use, and driving, and is estimated to cost the U.S. 
+economy more than $55 billion annually.3-7
+ DED prevalence is estimated at 8.7-30.1% of 
+adults in the United States, with higher rates among women and with increasing age.2
+DED is often characterized as aqueous tear deficient and/or evaporative.1
+ Aqueous tear 
+deficiency results from decreased aqueous tear production, such as seen in Sjögren’s 
+syndrome (SS). Evaporative dry eye results from any condition that increases the 
+evaporation rate of tears, such as meibomian gland dysfunction (MGD). Many patients 
+have components of both aqueous tear deficient and evaporative dry eye; irrespective of 
+etiology, DED is also characterized by ocular surface inflammation that further exacerbates 
+the disease.8, 9
+ This produces classic symptoms such as chronic eye pain, eye irritation, 
+foreign body sensation, fluctuating vision, burning, and/or stinging.1, 2
+ Patients also exhibit 
+various signs of dry eye including decreased aqueous tear production, decreased tear break￾up time, ocular surface staining with vital dyes such as fluorescein and lissamine green, tear 
+hyperosmolarity, and evidence of MGD as demonstrated by plugging or lid secretions.1, 9-11
+Risk factors for the prevalence of DED in population studies include demographic 
+characteristics, systemic diseases, environmental conditions, and medications. The 2017 
+Dry Eye Workshop (DEWS II) Epidemiology subcommittee classified risk factors into 
+Yu et al. Page 2
+Ophthalmology. Author manuscript; available in PMC 2022 October 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+consistent, probable, and inconclusive based on evidence from at least one adequately 
+powered study, a plausible biological rationale, and corroborating basic research or clinical 
+data.2
+ Consistent risk factors for the prevalence of DED include increased age,12–16 
+female sex,4, 12, 13, 16, 17 Asian race,13,16 MGD,18 connective tissue diseases such 
+as rheumatoid arthritis (RA),4, 12–14, 16, 19, 20 and SS.13, 21 Probable factors include 
+diabetes,12, 13, 16, 19, 22–24 rosacea,13, 16, 22, 25, 26 and thyroid disease.4, 12, 13, 16, 19, 20 
+Inconclusive factors include smoking.12, 15, 16, 27–31 In addition, other risk factors for dry 
+eye that have been reported in the literature but were not mentioned in the DEWS II report 
+include osteoarthritis,12, 14, 16, 20 peripheral artery disease,19 dyslipidemias,12, 16, 19, 20, 32–34 
+hypertension,16, 17, 35 and irritable bowel syndrome.14, 36
+While risk factors for DED prevalence have been investigated in many studies, there are few 
+large studies evaluating the association of systemic diseases with DED severity. The Dry 
+Eye Assessment and Management (DREAM) study was a large, multi-center randomized 
+clinical trial to assess the efficacy and safety of an oral omega-3 supplement for the 
+treatment of dry eye. As part of the study, DREAM participants provided information about 
+their medical history and underwent ocular surface exams using standardized protocols. We 
+used the well-characterized DREAM study cohort to determine whether systemic conditions 
+reported as risk factors for DED prevalence are associated with the severity of DED signs 
+and symptoms.
+PATIENTS AND METHODS
+Study patients
+The DREAM study (NCT02128763), funded by the National Eye Institute, National 
+Institutes of Health, enrolled 535 adult patients with DED from 27 centers in the United 
+States.37 Patients were randomized 2:1 to an active oral omega-3 fatty acid supplement 
+group (2000 mg EPA and 1000 mg DHA per day) or a placebo group (refined olive oil). 
+The study was approved by the Institutional Review Board/Ethics Committee, followed 
+the tenets of the Declaration of Helsinki, and obtained written informed consent from all 
+patients.
+The DREAM study was designed to include a broad spectrum of patients with symptomatic 
+moderate-to-severe DED. Major eligibility criteria were age ≥18 years, reported dry eye￾related ocular symptoms for at least 6 months before the screening visit, use or desire to 
+use artificial tears on average of at least 2 times per day in the 2 weeks preceding the 
+screening visit, and a score on the Ocular Surface Disease Index (OSDI) of 25 to 80 at the 
+screening visit and of 21 to 80 at the baseline visit. Patients also had to satisfy at least 2 of 
+the following 4 criteria for dry eye signs in the same eye at screening and baseline visits: 1) 
+conjunctival lissamine green staining score ≥1 (on a scale of 0 to 6); 2) corneal fluorescein 
+staining score ≥4 (on a scale of 0 to 15); 3) tear film break up time (TBUT) ≤7 seconds; and 
+4) anesthetized Schirmer’s test ≥1 to ≤7 mm/5min. Patients that were unwilling to commit 
+to no use of contact lenses for the duration of the study and within the last 30 days prior to 
+the Screening Visit, as well as patients that used EPA/DHA supplements in excess of 1200 
+mg/day, were excluded from the study. Full details on inclusion and exclusion criteria can be 
+found in the DREAM study protocol.37
+Yu et al. Page 3
+Ophthalmology. Author manuscript; available in PMC 2022 October 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+At the screening visit, patients were asked about their medical history for 58 systemic or 
+extraocular diagnoses as told to them by a doctor or other health professional within the past 
+two years. Possible answers were no history, past history, or ongoing disease. At each visit, 
+a clinician evaluated patients for the presence or absence of facial rosacea. At the baseline 
+visit, patients were asked whether they had ever smoked cigarettes on a daily basis, and if so, 
+for how many years and whether they currently smoke.
+Outcome measures
+The outcome measures were dry eye symptoms using the OSDI, six dry eye signs (TBUT, 
+Schirmer testing with anesthesia, corneal fluorescein staining, conjunctival lissamine green 
+staining, tear osmolarity, and MGD), and a composite signs severity score. These were 
+measured at baseline, 6 months, and 12 months.
+Scores on the 12-item OSDI range from 0 to 100, with a score of 0 indicating no ocular 
+symptoms and higher scores indicating greater symptom severity. The minimal clinically 
+meaningful change in score for an individual is 10 points.38, 39 Dry eye signs are measured 
+per eye. The TBUT measures time (in seconds) from a blink to the appearance of gaps in 
+the tear film, with shorter times indicating greater tear film instability. The average of 3 
+repeated TBUT measurements was used. The Schirmer’s test measures the length of wetting 
+of paper strips placed in the inferior cul de sac of the lower eyelid in mm/5 minutes, with 
+shorter lengths indicating less tear production. Corneal fluorescein staining and conjunctival 
+lissamine green staining evaluate ocular surface damage. Corneal staining was assessed 
+using the NEI scale whereby five areas of the cornea are graded 0 to 3, for a total possible 
+score of 0 to 15 per eye.40 Conjunctival staining was assessed on a scale of 0 to 3 in 
+the nasal and temporal areas for a total possible score of 0 to 6 per eye. Tear osmolarity 
+measures the concentration of solutes in the tear film on a scale of 275 to 400 mOsm/L. 
+Patients (N=405) who enrolled at centers with a TearLab™ Osmolarity System (San Diego, 
+California) had tear osmolarity measured. MGD was evaluated for plugging and lid secretion 
+on a scale of 0 to 3 using the TearScience Meibomian Gland Evaluator™ at slit lamp. The 
+average of the scores for plugging and lid secretion was used. For corneal and conjunctival 
+staining, tear osmolarity, and MGD, higher scores indicate greater abnormality.
+A composite severity score for the six dry eye signs was computed using an adapted method 
+from past studies.41–43 Each of the six signs was transformed to a common unit severity 
+score from 0 to 1, where 0 indicates no DED and 1 indicates the most severe DED, 
+according to the discrete severity grading system of the DEWS report1
+ (Supplemental Table 
+1, available at http://www.aaojournal.org). Scores between the quartile points were linearly 
+interpolated. A composite signs severity score was calculated per eye by taking the mean 
+of the severity scores of the six independent signs. The composite score did not include 
+osmolarity for patients without osmolarity score measurements (N=130).
+Statistical analysis
+We evaluated whether the presence of a systemic condition (a systemic disease or daily 
+smoking history) is associated with the severity of dry eye signs and symptoms using 
+multivariate generalized linear regression models. Models were adjusted by age, sex, 
+Yu et al. Page 4
+Ophthalmology. Author manuscript; available in PMC 2022 October 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+and race since these variables were significantly associated with the outcome measures 
+(Supplemental Table 2, available at http://www.aaojournal.org) and are consistent DED risk 
+factors according to the DEWS II report.2
+ We conducted a combined analysis of three visits 
+(baseline, 6 months, and 12 months) for greater power, as well as separate analyses for each 
+visit to confirm consistency of associations across time points. For the combined analysis, 
+we adjusted by visit (baseline, 6 months, and 12 months) since mean OSDI and some 
+DED signs decreased significantly over the course of the DREAM study.44 We used the 
+generalized estimating equations (GEE) approach to account for both inter-visit correlations 
+within the same eye and inter-eye correlations within the same subject,45 performed using 
+the R package geepack version 1.3-1.46 Two-sided p<0.05 was considered to be statistically 
+significant.
+Our criteria to analyze a systemic condition were: 1) at least one prior study reporting 
+the condition as a risk factor for DED; and 2) a minimum of 25 subjects with ongoing 
+disease (or daily smoking history). For the RA analysis, we excluded 52 patients with SS 
+meeting the 2012 American College of Rheumatology (ACR) criteria47 and 27 patients 
+with indeterminate SS status, because RA can cause secondary SS. SS status was identified 
+via self-report and SS antibody profile, using the method described previously by Bunya 
+et al.48 For the analysis of each systemic disease, patients with only a past history were 
+excluded. Because the DREAM study found no significant difference in dry eye symptoms 
+and signs between the active treatment and placebo groups,44 we combined patients in the 
+two treatment groups for statistical analysis.
+RESULTS
+Baseline characteristics
+The baseline characteristics of the 535 study patients satisfying criteria for moderate-to￾severe DED are summarized in Table 1. The mean±SD age was 58±13.2 years, with 
+the majority of participants being female (81%) and white (74%). The mean±SD for 
+OSDI score was 42.1±15.5. The mean±SD for dry eye signs was 3.1±1.8 seconds for 
+TBUT, 9.6±7.0 mm/5min for Schirmer testing, 3.8±3.0 for corneal fluorescein staining, 
+2.9±1.5 for conjunctival lissamine green staining, 302.7±16.2 mOsm/L for tear osmolarity, 
+1.54±0.92 for MGD, and 0.46±0.12 for the composite signs severity score. Mean OSDI 
+decreased to 32.2±19.1 at 6 months and 30.5±18.6 at 12 months. The number of patients 
+who reported ongoing disease at enrollment was 109 (20.4%) for rosacea, 47 (8.8%) for 
+RA, 47 (8.8%) for peripheral artery disease, 94 (17.6%) for thyroid dysfunction, 134 
+(25.0%) for osteoarthritis, 57 (10.7%) for diabetes, 44 (8.2%) for irritable bowel syndrome, 
+171 (32.0%) for hypercholesterolemia, 149 (27.9%) for hypertension, and 25 (4.7%) for 
+hypertriglyceridemia. 168 (31.4%) patients reported ever smoking cigarettes daily, and of 
+those, 26 (4.9%) currently smoke. Fifty-two patients (9.7%) satisfied the 2012 ACR criteria 
+for SS. Of the 47 RA patients, 9 also met 2012 ACR criteria for SS and were excluded from 
+subsequent RA analyses.
+Older age and female sex were significantly associated with more severe scores for 
+Schirmer testing, corneal fluorescein staining, and the composite signs severity score 
+(Supplemental Table 2, available at http://www.aaojournal.org). Female sex was also 
+Yu et al. Page 5
+Ophthalmology. Author manuscript; available in PMC 2022 October 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+significantly associated with more severe conjunctival lissamine green staining. The mean 
+score for OSDI, TBUT, Schirmer testing, corneal staining, and conjunctival staining varied 
+significantly by race with different racial groups having more severe scores depending on the 
+DED characteristic.
+Association of systemic conditions with dry eye signs
+In the combined analysis of all time points (baseline, 6 months, and 12 months), five 
+systemic conditions were significantly associated with a higher composite signs severity 
+score after adjustment for age, sex, race, and visit: SS (mean±SD: 0.52±0.17 with disease 
+vs. 0.43±0.13 without disease, p<0.001), rosacea (0.47±0.13 vs. 0.43±0.13, p=0.002), 
+RA (0.47±0.14 vs. 0.42±0.12, p=0.002), daily smoking history (0.45±0.13 vs. 0.43±0.13, 
+p=0.047), and peripheral artery disease (0.50±0.14 vs. 0.43±0.13, p<0.001) (Table 2). 
+Rosacea was significantly associated with worse dry eye signs in Schirmer testing (8.2±5.6 
+vs. 10.2±7.2, p=0.002) and MGD (1.77±0.96 vs. 1.39±0.93, p<0.001); RA was associated 
+with worse signs in corneal fluorescein staining (4.2±3.4 vs. 3.2±2.7, p=0.02); daily 
+smoking history was associated with worse signs in MGD (1.62±0.98 vs. 1.40±0.93, 
+p=0.003); and peripheral artery disease was associated with worse signs in TBUT (2.8±1.6 
+vs. 3.6±2.5, p<0.001), Schirmer testing (7.8±6.2 vs. 10.0±7.0, p=0.005), corneal fluorescein 
+staining (4.9±3.3 vs. 3.3±2.8, p<0.001), and MGD (1.73±0.96 vs. 1.45±0.95, p=0.02). 
+For comparison, SS was significantly associated with worse signs in Schirmer testing 
+(7.5±6.7 vs. 10.1±6.9, p=0.01), corneal fluorescein staining (5.0±3.9 vs. 3.2±2.7, p<0.001), 
+lissamine green conjunctival staining (3.6±1.9 vs. 2.6±1.5, p<0.001), and tear osmolarity 
+(310.6±20.8 vs. 302.5±16.5, p<0.001). All reported associations were consistent in separate 
+analyses of baseline, 6 months, and 12 months (Supplemental Table 3, available at http://
+www.aaojournal.org).
+Thyroid dysfunction was associated with a higher composite signs severity score in 
+univariate analysis (0.47±0.15 vs. 0.43±0.13, p=0.02), but was not significant after 
+adjustment by age, sex, race, and visit (p=0.09). Similarly, osteoarthritis was associated 
+with a higher composite signs severity score in univariate analysis (0.46±0.13 vs. 0.43±0.13, 
+p=0.002), but was not significant (p=0.15) after adjustment. Detailed univariate analysis 
+results for all the systemic conditions are included in Supplemental Table 4 (available at 
+http://www.aaojournal.org). No significant associations were found for diabetes, irritable 
+bowel syndrome, hypercholesterolemia, hypertension, and hypertriglyceridemia (Table 2).
+Association of systemic conditions with dry eye symptoms
+OSDI was not consistently significantly associated with any of the systemic conditions in 
+the combined analysis (Table 3) nor in separate analyses of baseline, 6 months, and 12 
+months (Supplemental Table 5, available at http://www.aaojournal.org). Significant isolated 
+associations with worse OSDI were SS at 12 months (36.1±18.6 vs. 29.1±18.1, p=0.03), 
+daily smoking history at 6 months (34.4±18.4 vs. 31.1±19.3, p=0.049) and 12 months 
+(33.0±18.2 vs. 29.3±18.7, p=0.04), and peripheral artery disease at 6 months (38.6±19.0 vs. 
+31.6±19.0, p=0.02).
+Yu et al. Page 6
+Ophthalmology. Author manuscript; available in PMC 2022 October 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+DISCUSSION
+We evaluated the associations of 12 systemic conditions previously reported as potential 
+DED risk factors with the severity of dry eye signs and symptoms in a large cohort 
+of 535 patients with moderate-to-severe dry eye disease. After adjusting for age, sex, 
+race, and visit, patients with SS, rosacea, RA, daily smoking history, or peripheral artery 
+disease had more severe dry eye signs than patients without the condition of interest. We 
+did not find significant associations with severity of DED signs for thyroid dysfunction, 
+osteoarthritis, diabetes, irritable bowel syndrome, hypercholesterolemia, hypertension, or 
+hypertriglyceridemia. Additionally, no consistent significant associations were found with 
+severity of dry eye symptoms measured using the OSDI. Notably, older age also was not 
+associated with higher OSDI score despite its association with more severe dry eye signs. 
+This is congruous with other studies identifying age as a predictor of discordance between 
+dry eye signs and symptoms,41, 42, 49 perhaps due to reduced corneal sensitivity in older 
+adults.50
+Sjögren’s syndrome
+SS is a systemic autoimmune disease that causes dry mouth and dry eye, which can be 
+severe. In fact, the 2016 ACR/EULAR SS classification criteria include an ocular staining 
+score ≥5 and Schirmer’s test ≤5mm/5 minutes.51 Bunya and colleagues previously reported 
+that in the DREAM cohort, the four key signs of dry eye (TBUT, Schirmer testing, corneal 
+staining, and conjunctival staining) were significantly worse in SS vs. non-SS patients at 
+baseline.48 Similarly, in our study we found SS (52 patients) to be significantly associated 
+with a higher composite dry eye signs severity score, including worse values for Schirmer 
+testing, corneal staining, conjunctival staining, and tear osmolarity. The strength of these 
+associations helps validate our findings for the following systemic conditions.
+Rosacea
+Rosacea is a chronic cutaneous disorder primarily affecting the cheeks, chin, nose, and 
+central forehead.52 More than half of patients with cutaneous rosacea have ocular signs,53 
+such as blepharitis, conjunctival hyperemia, telangiectasia of the lid margin, recurrent 
+chalazia, superficial punctate keratopathy, and nonspecific symptoms including a foreign 
+body, gritty, or dry sensation or burning, stinging, or tearing.53–56 Rosacea-associated MGD 
+is a variant of MGD and is usually associated with more severe disease and inflammatory 
+complications of the ocular surface.53, 54, 57 In our study, twenty percent of patients (109 
+individuals) with moderate-to-severe DED presented with facial rosacea at enrollment. 
+These patients had a higher composite signs severity score, with the most prominent signs 
+being lower Schirmer scores and MGD, suggesting that cutaneous rosacea is associated with 
+both aqueous tear deficient and evaporative dry eye disease.
+Our study agrees with past smaller studies of 18 to 32 rosacea patients that also found lower 
+Schirmer scores and more severe MGD to be associated with the presence of rosacea.25, 26 
+One study of 18 rosacea vs. 19 healthy patients additionally found significant associations 
+between rosacea and more severe OSDI scores, decreased TBUT, and increased corneal and 
+conjunctival fluorescein staining.26 While in our study the associations between rosacea and 
+Yu et al. Page 7
+Ophthalmology. Author manuscript; available in PMC 2022 October 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+OSDI, TBUT, and corneal and conjunctival staining was not significant after adjustment for 
+age, sex, race, and visit, we did observe worse mean scores for each of these measures in 
+patients with rosacea compared to those without rosacea.
+Rheumatoid arthritis
+Extra-articular symptoms of RA include those of the eye, such as dry eye, episcleritis, 
+scleritis, corneal changes, and retinal vasculitis.58 RA has been reported to be associated 
+with dry eye even in the absence of SS.59 In our study, seven percent (38 patients) had RA 
+without SS, and these patients were significantly associated with a more severe composite 
+dry eye signs score. Corneal fluorescein staining was the most prominent sign after 
+adjustment for age, sex, race, and visit. These findings agree with a cross-sectional study of 
+510 Asian DED patients where RA (25 patients) was associated with more severe superior 
+corneal fluorescein staining after adjustment for age.49 A different case-control study of 
+72 RA patients did not find any significant association between severity of dry eye signs 
+and RA.59 A potential etiology for dry eye in RA is over expression of pro-inflammatory 
+cytokines in the tears.60
+Cardiovascular Risk Factors
+Smoking has been reported to increase risk for DED, 12, 15, 16, 27–31 though other studies 
+report no associations.27, 61 Cigarette smoking may cause toxic oxidative damage to proteins 
+in the tear film, leading to tear film instability and DED.28, 30 In our study, thirty-one percent 
+(168 patients) reported smoking cigarettes daily (formerly or currently). Daily smoking 
+history was significantly associated with a higher composite dry eye signs severity score, 
+with MGD as the most prominent sign after adjustment for age, sex, race, and visit. Other 
+studies with 49 to 65 chronic smokers report associations between smoking and decreased 
+TBUT, lower Schirmer scores, and increased corneal and conjunctival staining.29–31
+While we found a history of ever smoking daily cigarettes to be associated with more severe 
+DED signs, we did not find current daily cigarette smoking (26 patients) to be significantly 
+associated with DED severity, potentially due to limited statistical power. A cohort study of 
+510 Asian DED patients also did not find any association between current smoking (in 33 
+individuals) and severity of dry eye signs.49
+Dyslipidemias, hypertension, and atherosclerotic diseases have also been disputably 
+associated with DED prevalence.12, 16, 17, 19, 20, 32–35, 61 Increased cholesterol content in 
+meibomian lipids may cause plugging of meibomian glands, with elevated high-density 
+lipoprotein reported to be associated with moderate-to-severe MGD in a retrospective 
+case-control study.33 In our study, nine percent (47 patients) reported ongoing peripheral 
+artery disease, thirty-two percent (171 patients) reported ongoing hypercholesterolemia, 
+twenty-eight percent (149 patients) reported ongoing hypertension, and five percent 
+(25 patients) reported ongoing hypertriglyceridemia. Peripheral artery disease was 
+significantly associated with a higher composite dry eye signs severity score, with corneal 
+fluorescein staining, TBUT, Schirmer’s, and MGD as the most prominent signs. However, 
+hypercholesterolemia, hypertriglyceridemia, and hypertension were not associated with 
+more severe dry eye signs, perhaps suggesting that only dyslipidemias severe enough to 
+Yu et al. Page 8
+Ophthalmology. Author manuscript; available in PMC 2022 October 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+cause symptomatic disease, like peripheral artery disease, are associated with more severe 
+DED.
+Diabetes
+We did not find any associations between diabetes (57 patients) and severity of dry eye signs 
+and symptoms, consistent with the cohort study of 510 Asian DED patients.49 While the 
+DEWS II report indicates diabetes as a probable risk factor for DED, only diabetes with 
+complications is significantly associated with DED in most studies.2, 19, 23, 62–65 Duration 
+of diabetes and the presence of diabetic retinopathy have been found to be associated 
+with higher risk of DED.62, 63 In our study, only four patients reported diabetic retinopathy/
+macular edema, and information on the duration of diabetes was not collected. It is therefore 
+reasonable to suspect that no association was found for diabetes in the DREAM study 
+because most patients did not have severe enough diabetes to increase DED severity. 
+Another possibility is that diabetes increases disease severity in mild DED, but this is not 
+detected because the DREAM study cohort only includes patients with moderate-to-severe 
+DED.
+Thyroid dysfunction and osteoarthritis
+In our study, thyroid dysfunction (94 patients) and osteoarthritis (134 patients) were 
+significantly associated with the severity of dry eye signs only without adjustment for age, 
+sex, race, and visit. This suggests that demographic and other confounding factors may 
+explain previous reports in the literature regarding associations between these two diseases 
+and the presence of DED. Alternatively, thyroid dysfunction, osteoarthritis, and the diseases 
+for which we did not find any associations may only be risk factors for the presence of 
+DED, not for its severity in patients with moderate-to-severe DED. Finally, it is possible that 
+thyroid dysfunction is associated with more severe DED only with thyroid eye disease.66 We 
+did not collect information on the presence of thyroid eye disease in DREAM study patients.
+Strengths and Limitations
+While various studies have suggested that certain systemic diseases are risk factors for the 
+development of dry eye, there are few other studies to identify whether these systemic 
+diseases are significantly associated with the severity of dry eye as measured by ocular 
+surface exams and symptom indices. Our study represents a large number of patients from 
+multiple centers and includes a standardized assessment of six dry eye signs and symptoms 
+following the DREAM study protocol, providing not only information on different etiologies 
+of dry eye but also a composite severity score synthesizing the six individual signs. The 
+finding that SS, known to be associated with severe dry eye, was the systemic condition 
+most significantly associated with dry eye signs in our study helps validate our methods.
+An important limitation is that our study may underestimate the association of certain 
+systemic conditions with DED severity due to potential bias from co-existing systemic 
+diseases and a study population limited to patients with moderate-to-severe DED. The lack 
+of significant associations for some of the systemic conditions, such as diabetes and thyroid 
+dysfunction, should be interpreted in this context. For example, it is possible that these 
+systemic conditions are associated with mild but not moderate-to-severe DED. Similarly, 
+Yu et al. Page 9
+Ophthalmology. Author manuscript; available in PMC 2022 October 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+it is possible that the significant systemic conditions have stronger associations with DED 
+severity than is reported in this study. Other limitations include use of patients’ self-report 
+to determine presence or absence of systemic disease without differentiating severity and 
+duration, as well as possible confounding by multiple testing of 12 systemic conditions and 
+7 DED signs and symptoms.
+In conclusion, the DREAM study, a large-scale randomized clinical trial of 535 well￾characterized patients with moderate-to-severe dry eye disease from 27 clinical centers 
+across the US, provides to our knowledge the largest dataset to determine whether systemic 
+diseases and cigarette smoking are associated with DED severity. Based on comprehensive 
+evaluation of DED signs and symptoms following standard study protocol, we found that 
+presence of SS, facial rosacea, RA, peripheral artery disease, and a history of daily cigarette 
+smoking are significantly associated with more severe dry eye signs. This is significant 
+as severe DED warrants more intense treatment strategies. Furthermore, the profile of 
+significant dry eye signs varied by systemic condition, reflecting different dry eye etiologies. 
+Understanding the systemic conditions and underlying etiologies that predispose certain 
+patients to more severe DED, compared to patients without these systemic conditions, can 
+improve management.
+Supplementary Material
+Refer to Web version on PubMed Central for supplementary material.
+ACKNOWLEDGMENTS
+Please see the Credit Roster for a list of clinical center personnel and other contributors to the DREAM study 
+(available at http://www.aaojournal.org, http://links.lww.com/ICL/A131).
+FUNDING
+Supported by cooperative agreements U10EY022879, U10EY022881, and R21EY031338 from the National Eye 
+Institute, National Institutes of Health, Department of Health and Human Services.
+Financial Support:
+National Eye Institute Grants U10EY022879, U10EY022881, R21EY031338, and R01 EY026972. The funding 
+organization had no role in the design or conduct of this research. Immco Diagnostics, Inc. (Buffalo NY) provided 
+blood drawing and shipping supplies to the study clinical centers and provided test results on autoantibodies from 
+their Sjo test.
+REFERENCES
+1. Lemp MA, Foulks GN. The definition and classification of dry eye disease. Ocul Surf2007;5(2):75–
+92. [PubMed: 17508116] 
+2. Stapleton F, Alves M, Bunya VY, et al.Tfos dews ii epidemiology report. The ocular 
+surface2017;15(3):334–65. [PubMed: 28736337] 
+3. Miljanović B, Dana R, Sullivan DA, Schaumberg DA. Impact of dry eye syndrome on vision-related 
+quality of life. Am J Ophthalmol2007;143(3):409–15. e2. [PubMed: 17317388] 
+4. Paulsen AJ, Cruickshanks KJ, Fischer ME, et al.Dry eye in the beaver dam offspring study: 
+prevalence, risk factors, and health-related quality of life. Am J Ophthalmol2014;157(4):799–806. 
+[PubMed: 24388838] 
+Yu et al. Page 10
+Ophthalmology. Author manuscript; available in PMC 2022 October 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+5. Uchino M, Schaumberg DA. Dry eye disease: impact on quality of life and vision. Current 
+ophthalmology reports2013;1(2):51–7. [PubMed: 23710423] 
+6. Yu J, Asche CV, Fairchild CJ. The economic burden of dry eye disease in the United States: a 
+decision tree analysis. Cornea2011;30(4):379–87. [PubMed: 21045640] 
+7. Friedman NJ. Impact of dry eye disease and treatment on quality of life. Curr Opin 
+Ophthalmol2010;21(4):310–6. [PubMed: 20467319] 
+8. Stern ME, Pflugfelder SC. Inflammation in dry eye. The ocular surface2004;2(2):124–30. [PubMed: 
+17216083] 
+9. Stevenson W, Chauhan SK, Dana R. Dry eye disease: an immune-mediated ocular surface disorder. 
+Arch Ophthalmol2012;130(1):90–100. [PubMed: 22232476] 
+10. Lemp MA. Advances in understanding and managing dry eye disease. Am J 
+Ophthalmol2008;146(3):350–6. e1. [PubMed: 18599017] 
+11. Nichols KK. The international workshop on meibomian gland dysfunction: introduction. Invest 
+Ophthalmol Vis Sci2011;52(4):1917–21. [PubMed: 21450912] 
+12. Moss SE, Klein R, Klein BE. Prevalence of and risk factors for dry eye syndrome. Arch 
+Ophthalmol2000;118(9):1264–8. [PubMed: 10980773] 
+13. Rouen PA, White ML. Dry eye disease: prevalence, assessment, and management. Home 
+healthcare now2018;36(2):74–83. [PubMed: 29498987] 
+14. Vehof J, Kozareva D, Hysi PG, Hammond CJ. Prevalence and risk factors of dry eye disease in a 
+British female cohort. Br J Ophthalmol2014;98(12):1712–7. [PubMed: 25185440] 
+15. Lee A, Lee J, Saw S, et al.Prevalence and risk factors associated with dry eye symptoms: a 
+population based study in Indonesia. Br J Ophthalmol2002;86(12): 1347–51. [PubMed: 12446361] 
+16. Kawashima MSystemic health and dry eye. Invest Ophthalmol Vis Sci2018;59(14):DES138–
+DES42. [PubMed: 30481818] 
+17. Uchino M, Nishiwaki Y, Michikawa T, et al.Prevalence and risk factors of dry eye disease in Japan: 
+Koumi study. Ophthalmology2011;118(12):2361–7. [PubMed: 21889799] 
+18. Viso E, Gude F, Rodríguez-Ares MT. The association of meibomian gland dysfunction and other 
+common ocular diseases with dry eye: a population-based study in Spain. Cornea2011;30(1):1–6. 
+[PubMed: 20847672] 
+19. Wang TJ, Wang IJ, Hu CC, Lin HC. Comorbidities of dry eye disease: a nationwide population￾based study. Acta Ophthalmol (Copenh)2012;90(7):663–8.
+20. Roh HC, Lee JK, Kim M, et al.Systemic comorbidities of dry eye syndrome: the Korean National 
+Health and Nutrition Examination Survey V, 2010 to 2012. Cornea2016;35(2):187–92. [PubMed: 
+26488632] 
+21. Whitcher JP, Shiboski CH, Shiboski SC, et al.A simplified quantitative method for 
+assessing keratoconjunctivitis sicca from the Sjögren’s Syndrome International Registry. Am J 
+Ophthalmol2010;149(3):405–15. [PubMed: 20035924] 
+22. Yang W-J, Yang Y-N, Cao J, et al.Risk factors for dry eye syndrome: a retrospective case-control 
+study. Optom Vis Sci2015;92(9):e199–e205. [PubMed: 25756335] 
+23. Kesarwani D, Rizvi SWA, Khan AA, et al.Tear film and ocular surface dysfunction in diabetes 
+mellitus in an Indian population. Indian J Ophthalmol2017;65(4):301. [PubMed: 28513494] 
+24. Kaiserman I, Kaiserman N, Nakar S, Vinker S. Dry eye in diabetic patients. Am J 
+Ophthalmol2005;139(3):498–503. [PubMed: 15767060] 
+25. Gudmundsen KJ, O’Donnell BF, Powell FC. Schirmer testing for dry eyes in patients with rosacea. 
+J Am Acad Dermatol1992;26(2):211–4. [PubMed: 1532401] 
+26. Palamar M, Degirmenci C, Ertam I, Yagci A. Evaluation of dry eye and meibomian gland 
+dysfunction with meibography in patients with rosacea. Cornea2015;34(5):497–9. [PubMed: 
+25826323] 
+27. Xu L, Zhang W, Zhu X-Y, et al.Smoking and the risk of dry eye: a Meta-analysis. International 
+journal of ophthalmology2016;9(10):1480. [PubMed: 27803868] 
+28. Grus FH, Sabuncuo P, Augustin A, Pfeiffer N. Effect of smoking on tear proteins. Graefe’s archive 
+for clinical and experimental ophthalmology2002;240(11):889–92.
+Yu et al. Page 11
+Ophthalmology. Author manuscript; available in PMC 2022 October 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+29. Sayin N, Kara N, Pekel G, Altinkaynak H. Effects of chronic smoking on central corneal thickness, 
+endothelial cell, and dry eye parameters. Cutan Ocul Toxicol2014;33(3):201–5. [PubMed: 
+24147943] 
+30. Altinors DD, Akça S, Akova YA, et al.Smoking associated with damage to the lipid layer of the 
+ocular surface. Am J Ophthalmol2006;141(6):1016–21. e1. [PubMed: 16765668] 
+31. Thomas J, Jacob GP, Abraham L, Noushad B. The effect of smoking on the ocular surface and the 
+precorneal tear film. The Australasian medical journal2012;5(4):221. [PubMed: 22848314] 
+32. Chun YH, Kim HR, Han K, et al.Total cholesterol and lipoprotein composition are associated with 
+dry eye disease in Korean women. Lipids Health Dis2013;12(1):84. [PubMed: 23734839] 
+33. Dao AH, Spindle JD, Harp BA, et al.Association of dyslipidemia in moderate to severe meibomian 
+gland dysfunction. Am J Ophthalmol2010;150(3):371–5. e1. [PubMed: 20619393] 
+34. Pinna A, Blasetti F, Zinellu A, et al.Meibomian gland dysfunction and hypercholesterolemia. 
+Ophthalmology2013;120(12):2385–9. [PubMed: 23747164] 
+35. Ferrero A, Alassane S, Binquet C, et al.Dry eye disease in the elderly in a French population-based 
+study (the Montrachet study: maculopathy, optic nerve, nuTRition, neurovAsCular and HEarT 
+diseases): prevalence and associated factors. The ocular surface2018;16(1):112–9. [PubMed: 
+28939118] 
+36. Asproudis I, Tsoumani AT, Katsanos KH, et al.Irritable bowel syndrome might be associated with 
+dry eye disease. Annals of Gastroenterology: Quarterly Publication of the Hellenic Society of 
+Gastroenterology2016;29(4):487.
+37. Asbell PA, Maguire MG, Peskin E, et al.Dry Eye Assessment and Management (DREAM©) study: 
+study design and baseline characteristics. Contemp Clin Trials2018;71:70–9. [PubMed: 29883769] 
+38. Walt JOcular surface disease index (OSDI) administration and scoring manual. Irvine, CA: 
+Allergan: Inc2004.
+39. Miller KL, Walt JG, Mink DR, et al.Minimal clinically important difference for the ocular surface 
+disease index. Arch Ophthalmol2010;128(1):94–101. [PubMed: 20065224] 
+40. Lemp AReport of the National Eye Institute/Industry workshop on clinical trials in dry eyes. Eye & 
+Contact Lens1995;21(4):221–32.
+41. Vehof J, Smitt-Kamminga NS, Nibourg SA, Hammond CJ. Predictors of discordance between 
+symptoms and signs in dry eye disease. Ophthalmology2017;124(3):280–6. [PubMed: 28024826] 
+42. Ong ES, Felix ER, Levitt RC, et al.Epidemiology of discordance between symptoms and signs of 
+dry eye. Br J Ophthalmol2018;102(5):674–9. [PubMed: 28821553] 
+43. Sullivan BD, Whitmer D, Nichols KK, et al.An objective approach to dry eye disease severity. 
+Invest Ophthalmol Vis Sci2010;51(12):6125–30. [PubMed: 20631232] 
+44. Dry Eye Assessment Management Study Research Group. N– 3 fatty acid supplementation for the 
+treatment of dry eye disease. N Engl J Med2018;378(18):1681–90. [PubMed: 29652551] 
+45. Ying G-s, Maguire MG, Glynn R, Rosner B. Tutorial on biostatistics: linear regression analysis of 
+continuous correlated eye data. Ophthalmic Epidemiol2017;24(2): 130–40. [PubMed: 28102741] 
+46. Halekoh U, Højsgaard S, Yan J. The R package geepack for generalized estimating equations. 
+Journal of Statistical Software2006;15(2):1–11.
+47. Shiboski S, Shiboski C, Criswell L, et al.American College of Rheumatology classification criteria 
+for Sjögren’s syndrome: a data-driven, expert consensus approach in the Sjögren’s International 
+Collaborative Clinical Alliance cohort. Arthritis Care Res (Hoboken)2012;64(4):475–87. 
+[PubMed: 22563590] 
+48. Bunya VY, Ying G-S, Maguire MG, et al.Prevalence of Novel Candidate Sjogren’s 
+Syndrome Autoantibodies in the Dry Eye Assessment and Management (DREAM©) Study. 
+Cornea2018;37(11):1425. [PubMed: 30161055] 
+49. Lee SY, Petznick A, Tong L. Associations of systemic diseases, smoking and contact lens wear 
+with severity of dry eye. Ophthalmic Physiol Opt2012;32(6):518–26. [PubMed: 22958181] 
+50. Spierer O, Felix ER, McClellan AL, et al.Corneal mechanical thresholds negatively associate 
+with dry eye and ocular pain symptoms. Invest Ophthalmol Vis Sci2016;57(2):617–25. [PubMed: 
+26886896] 
+Yu et al. Page 12
+Ophthalmology. Author manuscript; available in PMC 2022 October 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+51. Shiboski CH, Shiboski SC, Seror R, et al.2016 American College of Rheumatology/European 
+League Against Rheumatism classification criteria for primary Sjægren’s syndrome: a consensus 
+and data-driven methodology involving three international patient cohorts. Ann Rheum 
+Dis2017;76(1):9–16. [PubMed: 27789466] 
+52. Wilkin J, Dahl M, Detmar M, et al.Standard classification of rosacea: report of the National 
+Rosacea Society Expert Committee on the Classification and Staging of Rosacea. J Am Acad 
+Dermatol2002;46(4):584–7. [PubMed: 11907512] 
+53. Ghanem VC, Mehra N, Wong S, Mannis MJ. The prevalence of ocular signs in acne rosacea: 
+comparing patients from ophthalmology and dermatology clinics. Cornea2003;22(3):230–3. 
+[PubMed: 12658088] 
+54. Akpek EK, Merchant A, Pinar V, Foster CS. Ocular rosacea: patient characteristics and follow-up. 
+Ophthalmology1997;104(11):1863–7. [PubMed: 9373118] 
+55. Jenkins MS, Brown SI, Lempert SL, Weinberg RJ. Ocular rosacea. Am J 
+Ophthalmol1979;88(3):618–22. [PubMed: 158314] 
+56. Wise GOcular rosacea. Am J Ophthalmol1943;26:591–609.
+57. Donaldson KE, Karp CL, Dunbar MT. Evaluation and treatment of children with ocular rosacea. 
+Cornea2007;26(1):42–6. [PubMed: 17198012] 
+58. Zlatanović G, Veselinović D, Cekić S, et al.Ocular manifestation of rheumatoid arthritis different 
+forms and frequency. Bosnian journal of basic medical sciences2010;10(4):323. [PubMed: 
+21108616] 
+59. Fujita M, Igarashi T, Kurai T, et al.Correlation between dry eye and rheumatoid arthritis activity. 
+Am J Ophthalmol2005;140(5):808–13. [PubMed: 16289424] 
+60. Lam H, Bleiden L, De Paiva CS, et al.Tear cytokine profiles in dysfunctional tear syndrome. Am J 
+Ophthalmol2009;147(2):198–205. e1. [PubMed: 18992869] 
+61. Moss SE, Klein R, Klein BE. Long-term incidence of dry eye in an older population. Optom Vis 
+Sci2008;85(8):668–74. [PubMed: 18677233] 
+62. Manaviat MR, Rashidi M, Afkhami-Ardekani M, Shoja MR. Prevalence of dry eye syndrome 
+and diabetic retinopathy in type 2 diabetic patients. BMC Ophthalmol2008;8(1):10. [PubMed: 
+18513455] 
+63. Nepp J, Abela C, Polzer I, et al.Is there a correlation between the severity of diabetic retinopathy 
+and keratoconjunctivitis sicca?Cornea2000;19(4):487–91. [PubMed: 10928764] 
+64. Najafi L, Malek M, Valojerdi AE, et al.Dry eye and its correlation to diabetes microvascular 
+complications in people with type 2 diabetes mellitus. J Diabetes Complications2013;27(5):459–
+62. [PubMed: 23726741] 
+65. Achtsidis V, Eleftheriadou I, Kozanidou E, et al.Dry eye syndrome in subjects with diabetes and 
+association with neuropathy. Diabetes Care2014;37(10):e210–e1. [PubMed: 25249675] 
+66. Kashkouli MB, Alemzadeh SA, Aghaei H, et al.Subjective versus objective dry eye disease 
+in patients with moderate-severe thyroid eye disease. The ocular surface2018; 16(4):458–62. 
+[PubMed: 30297028] 
+Yu et al. Page 13
+Ophthalmology. Author manuscript; available in PMC 2022 October 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+In the Dry Eye Assessment and Management Study, patients with Sjögren’s syndrome, 
+facial rosacea, rheumatoid arthritis, peripheral artery disease, and daily smoking history 
+exhibited significantly more severe dry eye on ocular surface exams.
+Yu et al. Page 14
+Ophthalmology. Author manuscript; available in PMC 2022 October 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Yu et al. Page 15
+Table 1.
+Characteristics of study patients at baseline (N=535).
+Baseline characteristics
+Age (years)
+Mean (SD) 58.0 (13.2)
+Min, Max 18, 87
+Sex Female (%) 434 (81.1)
+Race
+White (%) 398 (74.4)
+Black (%) 64 (12.0)
+Asian (%) 19 (3.6)
+Other (%) 54 (10.1)
+Baseline dry eye signs and symptoms
+Tear Break-up time (seconds) Mean (SD) 3.1 (1.8)
+Schirmer’s test (mm/5min) Mean (SD) 9.6 (7.0)
+Fluorescein staining of cornea Mean (SD) 3.8 (3.0)
+Lissamine green staining of conjunctiva Mean (SD) 2.9 (1.5)
+Tear osmolarity (mOsm/L) Mean (SD) 302.7 (16.2)
+Meibomian gland dysfunction: plugging and lid secretion Mean (SD) 1.54 (0.92)
+Composite dry eye severity score based on signs Mean (SD) 0.46 (0.12)
+Ocular Surface Disease Index (OSDI) score Mean (SD) 42.1 (15.5)
+Baseline systemic conditions N (%)
+Rosacea (facial)
+No 426 (79.6)
+Yes 109 (20.4)
+Rheumatoid arthritis
+Never 486 (90.8)
+Past history 2 (0.4)
+Ongoing 47 (8.8)
+Sjögren’s syndrome*
+No 456 (85.2)
+Yes 52 (9.7)
+Indeterminate 27 (5.0)
+Daily cigarette smoking history
+Never 367 (68.6)
+Former 142 (26.5)
+Current 26 (4.9)
+Peripheral artery disease
+Never 484 (90.5)
+Past history 4 (0.7)
+Ongoing 47 (8.8)
+Thyroid dysfunction
+Never 427 (79.8)
+Past history 14 (2.6)
+Ongoing 94 (17.6)
+Osteoarthritis
+Never 394 (73.6)
+Past history 7 (1.3)
+Ophthalmology. Author manuscript; available in PMC 2022 October 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Yu et al. Page 16
+Baseline characteristics
+Ongoing 134 (25.0)
+Diabetes
+Never 473 (88.4)
+Past history 5 (0.9)
+Ongoing 57 (10.7)
+Irritable bowel syndrome
+Never 476 (89.0)
+Past history 15 (2.8)
+Ongoing 44 (8.2)
+Hypercholesterolemia
+Never 344 (64.3)
+Past history 20 (3.7)
+Ongoing 171 (32.0)
+Hypertension
+Never 380 (71.0)
+Past history 6 (1.1)
+Ongoing 149 (27.9)
+Hypertriglyceridemia
+Never 503 (94.0)
+Past history 7 (1.3)
+Ongoing 25 (4.7)
+* Meeting 2012 ACR criteria for Sjögren’s syndrome.
+Ophthalmology. Author manuscript; available in PMC 2022 October 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Yu et al. Page 17
+Table 2.
+Associations of systemic conditions with severity of dry eye signs from analysis with baseline, 6 months, and 
+12 months combined.
+Tear 
+break-up 
+time 
+(seconds)
+Schirmer’s 
+test (mm/
+5min)
+Fluorescein 
+staining of 
+cornea
+Lissamine 
+green 
+staining of 
+conjunctiva
+Tear 
+osmolarity 
+(mOsm/L)
+Meibomian 
+gland 
+dysfunction
+Composite 
+dry eye 
+severity 
+score 
+based on 
+Signs
+Sjögren’s syndrome
+No 
+(n=456)
+Mean 
+(SD) 3.6 (2.5) 10.1 (6.9) 3.2 (2.7) 2.6 (1.5) 302.5 
+(16.5) 1.45 (0.96) 0.43 
+(0.13)
+Yes 
+(n=52)
+Mean 
+(SD) 3.2 (2.3) 7.5 (6.7) 5.0 (3.9) 3.6 (1.9) 310.6 
+(20.8) 1.61 (0.93) 0.52 
+(0.17)
+p
+* 0.19 0.01 <.001 <.001 <.001 0.16 <.001
+Rosacea
+No 
+(n=426)
+Mean 
+(SD) 3.6 (2.5) 10.2 (7.2) 3.3 (2.9) 2.6 (1.6)
+303.3 
+(17.0) 1.39 (0.93)
+0.43 
+(0.13)
+Yes 
+(n=109)
+Mean 
+(SD) 3.2 (1.9) 8.2 (5.6) 3.7 (2.9) 2.8 (1.6)
+302.4 
+(16.6) 1.77 (0.96)
+0.47 
+(0.13)
+p
+* 0.06 0.002 0.72 0.28 0.35 <.001 0.002
+Rheumatoid arthritis 
+†
+No 
+(n=417)
+Mean 
+(SD) 3.6 (2.5) 10.1 (6.9) 3.2 (2.7) 2.6 (1.5)
+302.5 
+(16.5) 1.44 (0.95)
+0.42 
+(0.12)
+Yes 
+(n=38)
+Mean 
+(SD) 3.4 (2.0) 9.7 (7.3) 4.2 (3.4) 3.0 (1.8)
+302.7 
+(17.1) 1.64 (1.03)
+0.47 
+(0.14)
+p
+* 0.26 0.32 0.02 0.06 0.92 0.18 0.002
+Daily smoking 
+history
+No 
+(n=367)
+Mean 
+(SD) 3.6 (2.5) 10.0 (7.0) 3.3 (2.9) 2.7 (1.6)
+303.3 
+(16.4) 1.40 (0.93)
+0.43 
+(0.13)
+Yes 
+(n=168)
+Mean 
+(SD) 3.3 (2.2) 9.3 (6.8) 3.6 (3.0) 2.7 (1.6)
+302.6 
+(17.9) 1.62 (0.98)
+0.45 
+(0.13)
+p
+* 0.15 0.29 0.63 0.53 0.28 0.003 0.047
+Peripheral artery 
+disease
+No 
+(n=484)
+Mean 
+(SD) 3.6 (2.5) 10.0 (7.0) 3.3 (2.8) 2.7 (1.6)
+303.0 
+(16.8) 1.45 (0.95)
+0.43 
+(0.13)
+Yes 
+(n=47)
+Mean 
+(SD) 2.8 (1.6) 7.8 (6.2) 4.9 (3.3) 2.9 (1.7)
+304.2 
+(17.9) 1.73 (0.96)
+0.50 
+(0.14)
+p
+* <.001 0.005 <.001 0.22 0.70 0.02 <.001
+Thyroid dysfunction
+No 
+(n=427)
+Mean 
+(SD) 3.6 (2.5) 10.1 (7.1) 3.3 (2.8) 2.6 (1.6)
+303.1 
+(17.1) 1.44 (0.95)
+0.43 
+(0.13)
+Yes 
+(n=94)
+Mean 
+(SD) 3.3 (2.3) 8.8 (6.3) 4.1 (3.2) 2.8 (1.7)
+303.0 
+(16.2) 1.61 (0.95)
+0.47 
+(0.15)
+p
+* 0.48 0.37 0.14 0.26 0.54 0.09 0.09
+Osteoarthritis
+No 
+(n=394)
+Mean 
+(SD) 3.7 (2.6) 10.2 (7.2) 3.2 (2.8) 2.6 (1.6)
+302.5 
+(16.5) 1.45 (0.95)
+0.43 
+(0.13)
+Yes 
+(n=134)
+Mean 
+(SD) 3.2 (1.8) 8.5 (5.7) 4.1 (3.2) 2.8 (1.6)
+304.8 
+(18.1) 1.51 (0.98)
+0.46 
+(0.13)
+p
+* 0.09 0.054 0.10 0.66 0.47 0.75 0.15
+Diabetes
+No 
+(n=473)
+Mean 
+(SD) 3.5 (2.4) 9.7 (6.9) 3.4 (2.9) 2.7 (1.6)
+303.0 
+(16.9) 1.47 (0.95)
+0.44 
+(0.13)
+Yes 
+(n=57)
+Mean 
+(SD) 3.6 (2.2) 10.4 (6.8) 3.7 (3.1) 2.5 (1.5)
+304.2 
+(17.5) 1.47 (0.99)
+0.43 
+(0.13)
+Ophthalmology. Author manuscript; available in PMC 2022 October 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Yu et al. Page 18
+p
+* 0.97 0.92 0.33 0.42 0.83 0.94 0.88
+Irritable bowel 
+syndrome
+No 
+(n=476)
+Mean 
+(SD) 3.6 (2.4) 9.9 (7.0) 3.4 (3.0) 2.7 (1.6)
+303.2 
+(16.9) 1.48 (0.95)
+0.44 
+(0.14)
+Yes 
+(n=44)
+Mean 
+(SD) 3.2 (2.2) 9.6 (6.9) 3.5 (2.4) 2.4 (1.5)
+302.2 
+(16.2) 1.48 (1.01)
+0.44 
+(0.11)
+p
+* 0.21 0.94 0.97 0.19 0.67 0.86 0.89
+Hypercholesterolemia
+No 
+(n=344)
+Mean 
+(SD) 3.5 (2.6) 9.8 (7.1) 3.4(3.0) 2.7 (1.6)
+303.0 
+(17.3) 1.50 (0.95)
+0.44 
+(0.14)
+Yes 
+(n=171)
+Mean 
+(SD) 3.5 (2.0) 9.5 (6.4) 3.5 (2.8) 2.6 (1.6)
+303.5 
+(16.4) 1.43 (0.94)
+0.43 
+(0.13)
+p
+* 0.60 0.93 0.41 0.053 0.68 0.06 0.07
+Hypertension
+No 
+(n=380)
+Mean 
+(SD) 3.5 (2.5) 9.8 (6.9) 3.3 (2.8) 2.7 (1.6)
+303.0 
+(16.7) 1.47 (0.94)
+0.44 
+(0.13)
+Yes 
+(n=149)
+Mean 
+(SD) 3.5 (2.2) 9.8 (6.9) 3.6 (3.1) 2.6 (1.6)
+303.3 
+(17.5) 1.42 (0.97)
+0.43 
+(0.14)
+p
+* 0.89 0.44 0.47 0.72 0.46 0.23 0.76
+Hypertriglyceridemia
+No 
+(n=503)
+Mean 
+(SD) 3.5 (2.4) 9.9 (7.0) 3.4 (2.9) 2.7 (1.6)
+302.9 
+(17.0) 1.48 (0.95)
+0.43 
+(0.13)
+Yes 
+(n=25)
+Mean 
+(SD) 3.4 (1.9) 8.7 (6.0) 4.1 (3.1) 2.9 (1.6)
+303.4 
+(13.4) 1.29 (0.93)
+0.45 
+(0.12)
+p
+* 0.81 0.34 0.40 0.56 0.95 0.18 0.80
+*
+P-values for the statistical significance of association between a systemic condition and the outcome measure of interest were calculated from 
+generalized linear regression models adjusted by age, sex, race, and visit. Generalized estimating equations (GEE) were used to account for 
+inter-visit and inter-eye correlations within the same subject.
+†
+Excluding patients meeting 2012 ACR criteria for Sjögren’s syndrome.
+Ophthalmology. Author manuscript; available in PMC 2022 October 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Yu et al. Page 19
+Table 3.
+Associations of systemic conditions with OSDI at baseline, 6 months, and 12 months combined.
+OSDI
+No Yes
+Mean (SD) Mean (SD) p
+*
+Sjögren’s syndrome 34.3 (18.4) 38.1 (18.0) 0.16
+Rosacea (facial) 34.7 (18.4) 36.8 (18.6) 0.15
+Rheumatoid arthritis† 34.0 (18.3) 37.5 (18.6) 0.15
+Daily smoking history 34.3 (18.6) 37.0 (18.2) 0.03
+Peripheral artery disease 34.9 (18.5) 38.1 (17.8) 0.10
+Thyroid dysfunction 35.4 (18.6) 34.4 (18.4) 0.52
+Osteoarthritis 35.0 (18.9) 34.7 (16.9) 0.92
+Diabetes 35.0 (18.2) 36.3 (19.9) 0.31
+Irritable bowel syndrome 34.8 (18.4) 38.2 (19.4) 0.26
+Hypercholesterolemia 35.9 (18.7) 34.1 (17.9) 0.32
+Hypertension 35.6 (18.7) 34.1 (18.0) 0.65
+Hypertriglyceridemia 35.2 (18.6) 34.4 (15.8) 0.84
+*
+P-values for the statistical significance of association between a systemic condition and OSDI were calculated from generalized linear regression 
+models adjusted by age, sex, race, and visit. Generalized estimating equations (GEE) were used to account for inter-visit and inter-eye correlations 
+within the same subject.
+†
+Excluding patients meeting 2012 ACR criteria for Sjögren’s syndrome.
+Ophthalmology. Author manuscript; available in PMC 2022 October 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript

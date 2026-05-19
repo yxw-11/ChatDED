@@ -1,0 +1,457 @@
+Special Issue
+Definition and Diagnostic Criteria of Dry Eye Disease:
+Historical Overview and Future Directions
+Jun Shimazaki
+Department of Ophthalmology, Tokyo Dental College, Ichikawa General Hospital, Ichikawa, Chiba, Japan
+Correspondence: Jun Shimazaki, De￾partment of Ophthalmology, Tokyo
+Dental College, Ichikawa General
+Hospital, 5-11-13 Sugano, Ichikawa,
+Chiba 272-8513, Japan;
+jun@eyebank.or.jp.
+Submitted: December 2, 2017
+Accepted: February 12, 2018
+Citation: Shimazaki J. Definition and
+diagnostic criteria of dry eye disease:
+historical overview and future direc￾tions. Invest Ophthalmol Vis Sci.
+2018;59:DES7–DES12. https://doi.org/
+10.1167/iovs.17-23475
+The definition and diagnostic criteria of dry eye disease (DED) proposed by the Japan Dry Eye
+Society and other countries are reviewed. The first definition and criteria of DED in Japan
+were proposed in 1995. In that report, DED was considered a disease of tears, which
+subsequently damaged ocular epithelia. The presence of subjective symptoms was not
+included in the criteria. In 2006, a new definition proposed that interactions between the tear
+film and ocular surface epithelia play important roles in DED. The presence of subjective
+symptoms, including visual disturbances, changes in tears, and epithelial damage were
+proposed to be major components of DED, and eyes positive for all three components were
+diagnosed as ‘‘definitive dry eye.’’ A third version was proposed in 2016, which emphasized
+unstable tear films as a core finding in DED. Following this guideline, eyes with an abnormally
+low tear film breakup time and the presence of subjective symptoms are considered to have
+DED. The current definition and criteria are different from those proposed in other countries.
+For example, the recently published DED definition by the Dry Eye WorkShop II (DEWS II) of
+the Tear Film and Ocular Surface Society (TFOS) focuses more on the underlying pathogenesis
+of DED, including inflammation, hyperosmolarity of tears, and neurosensory abnormalities, as
+well as unstable tear films.
+Keywords: dry eyes, diagnostic criteria, definition
+HISTORICAL OVERVIEW OF DEFINITION AND
+DIAGNOSTIC CRITERIA OF DED
+The first comprehensive definition of DED was published in
+1995 on the basis of consensus from the National Eye
+Institute (NEI) Industry Working Group on Clinical Trials in
+DED.1 In the report, DED is defined as follows:
+‘‘Dry eye is a disorder of the tear film due to tear deficiency
+or excessive evaporation, which causes damage to the
+interpalpebral ocular surface and is associated with symptoms
+of ocular discomfort.’’
+The definition clearly states that changes in the tear film are
+the cause of DED, which subsequently cause irritating
+symptoms and epithelial abnormalities. It also suggests that
+tear deficiency and excessive evaporation are the major causes
+of DED. This concept was reflected in the classification in this
+publication. DED was divided into two major categories
+involving tear deficient and evaporative, and then was further
+subclassified into a range of intrinsic and extrinsic causes. It is
+important that the definition uses the term ‘‘disorder’’ and not
+‘‘disease.’’ This definition and classification scheme have
+influenced subsequent DED studies and clinical approaches,
+including the Preferred Practice Pattern reported by the
+American Academy of Ophthalmology in 20132 and others.3–7
+The second major progress was made in the early 2000s, and
+the results were published in the report of the International
+DEWS of the TFOS in 2007.3 This report states:
+‘‘Dry eye is a multifactorial disease of the tears and ocular
+surface that results in symptoms of discomfort, visual distur￾bance, and tear film instability with potential damage to the
+ocular surface. It is accompanied by increased osmolarity of the
+tear film and inflammation of the ocular surface.’’
+This definition proposes several differences from the
+previous NEI report. First, DED was considered to be a disease
+caused by abnormalities in either tears or the ocular surface.
+Tears were not considered to be the sole cause of DED, and
+changes in the epithelium could cause abnormalities in tears. In
+this regard, DED was considered to be a dysfunction of the
+integrated functional unit comprising the lacrimal glands,
+ocular surface, eyelids, and sensory and motor nerves.8 Second,
+DED might cause visual disturbances.9–11 Third, increased
+osmolarity and ocular surface inflammation were included in
+the DED definition.12–14 Inclusion of these pathogenic factors
+in the definition of DED was new and contrasted with previous
+NEI reports. The definition caused controversy among
+researchers regarding whether the inflammation and hyperos￾molarity had a casual or causal relationship with DED. The
+classification system of the DEWS report basically revised the
+1995 NEI report, with aqueous-deficient DED and evaporative
+dry eye as the major two subtypes (Fig. 1). Aqueous-deficient
+was further classified into Sj¨ogren and non-Sj¨ogren categories.
+Evaporative dry eye was subclassified into intrinsic and
+extrinsic categories, and they were further classified as
+resulting from a range of causes.
+In a recent revision, published in 2017, dealing with the
+DED definition and classification in the DEWS II report, the
+following definition of DED is provided:
+‘‘A multifactorial disease of the ocular surface characterized
+by a loss of homeostasis of the tear film, and accompanied by
+ocular symptoms, in which tear film instability and hyperos￾molarity, ocular surface inflammation and damage, and
+neurosensory abnormalities play etiological roles.’’4
+This definition is basically a minor revision of DEWS, which
+used the term ‘‘homeostasis of the tear film’’ to suggest that a
+Copyright 2018 The Authors
+iovs.arvojournals.org j ISSN: 1552-5783 DES7
+FIGURE 1. Major etiological causes of DED proposed by the DEWS of the TFOS 2006. The left box illustrates the influence of the environment on
+risk of an individual developing DED. Note that aqueous-deficient dry eye has two major subtypes: Sj¨ogren and non-Sj¨ogren syndrome DED.
+Evaporative dry eye is subdivided into intrinsic and extrinsic causes, and can be further classified into subgroups. Reprinted with permission from
+Craig JP, Nichols KK, Akpek EK, et al. TFOS DEWS II Definition and Classification Report. Ocul Surf. 2017;15:276–283.  2017 Elsevier Inc.
+FIGURE 2. Tests to diagnose and monitor DED proposed by DEWS II of the TFOS.16 The test starts with screening questions for DED, followed by a
+series of examinations, such as slit-lamp biomicroscopy, osmolarity, BUT measurement, and staining tests. Then, further tests for subtype
+classification, including meibomian gland/lid margin changes and tear volume examinations, are performed. Reprinted with permission from
+Wolffsohn JS, Arita R, Chalmers R, et al. TFOS DEWS II Diagnostic Methodology report. Ocul Surf. 2017;15:539–574.  2017 Elsevier Inc.
+Definition and Diagnostic Criteria of Dry Eye Disease IOVS j Special Issue j Vol. 59 j No. 14 j DES8
+variety of factors could influence the homeostasis. The
+definition followed the previous one by describing factors that
+were important in the pathogenesis of DED, which included
+tear film instability, hyperosmolarity, ocular surface inflamma￾tion and damage, and neurosensory abnormalities. Neurosen￾sory abnormalities were included in the definition for the first
+time, reflecting recent interest in the importance of alterations
+in pain and sensations in DED.15 The classification system
+succeeded the recent DEWS II reports with several modifica￾tions.4 The newly proposed classification scheme considered
+cases in which patients exhibited DED symptoms without
+obvious DED signs, or presented with symptoms that were not
+characteristic of DED. The former were cases with either a
+preclinical state of DED or neuropathic pain in which the
+somatosensory system was affected. The latter was considered
+to be related to reduced corneal sensitivity (a neurotrophic
+condition). Eyes with both signs and symptoms were classified
+as either aqueous-deficient or evaporative dry eye. Although
+this part of the classification was basically the same as previous
+classifications, there was a slight modification to clarify that
+there was a significant number of eyes that had both aqueous￾deficient and evaporative components, so that these two
+subcategories were not exclusive.
+In the diagnosis report, DEWS II listed a variety of
+diagnostic tests, which included questionnaires, tear film tests,
+epithelial abnormalities, and others.16 Although the report did
+not propose specific diagnostic criteria, it indicated the most
+appropriate (efficacious) tests to diagnose and monitor DED
+(Fig. 2).
+There are other groups that proposed definitions and/or
+diagnostic criteria. In 2006, a panel of international DED
+specialists established a consensus using the Delphi approach.
+In this report, the use of ‘‘dysfunctional tear syndrome (DTS)’’
+instead of DED was proposed.17 The report concluded that
+treatment strategies should rely on symptoms and signs rather
+than tests. The panel defined clinical signs to be considered in
+assessing the severity of DTS, which were used to develop a
+severity-based treatment algorithm. A major aim of the report
+was to establish a treatment algorithm; no specific definition or
+diagnostic criteria were suggested.
+The Korean Corneal Study Group suggested a DED
+definition and treatment algorithm in 2014. In the report, they
+define DED as ‘‘a disease of the ocular surface that is associated
+with tear film abnormalities.’’18 They proposed diagnostic
+criteria involving one or more symptoms (either irritating or
+visual symptoms), plus at least one objective sign including
+either ocular surface staining or tear film instability.
+A European group also proposed diagnostic criteria for
+severe DED. In this report, Baudouin and associates19 proposed
+that patients with a high ocular surface disease index (OSDI;
+>33) and increased corneal fluorescein score (‡3) were
+considered to have severe DED, whereas an OSDI <33 with a
+fluorescein score ‡3, OSDI ‡33 with a fluorescein score ¼ 2,
+or an OSDI ‡33 with a fluorescein score <2 were considered
+as severe DED if there were different DED findings, such as
+impaired corneal sensitivity, a breakup time (BUT) <5 seconds,
+and additional criteria (Fig. 3).
+RECENT PROGRESS REGARDING THE CONCEPT OF
+DED IN JAPAN
+The first definition and diagnostic criteria of DED were
+proposed by the Japan Dry Eye Society (JDES) in 1995, the
+same year that the NEI report was published. In this report,
+DED is defined as ‘‘Ocular surface epithelial damage caused by
+qualitative or quantitative abnormalities of tears.’’20 Diagnostic
+criteria were also proposed (Table 1). The definition and
+criteria had some similarities to those proposed by the NEI
+report; however, there were two distinct differences. First, the
+Japanese definition did not include the presence of subjective
+symptoms, based on the observation that end-stage DED
+patients with keratinized ocular surfaces seldom complained of
+irritating symptoms. Second, the Japanese dry eye guideline
+proposed cutoff values involving alterations in tears (Schirm￾er’s I test value  5 mm, cotton thread test  10 mm, or a BUT
+
+5 seconds) as well as epithelial damage (fluorescein score ‡1
+point [maximum ¼ 3] or Rose Bengal staining scores ‡3 points
+[maximum ¼ 9]).
+The second version of the Japanese dry eye definition and
+criteria was published in 2006. In the report, dry eye is defined
+as follows: ‘‘Dry eye is the chronic disease in tears and corneal/
+conjunctival epithelia caused by various factors. It may
+accompany irritating symptoms and/or visual disturbances.’’
+This definition differs from the previous version in that
+abnormalities in tears and ocular surface epithelia were
+considered to be reciprocal, forming a vicious cycle. It also
+suggests that multiple intrinsic or extrinsic factors contribute
+to the development of DED, including decreased tear
+secretion, Meibomian gland dysfunction, and wearing of
+contact lenses. The Japanese 2006 report included diagnostic
+FIGURE 3. Diagnostic criteria and scoring algorithm for DED proposed
+by the Ocular Dryness Disease Severity (ODISSEY) European Consen￾sus Group of dry eye specialists.19 The algorithm addresses the
+challenges associated with symptom and sign discordance in some
+cases of severe DED, and describes specific criteria relevant to
+evaluating DED severity in three different patient scenarios. Reprinted
+with permission from Baudouin C, Aragona P, Van Setten G, et al.
+Diagnosing the severity of dry eye: a clear and practical algorithm. Br J
+Ophthalmol. 2014;98:1168–1176. This is an Open Access article
+distributed in accordance with the Creative Commons Attribution Non￾Commercial (CC BY-NC 3.0) license.
+Definition and Diagnostic Criteria of Dry Eye Disease IOVS j Special Issue j Vol. 59 j No. 14 j DES9
+criteria of DED (Fig. 4),21,22 which included three categories of
+subjective symptoms, abnormalities of tears, and epithelial
+damage. The abnormalities of tears included a decreased BUT
+or Schirmer’s value, and the epithelial damage included
+positive staining scores (‡3 of 9 points) in either fluorescein,
+Rose Bengal, or Lissamine Green staining tests. One of the
+characteristics of the criteria was that there were two
+categories for DED diagnosis, involving definite dry eye and
+probable dry eye. These criteria were based on the assumption
+that all of the above-mentioned tests were sensitive enough to
+diagnose DED. Positive results for all three categories were
+sufficient to make a diagnosis of DED. However, eyes could
+have DED, even if only two of the three categories were
+positive, because the diagnostic tests may not be sufficiently
+accurate. It was suggested that the addition of other newly
+developed tests would increase the accuracy of the criteria;
+however, the committee decided to include only tests widely
+performed in general practice. Since the announcement of the
+JDES definition/criteria in 2006, it has been widely used by
+Japanese DED researchers, and has contributed to the
+promotion of DED studies.
+AWARENESS OF ‘‘SHORT BUT-TYPE DRY EYE’’
+Since the development of the second version of the dry eye
+definition and criteria, many Japanese DED specialists have
+recognized the importance of the so-called ‘‘short BUT-type dry
+eye’’ (sBUT dry eye). This type of DED is characterized by
+positive symptoms and decreased BUT ( 5 seconds) without
+notable epithelial damage. It was reported that 441 of 561
+office workers (78.6%) showed decreased BUT, and approxi￾mately 50% were categorized as having sBUT dry eye.23,24
+Previous studies reported that the severity of symptoms, as
+well as visual performance and mucin expression, of sBUT dry
+eye were comparable to those of typical aqueous-deficient dry
+eye.25–27 Although sBUT dry eye was considered to be a
+‘‘probable dry eye’’ by 2006 criteria, these findings indicated
+that sBUT dry eye should be managed in a similar manner as
+‘‘definite dry eye.’’ The importance of sBUT dry eye is further
+discussed by Tsubota.28
+THE DEVELOPMENT OF A 2016 DRY EYE DEFINITION
+The awareness of the importance of tear film instability in DED
+has led to a revision of the DED definition/criteria, with a new
+version proposed by the JDES in 2016. The importance of tear
+film instability has also been shared with other Asian
+ophthalmologists. Since the establishment of the Asia Dry
+Eye Society (ADES) in 2012, Asian dry eye specialists, including
+those in China, Korea, and Japan, have discussed the
+development of an ADES dry eye definition and criteria. The
+consensus was published in Ocular Surface in early 2017,29
+and was basically the same as the report by the JDES. In the
+report, the DED definition is, ‘‘Dry eye is a multifactorial
+disease characterized by unstable tear film causing a variety of
+symptoms and/or visual impairment, potentially accompanied
+by ocular surface damage.’’ This definition clearly states that
+the unstable tear film is the central component of DED. In
+addition, although the presence of subjective symptoms,
+including visual disturbance, was also important, the presence
+of epithelial damage was no longer essential. The new criteria
+TABLE 1. Diagnostic Criteria of the JDES, 1995 Version
+Category 1. Abnormalities of Tear:
+1. Schirmer’s test I  5 mm
+2. Cotton thread test  10 mm
+3. Breakup time  5 seconds
+Considered to be positive when any one of the tests is positive.
+Category 2. Ocular Surface Epithelial Damage:
+1. Fluorescein score ‡1 point (maximum of 3 points)
+2. Rose Bengal score ‡3 points (maximum 9 points)
+Considered to be positive when any one of the tests is positive.
+Diagnosis of DED:
+1. Definite dry eye if both category 1 and 2 are present
+2. Probably dry eye if category 1 or 2 is present
+FIGURE 4. Diagnostic criteria of DED proposed by the JDES (2006 version).21,22 The criteria consist of three components: subjective symptoms, tear
+function, and vital staining test. Patients positive for all three components are regarded as ‘‘definite dry eye,’’ whereas those positive for two of three
+components are regarded as ‘‘probable dry eye.’’
+Definition and Diagnostic Criteria of Dry Eye Disease IOVS j Special Issue j Vol. 59 j No. 14 j DES10
+were also published along with the ADES/JDES definition.
+According to the criteria, patients were considered to have
+DED when they had DED symptoms and decreased BUT ( 5
+seconds). Neither Schirmer’s value nor the presence of
+epithelial damage was a part of the criteria.
+As the new dry eye definitions/criteria of the ADES/JDES
+report are highly dependent on BUT measurements, training in
+the proper use of this test is of key importance. BUT
+measurements can sometimes be unreliable if an excessive
+amount of fluorescein solution is used, or a solution that may
+alter the tear film quality. Assessment of the appropriate cutoff
+value of the BUT may also be required. The JDES/ADES report
+proposed a cutoff value of ‡5 seconds, whereas the DEWS II
+report proposed a cutoff value of >10 seconds.
+COMPARISON OF THE CURRENT DEFINITION/CRITERIA
+BETWEEN DEWS II AND ADES/JDES
+The dry eye definitions proposed by the DEWS II and ADES/
+JDES have both similarities and differences (Table 2). Both
+definitions share the similar concept that tears and ocular
+surface epithelia form a communal environment, and disrup￾tion of the environment results in the development of DED;
+however, the core concepts of DED differ. The DEWS II
+definition included multiple potential pathogeneses in DED,
+including hyperosmolarity, ocular surface inflammation and
+damage, and neurosensory abnormalities as well as tear film
+instability. The DEWS II report emphasized the pathophysiol￾ogy of DED, whereas the ADES/JDES report emphasized the
+diagnostic value of the physician’s observations. The ADES/
+JDES report therefore placed the emphasis on ‘‘visible
+changes,’’ whereas the DEWS II report placed the emphasis
+on ‘‘invisible changes.’’ The differences could have been the
+result of the differences in committee members. The DEWS II
+committee was composed of both clinicians and researchers,
+whereas the ADES/JDES committee was composed exclusively
+of clinicians.
+FUTURE DIRECTIONS
+There has been rapid progress in basic and clinical research on
+DED over the past several decades, which has been reflected in
+changes in the definition and diagnostic criteria of DED. It
+should be noted, however, that all of the previous reports were
+generated based on expert consensus. Although some used
+systematic methods for decision making, such as voting or
+Delphi methods, they are regarded as ‘‘authority-based’’ rather
+than ‘‘evidence-based.’’ In addition, some of the reports had
+financial support from pharmaceutical companies, which may
+have influenced the direction of the discussion. Further
+progress in dry eye research would generate more compre￾hensive and clinically relevant dry eye definitions and criteria.
+The JDES recently proposed the concept of ‘‘tear film–
+oriented diagnosis (TFOD)’’ and ‘‘tear film–oriented treatment
+(TFOT)’’ (see a later chapter). In this concept, it is important to
+distinguish which tear film components (lipid, aqueous tear, and
+mucins) are compromised, and subsequent treatments should
+be used to compensate for the corresponding abnormal
+components. Observation of the tear film breakup pattern may
+provide important insight into identify abnormal components.30
+This concept is discussed in detail by Yokoi and Georgiev.31
+Poor correlations between signs and symptoms in DED have
+been a challenging issue in DED research. Many recent studies
+have emphasized the importance of neurosensory abnormali￾ties in DED, as indicated in the DEWS II report; however, no
+clinically useful method for assessing this component is
+currently available. The goal of DED treatment is to alleviate
+the patient’s discomfort, so future research should be directed
+toward developing diagnostic measures that correlate with the
+patient’s symptoms. The current definitions and criteria of
+DED should then be revised in accordance with the progress of
+such studies.
+Acknowledgments
+Funding of the publication fee and administration was provided by
+the Dry Eye Society, Tokyo, Japan. The Dry Eye Society had no role
+in the contents or writing of the manuscript.
+Disclosure: J. Shimazaki, Santen Pharmaceutical Company (F, C,
+R), Otsuka Pharmaceutical Company (F, R), Senju Pharmaceutical
+Company (F)
+References
+1. Lemp MA. Report of the National Eye Institute/Industry
+workshop on clinical trials in dry eyes. CLAO J. 1995;21:221–
+232.
+2. American Academy of Ophthalmology. Dry eye syndrome
+preferred practice pattern—2013. Available at: https://www.
+aao.org/preferred-practice-pattern/dry-eye-syndrome￾ppp–2013. Accessed December 2, 2017.
+TABLE 2. Comparison of Dry Eye Definition and Diagnostic Criteria Between JDES/ADES and DEWS II
+JDES/ADES DEWS II
+Definition A multifactorial disease characterized by unstable tear film
+causing a variety of symptoms and/or visual impairment,
+potentially accompanied by ocular surface damage.
+A multifactorial disease of the ocular surface characterized by
+a loss of homeostasis of the tear film, and accompanied by
+ocular symptoms, in which tear film instability and
+hyperosmolarity, ocular surface inflammation and damage,
+and neurosensory abnormalities play etiological roles.
+Criteria Presence of subjective symptom
+plus
+BUT <5 seconds
+Positive symptomatology (Dry Eye Questionnaire-5 >5 or
+OSDI >13),
+plus
+noninvasive BUT <10 seconds,
+or
+Osmolarity >308 mOsm/L or interocular difference >8
+mOsm/L,
+or
+Ocular surface staining (>5 corneal spots, >9 conjunctival
+spots, or lid margin)
+Definition and Diagnostic Criteria of Dry Eye Disease IOVS j Special Issue j Vol. 59 j No. 14 j DES11
+3. Tear Film & Ocular Surface Society. The definition and
+classification of dry eye disease: report of the Definition and
+Classification Subcommittee of the International Dry Eye
+Workshop (2007). Ocul Surf. 2007;5:75–92.
+4. Craig JP, Nichols KK, Akpek EK, et al. TFOS DEWS II definition
+and classification report. Ocul Surf. 2017;15:276–283.
+5. Bron AJ, Tiffany JM. The contribution of meibomian disease to
+dry eye. Ocul Surf. 2004;2:149–165.
+6. Lemp MA. Evaluation and differential diagnosis of keratocon￾junctivitis sicca. J Rheumatol Suppl. 2000;61:11–14.
+7. Sullivan DA, Sullivan BD, Evans JE, et al. Androgen deficiency,
+Meibomian gland dysfunction, and evaporative dry eye. Ann
+N Y Acad Sci. 2002;966:211–222.
+8. Stern ME, Beuerman RW, Fox RI, Gao J, Mircheff AK,
+Pflugfelder SC. The pathology of dry eye: the interaction
+between the ocular surface and lacrimal glands. Cornea.
+1998;17:584–589.
+9. Goto E, Yagi Y, Matsumoto Y, Tsubota K. Impaired functional
+visual acuity of dry eye patients. Am J Ophthalmol. 2002;133:
+181–186.
+10. Liu Z, Pflugfelder SC. Corneal surface regularity and the effect
+of artificial tears in aqueous tear deficiency. Ophthalmology.
+1999;106:939–943.
+11. Rieger G. The importance of the precorneal tear film for the
+quality of optical imaging. Br J Ophthalmol. 1992;76:157–
+158.
+12. Murube J. Tear osmolarity. Ocul Surf. 2006;4:62–73.
+13. Pflugfelder SC, Jones D, Ji Z, Afonso A, Monroy D. Altered
+cytokine balance in the tear fluid and conjunctiva of patients
+with Sj¨ogren’s syndrome keratoconjunctivitis sicca. Curr Eye
+Res. 1999;19:201–211.
+14. Tomlinson A, Khanal S, Ramaesh K, Diaper C, McFadyen A.
+Tear film osmolarity: determination of a referent for dry eye
+diagnosis. Invest Ophthalmol Vis Sci. 2006;47:4309–4315.
+15. Belmonte C, Nichols JJ, Cox SM, et al. TFOS DEWS II pain and
+sensation report. Ocul Surf. 2017;15:404–437.
+16. Wolffsohn JS, Arita R, Chalmers R, et al. TFOS DEWS II
+diagnostic methodology report. Ocul Surf. 2017;15:539–574.
+17. Behrens A, Doyle JJ, Stern L, et al. Dysfunctional tear
+syndrome: a Delphi approach to treatment recommendations.
+Cornea. 2006;25:900–907.
+18. Hyon JY, Kim HM, Lee D, et al. Korean guidelines for the
+diagnosis and management of dry eye: development and
+validation of clinical efficacy. Korean J Ophthalmol. 2014;28:
+197–206.
+19. Baudouin C, Aragona P, Van Setten G, et al. Diagnosing the
+severity of dry eye: a clear and practical algorithm. Br J
+Ophthalmol. 2014;98:1168–1176.
+20. Shimazaki J. Definition and diagnostic criteria of dry eye [in
+Japanese]. Ganka. 1995;37:765–770.
+21. Uchino M, Yokoi N, Uchino Y, et al. Prevalence of dry eye
+disease and its risk factors in visual display terminal users: the
+Osaka study. Am J Ophthalmol. 2013;156:759–766.
+22. Shimazaki J; Japanese Dry Eye Society. Definition and
+diagnosis of dry eye 2006 [in Japanese]. Atarashii Ganka.
+2007;24:181–184.
+23. Uchino M, Schaumberg DA, Dogru M, et al. Prevalence of dry
+eye disease among Japanese visual display terminal users.
+Ophthalmology. 2008;115:1982–1988.
+24. Yokoi N, Uchino M, Uchino Y, et al. Importance of tear film
+instability in dry eye disease in office workers using visual
+display terminals: the Osaka study. Am J Ophthalmol. 2015;
+159:748–754.
+25. Kaido M, Ishida R, Dogru M, Tsubota K. Visual function
+changes after punctal occlusion with the treatment of short
+BUT type of dry eye. Cornea. 2012;31:1009–1013.
+26. Koh S, Maeda N, Hori Y, et al. Effects of suppression of
+blinking on quality of vision in borderline cases of evaporative
+dry eye. Cornea. 2008;27:275–278.
+27. Shimazaki-Den S, Dogru M, Higa K, Shimazaki J. Symptoms,
+visual function, and mucin expression of eyes with tear film
+instability. Cornea. 2013;32:1211–1218.
+28. Tsubota K. Short tear film breakup time–type dry eye. Invest
+Ophthalmol Vis Sci. 2018;59:DES64–DES70.
+29. Tsubota K, Yokoi N, Shimazaki J, et al. New perspectives on
+dry eye definition and diagnosis: a consensus report by the
+Asia Dry Eye Society. Ocul Surf. 2016;15:65–76.
+30. Yokoi N, Georgiev GA, Kato H, et al. Classification of
+fluorescein breakup patterns: a novel method of differential
+diagnosis for dry eye. Am J Ophthalmol. 2017;180:72–85.
+31. Yokoi N, Georgiev GA. Tear film–oriented diagnosis and tear
+film–oriented therapy for dry eye based on tear film dynamics.
+Invest Ophthalmol Vis Sci. 2018;59:DES13–DES22.
+Definition and Diagnostic Criteria of Dry Eye Disease IOVS j Special Issue j Vol. 59 j No. 14 j DES12

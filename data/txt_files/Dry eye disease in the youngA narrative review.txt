@@ -1,0 +1,838 @@
+The Ocular Surface 31 (2024) 11–20
+Available online 7 December 2023
+1542-0124/© 2023 The Authors. Published by Elsevier Inc. This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/).
+Dry eye disease in the young: A narrative review 
+Fiona Stapleton a,*
+, Federico G. Velez b,c
+, Charis Lau d
+, James S. Wolffsohn e 
+a School of Optometry and Vision Science, UNSW Sydney, New South Wales, Australia b Department of Ophthalmology, University of California Los Angeles, Los Angeles, CA, USA c Department of Ophthalmology, Duke University, Durham, NC, USA d MWL Consulting LLC, Phoenix, AZ, USA e School of Optometry, Aston University, Birmingham, UK 
+ARTICLE INFO 
+Keywords: 
+Adolescents 
+Diagnosis 
+Dry eye disease 
+Pediatric 
+Prevalence 
+Risk factors 
+Treatment 
+ABSTRACT 
+Dry eye disease (DED), a multifactorial ocular disease that significantly impacts quality of life, is most commonly 
+reported in adults. This review describes the prevalence, risk factors, diagnosis and management of DED in 
+children. A literature search, conducted from January 2000–December 2022, identified 54 relevant publications. 
+Using similar diagnostic criteria to those reported in adults, namely standardized questionnaires and evaluation 
+of tear film homeostatic signs, the prevalence of DED in children ranged from 5.5% to 23.1 %. There was limited 
+evidence for the influence of ethnicity in children, however some studies reported an effect of sex in older 
+children. Factors independently associated with DED included digital device use, duration of digital device use, 
+outdoor time and urban living, Rates of DED were higher in children with ocular allergy and underlying systemic 
+diseases. Compared with similar studies in adults, the prevalence of a prior DED diagnosis or a diagnosis based on 
+signs and symptoms was lower in children, but symptoms were commonly reported. Treatment options were 
+similar to those in adults, including lifestyle modifications, blinking, management of lid disease and unpreserved 
+lubricants in mild disease with escalating treatment with severity. Management requires careful exploration of 
+symptoms, medical history and the diagnosis and management of ocular comorbidities such as allergy and 
+anterior blepharitis. Appropriately powered population-based studies are required to understand the prevalence 
+of and risk factors for DED in children. Development of age-appropriate thresholds for signs and symptoms of 
+DED would support better diagnosis of disease and understanding of natural history. 
+1. Introduction 
+Dry eye disease (DED) is one of the most common reasons for visits to 
+an eye care practitioner [1]. The Tear Film & Ocular Surface Society 
+(TFOS) Dry Eye Workshop (DEWS) II defines DED as “a multifactorial 
+disease of the ocular surface characterized by a loss of homeostasis of the 
+tear film, and accompanied by ocular symptoms, in which tear film 
+instability and hyperosmolarity, ocular surface inflammation and dam￾age, and neurosensory abnormalities play etiological roles” [2]. Patients 
+with DED report redness, burning and stinging, ocular dryness, photo￾phobia, foreign body sensation, grittiness, and visual disturbance, all of 
+which significantly affect quality of life, such that up to 34 % of sufferers 
+report impairment in daily activities [3,4]. The management and 
+treatment of DED include patient education, environmental changes, 
+dietary or lifestyle modifications, tear retention, replacement and 
+stimulation approaches, ocular surface protection and topical and/or 
+systemic anti-inflammatory medications, and in more severe cases, 
+surgical intervention [5]. 
+DED is a critical and significant public health issue affecting ~344 
+million people worldwide and over 20 million in the United States alone 
+[6]. DED is considered a disease of adulthood, with an estimated prev￾alence ranging from 5% to 30 % in individuals aged ≥50 years and is 
+higher in women [7,8]. Although the prevalence of DED increases with 
+age in individuals older than 40 years, there are limited 
+population-based studies in younger age groups [7,9]. Conceivably, the 
+prevalence of DED in younger age groups may be under- or 
+over-estimated due to challenges in diagnosis in this population, 
+including the appropriateness or difficulty in use of the established 
+questionnaires, difficulties in testing young populations [9], and the lack 
+of agreed upon cut-off values for what are considered normal signs and 
+symptoms in this population. 
+Young people with DED appear to experience a similar profile of 
+symptoms to adults [9–11], and the impact of DED on quality of life is 
+* Corresponding author. School of Optometry and Vision Science, UNSW Sydney, Sydney, NSW, 2052, Australia. 
+E-mail address: f.stapleton@unsw.edu.au (F. Stapleton). 
+Contents lists available at ScienceDirect 
+The Ocular Surface 
+journal homepage: www.elsevier.com/locate/jtos 
+https://doi.org/10.1016/j.jtos.2023.12.001 
+Received 8 September 2023; Received in revised form 1 December 2023; Accepted 4 December 2023 
+The Ocular Surface 31 (2024) 11–20
+12
+considerable, with effects on presenteeism, concentration, and perfor￾mance at school and other activities, including reading and playing 
+[9–11]. Risk factors for DED in young people may include changes in 
+lifestyle associated with the increased use of electronic/digital media 
+devices, allergies, inflammatory conditions, poor nutrition, and diabetes 
+[9–11]. 
+With lifestyle changes including those prompted by digital trans￾formation and the pandemic, the risk of DED in young populations may 
+be changing. The purpose of this review is to explore the epidemiology 
+of DED in young people <18 years of age and describe current diagnostic 
+and management approaches. 
+2. Methods 
+A literature search was performed on PubMed using the following 
+search terms: (dry eye disease OR DED) AND (pediatric OR paediatric OR 
+adolescents OR child OR infants) AND (Diagnosis OR Treatment OR Risk 
+Factors OR Management OR Prevalence). Studies in young individuals 
+(mean age <18 years) and only English-language articles published 
+between January 2000 and December 2022 for which full texts were 
+available were included. Additional records identified through cross￾referencing from the reference lists of publications identified were also 
+included. The resulting citations were exported to Microsoft Excel® and 
+were manually reviewed by the authors to identify relevant publications 
+(Fig. 1). 
+The unadjusted prevalence of DED among young people aged <18 
+years retrieved from population-based studies was reported based on 
+age, ethnicity, sex, and diagnostic classification. Ninety-five percent 
+confidence intervals (CIs), if not reported in the paper, were calculated 
+using the online software http://vassarstats.net with continuity correc￾tion [12]. 
+Risk factors were reported from cohort, case control, and either 
+population or hospital-based studies and independent risk factors were 
+included where available. Systemic diseases including Vitamin A defi￾ciency, Sjӧgren syndrome were described separately. Diagnostic and 
+management approaches were summarized. 
+3. Results 
+The literature search yielded 2633 articles and 54 eligible studies 
+were identified, after screening and removal of duplicates (Fig. 1). 
+Abbreviations 
+CLDEQ contact lens dry eye questionnaire 
+CsA Cyclosporine A 
+CVSS17 Computer-Vision Symptom Scale 
+DED dry eye disease 
+DEQS Dry Eye–Related Quality-of-Life Score 
+DEWS Dry Eye Workshop 
+FTBUT fluorescein tear film breakup time 
+GVHD Graft-versus-host-disease 
+HSCT hematopoietic stem cell transplantation 
+OCI ocular comfort index 
+IOSS instant ocular symptoms survey 
+JRA juvenile rheumatoid arthritis 
+MGD meibomian gland dysfunction 
+OSDI Ocular Surface Disease Index 
+SANDE Symptoms Assessment in Dry Eye 
+SPEED the Standardized Patient Evaluation of Eye Dryness 
+TBUT tear film breakup time 
+T1DM type 1 diabetes mellitus 
+TFOS Tear Film & Ocular Surface Society 
+WHS Women’s Health Study 
+Fig. 1. Flow chart showing publication screening and inclusion 
+*Search string used: (dry eye disease OR DED) AND (pediatric OR paediatric OR adolescents OR child OR infants) AND (Diagnosis OR Treatment OR Risk Factors OR 
+Management OR Prevalence); †
+Includes cross-references from the records identified from PubMed. 
+F. Stapleton et al. 
+The Ocular Surface 31 (2024) 11–20
+13
+3.1. Prevalence of DED 
+The diagnostic criteria for DED used in studies identified in this re￾view broadly included: 
+1. The Women’s Health Study (WHS) criteria, which defined DED as a 
+prior diagnosis of DED made by a clinician and/or severe symptoms 
+(both dryness and irritation either constantly or often) [13]. 
+2. The Tear Film and Ocular Surface Dry Eye Workshop II (TFOS DEWS 
+II), Asia Dry Eye Society and Japanese Dry Eye Society criteria, 
+which all required both symptoms and signs of disease to be present. 
+Some studies did however vary the reference values for diagnosis. 
+a. The TFOS DEWS II criteria included positive symptoms reported 
+using DEQ-5 (score ≥6) or OSDI (score ≥13) questionnaires and at 
+least one positive homeostasis marker, either tear breakup time 
+(TBUT <10 s; recommended to be measured non-invasively), tear 
+osmolarity above 308mOsm/L or a interocular difference of 
+7mOsm/L or ocular surface staining (greater than grade 1, Efron 
+Scale) [2]. 
+b. The Asia Dry Eye Society criteria defined definite DED as positive 
+symptoms (OSDI score ≥13) and TBUT ≤5 s [14]. 
+c. The Japanese Dry Eye Society criteria required the presence of 
+any DED symptom using the Dry Eye–Related Quality-of-Life 
+Score (DEQS) instrument, tear abnormalities (Schirmer 1 test 
+≤5 mm or TBUT ≤5s), and ocular surface staining greater than 3 
+points out of 9) [15]. 
+Of the 54 publications identified, 16 reported some measure of dis￾ease frequency in the young population over the last 20 years and six of 
+the 16 were population-based. The prevalence ranged from 5.5% to 
+65.4 % in population-based studies. Population-based studies reporting 
+the frequency of ocular symptoms estimated symptoms to range from 
+8.7% to 65.4 %; those using the Women’s Health Study (WHS) criteria 
+ranged from 23.7 to 26.6 %, those reporting symptoms and at least one 
+sign as recommended by the TFOS DEWS II, Asia Dry Eye Society or 
+Japanese Dry Eye Society criteria ranged from 5.5% to 15.7 % (Table 1). 
+Of the six population-based studies, five reported the prevalence of DED 
+in East Asia including Korea, China, Japan, and Taiwan [11,14,16–18]. 
+3.1.1. Population-based prevalence 
+3.1.1.1. Prevalence in studies using the WHS criteria. In a study of 3433 
+Japanese individuals aged 15–18 years [19], 4.3 % of males and 8.0 % of 
+females had a prior diagnosis of DED and severe symptoms were 
+observed in 21.0 % of males and 24.4 % of females [17]. A similar 
+prevalence of severe symptoms (23.1 %) was reported in a recent Chi￾nese study of 1885 senior high school students [18]. There was no effect 
+of sex and low rate (1.3 %) had a prior diagnosis of DED. 
+3.1.1.2. Prevalence in studies using the TFOS DEWS II, Asia Dry Eye So￾ciety or Japanese Dry Eye Society criteria. Three population-based studies 
+in East Asia have reported similar disease prevalence using a combina￾tion of signs and symptoms of DED. The prevalence of DED defined using 
+a modified TFOS DEWS II criteria (OSDI score >20, ocular surface 
+staining or TBUT <10 s), in 916 Korean children aged 7–12, was 6.6 %. 
+There was a higher prevalence of DED in urban versus rural locations 
+(8.3 % vs 2.8 %; p = 0.03) and in higher school grades (those aged 10–12 
+years; 9.1 %) compared to lower school grades (those aged 7–9 years; 
+4.0 %, p = 0.03) [11]. Similarly, 2694 Chinese primary school students 
+between 7 and 8-years-old, the prevalence of DED using the Asia Dry Eye 
+Society criteria was 5.5 % (95 % CI 4.7–6.4) with symptoms (OSDI ≥13) 
+reported by 8.7 % (95 % CI 7.6–9.8) [14]. A slightly but not statistically 
+higher rate was reported using the Japanese Dry Eye Society criteria in 
+Japanese children aged 10, where prevalence was estimated at 16.8 % 
+(95 % CI 4.1–24.4) [16]. 
+3.1.1.3. Prevalence by symptoms. The prevalence of symptoms of ocular 
+surface disease in a high-school students in Mexico (n = 759, mean age 
+of 16 years) was 65.4 % based on an OSDI score of ≥13. Prevalence by 
+severity was estimated at 18.6 % (mild; OSDI 13–22), 15.7 % (moderate; 
+OSDI 23–32) and 31.1 % (severe; OSDI 33–100) [19]. Female students 
+consistently had higher OSDI scores than males [19]. 
+3.1.2. Non-population–based prevalence studies 
+Five hospital, medical records or clinic audits have been conducted 
+using convenience samples over a wide geographical area, including 
+USA, India, Japan, New Zealand and the Middle East. Rate of disease 
+ranged from 0.4 % (hospital medical records audit in India [10])-76 % 
+(pediatric ophthalmology clinic in Saudi Arabia) [23]. The inclusion 
+criteria vary widely, and these data likely have limited generalizability 
+to the population. The prevalence of dry eye symptoms in 225 American 
+school students aged 8–17 years attending a university eye clinic was 17 
+% (both Standardized Patient Evaluation of Eye Dryness (SPEED) and 
+OSDI scores of >6 and ≥ 13, respectively) [22]. 
+In Japan, prevalence of DED was determined in 323 adolescents 
+recruited from six eye clinic, based on the Japanese Dry Eye Society 
+criteria. There was no difference in the rate of DED between early 
+adolescent (10-15 years-old) boys (13.0 %, 95 % CI 5.1–20.9) and girls 
+(12.8 %, 95 % CI 6.2–19.8). However, the rate in older girls (16–19 
+years) was 22.1 % (95 % CI 13.7–30.3) and boys 10.8 % (95 % CI 
+3.4–18.6) [15]. 
+One small study directly examined the effect of ethnicity in DED in 
+70 children aged 5–18 years attending a research clinic in New Zealand. 
+Based on the TFOS DEWS II diagnostic criteria, the prevalence of DED 
+was 15.7 %. A higher proportion of the Asian population had incomplete 
+blinking (p < 0.001) and meibomian gland shortening (p < 0.05) 
+compared with Caucasians [24]. 
+In a US insurance claims audit of 9,732,272 individuals aged above 2 
+years, the prevalence of severe DED in those aged 2–17 years old of 0.2 
+% compared with 11.7 % in those over 50 years. This was estimated 
+using the diagnostic codes indicating DED care and the prescribing of 
+topical cyclosporine, perhaps indicative of more severe disease. Within 
+this age group, the prevalence was approximately double in young fe￾males compared to males (0.27 % vs 0.13 %) [20]. A similar approach to 
+auditing insurance claims data in in 2917 children aged 0–17 in Taiwan, 
+but only focussing on ICD-10 coding, medicine prescribing code and 
+clinical features aligned with DED, established a disease prevalence of 
+18.1 % [21]. 
+3.1.3. Xeropthalmia 
+Xerophthalmia refers to the pathological dryness of the conjunctival 
+epithelium caused by dietary vitamin A deficiency [25]. The prevalence 
+of xerophthalmia in young patients is reported in Table 2. 
+In a Cambodian population aged 18–60 months (n = 10,942), the 
+adjusted prevalence for a history of night blindness was 0.7 % [26]. Two 
+Indian studies, one in preschool children aged <5 years and the second, 
+a house-to house survey involving children aged 0–15 years, estimated 
+the prevalence of xerophthalmia, based on both signs and symptoms, to 
+be 3.4%–5.4 % [25,27]. 
+3.2. Risk factors for DED 
+Of the 54 eligible studies, 30 suggested potential risk factors for or 
+associations with DED in a young population. Most studies were not 
+hypothesis driven; some did not include an unaffected control group and 
+may not have been adequately powered to identify independent risk 
+factors. 
+3.2.1. Demographic characteristics 
+In adults, the most consistently reported demographic features of 
+DED include age, female sex and Asian ethnic background [7]. Limited 
+data exist on the impact of age on DED in those under 18 years (Table 1). 
+F. Stapleton et al. 
+The Ocular Surface 31 (2024) 11–20
+14
+F. Stapleton et al. Table 1 The prevalence of DED in a young population. Publication Study design Diagnostic criteria Country Sample size Age Prevalence (95 % CI) Prevalence by sex (95 % CI) Population-based studies Prior diagnosis or severe symptoms of DED (WHS) Uchino et al. (2008) [17] Cross-sectional survey of high school students WHS criteria based on prior diagnosis or severe symptoms Japan 3433 15–18 years All DED: 26.6 % Prior diagnosis: 4.9 % (4.2–5.7) Severe symptoms: 21.6 % (20.2–23.0) Prior diagnosis: M: 4.3 % (3.9–4.6) F: 8.0 % (7.4–8.4) Severe symptoms: M: 21.0 % (20.1–21.8) F: 24.4 % (23.9–25.0) Zhang et al. (2012) [18] Cross-sectional survey of senior high school students WHS criteria based on prior diagnosis or severe symptoms of DED China 1889 Senior high school students* All DED: 23.7 % Prior diagnosis: 1.3 % (0.9–2.0) Severe symptoms 23.1 % (21.3 %− 25.1 %) M: 24.9 % (22.2–27.8) F: 22.6 % (20.3–25.7) Symptoms + at least one sign (similar to TFOS DEWS/Japanese Dry Eye Society/Asia Dry Eye Society) Moon et al. (2016) [11] Cross-sectional study of primary school children Ocular surface staining or TBUT <10 s plus OSDI score >20 Korea 916 7–12 years All DED: 6.6 % (5.1–8.3) Urban vs rural areas: 8.3 % vs 2.8 % (p = 0.03) Not reported Arita et al. (2019) [16] Population based cross- sectional study Presence of any DED symptom (DEQS) and FTBUT of ≤5 s Japan (Takushima Island) 356 6–19 years 10.9 % (95 % CI 4.1–24.4) Adjusted odds ratio: Sex (M/F) 0.31x (0.2–0.6) Ma J et al., 2022 [14] Population-based cross- sectional study Asia Dry Eye Society criteria: OSDI ≥13 points; and TBUT ≤5 s. China 2694 7–8 years Symptoms only 8.7 % (95 % CI 7.6–9.8) Symptoms and sign: 5.5 % (95 % CI 4.7–6.4) Symptoms: @1.5x more common in F across all severities Symptoms only Garza-Leon ´ et al., 2021 [19] A cross -sectional, high school–based survey Ocular Surface Disease Index (OSDI) score, categorized as 13–22 (mild), 23–32 (moderate) and 33–100 (severe) Mexico 759 15–20 years All DED: 65.4 % (62.0–68.7) Mild: 18.6 % (16.0–21.5) Moderate: 15.7 % (13.3–18.4) Severe: 31.1 % (27.9–34.5) M vs F Mild disease: 22 % (CI 17.6–26.4) vs 15.8 % (CI 12.5–19.5) Moderate disease: 15.5 % (CI 11.2–18.8) vs 15.8 % (CI 12.5–19.5) Severe disease: 22.9 % (CI 18.5–27.5) vs 37.6 % (TBC) Health or insurance claim database estimates Dana et al. (2019) [20] Retrospective analysis US medical claims database, searched for diagnostic codes indicative of DED or related conditions, procedures, or treatments US 9,732,272 2-≥80 years DED: 5.3 % (5.3–5.3 %) Age 2–17 years: 0.20 % (0.2–0.2) 18–39 years: 2.0 % (2.0–2.0) 40–49 years:5.7 % (5.7–5.8) 50+ years – 11.7 % (11.6–11.7) M vs F 0.13 % vs 0.27 % Hung et al., 2021 [21] Retrospective analysis Taiwan National Health Insurance Research Database (1997–2013) searched for diagnostic code, drug codes, and clinical data (Schirmer I < 5 mm, corneal surface damage) Taiwan 2917 0–17 years 18.1 % (16.7–19.5) Not reported Non-population-based hospital or eye clinic studies 
+Ayaki et al. 
+(2018) [15] 
+Cross-sectional study from 6 
+eye clinics 
+Japanese Dry Eye Society criteria based on signs and 
+symptoms 
+Japan 323 10–19 years 15.2 % (95 % CI 11.6–19.5) M vs F: 13.0 % (CI 5.1–20.9) vs 
+12.8 % (CI 6.2–19.8) (early 
+adolescence); 
+10.8 % (CI 3.4–18.6) vs 22.1 % 
+(continued on next page) 
+The Ocular Surface 31 (2024) 11–20
+15
+F. Stapleton et al. Table 1 (continued ) Publication Study design Diagnostic criteria Country Sample size Age Prevalence (95 % CI) Prevalence by sex (95 % CI) (CI 13.7–30.3) (late adolescence) Tichenor et al. (2019) [22] Cross-sectional study, University eye clinic-based population Symptoms only based on SPEED >6 and OSDI≥13 US 225 8–17 years 17 % (95 % CI 12.6–22.3) Not reported Donthineni et al. (2020) [10] Cross-sectional, hospital- based study EyeSmart electronic medical record audited for both symptoms and signs of DED, including of meibomian gland dysfunction India 259,969 Mean: 15.2 years All DED: 0.4 % (0.37–0.41) Not reported Alnahdi et al., 2022 [23] Cross-sectional study, outpatient pediatric ophthalmology clinic Symptoms only based on OSDI ≥13, mild 13–22, moderate 23–32, severe >33 Saudi Arabia 329 1–18 years 76.1 % Severity: Mild 13.3 %; Moderate: 18.8 % Severe: 43.9 % M vs F: 73 % vs 79 % Kim et al., 2019 [24] University research centre, observational study Signs per TFOS DEWS II criteria (TBUT <10 s; or tear osmolarity above 308mOsm/L or interocular difference of 7mOsm/L or ocular surface staining >1) and OSDI score >13 New Zealand 70 5–18 years 15.7 % (9.0–26.0) ~2x higher in Asian compared with Caucasian ethnic background Not reported *Age range not reported. CI, confidence intervals; DED, dry eye disease; DEWS II, Dry Eye Workshop II; KCS, keratoconjunctivitis sicca; OSDI, Ocular Surface Disease Index; SPEED, Standardized Patient Evaluation of Eye Dryness; TFOS, Tear Film & Ocular Surface Society; M, male; F, female; TBUT, tear breakup time; FTBUT, fluorescein breakup time; WHS, Women’s Health Study. Table 2 The prevalence of xeropthalmia. Publication Study design Diagnostic criteria Country Sample size Age Prevalence (95 % CI) Prevalence by sex (95 % CI) History of night blindness Semba et al. (2004) [26] Household survey using a case-control design Parent/guardian reported history of night blindness Cambodia 10,942 1.5–5 years 0.7 % (0.6–0.9) – Signs and symptoms Pal and Sagar (2008) [25] Cross-sectional study amongst preschool children from 14 villages Xerophthalmia based on the presence of Bitot’s spots and symptoms of night blindness India 4205 0.5–5.9 years Xerophthalmia in children less than 5 years: 3.4 % (2.9–4.0) – Agrawal et al. (2013) [27] Cross-sectional, house-to-house survey Night blindness and ocular examination showing conjunctival xerosis and Bitot’s Spots India 802 0–15 years Xerophthalmia: 5.4 % (4.0–7.1) M vs F: 6.1 % vs 4.5 % 
+The Ocular Surface 31 (2024) 11–20
+16
+The association between female sex and DED is equivocal in children. 
+Some population-based studies have reported a higher rate of DED in 
+young Asian females compared with males, using the WHS criteria [17], 
+Japanese [26] and Asia Dry Eye Society [14] criteria. Sex differences 
+appear to be more marked in older children, but there are limited 
+appropriately powered studies. 
+Similarly, the impact of ethnicity in a pediatric population is 
+equivocal, with one small study reporting higher rates in Asian than 
+Caucasian children in New Zealand [24]. Most studies have been con￾ducted in Asian (Chinese, Japanese, or Korean) populations and there 
+are limited comparable studies in Caucasian populations (Table 1). 
+3.2.2. Ocular or systemic associations 
+Risk factors for DED can include congenital, autoimmune, endocrine, 
+and inflammatory disorders. The most common conditions reported are 
+described below. 
+3.2.2.1. Meibomian gland dysfunction. While MGD is an established risk 
+factor in adult DED [7] and is associated with the subsequent develop￾ment of more severe disease [28], the association between DED in 
+childhood and MGD is less clear. 
+A hospital-based cross-sectional study exploring DED among chil￾dren and adolescents in India showed significant differences in the 
+causes of dry eye by age group, with evaporative dry eye more common 
+in adolescents than in the younger children and aqueous-deficient dis￾ease is more common in infancy and early childhood, due to Steven￾s–Johnson syndrome and vitamin A deficiency [10]. 
+3.2.2.2. Ocular allergy. Ocular allergy affects 1 in 5 adolescents [29], 
+however, its association with DED has not been fully explored in a young 
+population. Allergic conjunctivitis was independently associated with 
+DED (per the Asia Dry Eye Society definition) and with an OSDI score of 
+≥13 in a population-based study of 7–8 year-old children in China [14]. 
+Three smaller studies from China (n = 163, 6–18 years old), South Korea 
+(n = 100, 6–15 years old) and Turkey (n = 49, 6–18 years old) have 
+reported a combination of increased DED symptoms and tear homeo￾stasis signs (reduced Schirmer test, TBUT, tear meniscus height and lipid 
+layer thickness) and reduced blink rate in children with allergic 
+conjunctivitis compared to those without [30–32]. These findings sug￾gest consideration of ocular allergy as a comorbidity in pediatric DED 
+and the need for appropriately powered population-based studies with a 
+larger age range in different population groups to further explore these 
+associations. 
+3.2.2.3. Diabetes and insulin resistance. Diabetes is a consistent inde￾pendent risk factor for DED in adults [7], however most studies in young 
+people have compared ocular signs and symptoms in those with diabetes 
+and those without rather than evidence being derived from appropri￾ately powered population-based studies [33,34]. The associations be￾tween duration of diabetes [34], corneal sensation and glycosylated 
+hemoglobin levels [33] and DED appear to be equivocal. Obese children, 
+particularly those with insulin resistance, have reduced tear film pro￾duction and stability compared with normal children [35]. 
+3.2.2.4. Inflammatory and autoimmune diseases. Connective tissue dis￾orders resulting in autoantibody production, including rheumatoid 
+arthritis, Sjogren ¨ syndrome, systemic lupus erythematosus, systemic 
+sclerosis, relapsing polychondritis and anklylosing spondylitis are 
+independently associated with DED in adults [36]. Population-based 
+studies to confirm associations in children have not been robustly con￾ducted, although there is some lower-level evidence from observational 
+studies, hospital audits and case reports. 
+Sjogren ¨ syndrome occurs in 10 % of adults with severe aqueous￾deficient DED [37] and is overrepresented in DED compared with a 
+rate of 0.5 % in the general population [38]. Case series have described 
+Sjogren ¨ syndrome-related DED in those under 18 [39], and in a 
+hospital-based cohort of pediatric DED, primary or secondary Sjogren ¨
+syndrome was reported in 6.4 % of children and adolescents with DED 
+[10]. 
+Juvenile idiopathic arthritis describes a group of connective tissue 
+diseases in children, in whom signs and symptoms of DED may be 
+overrepresented. The evidence is low level and in two small clinic 
+studies of children with juvenile rheumatoid arthritis, up to 75 % of 
+those with symptoms of DED (n = 40) had ocular signs of DED [40] and 
+35 % (n = 120) had an anesthetized Schirmer result of ≤10 mm and at 
+least one ocular symptom [41]. 
+Graft-versus-host-disease (GVHD), is a serious complication of allo￾genic bone marrow transplantation or hematopoietic stem cell trans￾plantation, used in the treatment of hematological malignancies, which 
+is associated with DED in adults [7] Several small observational studies 
+in GVHD reported that up 60 % of children and adolescents may expe￾rience DED when followed for up to 7 years post-hematopoietic stem cell 
+transplantation [42–44]. 
+Muco-cutaneous reactions to medications including Stevens-Johnson 
+syndrome and toxic epidermal necrolysis can involve the ocular surface 
+and be both vision and life-threatening. In 643 children and adolescents 
+up to 18 years old seeking eyecare for DED across a hospital network in 
+India [10], Stevens-Johnson syndrome was identified in 40.3 % of those 
+diagnosed with DED. 
+3.2.2.5. Congenital and inherited diseases. Certain rare congenital dis￾eases are associated with reduced tear production and DED in children. 
+These include Riley–Day syndrome, ectodermal dysplasia syndromes, 
+and epidermolysis bullosa [39]. Pseudophakic children may show 
+transient reduction in tear film stability and meibomian gland function 
+[45]. 
+3.2.3. Lifestyle and environmental factors 
+Environmental and lifestyle factors in adult DED are well established 
+and have been recently comprehensively reviewed [46], however as￾sociations in a younger population are less well established. 
+3.2.3.1. Living environment and outdoor activity. The prevalence of DED, 
+based on both signs and symptoms, was significantly higher in Korean 
+children (n = 916, aged 7–12 years) from urban compared with rural 
+areas (8.3 % vs 2.8 %) [11]. In multivariable analysis, outdoor activity 
+was protective for DED, (OR, 0.33; 95 % CI: 0.1–0.8; p < 0.01). A similar 
+protective effect (based on similar diagnostic criteria) of more than 1 h a 
+day of outdoor activity was reported in multivariable analysis in a large 
+population-based study of children aged 7–8 years old in China [14]. 
+3.2.3.2. Digital device use. The impact of the digital experience on DED 
+may be influenced by confounders, where both device use and DED are 
+related to another variable, such as time spent outdoors, obesity, a 
+sedentary lifestyle, mental health disorders, impaired sleep, lockdown 
+and other societal factors. Several studies of varying quality have 
+explored the impact of digital experience including phone or screen use 
+on signs and/or symptoms of DED in children mainly in Asia and India. 
+In multivariable analysis, daily use of a smartphone was an inde￾pendent risk factor for DED (odds ratio [OR] 13.1; 95 % CI: 6.0–28.5; p 
+< 0.001) in children aged 7–12 years in Korea [11]. When smartphone 
+use was stopped for 4 weeks in the DED group (n = 60), the signs and 
+symptoms of DED improved [11]. Similarly, the use of smartphones or 
+tablets for more than 1 h per day over one year was independently 
+associated with DED in children aged 7–8 years in China [14]. A similar 
+finding was reported in a self-selected UK population aged 5–16 years, 
+where each hour of screentime was associated with a 15 % increase in 
+the OR for DED and increased sleep was protective [47]. In Japanese 
+children aged 6–12 years, screen time before bed was independently 
+associated with symptoms of DED (OR 1.31; 95 % CI: 1.15–1.50), 
+F. Stapleton et al. 
+The Ocular Surface 31 (2024) 11–20
+17
+although there was no association with duration of screen use [48]. In 
+two cross-sectional studies in Turkish and Indian children, there was a 
+moderate univariate relationship between symptom score and screen 
+time [49,50], but no association with DED signs [49]. 
+3.2.3.3. Contact lenses. While contact lens wear is a consistent risk 
+factor for DED in adults [7], the evidence in children is equivocal. Two 
+population-based studies in high school students from Japan [17] and 
+China [18] using the WHS criteria, have shown that contact lens wear is 
+an independent risk factor for DED. One small study has suggested that 
+children wearing contact lenses have fewer symptoms of DED than to 
+adult contact lens wearers [51] The relationship between homeostatic 
+signs related to DED and contact lens wear, however, has not been 
+established. 
+3.2.3.4. Pandemic. Effects of the pandemic and public health measures 
+such as mask use, online classes and digital device or screen use are 
+associated with an increased risk of developing new or worsening 
+existing ocular surface diseases in adults [52]. It is conceivable that 
+young people might be more vulnerable due to pandemic-related 
+e-schooling and increased use of mobile phones, tablets and computer 
+screens in this cohort. 
+A study in Indian children (n = 654, aged 5–18 years) assessed digital 
+eye strain during lockdown using the Computer-Vision Symptom Scale 
+(CVSS17). At least one relevant ocular symptom was reported in 92.8 % 
+of children and higher symptom report was associated with older age of 
+the children and will duration of screen use [50]. 
+As with digital device use, the relationship between the pandemic 
+and DED is likely to be confounded by other variables. Most studies do 
+not have a control group or evaluation pre- and post-pandemic. 
+3.3. Diagnosis of DED 
+Of the 50 eligible studies, 19 described the diagnosis of DED in 
+children. The most widely used diagnostic approaches require the 
+presence of symptoms plus one or more homeostatic markers, related to 
+ocular surface staining, increased tear osmolarity or altered film 
+stability. 
+Symptoms were evaluated using questionnaires previously validated 
+in adults, including the OSDI [4,22,24,34,53–55], modified OSDI [11], 
+visual analogue scales [56], Symptoms Assessment in Dry Eye (SANDE) 
+instrument [55,56], DEQS [48], numerical rating scale [55], ocular 
+comfort index (OCI) [55], dry eye questionnaire 5 (DEQ-5) [55], the 
+instant ocular symptoms survey (IOSS) [55], and Standardized Patient 
+Evaluation of Eye Dryness (SPEED) [22]. There were no questionnaires 
+specifically designed for the young, and frequently the questionnaires 
+were completed by parents or caregivers. One study evaluated the 
+repeatability and reliability of adult questionnaires (SANDE, OSDI, nu￾merical rating scale, OCI [n = 30], DEQ-5, and the IOSS) in a young 
+population aged between 6 and 15 years (n = 62) and showed the 
+shorter DEQ-5 and IOSS could be reliably used in children and their 
+repeatability was comparable to adults [55]. Young children however 
+take longer to complete the questionnaires and may require assistance 
+from their parents or caregivers in interpreting the meaning of certain 
+questions [55]. There is some evidence in the literature that ocular 
+symptoms may not be volunteered by children [9], suggesting the 
+importance of questionnaires suitable for this population and/or more 
+explicit exploration of ocular symptoms and their impact during clinical 
+examinations. 
+Most studies evaluated standard clinical signs (tear film stability, 
+corneal or conjunctival staining, tear meniscus height, tear production), 
+using thresholds based on adult values [15,28,39,42–44,53,57–62]. 
+Some studies also included eyelid signs in the diagnosis of evaporative 
+DED [10,16,53]. 
+3.4. Management 
+Very few publications have described management strategies for 
+DED in the young population, beyond the use of unpreserved lubricants 
+or artificial tears and environmental modifications in line with adult 
+therapy [5,63]. Safety and efficacy have not been established for most 
+pharmacological or natural agents in children, although there is some 
+safety evidence based on use of steroids, for example, in allergic eye 
+disease in children [64]. One small randomised controlled study has 
+shown a beneficial effect in signs of DED (TBUT and conjunctival 
+redness) in children aged 9–14 with the use of topical 0.2 % hyaluronic 
+acid with 0.1 % arnica extract compared with topical hyaluronic acid 
+alone over a 4-week period [65]. Both preparations significantly 
+improved symptoms measured with OSDI [65]. There is no robust evi￾dence for the use of tear replacement, tear stimulation or tear conser￾vation approaches in children. 
+In more severe disease, such as that associated with autoimmune 
+diseases, oral cyclosporine A or methotrexate have been used to treat 
+immune suppression in conjunction with unpreserved lubricants, topical 
+autologous serum and/or topical cyclosporine A [9,57,63,66,67]. 
+Topical steroids may be used to treat inflammation, although care must 
+be taken to limit the side effects of raised intraocular pressure and 
+posterior subcapsular cataracts [63]. Systemic antibiotic treatment for 
+MGD has not been deemed safe for children. Systemic tetracyclines are 
+not recommended for young children (under 8 years) due to the impact 
+on calcifying tissues such as teeth, cartilage and bone [68]. A 
+meta-analysis of studies including patients over 12 years of age 
+concluded that the adverse event profile was significantly better with 
+the oral macrolide, azithromycin, compared with doxycycline, although 
+this was not explicitly compared for the younger age group [69]. 
+One study explored the treatment of DED in those under 18 with 
+GVHD over a 6-month period [70], using non-preserved artificial tears, 
+cyclosporine A 0.05 % (65 %), autologous/allogeneic serum eye drops 
+(80 %) and punctal plugs (28 %), with beneficial effects on the ocular 
+surface and in best-corrected visual acuity. The safety and efficacy of 
+lymphocyte function-associated antigen 1 antagonists in those below the 
+age of 17 years is not established, and off-label use in the young popu￾lation has not been reported. 
+Vitamin A deficiency, as a cause of xerophthalmia and childhood 
+DED in developing nations, can be modulated through support for 
+changing the dietary habits of the population. Periodic supplementation 
+with vitamin A–rich food sources along with raising awareness and 
+educating parents regarding appropriate nutrition should be prioritized 
+to limit vitamin A deficiency [25,71–74]. 
+Environmental modifications have been infrequently studied in 
+children. Lifestyle interventions through reducing the continuous screen 
+time or smartphone usage may offer a partial solution in children with 
+DED [11,48,54,75]. While the rate of DED-related signs and symptoms 
+decreased with smartphone cessation for a 4-week period (p < 0.001), it 
+is not clear whether other environmental factors such as outdoor ac￾tivities increased during this time [11]. While screen time before 
+bedtime as well as the duration of screen time is thought to contribute to 
+DED [48], there have been no randomized controlled trials to explore 
+this hypothesis. 
+4. Summary and Implications 
+This review has explored prevalence, risk factors, underlying 
+comorbidities, and the diagnosis and management of DED in a young 
+population. 
+In the pediatric population, the prevalence of DED ranged between 
+5.5 % and 26.6 %, although one study from Mexico reported very high 
+rates of ocular symptom reporting in high school students (65.4 %). 
+Study methodology, definitions of DED, ethnicity, climate and 
+geographical and socio-economic variations likely underpin these dif￾ferences. The report of ocular symptoms may be confounded by the 
+F. Stapleton et al. 
+The Ocular Surface 31 (2024) 11–20
+18
+presence of other ocular or systemic comorbidities or the use of contact 
+lens wear, and it is important to be aware of and appropriately manage 
+potential confounders. 
+Perhaps surprisingly, differences in disease prevalence between 
+adults and children were equivocal. There are a limited number of 
+population studies in both groups conducted at the same location, with 
+similar methodology (Table 3). Symptom reporting rates in adults and 
+children are similar and some studies show a sex difference, with higher 
+rates in female children and adults. The lower frequency of a prior 
+diagnosis or medical claims for DED in children is not unexpected. 
+Several studies reported a higher prevalence of DED in young fe￾males [10,11,16,24,21], and this was statistically significant for symp￾tomatic disease, with one study showing greater sex differences with 
+more severe DED symptoms. A better appreciation of ocular symptom 
+reporting in children is important as mild to moderate symptoms of 
+chronic DED in young patients may be underreported and consequently 
+overlooked during the examination [9]. 
+As expected, a higher prevalence of DED was reported in young 
+populations with underlying comorbid conditions compared to other￾wise healthy subjects [9,36]. This does suggest the importance of 
+managing comorbidities which may include ocular or systemic allergy, 
+autoimmune, endocrine, congenital or nutritional conditions in 
+conjunction with the ocular surface effects of DED. 
+There are a limited number of appropriately powered studies to 
+determine independent risk factors associated with DED in a young 
+population. Potential lifestyle risk factors include daily smartphone use 
+[11] and possible associations with smartphone use before bedtime 
+[48], screen use [54] and contact lens wear [11,18,19,79]. Contact lens 
+wear is a probable risk factor for dry eye symptoms in adults [7] and 
+given the wide uptake of contact lenses in children for the slowing of 
+myopia, a better understanding of this relationship in children and with 
+different modalities of lens wear is important. 
+Smartphone use was an independent risk factor for DED when con￾trolling for urban and rural living conditions, in a young population. 
+While a period without phone use is associated with a reduction in 
+symptoms, this is not a practical solution but potentially regular breaks, 
+limiting continuous duration of use and reducing screen time before 
+bedtime may be useful for limiting DED in young people [11,48]. A 
+protective effect of outdoor time should also be explored. The increased 
+use of digital devices and online learning during the COVID-19 
+pandemic, led to an increased reporting of ocular symptoms and it is 
+not unreasonable to assume that these pandemic-mitigating measures 
+might persist post-pandemic [52]. 
+In adults, DED generally involves a component of evaporative dis￾ease, most commonly associated with MGD [80]. The pattern seems 
+similar in children, where MGD associated with evaporative DED was 
+the leading single cause of DED in early adolescence (51 %) and late 
+adolescence (66 %) [10]. In addition, evidence of early changes in the 
+structure and function of meibomian glands can be seen in young chil￾dren [24,81,82], although not necessarily associated with symptoms. As 
+would be expected in multifunctional disease, a single diagnostic test 
+result may not necessarily be indicative of disease. Studies evaluating 
+the natural history of structural and functional gland changes and ocular 
+symptoms are required to understand their relationship to pediatric 
+DED. 
+While the diagnostic approaches align with those developed for use 
+in DED in adults, normative data and cut off thresholds for signs or 
+symptoms have not been established in a pediatric population, nor has 
+the testing been particularly designed for children. Thresholds in adults 
+have been described reflecting normal aging [56] and these may not be 
+appropriate during childhood and adolescence. As an example, healthy 
+children may have a thin lipid layer (<75 nm) which is not associated 
+with symptoms nor overt meibomian gland changes [81]. Similarly, 
+alterations in the appearance and function of meibomian glands may be 
+found in children as young as 6 years old [24,81,82]. Schirmer testing is 
+believed to have less utility in children due to the invasive nature of the 
+F. Stapleton et al. Table 3 Prevalence studies in children and adults using similar diagnostic criteria and in the same region. Diagnostic criteria Population Study location Prevalence in Adults (95 % CI) Prevalence in Children (95 % CI) WHS High school students (Uchino et al., 2008) (n = 3433) [17] Population based adults (Yamanishi, 2021) (n = 85,264) [76] Japan All DED 23.4 % 16.4 % (16.1–16.8) men 29.2 % (28.8–29.6) women All DED: 26.6 % 25.4 % (23.8–27.0) boys 32.5 % (28.8–36.4) girls Prior diagnosis: 4.9 % (4.2–5.7) Severe symptoms: 21.6 % (20.2–23.0) Symptoms and Signs (TFOS DEWS II, Japanese Dry Eye Society Classification, other) Children and adolescent population based (Arita, 2019) (n = 356) [16]; Adults – office workers using computers (Uchino, 2018) (n = 516) [77] Japan 8.0 % (5.5–11.3) men 18.7 % (13.4–25.1) women Age: 6–19 years 10.9 % (4.1–24.4) 8.3 % (0.2–25.8) boys 13.6 % (4.7–33.3) girls Primary school population (n = 916) (Moon 2016) [11]; Adults: subset of KNHANES population-based study (Lee, 2015) (n = 15, 878) [78] South Korea 16.0 % (10.7 % men; 21.6 % women) All DED: 6.6 % (5.1–8.3) Symptoms only Clinic-based pediatric population (Tichenor 2019) (n = 225) [24]; Population based study in adults over 18 (Farrand, 2017) (n = 75,000) [79] USA 6.8 % (4.5 % men; 8.8 % women) 17 % (12.6–22.3) Insurance claim database Retrospective analysis of claims data (Dana, 2019) (n = 9,732,272) [21] USA 50+ years – 11.7 % (11.6–11.7) 2–17 years 0.20 % (0.20–0.20) 0.13 % (0.12–0.14) boys 0.27 % (0.26–0.28) girls 
+The Ocular Surface 31 (2024) 11–20
+19
+test, and tests which involve administration of drops (such as FBUT and 
+ocular surface staining) may be less well accepted in children [9]. Taken 
+together, these findings suggest a rethink for what should be considered 
+normal ocular surface signs in children, ‘abnormal’ values in adult 
+population may be normal and not indicative of dysfunction in children. 
+As with adults, it is also important in children to disaggregate symptoms 
+which may be associated with common comorbidities such as allergic 
+eye disease. 
+The treatment options for young patients with DED are largely 
+aligned with those for adults [63], with lubricants and environmental 
+modifications common for mild disease, with anti-inflammatory ap￾proaches in more severe forms of the disease. However, none of these 
+suggested active treatment options have been evaluated for their effi￾cacy and safety in the young population [63] and the use of systemic 
+tetracyclines would generally be contraindicated in young children. 
+While no there was no evidence in the literature, potentially the poor 
+acceptance of ‘invasive’ testing in children might suggest that frequent 
+topical treatment is also not ideal, there may be benefit in longer release 
+or longer acting agents which can be formulated using alternate 
+administration approaches, such as sprays. Beyond the limited safety 
+and efficacy data of pharmacological treatments, there is also a lack of 
+data on compliance in children. 
+For clinicians, evidence-based approaches to the diagnosis and 
+management of DED in children include the use of validated adult 
+questionnaires (DEQ5 and OSDI) to measure and monitor symptoms of 
+DED, to expect and manage evaporative disease especially in older 
+children, to manage symptomatic disease and to carefully screen for and 
+manage co-morbid diseases, including allergy, anterior blepharitis, 
+demodex and ocular surface changes due to cataract or refractive sur￾gery. This may be particularly important for those families considering 
+contact lens wear for refractive or myopia control applications, 
+including orthokeratology. Topical unpreserved lubricants, blinking, 
+warm compresses, lid hygiene and environmental modifications can be 
+considered in mild disease with escalated treatment in more severe DED. 
+Preventative strategies may also include reduction of screen time, 
+particularly before bedtime, regular screen breaks and increased out￾door activity. 
+In summary, the prevalence of DED in the young population based on 
+a prior diagnosis of dry eye or signs of dry eye is slightly lower than that 
+in adults; however, symptomatic disease is common. Development of 
+age-appropriate thresholds for signs and symptoms of DED may support 
+better diagnosis of disease and understanding of the natural history in a 
+young population. It is conceivable that DED may be underdiagnosed 
+owing to underreporting in children with chronic DED symptoms and 
+the lack of tools designed specifically for the young population. There is 
+limited evidence on treatment protocols and both short- and long-term 
+safety and efficacy of most DED treatments in children. Appropriately 
+powered population-based studies are required to understand risk and 
+mitigating factors in children. Treatment trials with robust and appro￾priately powered endpoints (patient-reported outcome measures and 
+biomarkers) will further improve understanding of DED and limit its 
+impact in young people. 
+Financial disclosures 
+F.S.: Advisory Board: Novartis, Alcon and Seqirus; Funding: Alcon, 
+Azura Ophthalmics, and nthalmic. 
+F.G.V.: Advisory board: Novartis; Grant: Novartis. 
+C.L.: Independent Consultant, MWL Consulting LLC, AZ, USA. At the 
+time of manuscript preparation; employee: Novartis Pharmaceuticals 
+Corporation, East Hanover, NJ, USA. 
+J.S.W.: Consultant/advisory board: MC2Therapeutics, Atia Vision, 
+CSI Dry Eye, Alcon, and Novartis; Funding: Alcon, Bauch and Lomb, 
+Thea Pharmaceuticals, Medmont, Thea, DopaVision, SightGlass, Nuvi￾sion, Rayner, Topcon and Espacione; Executive member of the Tear Film 
+and Ocular Surface Society, Chief Scientific Officer of the International 
+Myopia Institute, and Academic Chair of the British Contact Lens 
+Association. 
+Funding 
+This study received no funding. 
+CRediT authorship contribution statement 
+Fiona Stapleton: Conceptualization, Data curation, Formal analysis, 
+Writing – original draft, Writing – review & editing. Federico G. Velez: 
+Conceptualization, Writing – review & editing. Charis Lau: Conceptu￾alization, Writing – review & editing. James S. Wolffsohn: Conceptu￾alization, Writing – review & editing. 
+References 
+[1] Bradley JL, Ozer ¨ Stillman I, Pivneva I, Guerin A, Evans AM, Dana R. Dry eye 
+disease ranking among common reasons for seeking eye care in a large US claims 
+database. Clin Ophthalmol 2019;13:225–32. 
+[2] Craig JP, Nelson JD, Azar DT, Belmonte C, Bron AJ, Chauhan SK, et al. TFOS DEWS 
+II report executive summary. Ocul Surf 2017;15:802–12. 
+[3] Uchino M, Schaumberg DA. Dry eye disease: impact on quality of life and vision. 
+Curr Ophthalmol Rep 2013;1:51–7. 
+[4] Patel VD, Watanabe JH, Strauss JA, Dubey AT. Work productivity loss in patients 
+with dry eye disease: an online survey. Curr Med Res Opin 2011;27:1041–8. 
+[5] Jones L, Downie LE, Korb D, Benitez-Del-Castillo JM, Dana R, Deng SX, et al. TFOS 
+DEWS II management and therapy report. Ocul Surf 2017;15:575–628. 
+[6] Dry eye redefined: TFOS DEWS II Report. https://www.tfosdewsreport.org/Last 
+accessed 30th October 2023. 
+[7] Stapleton F, Alves M, Bunya VY, Jalbert I, Lekhanont K, Malet F, et al. TFOS DEWS 
+II epidemiology report. Ocul Surf 2017;15:334–65. 
+[8] Papas EB. The global prevalence of dry eye disease: a Bayesian view. Ophthalmic 
+Physiol Opt 2021;41:1254–66. 
+[9] Villani E, Nucci P. Pediatric dry eye. Available at: https://www.aao.org/disease-re 
+view/pediatric-dry-eye. July 1, 2021). 2020. 
+[10] Donthineni PR, Das AV, Basu S. Dry eye disease in children and adolescents in 
+India. Ocul Surf 2020;18:777–82. 
+[11] Moon JH, Kim KW, Moon NJ. Smartphone use is a risk factor for pediatric dry eye 
+disease according to region and age: a case control study. BMC Ophthalmol 2016; 
+16:188. 
+[12] VassarStats. Website for statistical computation. Available at: http://vassarstats. 
+net/. [Accessed 15 November 2022]. 
+[13] Gulati A, Sullivan R, Buring JE, Sullivan DA, Dana R, Schaumberg DA. Validation 
+and repeatability of a short questionnaire for dry eye syndrome. Am J Ophthalmol 
+2006;142. 125-31.e2. 
+[14] Ma J, Zhu H, Guo W, Li R, Shen S, Wang Y, et al. Association of different digital 
+media experiences with paediatric dry eye in China: a population-based study. BMJ 
+Open 2022;12:e062850. 
+[15] Ayaki M, Kawashima M, Uchino M, Tsubota K, Negishi K. Gender differences in 
+adolescent dry eye disease: a health problem in girls. Int J Ophthalmol 2018;11: 
+301–7. 
+[16] Arita R, Mizoguchi T, Kawashima M, Fukuoka S, Koh S, Shirakawa R, et al. 
+Meibomian gland dysfunction and dry eye are similar but different based on a 
+population-based study: the hirado-takushima study in Japan. Am J Ophthalmol 
+2019;207:410–8. 
+[17] Uchino M, Dogru M, Uchino Y, Fukagawa K, Shimmura S, Takebayashi T, et al. 
+Japan Ministry of Health study on prevalence of dry eye disease among Japanese 
+high school students. Am J Ophthalmol 2008;146. 925-929 e2. 
+[18] Zhang Y, Chen H, Wu X. Prevalence and risk factors associated with dry eye 
+syndrome among senior high school students in a county of Shandong Province, 
+China. Ophthalmic Epidemiol 2012;19:226–30. 
+[19] Garza-Leon ´ M, Lopez-Chavez ´ E, De La Parra-Colín P. Prevalence of ocular surface 
+disease symptoms in high school students in monterrey, Mexico. J Pediatr 
+Ophthalmol Strabismus 2021;58:287–91. 
+[20] Dana R, Bradley JL, Guerin A, Pivneva I, Stillman IO, Evans AM, et al. Estimated 
+prevalence and incidence of dry eye disease based on coding analysis of a large, all￾age United States health care system. Am J Ophthalmol 2019;202:47–54. 
+[21] Hung N, Kang EY, Lee TW, Chen TH, Shyu YC, Sun CC. The risks of corneal surface 
+damage in aqueous-deficient dry eye disease: a 17-year population-based study in 
+taiwan. Am J Ophthalmol 2021;227:231–9. 
+[22] Tichenor AA, Ziemanski JF, Ngo W, Nichols JJ, Nichols KK. Tear film and 
+meibomian gland characteristics in adolescents. Cornea 2019;38:1475–82. 
+[23] Alnahdi W, Hadrawi M, Danish E, Alghamdi A, Taher N, Alfaraidi AT, et al. 
+Relationship between screen time and dry eye symptoms during the COVID-19 
+pandemic in the pediatric population of the western region of Saudi Arabia. Cureus 
+2022;14:e31015. 
+[24] Kim JS, Wang MTM, Craig JP. Exploring the Asian ethnic predisposition to dry eye 
+disease in a pediatric population. Ocul Surf 2019;17:70–7. 
+[25] Pal R, Sagar V. Antecedent risk factors of xerophthalmia among Indian rural 
+preschool children. Eye Contact Lens 2008;34:106–8. 
+F. Stapleton et al. 
+The Ocular Surface 31 (2024) 11–20
+20
+[26] Semba RD, de Pee S, Panagides D, Poly O, Bloem MW. Risk factors for 
+xerophthalmia among mothers and their children and for mother-child pairs with 
+xerophthalmia in Cambodia. Arch Ophthalmol 2004;122:517–23. 
+[27] Agrawal VK, Agrawal P, Dharmendra. Prevalence and determinants of 
+xerophthalmia in rural children of Uttarpradesh, India. Nepal J Ophthalmol 2013; 
+5:226–9. 
+[28] Lienert JP, Tarko L, Uchino M, Christen WG, Schaumberg DA. Long-term natural 
+history of dry eye disease from the patient’s perspective. Ophthalmology 2016;123: 
+425–33. 
+[29] Geraldini M, Chong Neto HJ, Riedi CA, Ros´
+ario NA. Epidemiology of ocular allergy 
+and co-morbidities in adolescents. J Pediatr 2013;89:354–60. 
+[30] Yang B, Wen K, Li J, Zhang S, Fan Z, Liang X, et al. Quantitative evaluation of lipid 
+layer thickness and blinking in children with allergic conjunctivitis. Graefes Arch 
+Clin Exp Ophthalmol 2021;259:2795–805. 
+[31] Kim TH, Moon NJ. Clinical correlations of dry eye syndrome and allergic 
+conjunctivitis in Korean children. J Pediatr Ophthalmol Strabismus 2013;50: 
+124–7. 
+[32] Akil H, Celik F, Ulas F, Kara IS. Dry eye syndrome and allergic conjunctivitis in the 
+pediatric population. Middle East Afr J Ophthalmol 2015;22:467–71. 
+[33] Akil H, Bulus¸ AD, Andiran N, Alp MN. Ocular manifestations of Type 1 diabetes 
+mellitus in pediatric population. Indian J Ophthalmol 2016;64:654–8. 
+[34] Gunay M, Celik G, Yildiz E, Bardak H, Koc N, Kirmizibekmez H, et al. Ocular 
+surface characteristics in diabetic children. Curr Eye Res 2016;41:1526–31. 
+[35] Bayat AH, Aydemir E, Aydemir GA, Gencer H. Assessment of tear film anomalies in 
+childhood obesity. Klin Monbl Augenheilkd 2022;239:331–7. 
+[36] Vehof J, Kozareva D, Hysi PG, Hammond CJ. Prevalence and risk factors of dry eye 
+disease in a British female cohort. Br J Ophthalmol 2014;98:1712–7. 
+[37] Melissa L, Min Z, Elizabeth K, Esen KA. Prevalence and predictors of Sjogren ¨ ’s 
+syndrome in a prospective cohort of patients with aqueous-deficient dry eye. Br J 
+Ophthalmol 2012;96:1498. 
+[38] Helmick CG, Felson DT, Lawrence RC, Gabriel S, Hirsch R, Kwoh CK, et al. 
+Estimates of the prevalence of arthritis and other rheumatic conditions in the 
+United States: Part I 2008;58:15–25. 
+[39] McCord Medina F, Silvestre de Castro R, Leite SC, Rocha EM, de Melo Rocha G. 
+Management of dry eye related to systemic diseases in childhood and longterm 
+follow-up. Acta Ophthalmol Scand 2007;85:739–44. 
+[40] El-Shazly AA, Mohamed AA. Relation of dry eye to disease activity in juvenile 
+rheumatoid arthritis. Eur J Ophthalmol 2012;22:330–4. 
+[41] Kotaniemi KM, Salomaa PM, Sihto-Kauppi K, S¨
+aila ¨ HM, Kauppi MJ. An evaluation 
+of dry eye symptoms and signs in a cohort of children with juvenile idiopathic 
+arthritis. Clin Ophthalmol 2009;3:271–5. 
+[42] Hoehn ME, Vestal R, Calderwood J, Gannon E, Cook B, Rochester R, et al. Ocular 
+complications in school-age children and adolescents after allogeneic bone marrow 
+transplantation. Am J Ophthalmol 2020;213:153–60. 
+[43] Kinori M, Bielorai B, Souroujon D, Hutt D, Ben-Bassat Mizrachi I, Huna-Baron R. 
+Ocular complications in children after hematopoietic stem cell transplantation 
+without total body irradiation. Graefes Arch Clin Exp Ophthalmol 2015;253: 
+1397–402. 
+[44] Fahnehjelm KT, Tornquist AL, Winiarski J. Dry-eye syndrome after allogeneic 
+stem-cell transplantation in children. Acta Ophthalmol 2008;86:253–8. 
+[45] Lin X, Li H, Zhou X, Liu X, Fan F, Yang T, et al. The influence of congenital and 
+developmental cataract surgery on the ocular surface in a six-month follow-up 
+prospective clinical study. BMC Ophthalmol 2022;22:218. 
+[46] Galor A, Britten-Jones AC, Feng Y, Ferrari G, Goldblum D, Gupta PK, et al. TFOS 
+Lifestyle: impact of lifestyle challenges on the ocular surface. Ocul Surf 2023;28: 
+262–303. 
+[47] Wang MTM, Craig JP, Vidal-Rohr M, Menduni F, Dhallu S, Ipek T, et al. Impact of 
+digital screen use and lifestyle factors on dry eye disease in the paediatric 
+population. Ocul Surf 2022;24:64–6. 
+[48] Mineshita Y, Kim HK, Chijiki H, Nanba T, Shinto T, Furuhashi S, et al. Screen time 
+duration and timing: effects on obesity, physical activity, dry eyes, and learning 
+ability in elementary school children. BMC Publ Health 2021;21:422. 
+[49] Kazanci B, Eroglu FC. The effects of daily digital device use on the ocular surface in 
+healthy children. Optom Vis Sci 2022;99:167–71. 
+[50] Gupta R, Chauhan L, Varshney A. Impact of E-schooling on digital eye strain in 
+coronavirus disease era: a survey of 654 students. J Curr Ophthalmol 2021;33: 
+158–64. 
+[51] Greiner KL, Walline JJ. Dry eye in pediatric contact lens wearers. Eye Contact Lens 
+2010;36:352–5. 
+[52] Stapleton F, Abad JC, Barabino S, Burnett A, Iyer G, Lekhanont K, et al. TFOS 
+lifestyle: impact of societal challenges on the ocular surface. Ocul Surf 2023;28: 
+165–99. 
+[53] Wang S, Jia Y, Li T, Wang A, Gao L, Yang C, et al. Dry eye disease is more prevalent 
+in children with diabetes than in those without diabetes. Curr Eye Res 2019;44: 
+1299–305. 
+[54] Wu SZZ, Chong JK, Tracer N, Wu M, Raju L. Prevalence of dry eye symptoms and 
+relationship to screen time in a New York City pediatric population. Invest 
+Ophthalmol Vis Sci 2020;61:340. 
+[55] Chidi-Egboka NC, Golebiowski B, Lee SY, Vi M, Jalbert I. Dry eye symptoms in 
+children: can we reliably measure them? Ophthalmic Physiol Opt 2021;41:105–15. 
+[56] Wolffsohn JS, Arita R, Chalmers R, Djalilian A, Dogru M, Dumbleton K, et al. TFOS 
+DEWS II diagnostic methodology report. Ocul Surf 2017;15:539–74. 
+[57] Jain V, Singh S, Sharma A. Keratonconjunctivitis sicca is not uncommon in children 
+with juvenile rheumatoid arthritis. Rheumatol Int 2001;20:159–62. 
+[58] Akinci A, Cetinkaya E, Aycan Z. Dry eye syndrome in diabetic children. Eur J 
+Ophthalmol 2007;17:873–8. 
+[59] Akpek EK, Bunya VY, Saldanha IJ. Sjogren’s syndrome: more than just dry eye. 
+Cornea 2019;38:658–61. 
+[60] Zou X, Wang S, Zhang P, Lu L, Zou H. Quantitative proteomics and weighted 
+correlation network analysis of tear samples in adults and children with diabetes 
+and dry eye. Transl Vis Sci Technol 2020;9:8. 
+[61] Han SB, Yang HK, Hyon JY, Hwang JM. Children with dry eye type conditions may 
+report less severe symptoms than adult patients. Graefes Arch Clin Exp Ophthalmol 
+2013;251:791–6. 
+[62] Ramasubramanian A, Borchman D. Structural differences in meibum from 
+teenagers without and with dry eye and allogeneic hematologic stem cell 
+transplantations. J Pediatr Hematol Oncol 2020;42:149–51. 
+[63] Alves M, Dias AC, Rocha EM. Dry eye in childhood: epidemiological and clinical 
+aspects. Ocul Surf 2008;6:44–51. 
+[64] Rasmussen MLR, Schou MG, Bach-Holm D, Heegaard S, Jørgensen CAB, Kessel L, 
+et al. Comparative efficacy of medical treatments for vernal keratoconjunctivitis in 
+children and young adults: a systematic review with network meta-analyses. Acta 
+Ophthalmol 2022;100:35–44. 
+[65] Buzzonetti L, Petroni S, Federici M. Effectiveness of hyaluronic acid and arnica 
+extract ophthalmic solution in reducing dry eye symptoms in pediatric population. 
+Eur J Ophthalmol 2023;33:1011–7. 
+[66] Bingol ¨ Kızıltunç P, Büyüktepe T, Yalçındag ˘ FN, Ertem M, Ince ˙ E, Ileri ˙ T, et al. 
+Ocular findings of pediatric dry eye related to graft-versus-host disease. Turk J 
+Ophthalmol 2021;51:134–8. 
+[67] Sarbay H, Hagverdiyeva S, Turkkan E, Akcay S, Atay A, Malbora B. 
+Ophthalmologic findings and complications before and after hematopoietic stem 
+cell transplantation: single-center study. Int Ophthalmol 2021;41:2533–8. 
+[68] Salamon SM. Tetracyclines in ophthalmology. Surv Ophthalmol 1985;29:265–75. 
+[69] Ben Ephraim Noyman D, Chan CC, Mimouni M, Safir M. Systemic antibiotic 
+treatment for meibomian gland dysfunction—a systematic review and meta￾analysis. Acta Ophthalmol 2023. https://doi.org/10.1111/aos.15681. 
+[70] Altan-Yaycıoglu ˘ R, Aydın Akova Y, Donmez ¨ O. Age-related differences in the 
+clinical patterns of ocular graft-versus-host disease. Turk J Ophthalmol 2022;52: 
+366–73. 
+[71] Ajaiyeoba AI, Adeyefa IA, Adeyemo DO, Omotade YO. Xerophthalmia and vitamin 
+A deficiency in Nigeria. Ann Trop Paediatr 2000;20:165–6. 
+[72] Al-Kubaisy W, Al-Rubaiy MG, Nassief HA. Xerophthalmia among hospitalized Iraqi 
+children. East Mediterr Health J 2002;8:496–502. 
+[73] Getaneh T, Assefa A, Tadesse Z. Dietary practices and xerophthalmia in under-fives 
+in Jimma town, southwest Ethiopia. East Afr Med J 2000;77:313–5. 
+[74] Schemann JF, Malvy D, Zefack G, Traore L, Sacko D, Sanoussi B, et al. Mapping 
+xerophthalmia in Mali: results of a national survey on regional distribution and 
+related risk factors. J Am Coll Nutr 2007;26:630–8. 
+[75] Mohan A, Sen P, Shah C, Jain E, Jain S. Prevalence and risk factor assessment of 
+digital eye strain among children using online e-learning during the COVID-19 
+pandemic: digital eye strain among kids (DESK study-1). Indian J Ophthalmol 
+2021;69:140–4. 
+[76] Uchino M. What we know about the epidemiology of dry eye disease in Japan. 
+Invest Ophthalmol Vis Sci 2018;59. Des1-des6. 
+[77] Lee JH, Lee W, Yoon JH, Seok H, Roh J, Won JU. Relationship between symptoms 
+of dry eye syndrome and occupational characteristics: the Korean National Health 
+and Nutrition Examination Survey 2010-2012. BMC Ophthalmol 2015;15:147. 
+[78] Farrand KF, Fridman M, Stillman I, Schaumberg DA. Prevalence of diagnosed dry 
+eye disease in the United States among adults aged 18 Years and older. Am J 
+Ophthalmol 2017;182:90–8. 
+[79] Walline JJ, Lorenz KO, Nichols JJ. Long-term contact lens wear of children and 
+teens. Eye Contact Lens 2013;39:283–9. 
+[80] Lemp MA, Crews LA, Bron AJ, Foulks GN, Sullivan BD. Distribution of aqueous￾deficient and evaporative dry eye in a clinic-based patient cohort: a retrospective 
+study. Cornea 2012;31:472–8. 
+[81] Chidi-Egboka N, Jalbert I, Wagner P, Golebiowski G. Blinking and normal ocular 
+surface in school-aged children and the effects of age and screen time. Br J 
+Ophthalmol 2022. bjophthalmol-2022-321645. 
+[82] Zhao Y, Chen S, Wang S, Chen Y, Li J, Fu Y, et al. The significance of meibomian 
+gland changes in asymptomatic children. Ocul Surf 2018;16:301–5. 
+F. Stapleton et al. 

@@ -1,0 +1,961 @@
+© 2023 Indian Journal of Ophthalmology | Published by Wolters Kluwer - Medknow
+Hormones and dry eye disease
+Bhavya Gorimanipalli, Pooja Khamar, Swaminathan Sethu1
+, Rohit Shetty
+Access this article online
+Website:
+www.ijo.in
+DOI:
+10.4103/IJO.IJO_2887_22
+Quick Response Code:
+The endocrine system influences all tissues and cells in the human body. The ocular surface is constantly 
+exposed to circulating hormones and expresses their specific receptors. Dry eye disease (DED) is a disorder 
+with multifactorial etiology, and endocrine anomalies are one of the inciting factors. The endocrine 
+anomalies that cause DED include physiological conditions such as menopause, menstrual cycle variations, 
+pathologies such as polycystic ovarian syndrome, androgen resistance, iatrogenic conditions such as 
+contraceptive use, and antiandrogen treatment. This review highlights the status of these hormones in DED 
+along with the mechanism of action of different hormones on the ocular surface structures and the clinical 
+implications of these effects. The influence of androgens, estrogens, and progesterone on the ocular surface 
+tissues, and the implications of androgen‑deficient states in DED are also discussed. The physiological 
+and pathological effects of menopause and sex hormone replacement therapy are discussed. The effects of 
+insulin and insulin resistance on the ocular surface and DED, and the growing potential of topical insulin 
+therapeutics for DED are mentioned. Thyroid‑associated ophthalmopathy, its impact on the ocular surface, 
+and the tissue effects of thyroid hormone in the context of DED are reviewed. Finally, the potential role 
+of hormonal therapeutics in the management of DED has also been discussed. The compelling evidence 
+suggests that it would be clinically beneficial to consider the possibility of hormonal imbalances and their 
+impact while treating patients with DED.
+Key words: Dry eye disease, hormones, inflammation, menstrual cycle, ocular surface, tear fluid
+Department of Cornea and Refractive Surgery, Narayana Nethralaya, 
+Bengaluru, Karnataka, 1
+GROW Research Laboratory, Narayana 
+Nethralaya Foundation, Bengaluru, Karnataka, India
+Correspondence to: Dr. Rohit Shetty, Department of Cornea and 
+Refractive Surgery, Narayana Nethralaya, Bengaluru‑560 010, 
+Karnataka, India. E‑mail: drrohitshetty@yahoo.com 
+Received: 31-Oct-2022 Revision: 17-Feb-2023
+Accepted: 28-Feb-2023 Published: 05-Apr-2023
+A variety of physiological and environmental conditions lead 
+to the development of dry eye disease (DED).[1] Even though 
+an increase in osmolarity and ocular surface inflammation is 
+its cardinal features, DED is a multifactorial disease. Among 
+many other factors, endocrine abnormalities are significant 
+contributors to DED.[2,3] The endocrine system is an integral 
+organ system that controls various physiological responses 
+and interactions with our environment. Like any other organ, 
+the ocular surface is influenced by many circulating hormones 
+and is under constant feedback control by these mediators. 
+This review discusses the mechanisms and clinical relevance 
+of endocrine system effects on the ocular surface and DED that 
+may have a direct impact on the clinical management of DED.
+The ocular surface comprises of interconnected tissues with 
+epithelial continuity. It consists of the cornea, conjunctiva, lacrimal 
+gland, accessory lacrimal glands, meibomian gland, eyelashes, 
+the glands located near lashes (glands of Moll and Zeis), eyelid 
+components involved in the blinking reflex, and nasolacrimal 
+duct.[4] All of these structures share integrated vascular, nervous, 
+and endocrine inputs.[4] They have a continuous epithelial layer 
+spreading across the surfaces of the cornea, conjunctiva, glandular 
+structures, and the nasolacrimal duct. This epithelial layer has a 
+single developmental origin, which is the surface ectoderm. The 
+ocular surface works as a single functional unit, with the purpose 
+of enabling a smooth surface for optimal functioning of the cornea 
+as a refractive interface. Several hormones including sex steroids, 
+thyroid hormone (TH), vitamin D, prolactin, growth hormone, 
+and many others play a critical role in supporting the morphology 
+and function of the ocular surface.
+Sex as a Biological Variable in Ocular 
+Surface Physiology and DED
+Sex or gender diversity is a critical variable influencing every 
+single biological function in the living world. Ocular surface 
+physiology is no different in this case. It is apparent that 
+considering sex as a biological variable is essential to deliver 
+personalized care.[5] In the next few sections, we will discuss the 
+unique effects of sex hormones on the ocular surface structures. 
+It is an established fact that women suffer more frequently 
+from DED than men.[6] The self‑reported symptoms of DED 
+were more severe, and frequent, and had a higher impact on 
+well‑being among women than that in men.[6] There are two 
+types of population‑based surveys that focus on DED.[7‑9] Few 
+surveys assessed the prevalence of DED in female cohorts, 
+while others compared the prevalence of DED between men 
+and women in the general population. Women’s Health Study, 
+a large health survey conducted in North America, reported a 
+staggering 9.5% prevalence of DED in women aged more than 
+Cite this article as: Gorimanipalli B, Khamar P, Sethu S, Shetty R. Hormones 
+and dry eye disease. Indian J Ophthalmol 2023;71:1276-84.
+This is an open access journal, and articles are distributed under the terms of 
+the Creative Commons Attribution‑NonCommercial‑ShareAlike 4.0 License, 
+which allows others to remix, tweak, and build upon the work non‑commercially, 
+as long as appropriate credit is given and the new creations are licensed under 
+the identical terms.
+For reprints contact: WKHLRPMedknow_reprints@wolterskluwer.com
+Review Article - Basic Sciences and Applied Research
+April 2023 Gorimanipalli, et al.: Hormones and DED 1277
+75 years.[7] The same study group (Schaumberg et al.) assessed 
+the prevalence of DED in men with a similar methodology 
+and reported a 70% higher prevalence of DED among women 
+compared to men in the 50 years and older age group.[8]
+Among 1174 Australian participants, who underwent dry eye 
+examination and completed a dry eye questionnaire, dry eye 
+symptoms were reported to be more frequent in women.[9] It 
+is interesting that women report more discomfort from ocular 
+surface conditions like pterygium than men with a similar 
+condition.[10] Sjogren’s syndrome is an aqueous deficient DED 
+condition, with underlying autoimmune etiology. Androgen 
+deficiency is suggested to be an etiological factor in the 
+pathogenesis of Sjogren’s syndrome.[11] Sex-associated changes 
+increase in the expression of mediators that reduce inflammation 
+in salivary glands was demonstrated in Sjogren’s syndrome 
+animal models.[12] Polycystic ovarian syndrome (PCOS) is the 
+most common endocrine disorder among women characterized 
+by ovarian dysfunction (oligo‑ovulation and polycystic ovaries) 
+and features of hyperandrogenism.[13] Women with PCOS were 
+shown to have more severe DED symptoms, lower Schirmer test 
+scores, and TBUT values compared to healthy women.[14] The 
+distinctive ocular surface morphology in women with PCOS has 
+been described as itchy‑dry eye‑associated syndrome (IDEA) by 
+Bonini et al.
+[3] The authors reported that the ocular surface disease 
+in these patients shared many features with dry eye disease and 
+allergic eye disease but has a concomitant endocrine disorder.[3]
+Altered sex steroids and insulin resistance play a critical role in 
+causing ocular surface disturbances in these patients.[15] Higher 
+levels of sex steroids are shown to inhibit insulin binding sites 
+and lower the action of insulin on the ocular surface.[16]
+Androgens
+Androgens exert a trophic effect on the meibomian gland’s 
+growth and function.[17] Meibomian gland expresses mRNAs 
+of enzymes responsible for the metabolism of testosterone to 
+its more potent metabolite, dihydrotestosterone (DHT).[18] It 
+has been shown that the mouse meibomian gland expresses 
+androgen‑regulated genes, which depending on the stimulation 
+of androgen receptors, are responsible for gender‑specific 
+expression in the tissue.[19] Androgens stimulate the genes 
+involved in the production, transport, and secretion of lipids in 
+the meibomian gland.[20‑22] Androgen deficiency has detrimental 
+effects on meibomian gland morphology and function.[23‑25]
+Antiandrogen treatment is shown to adversely affect the lipid 
+profile of the meibomian gland secretions.[26] Similarly, women 
+with androgen insensitivity syndrome and men on antiandrogen 
+treatment are shown to have increased tear film debris, irregular 
+posterior lid margins, tarsal conjunctival congestion, meibomian 
+gland orifice metaplasia, and a significant decrease in the tear 
+break‑up time.[25] Furthermore, androgen deficiency has been 
+pointed out as an important etiological factor in the pathogenesis 
+of evaporative dry eye in women with Sjogren’s syndrome.[27]
+The lacrimal gland is a bilobed exocrine gland with the primary 
+function of secreting water, proteins, and electrolytes which 
+contribute to the aqueous layer of the tear film. Testosterone 
+regulates the expression of several genes in the lacrimal gland 
+including those involved in cell growth, proliferation, metabolism, 
+cell communication and transport, nucleic acid binding, signal 
+transduction, and receptor activities.[19] Lacrimal gland acinar 
+cells express high‑affinity androgen‑specific receptors and the 
+said effects on the gene expression in lacrimal glands, could be 
+mediated through these receptors.[28] This influence of androgens 
+on lacrimal glands contributes to many of the sex‑related 
+differences in gene expression of the lacrimal gland. Testosterone 
+provides trophic support to lacrimal glands and increases lacrimal 
+glands’ tissue growth and activity. Chronic exposure to androgen 
+receptor antagonists results in degenerative changes in lacrimal 
+glands like loss of glandular elements, reduction in acinar cell 
+size, reduction in nuclear volume, changes in protein levels, and 
+changes in enzymatic activity.[29] Testosterone favorably influences 
+the ocular surface and lacrimal glands’ immune functions. In a 
+study by Sullivan and Hann,[30] androgens were demonstrated to 
+increase the lacrimal gland production and secretion of IgA. Due 
+to the pleiotropic effect of androgen on the ocular surface [Fig. 1], 
+its alteration contributes towards DED.
+Estrogens and Progesterone
+Estrogen and progesterone receptors are present in various 
+ocular surface structures including the cornea, conjunctiva, 
+meibomian gland, and lacrimal gland, and many ocular surface 
+structures.[31,32] Hence, it can regulate key cellular events on the 
+ocular surface [Fig. 1]. Estrogens appear to have antagonizing 
+effects on the physiology of the meibomian gland compared to 
+androgens. In animal studies, 17ß‑estradiol stimulated the genes 
+involved in lipid and fatty acid catabolism and downregulated 
+the genes involved in lipid synthesis.[33] Injection of estrogens 
+induced shrinkage, reduction in activity, and lipid synthesis of 
+sebaceous glands in humans and many other species.[34‑37] These 
+limiting effects of estrogens on the physiology of the meibomian 
+gland can help explain the worsening of dry eye symptoms and 
+signs in postmenopausal women on sex hormone replacement 
+therapy (SHRT).[38‑40] However, the same would not explain the 
+increased prevalence of DED in postmenopausal women who 
+were not on any form of SHRT.[7,41] This aging population also has 
+reduced levels of androgens similar to their male counterparts. 
+The loss of trophic support of androgens on the meibomian gland 
+is more critical to the worsening of tear film instability and other 
+DED signs in aged women than the reduced estrogen support.[42]
+The nature of the influence of estrogens on the lacrimal 
+gland is more controversial than that of androgens. Few studies 
+suggest that estrogen may play a minimal role in the anatomy 
+and physiology of the lacrimal gland.[43] But others demonstrated 
+that estrogens have an adverse influence on the lacrimal gland, 
+such as inducing glandular regression, acinar cell disruption, 
+and necrosis.[44] There are other groups of reports supporting 
+the positive influence of estrogens on the lacrimal gland. The 
+reduction in lacrimal gland function in postmenopausal women 
+with estrogen deficiency may support this theory.[45] The effect of 
+estrogen replacement on the lacrimal gland is controversial as well. 
+Few reports show restoration of lacrimal gland morphology and 
+activity,[46,47] while a number of studies show worsening of lacrimal 
+gland function and dry eye with estrogen replacement therapy.[38]
+Intracrine effects of sex hormones on the ocular surface
+It is intriguing to note that the ocular surface including the 
+lacrimal gland is capable of local synthesis of sex steroids from 
+their precursors.[48] The term “intracrinology” refers to this 
+local synthesis of hormones in the peripheral tissues from their 
+circulating precursors.[48] The majority of androgens in women 
+and a significant proportion in men are locally synthesized in 
+peripheral tissues from dehydroepiandrosterone (DHEA) and 
+DHEA‑sulfate, the precursors, secreted by the adrenal gland.[49,50]
+The synthesis of sex hormones in peripheral tissues helps them 
+adjust the formation and metabolism of these hormones to local 
+1278 Indian Journal of Ophthalmology Volume 71 Issue 4
+requirements. The intracrine metabolism of sex hormones paved 
+way for experimental use of topical therapeutic formulations of 
+DHEA in the form 1% DHEA drops in the management of DED.[51]
+Effects of menstrual cycle and menopause on the ocular 
+surface and DED
+The ocular surface shows cyclical changes in its structure and 
+function that mirror the cyclical variations in the circulating 
+estrogen and progesterone hormone levels. The maturation 
+index of conjunctival epithelium shows cyclical variations 
+in women in the reproductive age group, suggesting 
+that conjunctival epithelium is an estrogen‑receptive 
+epithelium.[52] The cornea shows variations in thickness, 
+biomechanical strength, and sensitivity during different 
+phases of the menstrual cycle. The cornea is thinnest at the 
+beginning of the cycle and becomes thicker toward the end 
+of the cycle.[53,54] The corneal sensitivity showed a reduction 
+during the ovulation phase.[55] The trend in ocular symptoms 
+is more variable, some studies suggested worsening of 
+symptoms during ovulation,[56] while others showed more 
+severe symptoms during the follicular phase.[57] Few reports 
+suggested no demonstrable changes in the ocular surface 
+parameters along the menstrual cycle.[58]
+Estrogens were suggested to upregulate pro‑inflammatory 
+cytokines including MMP9 in human corneal epithelial cells.[59]
+There are reports that were suggestive of the anti‑inflammatory 
+effects of estrogen on the ocular surface and other organs in the 
+human body, as well.[60‑62] Systemic estrogen concentrations 
+undergo cyclical changes in premenopausal women. Evidence 
+suggests the cytokine milieu of the estrogen‑responsive 
+tissues, changes during different phases of the menstrual 
+cycle mirroring the variations in estrogen levels.[63,64] Since the 
+ocular surface expresses estrogen receptors and is responsive 
+to this hormone, its cytokine milieu is expected to show 
+variations during the menstrual cycle. We investigated the 
+status of tear fluid concentrations of various inflammatory 
+cytokines at three different phases of the menstrual cycle in 
+healthy female subjects. We observed eye or subject‑specific 
+alteration in the levels of the inflammatory cytokines in the 
+tear fluid in the ovulation phase and luteal phase compared 
+to the early follicular phase. More specifically, the tear fluid 
+levels of IL‑1β, IL‑6, and VEGF were observed to be increased 
+in a greater number of eyes or subjects in the ovulation and 
+luteal phase compared to the early follicular phase [Fig. 2]. 
+It is interesting to note that though statistically insignificant, 
+50% of the eyes or subjects showed an increase in the MMP9 
+levels in the ovulation and luteal phase compared to the early 
+follicular phase [Fig. 2]. This change in the tear inflammatory 
+cytokines can potentially impact the severity of DED, corneal 
+wound healing, and many other ocular surface functions that 
+are modulated by these cytokines. These findings emphasize 
+the relevance of the menstrual cycle during disease monitoring 
+and/or treatment planning.
+Menopause is a physiological change not just the endocrine 
+system but the entire human body itself. There are three 
+pertinent changes in a systemic endocrine milieu that should 
+be kept in mind when we try to understand the concept of DED 
+in postmenopausal women. There is aging‑associated decrease 
+in androgen levels in these women,[65] along with a reduction in 
+circulating estrogen levels and possible reduction in the ocular 
+surface synthesis of estrogen from its precursors (intracrine 
+pathways). As mentioned earlier, DED is more prevalent in 
+postmenopausal women compared to men of similar age. 
+Endogenous estrogen levels are critical in the maintenance of 
+ocular surface homeostasis in postmenopausal women. But 
+the existing reports showed conflicting results, few authors 
+suggested low estradiol levels correlated with severe dry eye,[66]
+while others suggested higher concentrations of estradiol were 
+predictive of worse meibomian quality.[67]
+Effect of estrogen and progesterone replacement therapy in DED
+The clinical effects of estrogen and progesterone replacement 
+therapy in women are complex and depend on the age, 
+Figure 1: Ocular surface effects of androgens, estrogen, and progesterone. Schematic outlines the various key ocular surface cellular events 
+regulated by sex hormones that may have an influence on the different factors that contribute to the pathogenesis of dry eye disease
+April 2023 Gorimanipalli, et al.: Hormones and DED 1279
+pre‑treatment sex hormone levels, ovarian physiology, and 
+the mode of treatment. Health surveys with large sample 
+cohorts and smaller clinical studies demonstrated that SHRT in 
+postmenopausal women increased the prevalence of DED.[38,68]
+However, few reports suggest the beneficial role of SHRT on 
+tear secretion and stability and DED symptoms.[69,70] The type of 
+hormonal constituents may impact the clinical effects of SHRT. The 
+estrogen replacement alone may cause dry eye more frequently 
+than combined estrogen and progesterone therapy.[38,68]
+Thyroid Hormone
+In this section, we discuss the ocular surface effects of dysthyroid 
+and autoimmune thyroid disorders in the development 
+of DED [Fig. 3]. The terms thyroid eye disease (TED), 
+thyroid‑associated ophthalmopathy (TAO), thyroid‑associated 
+orbitopathy (TAO), and Grave’s ophthalmopathy indicate 
+an immune‑mediated inflammatory disease condition that 
+causes expansion of the extraocular muscles and fat in the 
+orbit. Tear film and ocular surface changes are prevalent in 
+patients with thyroid‑associated ophthalmopathy (TAO).[2,71]
+Patients with active TED showed signs of severe meibomian 
+gland dysfunction (MGD).[72] Studies using meibography in 
+patients with active TED showed increased structural loss of 
+the meibomian gland compared to patients with DED.[73,74]
+Kim et al. reported a higher prevalence of obstructive MGD 
+in patients with Graves orbitopathy compared to normals.[75]
+DED in patients with TAO occurs due to two main reasons. 
+First, an increase in the palpebral fissure width and poor 
+Bell’s phenomenon in these patients leads to accelerated tear 
+evaporation, increases the tear osmolarity, and results in ocular 
+surface damage.[2,71] These patients show low TBUT scores, and 
+high ocular surface staining scores (rose bengal and lissamine 
+green) indicating unhealthy ocular surface. Second, the lacrimal 
+gland inflammation is due to autoimmune mechanisms 
+directed at the thyroid stimulating hormone (TSH) receptors 
+expressed by the LG. Lacrimal gland enlargement in TAO 
+has been reported as early as 1981[76] and many radiological 
+studies confirmed this observation.[77‑79] The gland enlargement 
+is due to active lymphocytic infiltration and interstitial edema 
+during the disease process.[76,80] Lacrimal gland tissue expresses 
+receptors for the TSH similar to thyroid epithelial cells. TSH 
+receptor(TSHR) is an established auto‑antigen for TAO disease. 
+TSHR expression makes lacrimal gland tissue susceptible to 
+autoimmunity‑induced inflammation and damage in patients 
+with TAO.[81] Reduction in tear secretion and the increased tear 
+fluid inflammatory cytokines further suggest that the lacrimal 
+gland is affected by the inflammatory process of TAO.[81]
+Hashimoto’s thyroiditis is also an autoimmune disorder 
+with hypothyroidism. Lacrimal gland inflammation may not 
+be the only pathogenic mechanism behind DED in patients 
+with autoimmune thyroid disorders. Lacrimal gland acinar 
+epithelial cells, conjunctival and corneal epithelial cells express 
+thyroid hormone receptor ß‑1 (Thrb), and nuclear receptor 
+for thyroid hormone (TH).[82] Dias et al. showed that chronic 
+hypothyroidism resulted in reduced tear secretion and induced 
+Thrb upregulation in lacrimal gland tissue (interpreted as a 
+compensatory response).[82] These observations show that in 
+addition to autoimmune damage, lower TH stimulation of the 
+lacrimal gland could be the possible etiopathogenetic factor 
+behind DED in patients with TAO.
+It is essential to suspect and identify occult TED in patients with 
+DED. In a clinical study by Gupta et al.,21/539 patients with DED 
+had occult thyroid eye disease (TED).[83] Conjunctival hyperemia 
+with or without chemosis localized to extraocular muscles and 
+subtle widening of interpalpebral fissures were reported as the 
+clinical signs that made the treating physician suspect TED in 
+these patients.[83] The treatment aimed at TAO can destabilize 
+Figure 2: Alterations in tear fluid inflammatory cytokines during different menstrual cycle phases in healthy female subjects. The stacked bar graphs 
+indicate the proportion (percentage) of eyes that showed changes (increased by ≥1.2 fold or decreased by ≤1.2 fold) in the tear cytokine levels in 
+matched samples between the three phases of the menstrual cycle. Tear fluid collected using Schirmer strips in the three different phases (Phase 
+1—Early follicular phase; Phase 2—Ovulation phase; Phase 3—Luteal phase) was used to measure the levels of interleukin (IL)‑1β, IL‑10, IL‑6, 
+IL‑17A, tumor necrosis factor‑α (TNFα), matrix metalloproteinase 9 (MMP9), soluble intercellular adhesion molecule 1 (sICAM1), and vascular 
+endothelial growth factor‑A(VEGF‑A) using a microfluidic cartridge‑based multiplex ELISA kit (Bio‑M Pathfinder, NovoMol‑Dx, India, a customized 
+version of the Ella™ Automated ELISA system, Bio‑Techne® Corporation, Minnesota, USA). The menstrual cycle phases were calculated based 
+on the average duration of the menstrual cycle and the timing of the last menstrual period in healthy women (n = 15; 30 eyes) aged between 25 
+and 35 years with regular menstrual cycles. The samples were collected following institutional ethics committee approval and informed consent 
+of the study volunteers. The levels of IL‑17A, TNFα, and sICAM1 did not vary significantly and did not show a marked increase in the proportion 
+of eyes with increased levels of these factors between three phases of the menstrual cycle in the matched tear samples
+1280 Indian Journal of Ophthalmology Volume 71 Issue 4
+the ocular surface in these patients. Orbital radiotherapy to 
+treat TAO has been shown to cause DED.[84‑86] Furthermore, 
+surgical interventions aimed to correct lid retraction in TAO may 
+inadvertently injure the lacrimal gland.[87] To effectively manage 
+DED in patients with TAO, one should aim to treat exposure 
+keratopathy (lubricants, particularly overnight), to reduce tear 
+osmolarity (artificial tears, therapies to reduce surface osmotic 
+damage),[88] and to reduce ocular surface inflammation (topical 
+steroids, topical cyclosporine A).[89]
+Vitamin D
+Vitamin D (VD) is considered as a prohormone and was 
+initially known to be the compound found in cod liver oil, 
+that treats rickets. Since it is a compound present in food and 
+is essential for the mineralization of bone, VD was considered 
+as a vitamin.[90] However, after the discovery of the role of 
+ultraviolet rays in the metabolism of VD, and its involvement 
+in the physiology of tissues other than the maintenance of 
+calcium homeostasis in the skeleton. It is implicated in local 
+and systemic immune regulation, tissue differentiation, and 
+apoptosis.[91] VD binds to the VD receptor (VDR), a nuclear 
+receptor, which further binds to the vitamin D response 
+elements (VDRE) in the target genes as a heterodimer with 
+retinoid X receptor.[92] The levels of ocular surface VD and VDR 
+have been reported to be reduced in DED patients.[93,94] VD 
+improves ocular surface epithelial barrier function,[95] reduces 
+ocular surface inflammation,[96] improves tear osmolarity,[97] and 
+alleviates the hyperosmotic stress.[94] VD supplementation aids 
+in the management of patients with refractory DED,[98] corneal 
+neuralgia,[99] and improves the efficacy of artificial tear drops.[100]
+Insulin
+The cross talk and inter‑regulation between insulin and hormone 
+regulation are well known. Patients with insulin‑dependent 
+diabetes mellitus (IDDM) were shown to have significantly lower 
+reflex tearing.[101] Children with DM had a higher prevalence 
+of DED compared to those without DM.[102] DED was found 
+to be more prevalent in diabetic patients with microvascular 
+complications.[103] Apart from chronic hyperglycemia and 
+increased oxidative stress, reduced insulin levels have a direct 
+effect on the ocular surface tissues. Insulin improves the secretory 
+function of the lacrimal gland.[104] Insulin has a synergistic action 
+with androgens on lacrimal gland function.[105] Reduction in 
+insulin levels diminished the effect of androgens on the acinar 
+cultures and decrease cell maintenance.[104] Local hyperglycemia 
+on the ocular surface and tear fluid causes the increased 
+formation of advanced glycation end products (AGE) and 
+oxidative stress‑mediated tissue damage.[106] Glycemic control 
+appears to play a critical role in DED severity. The serum levels 
+of glycated hemoglobin (HbA1c) are shown to have a significant 
+association with tear film stability and dry eye symptoms.[106]
+Topical ophthalmic insulin preparations were demonstrated to 
+improve tear volume and corneal cell architecture.[107]
+Glucocorticoids, Prolactin, Growth Hormone
+Glucocorticoids(GCs) are intrinsic modulators of the inflammatory 
+response in various tissues including the ocular surface. Human 
+corneal epithelial cells and fibroblasts are capable of intracrine 
+synthesis of cortisol (an endogenous active form of GCs) due to 
+the presence of 11‑beta hydroxysteroid dehydrogenases, enzymes 
+that catalyze the conversion of cortisone to cortisol.[108] Cortisol 
+provides support to ocular surface innate immune response and 
+contributes to immune protection.[108] It is well known that the 
+effect of cortisol in inflammation regulation is dualistic, i.e. it 
+has both pro‑ and anti‑inflammatory roles. It is dynamic and 
+the nature of its effect on inflammation regulation is influenced 
+by its concentration, diurnal changes, stress, and sex.[109] The 
+anti‑inflammatory effect of GCs on the ocular surface is sex 
+influenced, and this may contribute to the sexual dimorphic 
+nature of autoimmune disorders of the ocular surface.[110]
+Prolactin has been implicated for its pro‑inflammatory effects and 
+role in the pathogenesis of autoimmune diseases.[111,112] Patients 
+with Sjogren’s syndrome had significantly higher serum prolactin 
+levels than controls.[113] Similarly, a significant negative correlation 
+was found between serum prolactin levels and tear function in 
+women on SHRT.[114] Growth hormone (GH) appears to have a 
+positive influence on the physiology of ocular surface structures 
+like the meibomian gland.[115] However, no significant association 
+was reported between clinical conditions involving anomalies of 
+GH function and DED.
+Hormone Preparations as Treatment for DED
+Topical application of DHEA (precursor of testosterone) 
+improves the TBUT through stimulatory and trophic effects 
+on the production and secretion of lipids by the meibomian 
+gland.[116] Topical androgen therapy in the form of testosterone 
+Figure 3: Dry eye disease mechanisms in thyroid disorders. Schematic illustrates the pathomechanisms underlying ocular surface changes in 
+thyroid‑associated orbitopathy that may contribute toward the development of dry eye disease. TSHR—Thyroid stimulating hormone receptor
+April 2023 Gorimanipalli, et al.: Hormones and DED 1281
+eye drops is shown to improve tear film stability.[117,118] In 
+contradiction to the clinical effects of systemic replacement, 
+topical estrogen therapy improves dry eye symptoms, Schirmer 
+test, and TBUT values.[119,120] Tibolone is a synthetic steroid with 
+androgenic, estrogenic, and progestogenic properties. Several 
+authors showed the effectiveness of tibolone in the treatment 
+of Sjogren’s and non‑Sjogren’s DED.[69,121] However, there 
+is conflicting evidence on the clinical utility of this drug.[68]
+Low‑dose hydrocortisone eye drops, either in combination 
+with cyclosporine or trehalose, have been shown to be effective 
+in the management of DED.[122‑127] It is important to note that a 
+very recent Cochrane review that evaluated the effectiveness 
+of topical corticosteroids in DED management suggests that 
+evidence is very low to moderate regarding its benefits, 
+including its role on tear film quality.
+Treatment for Endocrine Abnormalities and 
+Its Effect on DED
+Hormonal contraceptives (HC) do not appear to have any impact 
+on tear physiology. Even though few reports suggested increased 
+prevalence of DED in women using HC,[128,129] many other reports 
+demonstrated no effect of HCs on the tear film metrics.[130-132]
+DED is an adverse effect of oral aromatase inhibitory therapy 
+in women with breast cancer.[133-135] Aromatase catalyzes the 
+conversion of androgens to estrogens in various tissues of the 
+human body including the ocular surface.[133,134] The inhibition of 
+aromatase possibly results in reduced systemic and local estrogen 
+concentrations resulting in ocular surface dryness.[135]
+Conclusion
+Based on the aspects discussed in this article it is apparent that 
+it is essential to consider the possibility of hormonal imbalances 
+and their impact while treating patients with DED. Hormonal 
+perturbation, either physiological (menopause, aging) or 
+pathological (PCOS, TAO, DM), should be factored in during 
+the diagnosis and treatment planning of DED. An informed 
+and constructive collaboration between an ophthalmologist 
+and an endocrinologist could help manage patients with DED, 
+particularly those who are refractory to conventional treatment 
+and with hormonal imbalances, more effectively.
+Financial support and sponsorship
+This work was supported by Narayana Nethralaya Foundation, 
+Bangalore, India.
+Conflicts of interest
+There are no conflicts of interest.
+References
+1. Craig JP, Nichols KK, Akpek EK, Caffery B, Dua HS, Joo CK, 
+et al. TFOS DEWS II definition and classification report. Ocul Surf 
+2017;15:276‑83.
+2. Gilbard JP, Farris RL. Ocular surface drying and tear film 
+osmolarity in thyroid eye disease. Acta Ophthalmol (Copenh) 
+2009;61:108‑16.
+3. Bonini S, Mantelli F, Moretti C, Lambiase A, Bonini S, Micera A. 
+Itchy‑dry eye associated with polycystic ovary syndrome. Am J 
+Ophthalmol 2007;143:763‑71.e2.
+4. Gipson IK. The ocular surface: The challenge to enable and protect 
+vision: The Friedenwald lecture. Investig Opthalmology Vis Sci 
+2007;48:4391.
+5. Clayton JA. Applying the new SABV (sex as a biological variable) 
+policy to research and clinical care. Physiol Behav 2018;187:2‑5.
+6. Hashemi H, Khabazkhoob M, Kheirkhah A, Emamian MH, 
+Mehravaran S, Shariati M, et al. Prevalence of dry eye syndrome in 
+an adult population. Clin Experiment Ophthalmol 2014;42:242‑8.
+7. SchaumbergDA, SullivanDA, BuringJE, DanaMR. Prevalence of dry 
+eye syndrome among US women. Am J Ophthalmol 2003;136:318‑26.
+8. Schaumberg DA, Dana R, Buring JE, Sullivan DA. Prevalence of 
+dry eye disease among US Men: Estimates from the physicians’ 
+health studies. Arch Ophthalmol 2009;127:763‑8.
+9. Chia EM, Mitchell P, Rochtchina E, Lee AJ, Maroun R, Wang JJ. 
+Prevalence and associations of dry eye syndrome in an older 
+population: The Blue Mountains Eye Study. Clin Exp Ophthalmol 
+2003;31:229‑32.
+10. Wilson G, Horner D, Begley C, Page J. Ocular discomfort from 
+pterygium in men and women. Eye Contact Lens Sci Clin Pract 
+2008;34:201‑6.
+11. Sullivan DA, Wickham LA, Rocha EM, Krenzer KL, Sullivan BD, 
+Steagall R, et al. Androgens and dry eye in Sjögren’s syndromea. 
+Ann N Y Acad Sci 1999;876:312‑24.
+12. Parashar K, Schulte F, Hardt M, Baker OJ. Sex‑mediated elevation 
+of the specialized pro‑resolving lipid mediator levels in a Sjögren’s 
+syndrome mouse model. FASEB J Off Publ Fed Am Soc Exp Biol 
+2020;34:7733‑44.
+13. Azziz R, Carmina E, Dewailly D, Diamanti‑Kandarakis E, 
+Escobar‑Morreale HF, Futterweit W, et al. The androgen excess 
+and PCOS society criteria for the polycystic ovary syndrome: The 
+complete task force report. Fertil Steril 2009;91:456‑88.
+14. Karaca Adıyeke S, Karaca I, Yıldırım S, Adıyeke M, Uyar İ, 
+Türe G. Anterior segment findings in women with polycystic ovary 
+syndrome. Turk J Ophthalmol 2017;47:24‑7.
+15. Kebapcilar AG, Tatar MG, Ipekci SH, Gonulalan G, Korkmaz H, 
+Baldane S, et al. Cornea in PCOS patients as a possible target 
+of IGF‑1 action and insulin resistance. Arch Gynecol Obstet 
+2014;290:1255‑63.
+16. Bertoli A, Fusco A, Greco AV, Lauro R. Differences in insulin 
+receptors between men and menstruating women and influence 
+of sex hormones on insulin binding during the menstrual cycle. 
+J Clin Endocrinol Metab 1980;50:246‑50.
+17. Mrugacz M, Zywalewska N, Bakunowicz‑LazarczykA. [Neuronal 
+and hormonal regulatory mechanisms of tears production and 
+secretion]. Klin Oczna 2005;107:548‑50.
+18. Schirra F, Suzuki T, Dickinson DP, Townsend DJ, Gipson IK, 
+Sullivan DA. Identification of steroidogenic enzyme mrnas in the 
+human lacrimal gland, meibomian gland, cornea, and conjunctiva. 
+Cornea 2006;25:438‑42.
+19. Yamagami H, Schirra F, Liu M, Richards SM, Sullivan BD, Sullivan 
+DA. Androgen Influence on Gene Expression in the Meibomian 
+Gland. In: Sullivan DA, Stern ME, Tsubota K, Dartt DA, Sullivan 
+RM, Bromberg BB, editors. Lacrimal Gland, Tear Film, and Dry Eye 
+Syndromes 3 [Internet]. Boston, MA: Springer US; 2002 [cited 2022 
+Oct 3]. p. 477–81. (Advances in Experimental Medicine and Biology; 
+vol. 506). Available from: http://link.springer.com/10.1007/978-1￾4615-0717-8_66. [Last accessed on 2022 Sep 30].
+20. Sullivan DA, Jensen RV, Suzuki T, Richards SM. Do sex steroids 
+exert sex‑specific and/or opposite effects on gene expression in 
+lacrimal and meibomian glands? Mol Vis 2009;15:1553‑72.
+21. Schirra F, Suzuki T, Richards SM, Jensen RV, Liu M, Lombardi MJ, 
+et al. Androgen control of gene expression in the mouse meibomian 
+gland. Investig Opthalmol Vis Sci 2005;46:3666‑75.
+22. Steagall RJ, Yamagami H, Wickham LA, Sullivan DA. 
+Androgen control of gene expression in the rabbit meibomian 
+gland. In: Sullivan DA, Stern ME, Tsubota K, Dartt DA, 
+Sullivan RM, Bromberg BB, editors. Lacrimal Gland, Tear Film, 
+and Dry Eye Syndromes 3. Boston, MA: Springer US; 2002. 
+p. 465‑76. Advances in Experimental Medicine and Biology; 
+1282 Indian Journal of Ophthalmology Volume 71 Issue 4
+vol. 506. Available from: http://link.springer.com/10.1007
+/978‑1‑4615‑0717‑8_65. [Last accessed on 2022 Oct 03].
+23. Sullivan BD. Complete androgen insensitivity syndrome: Effect 
+on human meibomian gland secretions. Arch Ophthalmol 
+2002;120:1689‑99.
+24. Cermak JM, Krenzer KL, Sullivan RM, Dana MR, Sullivan DA. 
+Is complete androgen insensitivity syndrome associated with 
+alterations in the meibomian gland and ocular surface? Cornea 
+2003;22:516‑21.
+25. Krenzer KL, Reza Dana M, Ullman MD, Cermak JM, Tolls DB, 
+Evans JE, et al. Effect of androgen deficiency on the human 
+meibomian gland and ocular surface. J Clin Endocrinol Metab 
+2000;85:4874‑82.
+26. Sullivan BD, Evans JE, Krenzer KL, Reza Dana M, Sullivan DA. 
+Impact of antiandrogen treatment on the fatty acid profile of neutral 
+lipids in human meibomian gland secretions. J Clin Endocrinol 
+Metab 2000;85:4866‑73.
+27. Sullivan DA, Sullivan BD, Evans JE, Schirra F, Yamagami H, Liu M, 
+et al. Androgen deficiency, meibomian gland dysfunction, and 
+evaporative dry eye. Ann N Y Acad Sci 2002;966:211‑22.
+28. Richards SM, Liu M, Jensen RV, Schirra F, Yamagami H, 
+Lombardi MJ, et al. Androgen regulation of gene expression in the 
+mouse lacrimal gland. J Steroid Biochem Mol Biol 2005;96:401‑13.
+29. Sullivan DA. Tearful relationships? Sex, hormones, the lacrimal 
+gland, and aqueous‑deficient dry eye. Ocul Surf 2004;2:92‑123.
+30. Sullivan DA, Hann LE. Hormonal influence on the secretory 
+immune system of the eye: Endocrine impact on the lacrimal gland 
+accumulation and secretion of IgA and IgG. J Steroid Biochem 
+1989;34:253‑62.
+31. McKay TB, Priyadarsini S, Karamichos D. Sex hormones, 
+growth hormone, and the cornea. Cells 2022;11:224. doi: 10.3390/
+cells11020224.
+32. Suzuki T, Kinoshita Y, Tachibana M, Matsushima Y, Kobayashi Y, 
+Adachi W, et al. Expression of sex steroid hormone receptors in 
+human cornea. Curr Eye Res 2001;22:28‑33.
+33. Suzuki T, Schirra F, Richards SM, Jensen RV, Sullivan DA. 
+Estrogen and progesterone control of gene expression in the mouse 
+meibomian gland. Investig Opthalmology Vis Sci 2008;49:1797‑808.
+34. Pochi PE, Strauss JS. Endocrinologic control to the development 
+and activity of the human sebaceous gland. J Invest Dermatol 
+1974;62:191‑201.
+35. Wirth H, Gloor M, Kimmel W. Influence of cyproterone acetate 
+and estradiol on cell kinetics in the sebaceous gland of the golden 
+hamster ear. Arch Dermatol Res 1980;268:277‑81.
+36. Strauss JS, Kligman AM, Pochi PE. The effect of androgens 
+and estrogens on human sebaceous glands. J Invest Dermatol 
+1962;39:139‑55.
+37. Schäfer G, Krause W. The effect of estradiol on the sebaceous gland 
+of the hamster ear and its antagonism by tamoxifen. Arch Dermatol 
+Res 1985;277:230‑4.
+38. Schaumberg DA. Hormone replacement therapy and dry eye 
+syndrome. JAMA 2001;286:2114‑9.
+39. Erdem U, Ozdegirmenci O, Sobaci E, Sobaci G, Göktolga U, Dagli S. 
+Dry eye in post‑menopausal women using hormone replacement 
+therapy. Maturitas 2007;56:257‑62.
+40. Okoń A, JurowskiP, Goś R.[The influence of the hormonal replacement 
+therapy on the amount and stability of the tear film among peri‑ and 
+postmenopausal women]. Klin Oczna 2001;103:177‑81.
+41. Schaumberg DA, Uchino M, Christen WG, Semba RD, Buring JE, 
+Li JZ. Patient reported differences in dry eye disease between men 
+and women: Impact, management, and patient satisfaction. PLoS 
+One 2013;8:e76121.
+42. Sriprasert I, Warren DW, Mircheff AK, Stanczyk FZ. Dry eye 
+in postmenopausal women: A hormonal disorder. Menopause 
+2016;23:343‑51.
+43. Rahimi Darabad R, Suzuki T, Richards SM, Jakobiec FA, Zakka FR, 
+Barabino S, et al. Does estrogen deficiency cause lacrimal gland 
+inflammation and aqueous‑deficient dry eye in mice? Exp Eye Res 
+2014;127:153‑60.
+44. Azzarolo A, Mircheff A, Kaswan R, Warren D. Hypothesis for an 
+indirect role of estrogens in maintaining lacrimal gland-function. 
+In lippincott-raven publ 227 east washington sq, Philadelphia, PA; 
+1993. p. 1466.
+45. Evans V, Millar TJ, Eden JA, Eden MDP. Menopause, hormone 
+replacement therapy and tear function. In: Sullivan DA, Stern ME, 
+Tsubota K, Dartt DA, Sullivan RM, Bromberg BB, editors. Lacrimal 
+Gland, Tear Film, and Dry Eye Syndromes 3. Boston, MA: Springer 
+US; 2002. p. 1029‑33. Advances in Experimental Medicine and 
+Biology; vol. 506. Available from: http://link.springer.com/10.1007/9
+78‑1‑4615‑0717‑8_145. [Last accessed on 2022 Sep 30].
+46. Da Y, Niu K, Wang K, Cui G, Wang W, Jin B, et al. A comparison 
+of the effects of estrogen and cimicifuga racemosa on the lacrimal 
+gland and submandibular gland in ovariectomized rats. PLoS One 
+2015;10:e0121470.
+47. Jacobs M, Buxton D, Kramer P, Lubkin V, Dunn M, Herp A, et al. 
+The effect of oophorectomy on the rabbit lacrimal system. Invest 
+Ophthalmol Vis Sci Suppl 1986;27(Suppl):25.
+48. Labrie F. Intracrinology. Mol Cell Endocrinol 1991;78:C113‑8.
+49. Labrie F, Bélanger A, Simard J, Luu‑The V, Labrie C. DHEA and 
+peripheral androgen and estrogen formation: Intracrinology. Ann 
+N Y Acad Sci 1995;774:16‑28.
+50. Labrie F. All sex steroids are made intracellularly in peripheral 
+tissues by the mechanisms of intracrinology after menopause. 
+J Steroid Biochem Mol Biol 2015;145:133‑8.
+51. Gibson EJ, Stapleton F, Wolffsohn JS, Golebiowski B. Local 
+synthesis of sex hormones: Are there consequences for the ocular 
+surface and dry eye? Br J Ophthalmol 2017;101:1596‑603.
+52. Vavilis D, Maloutas S, Nasioutziki M, Boni E, Bontis J. Conjunctiva 
+is an estrogen‑sensitive epithelium. Acta Obstet Gynecol Scand 
+1995;74:799‑802.
+53. Giuffrè G, Rosa LD, Fiorino F, Bubella DM, Lodato G. Variations 
+in central corneal thickness during the menstrual cycle in women. 
+Cornea 2007;26:144‑6.
+54. Goldich Y, Barkana Y, Pras E, Fish A, Mandel Y, Hirsh A, et al. 
+Variations in corneal biomechanical parameters and central corneal 
+thickness during the menstrual cycle. J Cataract Refract Surg 
+2011;37:1507‑11.
+55. Riss B, Binder S, Riss P, Kemeter P. Corneal sensitivity during the 
+menstrual cycle. Br J Ophthalmol 1982;66:123‑6.
+56. Versura P, Fresina M, Campos EC. Ocular surface changes over 
+the menstrual cycle in women with and without dry eye. Gynecol 
+Endocrinol 2007;23:385‑90.
+57. Boga A, Stapleton F, Briggs N, Golebiowski B. Daily fluctuations 
+in ocular surface symptoms during the normal menstrual cycle 
+and with the use of oral contraceptives. Ocul Surf 2019;17:763‑70.
+58. Cavdar E, Ozkaya A, Alkin Z, Ozkaya HM, Babayigit MA. 
+Changes in tear film, corneal topography, and refractive status 
+in premenopausal women during menstrual cycle. Contact Lens 
+Anterior Eye 2014;37:209‑12.
+59. Suzuki T, Sullivan DA. Estrogen stimulation of proinflammatory 
+cytokine and matrix metalloproteinase gene expression in human 
+corneal epithelial cells. Cornea 2005;24:1004‑9.
+60. Wang C, Shi X, Chen X, Wu H, Zhang H, Xie J, et al. 17‑β‑estradiol 
+inhibits hyperosmolarity‑induced proinflammatory cytokine 
+elevation via the p38 MAPK pathway in human corneal epithelial 
+cells. Mol Vis 2012;18:1115‑22.
+61. Berg G, Ekerfelt C, Hammar M, Lindgren R, Matthiesen L, 
+Ernerudh J. Cytokine changes in postmenopausal women treated 
+April 2023 Gorimanipalli, et al.: Hormones and DED 1283
+with estrogens: A placebo‑controlled study. Am J Reprod Immunol 
+2002;48:63‑9.
+62. Nilsson BO. Modulation of the inflammatory response by estrogens 
+with focus on the endothelium and its interactions with leukocytes. 
+Inflamm Res 2007;56:269‑73.
+63. Schwarz E, Schäfer C, Bode JC, Bode C. Influence of the menstrual 
+cycle on the LPS‑induced cytokine response of monocytes. 
+Cytokine 2000;12:413‑6.
+64. Tabibzadeh S, SunXZ. Cytokine expression in human endometrium 
+throughout the menstrual cycle. Hum Reprod 1992;7:1214‑21.
+65. Yasui T, Matsui S, Tani A, Kunimi K, Yamamoto S, Irahara M. 
+Androgen in postmenopausal women. J Med Invest 2012;59:12‑27.
+66. Golebiowski B, Badarudin N, Eden J, You J, Hampel U, Stapleton F. 
+Does endogenous serum oestrogen play a role in meibomian 
+gland dysfunction in postmenopausal women with dry eye? Br J 
+Ophthalmol 2017;101:218‑22.
+67. Gagliano C, Caruso S, Napolitano G, Malaguarnera G, Cicinelli MV, 
+Amato R, et al. Low levels of 17‑β‑oestradiol, oestrone and 
+testosterone correlate with severe evaporative dysfunctional tear 
+syndrome in postmenopausal women: A case‑control study. Br J 
+Ophthalmol 2014;98:371‑6.
+68. Uncu G, Avci R, Uncu Y, Kaymaz C, Develioğlu O. The effects 
+of different hormone replacement therapy regimens on tear 
+function, intraocular pressure and lens opacity. Gynecol Endocrinol 
+2006;22:501‑5.
+69. Affinito P, SardoADS, Di Carlo C, SammartinoA, Tommaselli GA, 
+Bifulco G, et al. Effects of hormone replacement therapy on ocular 
+function in postmenopause. Menopause 2003;10:482‑7.
+70. Jensen AA, Higginbotham EJ, Guzinski GM, Davis IL, Ellish NJ. 
+A survey of ocular complaints in postmenopausal women. JAssoc 
+Acad Minor Phys 2000;11:44‑9.
+71. Khurana AK, Sunder S, Ahluwalia BK, Malhotra KC. Tear film 
+profile in Graves’ ophthalmopathy. Acta Ophthalmol (Copenh) 
+2009;70:346‑9.
+72. Wang CY, Ho RW, Fang PC, Yu HJ, Chien CC, Hsiao CC, et al. 
+The function and morphology of Meibomian glands in patients 
+with thyroid eye disease: A preliminary study. BMC Ophthalmol 
+2018;18:90.
+73. Park J, Baek S. Dry eye syndrome in thyroid eye disease patients: 
+The role of increased incomplete blinking and Meibomian gland 
+loss. Acta Ophthalmol (Copenh) 2019;97:e800‑6.
+74. Park J, Kim J, Lee H, Park M, Baek S. Functional and structural 
+evaluation of the meibomian gland using a LipiView interferometer 
+in thyroid eye disease. Can J Ophthalmol 2018;53:373‑9.
+75. Kim YS, Kwak AY, Lee SY, Yoon JS, Jang SY. Meibomian 
+gland dysfunction in Graves’ orbitopathy. Can J Ophthalmol 
+2015;50:278‑82.
+76. Trokel SL, Jakobiec FA. Correlation of CT scanning and pathologic 
+features of ophthalmic Graves’ disease. Ophthalmology 
+1981;88:553‑64.
+77. Chang TC, Huang KM, Chang TJ, Lin SL. Correlation of 
+orbital computed tomography and antibodies in patients with 
+hyperthyroid Graves’ disease. Clin Endocrinol (Oxf) 1990;32:551‑8.
+78. HuangD, LuoQ, Yang H, MaoY. Changes of lacrimal gland and tear 
+inflammatory cytokines in thyroid‑associated ophthalmopathy. 
+Investig Opthalmology Vis Sci 2014;55:4935‑43.
+79. Bingham CM, Harris MA, Realini T, Nguyen J, Hogg JP, 
+Sivak‑Callcott JA. Calculated computed tomography volumes of 
+lacrimal glands and comparison to clinical findings in patients with 
+thyroid eye disease. Ophthal Plast Reconstr Surg 2014;30:116‑8.
+80. Huang Y, Wu Y, Zhang S, Lu Y, Wang Y, Liu X, et al. 
+Immunophenotype of lacrimal glands in graves orbitopathy: 
+Implications for the pathogenesis of Th1 and Th17 immunity. 
+Thyroid 2022;32:949‑61.
+81. Eckstein AK, Finkenrath A, Heiligenhaus A, Renzing‑Kohler K, 
+Esser J, Kruger C, et al. Dry eye syndrome in thyroid‑associated 
+ophthalmopathy: Lacrimal expression of TSH receptor suggests 
+involvement of TSHR‑specific autoantibodies. Acta Ophthalmol 
+Scand 2004;82:291‑7.
+82. Dias AC, Mo×dulo CM, Jorge AG, Braz AM, Jordão AA, Filho RB, 
+et al. Influence of thyroid hormone on thyroid hormone receptor 
+β‑1 expression and lacrimal gland and ocular surface morphology. 
+Investig Opthalmol Vis Sci 2007;48:3038‑42.
+83. Gupta A, Sadeghi PB, Akpek EK. Occult thyroid eye disease in 
+patients presenting with dry eye symptoms. Am J Ophthalmol 
+2009;147:919‑23.
+84. Kouloulias V, Kouvaris J, ZygogianniA, Mosa E, Georgakopoulos J, 
+Theodosiadis P. Efficacy and toxicity of radiotherapy for Graves’ 
+ophthalmopathy: The University of Athens experience. Head Neck 
+Oncol 2013;5:12.
+85. Prabhu RS, Liebman L, Wojno T, Hayek B, Hall WA, Crocker I. 
+Clinical outcomes of radiotherapy as initial local therapy 
+for Graves’ ophthalmopathy and predictors of the need for 
+post‑radiotherapy decompressive surgery. Radiat Oncol 2012;7:95. 
+doi: 10.1186/1748‑717X‑7‑95.
+86. Matthiesen C, Thompson JS, Thompson D, Farris B, Wilkes B, 
+Ahmad S, et al. The efficacy of radiation therapy in the treatment 
+of Graves’ orbitopathy. Int J Radiat Oncol 2012;82:117‑23.
+87. George JL, Tercero ME, Angioï‑Duprez K, Maalouf T. Risk of dry 
+eye after mullerectomy via the posterior conjunctival approach for 
+thyroid‑related upper eyelid retraction. Orbit 2002;21:19‑25.
+88. Corrales RM, Luo L, Chang EY, Pflugfelder SC. Effects of 
+osmoprotectants on hyperosmolar stress in cultured human corneal 
+epithelial cells. Cornea 2008;27:574‑9.
+89. Gürdal C, Genç İ, Saraç Ö, Gönül İ, Takmaz T, Can İ. Topical 
+cyclosporine in thyroid orbitopathy‑related dry eye: Clinical 
+findings, conjunctival epithelial apoptosis, and MMP‑9 expression. 
+Curr Eye Res 2010;35:771‑7.
+90. McCollum EV, Simmonds N, Becker JE, Shipley PG. Studies on 
+experimental rickets. J Biol Chem 1922;53:293‑312.
+91. Plum LA, DeLuca HF. Vitamin D, disease and therapeutic 
+opportunities. Nat Rev Drug Discov 2010;9:941‑55.
+92. Kim S, Shevde NK, Pike JW. 1,25‑Dihydroxyvitamin D3 stimulates 
+cyclic vitamin D receptor/retinoid X receptor DNA‑binding, 
+co‑activator recruitment, and histone acetylation in intact 
+osteoblasts. J Bone Miner Res 2004;20:305‑17.
+93. KhamarP, NairAP, ShettyR, VaidyaT, SubramaniM, PonnalaguM, 
+et al. Dysregulated tear fluid nociception‑associated factors, corneal 
+dendritic cell density, and vitamin D levels in evaporative dry eye. 
+Investig Opthalmology Vis Sci 2019;60:2532‑42.
+94. Panigrahi T, D’Souza S, Shetty R, Padmanabhan Nair A, Ghosh A, 
+Jacob Remington Nelson E, et al. Genistein‑calcitriol mitigates 
+hyperosmotic stress‑induced TonEBP, CFTR dysfunction, VDR 
+degradation and inflammation in dry eye disease. Clin Transl Sci 
+2021;14:288‑98.
+95. Yin Z, Pintea V, Lin Y, Hammock BD, Watsky MA. Vitamin D 
+enhances corneal epithelial barrier function. Investig Opthalmol 
+Vis Sci 2011;52:7359‑64.
+96. Reins RY, Baidouri H, McDermott AM. Vitamin D activation and 
+function in human corneal epithelial cells during TLR‑induced 
+inflammation. Investig Opthalmol Vis Sci 2015;56:7715‑27.
+97. Kizilgul M, Kan S, Ozcelik O, Beysel S, Apaydin M, Ucan B, et al. 
+Vitamin D replacement improves tear osmolarity in patients with 
+vitamin D deficiency. Semin Ophthalmol 2018;33:589‑94.
+98. Bae SH, Shin YJ, Kim HK, Hyon JY, Wee WR, Park SG. Vitamin D 
+supplementation for patients with dry eye syndrome refractory 
+to conventional treatment. Sci Rep 2016;6:33083. doi: 10.1038/
+srep33083.
+1284 Indian Journal of Ophthalmology Volume 71 Issue 4
+99. Singman EL, Poon D, Jun AS. Putative corneal neuralgia 
+responding to vitamin D supplementation. Case Rep Ophthalmol 
+2013;4:105‑8.
+100.Hwang JS, Lee YP, Shin YJ. Vitamin D enhances the efficacy of 
+topical artificial tears in patients with dry eye disease. Cornea 
+2019;38:304‑10.
+101.Goebbels M. Tear secretion and tear film function in insulin 
+dependent diabetics. Br J Ophthalmol 2000;84:19‑21.
+102.Wang S, Jia Y, Li T, Wang A, Gao L, Yang C, et al. Dry eye disease 
+is more prevalent in children with diabetes than in those without 
+diabetes. Curr Eye Res 2019;44:1299‑305.
+103.Najafi L, Malek M, ValojerdiAE, Aghili R, Khamseh ME, FallahAE, 
+et al. Dry eye and its correlation to diabetes microvascular 
+complications in people with type 2 diabetes mellitus. J Diabetes 
+Complications 2013;27:459‑62.
+104.Dias AC, Batista TM, Roma LP, Módulo CM, Malki LT, Dias LC, 
+et al. Insulin replacement restores the vesicular secretory apparatus 
+in the diabetic rat lacrimal gland. Arq Bras Oftalmol 2015;78:158‑63.
+105.Hann LE, Kelleher RS, Sullivan DA. Influence of culture conditions 
+on the androgen control of secretory component production by 
+acinar cells from the rat lacrimal gland. Invest Ophthalmol Vis Sci 
+1991;32:2610‑21.
+106.AlvesM, CalegariVC, CunhaDA, SaadMJA, VellosoLA, RochaEM. 
+Increased expression of advanced glycation end‑products and their 
+receptor, and activation of nuclear factor kappa‑B in lacrimal glands 
+of diabetic rats. Diabetologia 2005;48:2675‑81.
+107.Cruz‑Cazarim ELC, Cazarim MS, Ogunjimi AT, Petrilli R, 
+Rocha EM, Lopez RFV. Prospective insulin‑based ophthalmic 
+delivery systems for the treatment of dry eye syndrome and corneal 
+injuries. Eur J Pharm Biopharm 2019;140:1‑10. doi: 10.1016/j.ejpb. 
+2019.04.014.
+108.Susarla R, Liu L, Walker EA, Bujalska IJ, Alsalem J, Williams GP, 
+et al. Cortisol biosynthesis in the human ocular surface innate 
+immune response. PLoS One 2014;9:e94913.
+109.Yeager MP, Pioli PA, Guyre PM. Cortisol exerts bi‑phasic regulation 
+of inflammation in humans. Dose Response 2011;9:332‑47.
+110.Duma D, Collins JB, Chou JW, Cidlowski JA. Sexually dimorphic 
+actions of glucocorticoids provide a link to inflammatory diseases 
+with gender differences in prevalence. Sci Signal 2010;3:ra74.
+111.Reber PM. Prolactin and immunomodulation. Am J Med 
+1993;95:637‑44.
+112.McMurray R, Keisler D, Kanuckel K, Izui S, Walker SE. Prolactin 
+influences autoimmune disease activity in the female B/W mouse. 
+J Immunol 1991;147:3780‑7.
+113.Taiym S, Haghighat N, Al‑HashimiI. A comparison of the hormone 
+levels in patients with Sjogren’s syndrome and healthy controls. 
+Oral Surg Oral Med Oral Pathol Oral Radiol Endod 2004;97:579‑83.
+114.Mathers WD, Stovall D, Lane JA, Zimmerman MB, Johnson S. 
+Menopause and tear function: The influence of prolactin and sex 
+hormones on human tear production. Cornea 1998;17:353‑8.
+115.Liu Y, Knop E, Knop N, Sullivan DA, List EO, Kopchick JJ, et al. 
+Growth hormone influence on the morphology and size of 
+the mouse meibomian gland. J Ophthalmol 2016;2016:1‑7. doi: 
+10.1155/2016/5728071.
+116.Connor C, Karkkainen T. The efficacy of androgenic artificial tears 
+in the treatment of dry eye.: 3:40‑4:00. Optom Vis Sci 2001;78:123.
+117.Schiffman RM, Bradford R, Bunnell B, Lai F, Bernstein P, 
+Whitcup SW. A multi‑center, double‑masked, randomized, 
+vehicle‑controlled, parallel group study to evaluate the safety 
+and efficacy of testosterone ophthalmic solution in patients 
+with meibomian gland dysfunction. Invest Ophthalmol Vis Sci 
+2006;47:5608.
+118.Worda C, Nepp J, Huber JC, Sator MO. Treatment of 
+keratoconjunctivitis sicca with topical androgen. Maturitas 
+2001;37:209‑12.
+119.Sator MO, Joura EA, Golaszewski T, Gruber D, Frigo P, Metka M, 
+et al. Treatment of menopausal keratoconjunctivitis sicca with 
+topical oestradiol. BJOG Int J Obstet Gynaecol 1998;105:100‑2.
+120.Akramian J, Wedrich A, Nepp J, Sator M. Estrogen therapy 
+in keratoconjunctivitis sicca. In: Sullivan DA, Dartt DA, 
+Meneray MA, editors. Lacrimal Gland, Tear Film, and Dry Eye 
+Syndromes 2. Boston, MA: Springer US; 1998 [cited 2022 Oct 21]. 
+p. 1005‑9. (Advances in Experimental Medicine and Biology; 
+vol. 438). Available from: http://link.springer.com/10.1007/
+978‑1‑4615‑5359‑5_145.
+121.Sartore A, Grimaldi E, Guaschino S. The treatment of Sjögren’s 
+syndrome with tibolone: A case report. Am J Obstet Gynecol 
+2003;189:894.
+122.Menchini M, Sartini F, Figus M, Gabbriellini G. Short‑term 
+results of a pulsed therapy with hydrocortisone eye drops 
+to treat moderate to severe dry eye in primary Sjögren 
+syndrome patients. Graefes Arch Clin Exp Ophthalmol 
+2022. Available from: https://link.springer.com/10.1007/s
+00417‑022‑05840‑1. [Last accessed on 2022 Oct 31].
+123.Astolfi G, Lorenzini L, Gobbo F, Sarli G, Versura P. Comparison 
+of trehalose/hyaluronic acid (HA) vs. 0.001% hydrocortisone/HA 
+Eyedrops on signs and inflammatory markers in a desiccating 
+model of dry eye disease (DED). J Clin Med 2022;11:1518. doi: 
+10.3390/jcm11061518.
+124.Fondi K, Miháltz K, Vécsei‑Marlovits PV. Efficacy of topical 
+hydrocortisone in combination with topical ciclosporin A for the 
+treatment of dry eye disease in patients with Sjögren syndrome. 
+J Ophthalmol 2021;2021:e7584370. doi: 10.1155/2021/7584370.
+125.Kallab M, Szegedi S, Hommer N, Stegmann H, Kaya S, 
+Werkmeister RM, et al. Topical low dose preservative‑free 
+hydrocortisone reduces signs and symptoms in patients 
+with chronic dry eye: A randomized clinical trial. Adv Ther 
+2020;37:329‑41.
+126.Kuzmanović Elabjer B, Marković L, Bjeloš M, Bušić M, 
+Miletić D, Kos E. A retrospective data review confirms that topical 
+preservative‑free hydrocortisone improves inflammation in dry 
+eye disease. Clin Ophthalmol Auckl NZ 2020;14:3691‑7.
+127.Bucolo C, Fidilio A, Fresta CG, Lazzara F, Platania CBM, 
+CantarellaG, et al. Ocular pharmacological profile of hydrocortisone 
+in dry eye disease. Front Pharmacol 2019;10:1240. doi: 10.3389/
+fphar. 2019.01240.
+128.He B, Iovieno A, Etminan M, Kezouh A, Yeung SN. Effects of 
+hormonal contraceptives on dry eye disease: A population‑based 
+study. Eye 2022;36:634‑8.
+129.TyagiM, Khare P, SharmaA. Dry eye syndrome in reproductive age 
+group women on oral contraceptives. Indian J Clin Exp Ophthalmol 
+2020;4:263‑7.
+130.Tomlinson A. Effect of oral contraceptives on tear physiology. 
+Ophthalmic Physiol Opt 2001;21:9‑16.
+131.Chen SP, Massaro‑Giordano G, Pistilli M, Schreiber CA, Bunya VY. 
+Tear osmolarity and dry eye symptoms in women using oral 
+contraception and contact lenses. Cornea 2013;32:423‑8.
+132.Kemdinum Idu F, Osita Emina M, Oyem Ubaru C. Tear secretion 
+and tear stability of women on hormonal contraceptives. J Optom 
+2013;6:45‑50.
+133.Inglis H, Boyle FM, Friedlander ML, Watson SL. Dry eyes and AIs: 
+If you don’t ask you won’t find out. Breast 2015;24:694‑8.
+134.Turaka K, Nottage JM, Hammersmith KM, Nagra PK, Rapuano CJ. 
+Dry eye syndrome in aromatase inhibitor users. Clin Exp 
+Ophthalmol 2013;41:239‑43.
+135.Gibson E, Stapleton F, Dear R, Wolffsohn JS, Golebiowski B. Dry 
+eye signs and symptoms in aromatase inhibitor treatment and the 
+relationship with pain. Ocul Surf 2020;18:108‑13.

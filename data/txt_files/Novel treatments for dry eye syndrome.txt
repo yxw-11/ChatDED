@@ -1,0 +1,1249 @@
+Novel treatments for dry eye syndrome
+Esther Roucautea
+, Marcela Huertas-Belloa and
+Alfonso L. Sabater
+Abstract
+Dry eye syndrome (DES) is a prevalent and multifactorial dis￾ease that leads to a self-perpetuating cycle of inflammation
+and damage to the ocular surface. This results in symptoms
+such as redness, burning, and blurred vision, which can
+negatively affect a patient’s quality of life. While treatments are
+available to manage DES, they only temporarily relieve
+symptoms. Furthermore, long-term use of certain medications
+can cause harm to the ocular surface. Therefore, there is a
+need for safer and effective treatments for DES. This review
+highlights the latest advancements in DES therapy, providing
+valuable insights into ongoing efforts to improve patient
+outcomes.
+Addresses
+Bascom Palmer Eye Institute, University of Miami Miller School of
+Medicine, Miami, FL, United States
+Corresponding author: Sabater, Alfonso L. (asabater@med.miami.
+edu) a These authors contributed equally.
+Current Opinion in Pharmacology 2024, 75:102431
+This review comes from a themed issue on Ocular Pharmacology
+(2024)
+Edited by Claudio Bucolo, Sanjoy K. Bhattacharya and Chiara M.
+Eandi
+For complete overview about the section, refer Ocular Pharmacology
+(2024)
+Available online 25 January 2024
+https://doi.org/10.1016/j.coph.2024.102431
+1471-4892/© 2024 Elsevier Ltd. All rights reserved.
+Introduction
+Dry eye syndrome (DES) is a common reason for
+ophthalmological consultations that can significantly
+impact patients’ quality of life and visual acuity [1e4].
+It can be caused by various factors, including medication
+usage [5e9], hormonal imbalances [10,11], corneal laser
+refractive surgery [12], systemic diseases [13,14], and
+allergies [9,15]. This condition results in a chronic cycle
+of inflammation and eye damage due to disruptions in
+tear film osmolarity, reduced tear film stability, and loss
+of tear film homeostasis [16]. This leads to lacrimal
+gland dysfunction [17], resulting in deficient aqueous
+dry eye [18,19] and meibomian gland dysfunction,
+which causes evaporative dry eye - the primary form of
+DES [15,20].
+Artificial tears, tear retention drops, and gels are notably
+the medications most associated with the management
+of DES [21,22], as they play a role in symptom man￾agement and corneal epithelial wound healing; however,
+they only provide temporary relief, and not all DES
+patients benefit from artificial tears. Recently, there has
+been a focus on anti-inflammatory and immunomodu￾latory therapies to prevent chronicity and structural
+changes in the eye [23,24]. However, prolonged use of
+anti-inflammatory drugs can lead to side effects like
+glaucoma and cataracts [8,25,26]. At the same time,
+immunomodulators have a long latency period, and
+some are poorly tolerated by patients, making treatment
+adherence challenging [27]. Surgical options such as
+punctal occlusion [28], minor gland salivary transplants,
+tarsorrhapy, and amniotic membrane placement can also
+be considered; however, they do not provide a definitive
+solution, especially in patients with a significant in-
+flammatory component where retaining tears on the
+ocular surface can be deleterious [28].
+Lately, the focus of treatments has been to restore the
+natural homeostasis of the ocular surface, putting an end
+to the vicious circle of DES. Despite the improved
+knowledge of DES’s pathogenesis, there are still several
+challenges and limitations in treating the disease and, so
+there remains a need to develop innovative therapies to
+treat DES. Thus, DES treatment must be personalized
+and multitargeted, considering etiology, addressing
+environmental and lifestyle factors, and utilizing a
+combination of pharmacological and non￾pharmacological therapies. Fortunately, there are prom￾ising new drugs under development that have the po￾tential to improve patient care significantly.
+This review aims to comprehensively examine the latest
+treatments for DES, encompassing existing options and
+emerging therapeutics currently under development.
+An extensive literature search was conducted using
+PubMed, Cochrane Library, ClinicalTrials.gov, nih.gov,
+and the American Academy of Ophthalmology website
+to gather relevant information on these therapies.
+Available online at www.sciencedirect.com
+ScienceDirect
+Current Opinion in
+Pharmacology
+www.sciencedirect.com Current Opinion in Pharmacology 2024, 75:102431
+Current dry eye target mechanisms
+Over the last decade, much research has been carried
+out on the pathophysiology of dry eye and associated
+etiological factors. As knowledge of this disease has
+progressed, efforts have focused on developing therapies
+targeting the different pathophysiological mechanisms
+involved, including the inflammatory cascade, lacrimal
+and meibomian gland dysfunction, nerve damage, and
+microbiota management. Figure 1 summarizes the
+therapeutic mechanisms and current and developing
+therapies for DES.
+Inflammation
+According to the 2017 Tear Film & Ocular Surface So￾ciety Dry Eye Workshop (TFOS DEWS) II report,
+controlling inflammation is crucial in improving symp￾toms and preventing chronicity [29,30]. Exposure to
+external stimuli like environmental pollutants, ultravi￾olet radiation, ozone, infections, autoimmunity, and
+genetic factors can disrupt the ocular surface, trigger
+innate immunological processes, and increase oxidative
+stress. Prolonged or intense exposure to inflammatory
+agents can cause an adaptive immunological reaction,
+releasing reactive oxygen species (ROS) and, prosta￾glandins, and decreasing antioxidant levels. This can
+ultimately cause obstruction of the meibomian gland
+ostia, fibrosis, and glandular infiltration with monocytes
+and neutrophils. In addition, direct inflammatory
+damage or a lack of epithelial protection can cause
+exposure and chronic stimulation of corneal nerve end￾ings, leading to neurogenic effects, neurotrophic factors,
+and neuropeptides being released. This can cause
+neurogenic inflammation on the ocular surface and
+within the lacrimal gland [31,32].
+Given this information, alternative approaches to con￾trolling inflammation and managing DES have been
+explored. Corticosteroid therapy targets ICAM-1-
+mediated cell adhesion, cytokine/chemokine/MMP
+expression, and induction of lymphocyte apoptosis; it is
+effective but with significant and severe side effects
+such as increased intraocular pressure (IOP), risk of
+infection, and development of cataracts; therefore, long￾term use is not recommended [33]. Omega-3 fatty acids,
+Figure 1
+Approaches for the treatment of dry eye syndrome (DES). Extensive research is being conducted to enhance the understanding of the pathogenesis
+of DES. In recent years, there has been significant progress in developing novel therapies targeting DES physiopathology mechanisms, including
+meibomian gland and lacrimal gland dysfunction leading to evaporative dry eye and aqueous-deficient dry eye, respectively. Neuro-sensory abnor￾malities, Demodex treatment, and ocular microbiota have also been targeted. Additionally, the inflammatory cascade has been a central focus in the
+formulation of new treatments. Some therapies directly target inflammation, while others have anti-inflammatory properties as an additional effect. * FDA￾approved therapies for dry eye syndrome (DES), : NDA-Approved Treatments, C Phase III Treatments, - Phase II Treatments. TNF-ɑ: Tumor Necrosis
+Factor alpha; TRPM8: Transient Receptor Potential Cation Channel Subfamily M Member 8; RNA: Ribonucleic acid; Anti-BAFF: Anti- B-cell activating
+factor.
+2 Ocular Pharmacology (2024)
+Current Opinion in Pharmacology 2024, 75:102431 www.sciencedirect.com
+cyclosporine A, tacrolimus, and lifitegrast, have been
+suggested as possible treatments that target specific
+aspects of inflammation; However, they require a longer
+time period than corticosteroids before they are effec￾tive in controlling inflammation.
+Evaporative dry eye
+Most patients diagnosed with DES have an evaporative
+form of dry eye [33,34], the most prevalent form of
+DES. Due to the high prevalence of this condition,
+several emerging therapies have been directed at
+treating this cause. Meibomian gland dysfunction
+(MGD) is one of the key factors in evaporative DES,
+which disrupts the secretion of lipids and affects the
+lipid layer of the tears, causing the aqueous layers to
+evaporate quickly [35]. MGD is produced by inflam￾mation of the eyelids, microbiological changes, and
+terminal duct obstruction because of hypertrophy of
+the duct epithelium and keratinization of the orifice
+epithelium [20,36]. Current treatments for MGD are
+aimed at inhibiting inflammation, clearing obstructed
+ducts, and/or softening and physical expression of
+meibum [15,20,37].
+Demodex blepharitis
+Demodex mites are the most common ectoparasites on
+human skin. Two types of Demodex have been identified
+in humans: Demodex folliculorum and Demodex brevis,
+which can cause anterior blepharitis on the ocular sur￾face, posterior blepharitis accompanied by MGD, and
+keratitis [35]. High numbers of Demodex mites can
+cause the accumulation of debris around the eyelashes,
+generating blepharitis and evaporative dry eye due to
+obstruction of the meibomian glands [35e37]. Previous
+studies have shown a high correlation between Demodex
+infestation and the prevalence of DES ocular symptoms
+[35,38], and the first treatment for Demodex blepharitis
+was recently approved by the FDA. Current control
+therapies for Demodex blepharitis, such as warm com￾presses and over-the-counter hygiene products, may not
+be effective and may contain chemicals that can harm
+the ocular surface [39].
+Aqueous deficient dry eye
+The causes of aqueous-deficient DES can be classified
+as Sjogren’s syndrome (SS) (primary and secondary) and
+non-Sjogren’s aqueous-deficient DES. Secondary SS is
+associated with other autoimmune diseases, such as
+rheumatoid arthritis (RA) and systemic lupus erythe￾matosus (SLE) [8].
+SS is characterized by lymphocytic infiltration of the
+exocrine glands and increased B-cell activity [40],
+resulting in inflammation and the decline of exocrine
+gland function, ultimately causing xerostomia and dry
+eye [13,41]. Indeed, up to 10 % of patients with DES are
+diagnosed with SS [42].
+Immunosuppression in aqueous-deficient DES is
+required to improve the symptoms and signs and pre￾vent further disease progression. Treatments for DES
+secondary to SS include the use of artificial lubricant
+drops, biological tear substitutes, topical immunomod￾ulators, corticosteroids, secretagogues, diquafosol, and
+even surgical and non-surgical procedures, among others
+[18,23,42]. These treatments are focused on relieving
+and managing ocular surface inflammation and dryness.
+However, the management of systemic pathology
+is essential.
+Neurosensory abnormalities
+In recent years, following the TFOS DEWS II report,
+the relationship between neurosensory abnormalities
+and the development of DES has been studied. The
+cornea is one of the most densely innervated tissues in
+the body, containing approximately 7000 epithelial
+nerve endings (nociceptors) per 1 mm [43]; structural
+and functional changes of the sub-basal corneal nerves
+reduced corneal sensitivity, and increased nerve tortu￾osity, all of which have been found in patients with DES
+[44,45]. Sensory, motor, and autonomic nerve fibers
+maintain ocular surface homeostasis by sensing stimuli,
+controlling blinking, and stimulating lacrimal secretion
+[46]. Conversely, neuroinflammation and the neuro￾peptides released by the corneal nerves, the trigeminal
+ganglion, and the brainstem sensory complex seem to
+play an additional role in the pathogenesis of DES,
+especially substance P (SP), TRPM8 (transient mela￾statin 8 receptor potential), a-melanocyte-stimulating
+hormone (a-MSH), oxytocin, b-endorphin, and neuro￾tensin, which may be the targets of new therapeutic
+interventions [46,47]. Moreover, it has been found that
+some DES therapies allow the regeneration of the
+corneal subbasal nerve plexus, with an increase in
+length, the number of branches, and nerve density by
+confocal microscopy in vivo [48]; this also supports the
+importance of managing neurosensory abnormalities in
+patients with DES.
+Ocular surface microbiota disruption
+The microbiota is the ecological community consisting
+of a wide variety of bacteria, viruses, and fungi that live
+in an environment [49]. The ocular surface is contin￾uously exposed to the external environment and,
+therefore, to different microbial species. Consequently,
+it has a resident microbiota, which normally does not
+cause infection or inflammation. It maintains ocular
+surface homeostasis through various defense mecha￾nisms against potentially pathogenic microorganisms
+and regulates immunological tolerance of ocular surface
+structures [50,51]. Changes in the composition and
+function of the ocular microbiome have been found
+among subjects with DES [52e54]. Although little is
+known so far, some elements of this microbiota and/or
+its metabolites could represent protective cofactors in
+Novel treatments for dry eye syndrome Roucaute et al. 3
+www.sciencedirect.com Current Opinion in Pharmacology 2024, 75:102431
+the pathogenesis of common ocular diseases; therefore,
+a better understanding of the composition and function
+of microbial communities on the ocular surface could
+provide new knowledge and identify potential thera￾peutic targets in the search for new treatments for
+DES [50].
+Dry eye treatments
+The following is a comprehensive list of FDA-approved
+therapeutic options, off-label drugs, and investigational
+treatments for DES. This therapeutic armamentarium
+provides a diverse range of options to cater to the indi￾vidual needs of DES patients.
+FDA-approved current treatments (Table 1)
+Cyclosporine A
+Cyclosporine A inhibits T cell activation and inflamma￾tory function by acting as a calcineurin inhibitor [55]
+due to its immunosuppressive function, and since
+inflammation is a major factor in dry eye disease,
+cyclosporine A has been the focus of research for
+developing new drugs to target DES. However, cyclo￾sporine A has hydrophobic and lipophilic properties that
+challenge the development of an efficient and safe de￾livery treatment. It also has drawbacks, such as patient
+tolerance due to frequent adverse effects that limit
+adherence to the treatment and the time it takes for the
+onset of action [55,56].
+
+Cyclosporine A 0.05 % Ophthalmic Emulsion
+(Restasis )
+Restasis is an anionic oil-in-water emulsion containing
+cyclosporine A, approved by the FDA in 2003, which
+effectively enhances the solubility and biodegradability
+of cyclosporine A. It also reduces side effects associated
+with other oil delivery mechanisms. Clinical trials have
+demonstrated that Restasis is well-tolerated by patients
+and achieves maximum effectiveness after 4e6 months
+of treatment [57].
+
+Cyclosporine A 0.09 % Ophthalmic Solution
+(Cequa )
+Cequa is an aqueous nano micellar solution containing
+0.09 % of Cyclosporine A, approved by the FDA in 2018.
+Nanomicelle as a delivery system, improves the solubi￾lity of cyclosporine A, protecting the drug in its hydro￾phobic core, enhancing bioavailability, reducing side
+effects, and not altering tear osmolarity [55,58]. Clinical
+trials have shown significant improvement in DES
+symptoms within a short time frame and well￾tolerability for patients, with the most common side
+effect reported being conjunctival hyperemia and pain
+during eye drop installation [59].
+Lifitegrast ophthalmic solution 5.0 % (Xiidra®)
+Lifitegrast is a small-molecule integrin antagonist that
+blocks the interaction between intercellular adhesion
+molecule 1 (ICAM-1) and lymphocyte function￾associated antigen-1 (LFA-1) on the ocular surface
+[60]. LFA-1/ICAM-1 complex has a crucial role in den￾dritic cell migration and maturation, as well as T-cells
+differentiation, activation, migration, and adhesion [61],
+and its control has an anti-inflammatory effect. Lifite￾grast is a safe topical agent for DES, with the most re￾ported adverse event being dysgeusia (16 %).
+Otherwise, it is convenient, safe, well tolerated, and
+shows promising efficacy [62e64]. It was approved by
+the FDA in 2016.
+FDA-approved new treatments (2020–2023) (Table 1)
+Varenicline solution 0.03 mg, nasal spray (tyrvaya ®)
+Nicotinic acetylcholine receptors (NaChRs) located on
+trigeminal nerve endings in the nasal cavity play a crucial
+role in tear film production by activating the trigeminal
+parasympathetic pathway (TPP). By binding to these
+receptors, Varenicline, a NaChR agonist, acts as a
+neurostimulator, triggering an increase in tear produc￾tion via activating the TPP pathway and the lacrimal
+function unit, which regulates tear film production [65].
+What sets this new therapy apart from previous treat￾ments is that it is administered through the nasal cavity.
+Two randomized trials (ONSET) evaluated the effec￾tiveness and safety of Varenicline 0.03 mg nasal spray.
+The outcomes exhibited an improvement in symptoms
+regardless of the severity of the disease, an increase in
+tear production, and safe usage for patients [66e68]. It
+was approved by the FDA in 2021.
+Loteprednol etabonate 0.25 %, ophthalmic suspension
+(Eysuvis®)
+Eysuvis, a suspension of Loteprednol etabonate, utilizes
+mucus penetrating nanoparticles (MPP) designed to
+effectively penetrate mucus and prevent entrapment of
+drug particles by mucins; these also allow storage at
+room temperature, are stable in aqueous suspension eye
+drops, and minimize the side effects associated with
+corticosteroid use [69]. Clinical trials evaluated the ef-
+ficacy and safety of Loteprednol etabonate 0.25 %
+ophthalmic suspension and demonstrated rapid reduc￾tion of ocular discomfort and a low incidence of side
+effects for short-term use [25,70]. Eysuvis was approved
+by the FDA in 2020 for short-term use to treat eye pain,
+redness, and swelling in patients with DES.
+Water-free cyclosporine, 0.1 % eye drops (vevye TM)
+The development of Vevye (0.1 % Cyclosporine A),
+soluble in the water-free excipient perfluor￾obutylpentane, has significantly improved the drug’s
+tolerance profile by creating a clear solution free of oils,
+surfactants, and preservatives [71]. This also guarantees
+an earlier onset of action and enhanced bioavailability by
+4 Ocular Pharmacology (2024)
+Current Opinion in Pharmacology 2024, 75:102431 www.sciencedirect.com
+increasing its dwell time on the ocular surface [57].
+Clinical trials have shown that Vevey (previously known
+as CyclASol) is safe and tolerable for patients and im￾proves DES symptoms [27,57,71]. It was approved by
+the FDA on May 30th, 2023.
+Perfluorohexyloctane eye drops (MieboTM)
+Miebo is a sterile ophthalmic solution composed of a
+water-free semifluorinated alkane perfluorohexyloctane
+free of both steroids and preservatives [72]. By inter￾acting with the tear film, Miebo forms a barrier at the
+tear film-air interface, which effectively prevents the
+aqueous phase of the tear film from evaporating and
+reduces the shearing forces of the eyelid during blinking
+[73,74]. Clinical trials have demonstrated the safety and
+efficacy of Miebo in treating DES associated with MGD
+within 57 days by stabilizing the lipid layer and
+improving symptoms [72,73,75,76]. It was approved by
+the FDA in on May 18th, 2023.
+Lotilaner 0.25 % ophthalmic solution (Xdemvy™)
+Lotilaner is a highly lipophilic, antiparasitic agent that
+paralyzes and eradicates Demodex mites by selectively
+inhibiting parasite-specific g-aminobutyric acid (GABA)
+chloride channels, which play an essential role in the
+nervous system [39]. Inhibition of GABA-chloride
+channels paralyzes the mite nervous system and leads
+to its death. Clinical trials (Saturn-1 and Saturn-2) have
+shown safe and effective results for using Lotilaner
+ophthalmic solution in humans [77]. Xdemvy was
+approved by the FDA on May 1st,2023.
+External neurostimulation (iTEAR100®)
+Neurostimulation stimulates a nerve promoting the
+aqueous and protein release from secretory granules in
+the lacrimal gland, goblet cells, and meibomian glands
+through the nasolacrimal reflex [43]. iTEAR100
+(Olympic Ophthalmics Inc., Issaquah, Washington,
+USA) stimulates the external nasal nerve, which is the
+afferent arm of CNV1, through extra nasal mechanical
+stimulation [78], increasing the basal tear production
+without touching the sensitive ocular surface of dry eye
+patients. This device is easy to use, particularly for those
+patients who find it difficult to apply eye drops. Two
+clinical trials, CLP-OO2 and CLP-OO7, evaluated the
+use of iTEAR100 in dry eye patients and reported
+minimal adverse events, such as headache, sneezing,
+ticking sensation, and intermittent nose pain. Recently
+iTEAR100 was FDA-approved.
+Off-label new treatments
+Insulin
+Research has shown that applying topical insulin can
+benefit DES treatment by promoting the healing of the
+corneal epithelium and re-epithelialization [79]. Insulin
+and insulin growth factors (IGF) receptors have been
+found on the ocular surface and the lacrimal gland,
+essential for acinar lacrimal gland proliferation and
+corneal surface regeneration [80]. Additionally, topical
+insulin can partially reverse the decrease in protein
+production caused by lacrimal gland dysfunction, and
+the vehicles used to prepare insulin eye drops in most
+studies (polyethylene glycerol and propylene glycol)
+also act as ocular lubricants, increasing the stability of
+tear film, decreasing inflammation, and providing
+moisture [79].
+Autologous serum tear eye drops
+Autologous serum tear eye drops have been proven
+beneficial in treating DES, as they can act as a lubri￾cant, promote growth and cornea healing, and restore
+tear film homeostasis [81]. The blood serum’s
+composition is similar to natural tears, with slightly
+varied levels of certain biological components such as
+vitamin A and fibronectin. In contrast, vitamin C is
+present in lower concentrations [82]. The blood serum
+contains growth factors and lacks preservatives, which
+can help with healing and enable more extended
+treatment periods. Despite these advantages, draw￾backs exist such as cost, infection risk, limited avail￾ability, and the lack of a standardized protocol.
+Typically, autologous serum eye drops are used as a
+secondary treatment for moderate to severe DES, and
+previous studies indicate that patients tolerate it well
+and it is safe to use [81e83].
+Cenegermin 0.002 % ophthalmic solution (Oxervate®)
+Chronic inflammation and dryness can damage the
+nerves on the eye’s surface, leading to neurotrophic
+keratitis (NK) [84]. Corneal nerves protect the ocular
+surface by contributing to the tear reflex and facilitating
+the epithelium’s growth and support. Also, nerve growth
+factor (NGF) is essential for trophism and sensitivity,
+promotes nerve healing, stimulates the growth and
+survival of the epithelial cells of the cornea and con￾junctiva, and promotes tear production [84,85]. Cene￾germin (Oxervate) is a recombinant human nerve
+growth factor (rhNGF) eye drop formulation that, was
+FDAeapproved on August 9, 2018, for the treatment of
+NK. Data from human and animal studies demonstrate
+that exogenously administered NGF stimulates wound
+healing and ocular surface sensitivity and increases tear
+production and conjunctival goblet cell den￾sity [84,86e89].
+Treatments under clinical trial evaluation
+NDA-approved (Table 2)
+Reactive aldehyde species inhibitor (Reproxalap®)
+Patients with DES exhibit elevated levels of reactive
+aldehyde species (RASP) in their tears. The severity of
+DES is positively correlated with the aggravation of
+RASP, which can trigger pro-inflammatory signaling by
+disrupting the functionality of kinase receptors [90].
+Reproxalap, a RASP inhibitor, binds covalently to RASP
+Novel treatments for dry eye syndrome Roucaute et al. 5
+www.sciencedirect.com Current Opinion in Pharmacology 2024, 75:102431
+molecules, preventing them from binding to other
+biomolecule sites and leading to their degradation. The
+efficacy and safety of topical ocular 0.25 % Reproxalap
+have been thoroughly examined in five clinical trials
+involving over 1800 patients [62,91], which showed
+improvement in ocular discomfort and blurry vision.
+This may result in greater patient adherence and lower
+discontinuation rates..
+Phase III trials (Table 2)
+Tumor Necrosis Factor (TNF) inhibitor (tanfanercept,
+0.25 % ophthalmic solution)
+Tumor Necrosis Factor (TNF) is crucial to inflammation
+in several diseases, including DES [92]. TNF inhibitors
+have been approved to treat rheumatoid arthritis, pso￾riasis, ankylosing spondylitis, ulcerative colitis, uveitis,
+and Crohn’s disease. However, due to their large mo￾lecular size of approximately 150 kDa, their bioavail￾ability and ocular tissue penetration are limited [93].
+Tanfanercept, a 0.25 % Ophthalmic Solution, is a
+molecularly engineered TNF receptor 1 (TNFR1)
+fragment with increased penetration and ocular distri￾bution. Studies conducted on animal models have
+shown significant clinical improvements in DES [94],
+while a Phase I study performed on healthy volunteers
+has established its safety. In a multi-center, Phase II,
+randomized, double-masked, placebo-controlled,
+parallel-arm study conducted in the USA (VELOS-1,
+NCT03334539), tanfanercept treatment has demon￾strated statistically significant improvements in the
+signs of DES, with a reduction in inferior corneal
+staining, as well as in the symptoms, including ocular
+burning, when compared to placebo treatment [93]
+(Clinical Trials Database; URL: https://clinicaltrials.
+gov/).
+Melanocortin agonist (PL9643)
+The melanocortin a-melanocyte stimulating hormone
+(a-MSH), an endogenous peptide with high affinity for
+the melanocortin 1 receptor (MC1r), was reported to be
+expressed in the cornea, meibomian glands, and the
+lacrimal gland. a-MSH contributes to various key pro￾cesses including growth and development, anti￾inflammatory activity, and immune regulation [47,95].
+It also promotes the in vitro regulatory activity of T-cells
+[96], making them attractive as a therapeutic target.
+PL9643 ophthalmic solution is a melanocortin agonist
+that, in Phase II studies, showed improvement in infe￾rior corneal fluorescein staining and ocular discomfort in
+patients with moderate to severe dry eye (Clinical Trials
+Database; URL: https://clinicaltrials.gov/) [97,98].
+Small interfering RNA (tivanisiran)
+Tivanisiran is a small interfering oligonucleotide of RNA
+(siRNA) designed to silence the transient receptor po￾tential vanilloid 1 (TRPV1). Transient silencing occurs
+via RNA interference (RNAi) in which the siRNA can
+bind to complementary TRPV1 mRNA and produce
+degradation of the mRNA, preventing its translation
+Table 1
+Summary of FDA-approved therapies for dry eye syndrome (DES) including their active principle, mechanism of action, and FDA
+approval date.
+Therapy Name Active Principle Mechanism of Action FDA Approval Date
+Current Treatments Restasis Cyclosporine A Calcineurin inhibitor October 10th, 2003
+Cequa Cyclosporine A Calcineurin inhibitor August 14th, 2018
+Xiidra Lifitegrast Integrin antagonist July 11th, 2016
+New Treatments Tyrvaya®(varenicline
+solution)Nasal Spray
+Varenicline tartrate Cholinergic agonist Oct. 18th, 2021
+Eysuvis Loteprednol etabonate Corticosteroid Oct. 26th, 2020
+Vevye (previously
+known as CyclaSol)
+Cyclosporine A T-Cell inhibitor May 30th, 2023
+Miebo (previously
+known as NOV03)
+Non-steroidal, water￾free semifluorinated
+alkane
+perfluorohexyloctane
+Tear film stabilizer May 18th, 2023
+Xdemvy (previously
+known as Lotilaner
+ophthalmic solution)
+Lotilaner GABA-Gated chloride
+channel inhibitor
+July 25th, 2023
+iTEAR100 Neurostimulator Increase basal tear
+production through
+nerve stimulation
+May 1st, 2020
+Vevey (previously
+known as CyclaSol)
+Cyclosporine A T-Cell inhibitor May 30th, 2023
+Off-label Treatments Oxervate Cenegermin-bkbj Recombinant human
+nerve growth factor
+22-Aug-18
+6 Ocular Pharmacology (2024)
+Current Opinion in Pharmacology 2024, 75:102431 www.sciencedirect.com
+into protein [99]. TRPV1 is expressed in primary
+afferent nociceptive neurons. Specifically, the cornea is
+densely innervated by sensory afferent fibers of the
+trigeminal nerve, where TRPV1 acts as a nociceptive
+transducer for the sensing and transmission of pain
+stimuli and can be implicated in inflammatory and
+fibrogenesis processes, as well as in the regulation of
+stress response. Since none of the commercially avail￾able treatments target the pain pathway, TRPV1 appears
+as an attractive and innovative target for the treatment
+of DES [100].
+TRPM8 agonist (AR-15512)
+Transient receptor potential (TRP) cation channels are
+associated with the perception of chemical and tem￾perature stimulations. Research has suggested possible
+dysregulation in TRP channels for patients with DES
+[101]. Amongst the TRP family, TRPM8 is a cold￾sensitive cation channel found on nerve endings of the
+ophthalmic branch of the trigeminal nerve [102]. It can
+be activated by cooling, hyperosmolarity, and chemical
+ligands such as menthol. TRPM8 plays a crucial role in
+detecting dryness, stimulating the production of tears,
+promoting a cooling sensation to reduce discomfort and
+pain, and regulating basal tear flow [103,104]. AR-15512
+is a TRPM8 agonist that can improve tear production
+and reduction of ocular discomfort in patients with DES.
+Currently, in Phase III, clinical trials have shown sta￾tistically significant improvements in the signs, symp￾toms, and disease-related QoL of patients with
+DES [102,105,106].
+Mitochondria-targeted antioxidant SkQ1 (visomitin)
+High levels of ROS can cause corneal injury and trigger
+inflammation [31]. Visomitin is a mitochondrial cardio￾lipin peroxidation inhibitor that targets ROS and de￾livers the antioxidant plastoquinone enhancing its
+impact on targeting lipid peroxidation [107,108], and
+protecting the ocular surface from oxidative stress
+damage [107]. Studies have demonstrated significant
+improvement in corneal staining and good tolerability
+[108,109]. Currently, there are studies in Phase III
+(Clinical Trials Database; URL: https://clinicaltrials.
+gov/).
+Anti-BAFF receptor antibody (ianalumab)
+Ianalumab is a B-cell inhibitor that works through a dual
+mechanism to eliminate both immature and mature B￾Table 2
+Summary of novel therapies for dry eye syndrome (DES) under study including their active principle, mechanism of action, and clinical
+trial number.
+Therapy Name Active Principle Mechanism of Action Clinical Trial Number
+NDA-Approved Treatments Reproxalap 0.1%–0.5 % Reactive aldehyde
+species Inhibitor
+RASP Modulator NCT04735393
+Phase III Treatments Tanfanercept Engineered soluble
+human TNF receptor I
+fragment
+TNF-a inhibitor NCT05109702
+PL9643 MCr Agonist a-melanocyte
+stimulating hormone
+Melanocortin agonist NCT05201170
+Tivanisiran (SYL 1001) Small interfering siRNA TRPV1 inhibitor NCT05310422
+AR-15512 TRPM8 agonist Restore TRPM8
+function, allow tear
+production, reduce
+ocular discomfort
+NCT05285644
+Ianalumab Anti-BAFF receptor
+antibody
+B-cell inhibitor NCT05349214
+Phase II Treatments AGN-231868 Small molecule Chemokine receptor
+antagonist
+NCT04030962
+AGN-242428 Small molecule RORg Inhibitor NCT04030962
+ST-100 Collagen mimetic
+peptide
+Restore structural and
+cell signaling capability
+of disease damaged
+helical collagen
+NCT05241470
+OK-101 Lipid conjugated
+chemerin peptide
+antagonist of the
+ChemR23
+Anti-inflammatory and
+pain reducer, increase
+potency and resistance
+to washing of treatment
+NCT05759208
+YP-P10 Synthetic peptide Anti-inflammatory and
+wound healing
+NCT05467293
+NDA= New drug application; RASP= Reactive aldehyde species; MCr = Melanocortin receptor; TRPV1 = Transient receptor potential vanilloid 1;
+TRPM8 = Transient Receptor Potential Cation Channel Subfamily M Member 8; ChemR23= Chemerin receptor 23; RoRg = RAR-related orphan
+receptor gamma.
+Novel treatments for dry eye syndrome Roucaute et al. 7
+www.sciencedirect.com Current Opinion in Pharmacology 2024, 75:102431
+cells: it acts as a competitive inhibitor for the B-cell
+activating factor (BAFF) by binding to the BAFF re￾ceptor, leading to the elimination of B-cells [110].
+Furthermore, Ianulamab utilizes its antibody￾dependent cellular cytotoxicity (ADCC) to destroy cir￾culatory B-cells [111]. In Phase II clinical trials, sub￾cutaneous Ianulamab was shown to improve the salivary
+flow and decrease disease activity correlating with the
+dose of medication administrated [110]. Phase III
+clinical studies (NEPTUNUS-1, NEPTUNUS-2) are
+currently underway to evaluate the efficacy and safety of
+Ianulamab and its role in relieving dry eye symptoms
+(Clinical Trials Database; URL: https://clinicaltrials.
+gov/).
+Phase II trials (Table 2)
+Chemokine antagonist (AGN-231868)
+Chemokines have a significant role in inflammatory and
+immune responses as they facilitate the migration of
+leukocytes to tissues [112]. Previous research has
+revealed elevated levels of chemokines and cytokines in
+the tears of patients with DES, and a relationship has
+been established between these inflammatory bio￾markers and the clinical parameters of the condition
+[113]. Additionally, chemokines have been identified in
+DES patients’ conjunctival and epithelial cells
+[112,114]. AGN-231868 is a chemokine antagonist
+designed for treating DES. The medication is under￾going Phase II clinical trials to assess its safety, tolera￾bility, and efficacy (Clinical Trials Database; URL:
+https://clinicaltrials.gov/).
+RAR-related orphan receptor gamma t inhibitor (AGN-
+242428)
+Th17 cells, a T helper lymphocyte subpopulation, are
+characterized by the expression of the transcription
+factor “retinoic acid receptor-related orphan receptor
+gamma-t” (RORgt). RORgt, plays an essential role in
+the pathogenesis of the autoimmune disease, contrib￾uting to inflammation responses by releasing proin-
+flammatory molecules such as cytokines, chemokines,
+and MMP as well as by the production of IL-17
+[115,116]. In previous studies, elevated levels of IL-17
+showed to have a detrimental effect on the corneal
+epithelial barrier. High levels of IL-17 have been
+observed in the ocular surface and tears of patients with
+DES [116e118].
+AGN-242428 is a small molecule inhibitor targeting
+RORgt to treat DES. Phase II clinical trial has enrolled
+292 participants to assess its tolerability, effectiveness,
+and safety (Clinical Trials Database; URL: https://
+clinicaltrials.gov/).
+Collagen mimetic peptide (ST-100)
+Inflammation associated with DES releases chemokines,
+cytokines, and matrix metalloproteinases (MMPs).
+MMPs can degrade collagen, which significantly provides
+structural support and storage of important cell signaling
+proteins and interacts with receptors through their
+binding site. Healing fragmented collagen in the cornea
+may represent a more effective means to interrupt DES’s
+“vicious cycle” of inflammation [119,120]. ST-100 is a
+fractional single-strand amino acid based on PolyCol
+Collagen mimetic peptide. It interacts with the disrup￾ted collagen to reform or remodel the collagen triple helix
+structure. Phase II clinical trials for this novel therapy
+have been completed, and results have demonstrated an
+improvement in symptoms associated with DES, as well
+as in the lacrimal functional unit through nerve restora￾tion (Clinical Trials Database; URL: https://clinicaltrials.
+gov/).
+OK-101 ophthalmic solution
+OK-101 is a lipid-conjugated chemerin peptide antago￾nist of the ChemR23 G-protein coupled receptor, typi￾cally found on immune cells of the eye responsible for
+the inflammatory response [121,122]. A Phase II,
+multicenter, randomized, double-masked, and placebo￾controlled study (identifierNCT05759208) to evaluate
+the efficacy and safety of OK-101 ophthalmic solution
+compared to placebo in subjects with dry eye disease is
+ongoing without results published so far (Clinical Trials
+Database; URL: https://clinicaltrials.gov/).
+Synthetic peptide (YP-P10)
+YP-P10 is a peptide that exhibits both anti-inflammatory
+and wound-healing properties. In preclinical animal
+studies, it has been found that the administration of YP￾P10 led to a decrease in inflammatory mediators asso￾ciated with DES in a dose-dependent trend [123].
+Additionally, a study conducted by Virginia Calder from
+University College London has shown that this syn￾thetic peptide significantly decreased T helper cells,
+specifically Th2 and Th17 [124]. Currently, YP-P10 is
+undergoing a Phase II clinical trial to evaluate its
+effectiveness and safety as a treatment for DES (Clinical
+Trials Database; URL: https://clinicaltrials.gov/).
+Conclusion
+Dry eye syndrome is a growing concern worldwide,
+significantly impacting patients’ visual acuity and overall
+well-being. Recent research has shown that DES is a
+multifactorial disease, where inflammation, MGD,
+blepharitis, autoimmune infiltration of the secretory
+glands, neurosensory abnormalities, and microbiota
+disruption are interrelated factors in the disease’s
+mechanisms and physiopathology. This understanding
+has been critical in the search for new, comprehensive,
+safer, and more effective therapies, as current treat￾ments can have side effects while others only provide
+temporary relief. Therefore, it’s a top priority for sci￾entists worldwide to find new effective treatments for
+dry eye disease.
+8 Ocular Pharmacology (2024)
+Current Opinion in Pharmacology 2024, 75:102431 www.sciencedirect.com
+Inflammation management has been a game changer in
+DES treatment. Although cyclosporine is frequently
+prescribed, its side effects and tolerance problems have
+encouraged the improvement in the excipients
+(perfluorobutylpentane, Vevye) and vehicles (Restasis
+and Cequa). Other inflammation targets, such as the
+inhibition of the ICAM-1 and LAA-1 (Lifitegrast,
+Xiidra), reactive aldehyde species inhibitor
+(Reproxalap ), TNF inhibitor (Tanfanercept), mela￾nocortin agonism (PL9643), chemokine antagonism
+(AGN-231868), Th17 cells and IL-17 inhibition (AGN-
+242428), ROS inhibition (Visomitin), B-cell inhibition
+(Ianalumab), and antagonism of the ChemR23 G-pro￾tein coupled receptor (OK-101), have also shown
+promise. Additionally, promoting corneal epithelium
+healing (insulin and autologous serum tear eye drops,
+YP-P10 peptide), and restoration of the disrupted
+collagen (ST-100) are alternatives to break the “vicious
+cycle’ of inflammation.
+Conversely, new therapies that act as neurostimulators
+are changing the approach to treating DES by targeting a
+novel pathway. These therapies promote the aqueous
+and protein release from secretory granules in the
+lacrimal gland, goblet cells, and meibomian glands
+without interacting with the very sensitive surface of
+DES patients. Examples of these therapies include
+Varenicline (Tyrvaya ), which targets NaChRs re￾ceptors, Oxervate, which is an FDA-approved treatment
+for the management of NK, and the recently FDA￾approved iTEAR100 device. Additionally, TRPM8
+agonist (AR-15512) and Tivanisiran are used to target
+the nociceptive pain and discomfort in DES patients.
+In addition, considering the lacrimal functional unit and
+the significance of MGD and blepharitis, efforts have
+been made to develop drops that tackle tear film evap￾oration (such as perfluorohexyloctane, Miebo) and the
+introduction of the first FDA-approved treatment for
+Demodex eradication (Lotilaner 0.25 %, Xdemvy ).
+Managing DES can be challenging, but there is hope on
+the horizon with emerging therapies and a growing list of
+FDA-approved treatments every year. Future directions
+in DES treatment will involve the discovery of bio￾markers to enhance diagnosis, prevention, and treat￾ment guidance. Additionally, there will be efforts to
+prevent permanent damage to the lacrimal functional
+unit. Genetic approaches are also being explored, with a
+focus on personalized medicine and targeted treatment
+of pathogenic disease mechanisms. While finding new
+therapies for DES is a global challenge that demands
+collective efforts, the future looks promising. Un￾doubtedly, the new clinical trials and medications in
+development aim to address current medical needs that
+are not met by existing medications in a groundbreaking
+way. This will inevitably transform the diagnostic and
+therapeutic approach to dry eye.
+Declaration of Generative AI in AI-assisted
+technologies in the writing process
+During the preparation of this work, the author(s) didn’t
+use AI tools/services. The author(s) reviewed and
+edited the content as needed and take(s) full re￾sponsibility for the content of the publication.
+Credit author statement
+Esther Roucaute: Data curation, Writing- Original draft
+preparation, Reviewing. Marcela Huertas-Bello:
+Conceptualization, Writing- Original draft preparation,
+Reviewing and Editing. Alfonso L. Sabater: Conceptu￾alization, Supervision, Writing- Reviewing and Editing.
+Funding
+None
+Declaration of competing interest
+The authors declare the following financial interests/
+personal relationships which may be considered as po￾tential competing interests: Alfonso L. Sabater: Code C
+(Consultant/Contractor): Abbvie; Code C (Consultant/
+Contractor): GlaxoSmithKline; Code C (Consultant/
+Contractor): Brill Pharma.
+Acknowledgments
+To Valerie A. Gramling and Angela Maria Goa.
+mez Bedoya for proofreading the article.
+References
+Papers of particular interest, published within the period of review,
+have been highlighted as:
+* of special interest
+* * of outstanding interest
+1. Zhmud T, Malachkova N, Redjak R, Costagliola C, Concilio M,
+Drozhzhyna G, et al.: Dry eye disease severity and impact on
+quality of life in type II diabetes mellitus. Front Med 2023, 10,
+1103400.
+2. Fjaervoll H, Fjaervoll K, Magno M, Moschowits E, Vehof J,
+Dartt DA, et al.: The association between visual display ter￾minal use and dry eye: a review. Acta Ophthalmol 2022, 100:
+357–375.
+3. Sanchez-Brau M, Segui-Crespo M, Canto-Sancho N, Tauste A,
+Ramada JM: What are the dry eye questionnaires available in
+the scientific literature used for? A scoping review. Am J
+Ophthalmol 2023, 246:174–191.
+4. Cutrupi F, De Luca A, Di Zazzo A, Micera A, Coassin M, Bonini S:
+Real life impact of dye eye disease. Semin Ophthalmol 2023:
+1–13.
+5. Eguchi A, Inomata T, Nakamura M, Nagino K, Iwagami M,
+Sung J, et al.: Heterogeneity of eye drop use among symp￾tomatic dry eye individuals in Japan: large-scale crowd￾sourced research using DryEyeRhythm application. Jpn J
+Ophthalmol 2021, 65:271–281.
+6. Raval PM, Patel HH, Purohit DM, Raval RM, Sood SV: Study of
+dry eye syndrome: focus on causative factors, treatment
+modalities, quality of life, and preservatives used in eye
+drops. Indian J Ophthalmol 2023, 71:1587–1592.
+7. Fineide F, Lagali N, Adil MY, Arita R, Kolko M, Vehof J, et al.:
+Topical glaucoma medications - clinical implications for the
+ocular surface. Ocul Surf 2022, 26:19–49.
+Novel treatments for dry eye syndrome Roucaute et al. 9
+www.sciencedirect.com Current Opinion in Pharmacology 2024, 75:102431
+8
+*
+. Kate A, Shanbhag SS, Donthineni PR, Amescua G,
+Quinones VLP, Basu S: Role of topical and systemic immu￾nosuppression in aqueous-deficient dry eye disease. Indian J
+Ophthalmol 2023, 71:1176–1189.
+This work highlights the importance of immunosuppression in aqueous￾deficient dry eye disease for symptomatic control and to prevent further
+progression of the disease and its sight-threatening sequelae.
+9
+*
+. Hasan ZA IY: Dry eye syndrome risk factors: a systemic
+review. Saudi J Ophthalmol 2021, 35:131–139.
+Systematic review of most common risk factors for dry eye syndrome.
+10. Gorimanipalli B, Khamar P, Sethu S, Shetty R: Hormones and
+dry eye disease. Indian J Ophthalmol 2023, 71:1276–1284.
+11
+*
+. Hat K, Planinic A, Jezek D, Kastelan S: Expression of androgen
+and estrogen receptors in the human lacrimal gland. Int J Mol
+Sci 2023, 24.
+This work studied the estrogen and androgen receptors, as well as sex
+steroid receptors through RNA isolation of lacrimal gland tissue, in the
+search of potential future therapeutic targets.
+12. Nair S, Kaur M, Sharma N, Titiyal JS: Refractive surgery and
+dry eye - an update. Indian J Ophthalmol 2023, 71:1105–1114.
+13. Barrientos RT, Godin F, Rocha-De-Lossada C, Soifer M,
+Sanchez-Gonzalez JM, Moreno-Toral E, et al.: Ophthalmolog￾ical approach for the diagnosis of dry eye disease in patients
+with Sjogren’s syndrome. Life 2022, 12.
+14
+* *
+. Yokoi N, Kato H, Kinoshita S: The increase of aqueous tear
+volume by diquafosol sodium in dry-eye patients with Sjog￾ren’s syndrome: a pilot study. Eye 2016, 30:857–864.
+This work provides evidence of the efficacy of diquafosol sodium
+ophthalmic solution in increasing the aqueous tear volume in patients
+with Sjögren’s syndrome.
+15. Sheppard JD, Nichols KK: Dry eye disease associated with
+meibomian gland dysfunction: focus on tear film character￾istics and the therapeutic landscape. Ophthalmol Ther 2023,
+12:1397–1418.
+16. Sheppard J, Shen Lee B, Periman LM: Dry eye disease: iden￾tification and therapeutic strategies for primary care clini￾cians and clinical specialists. Ann Med 2023, 55:241–252.
+17. Fjaervoll K, Fjaervoll H, Magno M, Noland ST, Dartt DA, Vehof J,
+et al.: Review on the possible pathophysiological mecha￾nisms underlying visual display terminal-associated dry eye
+disease. Acta Ophthalmol 2022, 100:861–877.
+18
+* *
+. Donthineni PR, Doctor MB, Shanbhag S, Kate A, Galor A,
+Djalilian AR, et al.: Aqueous-deficient dry eye disease:
+preferred practice pattern guidelines on clinical approach,
+diagnosis, and management. Indian J Ophthalmol 2023, 71:
+1332–1347.
+This article reviews the etiology of aqueous-deficient dry eye with focus
+on the pathophysiology and a treatment algorithm.
+19. Iwashita H, Sebbag L, Leonard BC, Saito A: A review of diag￾nostic tests for qualitative and quantitative tear film defi￾ciency in dogs. Vet Ophthalmol 2022.
+20. Narang P, Donthineni PR, D’Souza S, Basu S: Evaporative dry
+eye disease due to meibomian gland dysfunction: preferred
+practice pattern guidelines for diagnosis and treatment.
+Indian J Ophthalmol 2023, 71:1348–1356.
+21. Hynnekleiv L, Magno M, Vernhardsdottir RR, Moschowits E,
+Tonseth KA, Dartt DA, et al.: Hyaluronic acid in the treatment of
+dry eye disease. Acta Ophthalmol 2022, 100:844–860.
+22. Mondal H, Kim HJ, Mohanto N, Jee JP: A review on dry eye
+disease treatment: recent progress, diagnostics, and future
+perspectives. Pharmaceutics 2023, 15.
+23. Greiner JV, Ying GS, Pistilli M, Maguire MG, Asbell PA: Dry Eye
+A, et al. Association of Tear Osmolarity With Signs and
+Symptoms of Dry Eye Disease in the Dry Eye Assessment
+and Management (DREAM) Study. Invest Ophthalmol Vis Sci
+2023, 64:5.
+24
+* *
+. Shen J, Liang Y, Bi Z, Yin X, Chen C, Zhao X, et al.: Cyclosporin
+A improves the hyperosmotic response in an experimental
+dry eye model by inhibiting the HMGB1/TLR4/NF-kappaB
+signaling pathway. Exp Eye Res 2023, 229, 109418.
+This work provides experimental evidence of Cyclosporine A treatment
+mechanism of action in dry eye syndrome.
+25. Liu SH, Saldanha IJ, Abraham AG, Rittiphairoj T, Hauswirth S,
+Gregory D, et al.: Topical corticosteroids for dry eye. Cochrane
+Database Syst Rev 2022, 10:CD015070.
+26. Perez VL, Mah FS, Willcox M, Pflugfelder S: Anti-in￾flammatories in the treatment of dry eye disease: a review.
+J Ocul Pharmacol Therapeut 2023, 39:89–101.
+27
+*
+. Sheppard JD, Wirta DL, McLaurin E, Boehmer BE, Ciolino JB,
+Meides AS, et al.: A water-free 0.1%Cyclosporine ASolution
+for treatment of dry eye disease: results of the randomized
+phase 2B/3 ESSENCE study. Cornea 2021:40.
+Identification of a water-free cyclosporine A formulation for dry eye
+syndrome treatment.
+28. Park JW, Han J, Choi WK, Kim J, Choi CY: Simple surgical
+punctal occlusion with high frequency radiowave electro￾surgery. BMC Ophthalmol 2023, 23:49.
+29. Messmer EM, Ahmad S, Benitez Del Castillo JM, Mrukwa￾Kominek E, Rolando M, Vitovska O, et al.: Management of
+inflammation in dry eye disease: recommendations from a
+European panel of experts. Eur J Ophthalmol 2023, 33:
+1294–1307.
+30. Aragona P, Giannaccare G, Mencucci R, Rubino P, Cantera E,
+Rolando M: Modern approach to the treatment of dry eye, a
+complex multifactorial disease: a P.I.C.A.S.S.O. board
+review. Br J Ophthalmol 2021, 105:446–453.
+31. Dammak A, Pastrana C, Martin-Gil A, Carpena-Torres C, Peral
+Cerda A, Simovart M, et al.: Oxidative stress in the anterior
+ocular diseases: diagnostic and treatment. Biomedicines
+2023, 11.
+32. Baudouin C, Irkec M, Messmer EM, Benitez-Del-Castillo JM,
+Bonini S, Figueiredo FC, et al.: Clinical impact of inflammation
+in dry eye disease: proceedings of the ODISSEY group
+meeting. Acta Ophthalmol 2018, 96:111–119.
+33. Stapleton F, Alves M, Bunya VY, Jalbert I, Lekhanont K, Malet F,
+et al.: TFOS DEWS II epidemiology report. Ocul Surf 2017, 15:
+334–365.
+34. Vidal-Rohr M, Craig JP, Davies LN, Wolffsohn JS: The epide￾miology of dry eye disease in the UK: the Aston dry eye
+study. Contact Lens Anterior Eye 2023, 101837.
+35
+* *
+. Hao Y, Zhang X, Bao J, Tian L, Jie Y: Demodex folliculorum
+infestation in meibomian gland dysfunction related dry eye
+patients. Front Med 2022, 9, 833778.
+This work shows the important relationship between demodex infes￾tation and meibomian gland dysfunction.
+36. Gao H, Chen H, Xie HT, Xu KK, Shi BJ, Huang YK: Changes in
+meibum lipid composition with ocular demodex infestation.
+Transl Vis Sci Technol 2021, 10:6.
+37. Cheng S, Zhang M, Chen H, Fan W, Huang Y: The correlation
+between the microstructure of meibomian glands and ocular
+Demodex infestation: a retrospective case-control study in a
+Chinese population. Medicine (Baltim) 2019, 98, e15595.
+38. Rabensteiner DF, Aminfar H, Boldin I, Nitsche-Resch M, Berisha B,
+Schwantzer G, et al.: Demodex mite infestation and its associ￾ations with tear film and ocular surface parameters in patients
+with ocular discomfort. Am J Ophthalmol 2019, 204:7–12.
+39
+* *
+. Yeu E, Holdbrook M, Baba SN, Ceballos JC, Massaro￾Corredor M, Corredor-Ortega C, et al.: Treatment of demodex
+blepharitis: a prospective, randomized, controlled, double￾masked clinical trial comparing topical lotilaner ophthalmic
+solution, 0.25% eyedrops to vehicle. Ocul Immunol Inflamm
+2022:1–9.
+Authors demonstrate that the use of Lotilaner, a isoxazoline that inhibits
+the g-aminobutyric acid (GABA)-gated chloride channels), is useful for
+demodex erradication.
+40. Ibrahem HM: B cell dysregulation in primary Sjogren’s syn￾drome: a review. Jpn Dent Sci Rev 2019, 55:139–144.
+41. Akpek EK, Bunya VY, Saldanha IJ: Sjogren’s syndrome: more
+than just dry eye. Cornea 2019, 38:658–661.
+10 Ocular Pharmacology (2024)
+Current Opinion in Pharmacology 2024, 75:102431 www.sciencedirect.com
+42. Wu KY, Chen WT, Chu-Bedard YK, Patel G, Tran SD: Manage￾ment of Sjogren’s dry eye disease-advances in ocular drug
+delivery offering a new hope. Pharmaceutics 2022, 15.
+43
+*
+. Erdinest N, Pincovich S, London N, Solomon A: Neuro￾stimulation for dry eye disease. Curr Opin Allergy Clin Immunol
+2022, 22:328–334.
+This work reviews the neuroanatomy and physiology of the basal and
+reflex tearing behind the development of neurostimulation as treatment
+for dry eye syndrome.
+44. Matsumoto Y, Ibrahim OMA, Kojima T, Dogru M, Shimazaki J,
+Tsubota K: Corneal in vivo laser-scanning confocal micro￾scopy findings in dry eye patients with Sjogren’s syndrome.
+Diagnostics 2020, 10.
+45. Sonkodi B, Csorba A, Marsovszky L, Balog A, Kopper B, Nagy ZZ,
+et al.: Evidence of disruption in neural regeneration in dry eye
+secondary to rheumatoid arthritis. Int J Mol Sci 2023, 24.
+46. Messmer EM: Pathophysiology of dry eye disease and novel
+therapeutic targets. Exp Eye Res 2022, 217, 108944.
+47. Yang T, Zhou Y, Ma B, Duan H, Liu R, Z L, et al.: Elevated
+neuropeptides in dry eye disease and their clinical correla￾tions. Cornea 2023, 42.
+48. Barros A, Lozano-Sanroma J, Queiruga-Pineiro J, Fernandez￾Vega Cueto L, Anitua E, Alcalde I, et al.: Recovery of corneal
+innervation after treatment in dry eye disease: a confocal
+microscopy study. J Clin Med 2023, 12.
+49. Bai X, Xu Q, Zhang W, Wang C: The gut-eye Axis: correlation
+between the gut microbiota and autoimmune dry eye in in￾dividuals with sjogren syndrome. Eye Contact Lens 2023, 49:
+1–7.
+50. Aragona P, Baudouin C, Benitez Del Castillo JM, Messmer E,
+Barabino S, Merayo-Lloves J, et al.: The ocular microbiome and
+microbiota and their effects on ocular surface pathophysi￾ology and disorders. Surv Ophthalmol 2021, 66:907–925.
+51. Moon J, Yoon CH, Choi SH, Kim MK: Can gut microbiota affect
+dry eye syndrome? Int J Mol Sci 2020, 21.
+52. Qi Y, Wan Y, Li T, Zhang M, Song Y, Hu Y, et al.: Comparison of
+the ocular microbiomes of dry eye patients with and without
+autoimmune disease. Front Cell Infect Microbiol 2021, 11,
+716867.
+53. Watane A, Raolji S, Cavuoto K, Galor A: Microbiome and
+immune-mediated dry eye: a review. BMJ Open Ophthalmol
+2022, 7.
+54. Zhang Z, Zou X, Xue W, Zhang P, Wang S, Zou H: Ocular
+surface microbiota in diabetic patients with dry eye disease.
+Invest Ophthalmol Vis Sci 2021, 62:13.
+55. Periman LM, Mah FS, Karpecki PM: A review of the mechanism
+of action of cyclosporine A: the role of cyclosporine A in dry
+eye disease and recent formulation developments. Clin
+Ophthalmol 2020, 14:4187–4200.
+56. Li Y, Guan Q, Xu J, Zhang H, Liu S, Ding Z, et al.:
+Comparative study of cyclosporine A liposomes and
+emulsions for ophthalmic drug delivery: process optimi￾zation through response surface methodology (RSM) and
+biocompatibility evaluation. Colloids Surf B Biointerfaces
+2023, 225, 113267.
+57. Wirta DL, Torkildsen GL, Moreira HR, Lonsdale JD, Ciolino JB,
+Jentsch G, et al.: A clinical phase II study to assess efficacy,
+safety, and tolerability of waterfree cyclosporine formulation
+for treatment of dry eye disease. Ophthalmology 2019, 126:
+792–800.
+58. Guo C, Zhang Y, Yang Z, Li M, Li F, Cui F, et al.: Nanomicelle
+formulation for topical delivery of cyclosporine A into the
+cornea: in vitro mechanism and in vivo permeation evalua￾tion. Sci Rep 2015, 5:12968.
+59. Rao AT, Gupta A, Chauhan T, Basu S, Batra N, Sharma N, et al.:
+Efficacy and safety of 0.05% micellar nano-particulate (MNP)
+cyclosporine ophthalmic emulsion in the treatment of
+moderate-to-severe keratoconjunctivitis sicca: a 12-week,
+multicenter, randomized, active-controlled trial. BMC
+Ophthalmol 2023, 23:121.
+60. Abidi A, Shukla P, Ahmad A: Lifitegrast: a novel drug for
+treatment of dry eye disease. J Pharmacol Pharmacother 2016,
+7:194–198.
+61. Pflugfelder SC, Stern M, Zhang S, Shojaei A: LFA-1/ICAM-1
+interaction as a therapeutic target in dry eye disease. J Ocul
+Pharmacol Therapeut 2017, 33:5–12.
+62. McMullin D, Clark D, Cavanagh B, Karpecki P, Brady TC: A post￾acute ocular tolerability comparison of topical Reproxalap
+0.25% and lifitegrast 5% in patients with dry eye disease. Clin
+Ophthalmol 2021, 15:3889–3900.
+63. Li JX, Tsai YY, Lai CT, Li YL, Wu YH, Chiang CC: Lifitegrast
+ophthalmic solution 5% is a safe and efficient eyedrop for dry
+eye disease: a systematic review and meta-analysis. J Clin
+Med 2022, 11.
+64. Tauber J, Karpecki P, Latkany R, Luchs J, Martel J, Sall K, et al.:
+Lifitegrast ophthalmic solution 5.0% versus placebo for
+treatment of dry eye disease: results of the randomized
+phase III OPUS-2 study. Ophthalmology 2015, 122:2423–2431.
+65. Frampton JE: Varenicline solution nasal spray: a review in dry
+eye disease. Drugs 2022, 82:1481–1488.
+66. Katz J, Periman LM, Maiti S, Sarnicola E, Hemphill M, Kabat AG,
+et al.: Bilateral effect of OC-01 (varenicline solution) nasal
+spray for treatment of signs and symptoms in individuals
+with mild, moderate, and severe dry eye disease. Clin Ther￾apeut 2022, 44:1463–1470.
+67
+*
+. Sheppard JD, O’Dell LE, Karpecki PM, Raizman MB,
+Whitley WO, Blemker G, et al.: Does dry eye disease severity
+impact efficacy of varenicline solution nasal spray on sign
+and symptom treatment outcomes? Optom Vis Sci 2023,
+100(2):164–169.
+Report of the efficacy outcomes for Varenicicline nasal spray in pa￾tients with dry eye syndrome.
+68. Hauswirth SG, Kabat AG, Hemphill M, Hendrix LH, Gibson AA:
+Safety, adherence and discontinuation in varenicline solution
+nasal spray clinical trials for dry eye disease. J Comp Eff Res
+2023.
+69. Venkateswaran N, Bian Y, Gupta PK: Practical guidance for the
+use of Loteprednol etabonate ophthalmic suspension 0.25%
+in the management of dry eye disease. Clin Ophthalmol 2022,
+16:349–355.
+70. Korenfeld M, Nichols KK, Goldberg D, Evans D, Sall K, Foulks G,
+et al.: Safety of KPI-121 ophthalmic suspension 0.25% in
+patients with dry eye disease: a pooled analysis of 4 multi￾center, randomized, vehicle-controlled studies. Cornea 2021,
+40.
+71. Akpek EK, Wirta DL, Downing JE, Tauber J, Sheppard JD,
+Ciolino JB, et al.: Efficacy and safety of a water-free topical
+cyclosporine, 0.1%, solution for the treatment of moderate to
+severe dry eye disease: the ESSENCE-2 randomized clinical
+trial. JAMA Ophthalmol 2023.
+72
+* *
+. Tian L, Gao Z, Zhu L, Shi X, Zhao S, Gu H, et al.: Perfluor￾ohexyloctane eye drops for dry eye disease associated with
+meibomian gland dysfunction in Chinese patients: a ran￾domized clinical trial. JAMA Ophthalmol 2023, 141:385–392.
+This work presents evidence of the use of perfluorohexyloctane for dry
+eye syndrome secondary to meibomian gland dysfunction.
+73. Schmidl D, Bata AM, Szegedi S, Aranha Dos Santos V,
+Stegmann H, Fondi K, et al.: Influence of perfluorohexyloctane
+eye drops on tear film thickness in patients with mild to
+moderate dry eye disease: a randomized controlled clinical
+trial. J Ocul Pharmacol Therapeut 2020, 36:154–161.
+74. Delicado-Miralles M, Velasco E, Diaz-Tahoces A, Gallar J,
+Acosta MC, Aracil-Marco A: Deciphering the action of
+perfluorohexyloctane eye drops to reduce ocular discomfort
+and pain. Front Med 2021, 8, 709712.
+75. Tauber J, Berdy GJ, Wirta DL, Krosser S, Vittitow JL, Group GS:
+NOV03 for dry eye disease associated with meibomian gland
+dysfunction: results of the randomized phase 3 GOBI study.
+Ophthalmology 2023, 130:516–524.
+76. Sheppard JD, Kurata F, Epitropoulos AT, Krosser S, Vittitow JL,
+Mojave Study G: NOV03 for signs and symptoms of dry eye
+Novel treatments for dry eye syndrome Roucaute et al. 11
+www.sciencedirect.com Current Opinion in Pharmacology 2024, 75:102431
+disease associated with meibomian gland dysfunction: the
+randomized phase 3 MOJAVE study: NOV03 for dry eye
+disease associated with meibomian gland. Dysfunction Am J
+Ophthalmol 2023.
+77. Yeu E, Wirta DL, Karpecki P, Baba SN, Holdbrook M, Group SIS:
+Lotilaner ophthalmic solution, 0.25%, for the treatment of
+demodex blepharitis: results of a prospective, randomized,
+vehicle-controlled, double-masked, pivotal trial (Saturn-1).
+Cornea 2023:42.
+78. Ji MH, Moshfeghi DM, Periman L, Kading D, Matossian C,
+Walman G, et al.: Novel extranasal tear stimulation: pivotal
+study results. Transl Vis Sci Technol 2020, 9:23.
+79
+*
+. Castro Mora MP, Palacio Varona J, Perez Riano B, Laverde
+Cubides C, Rey-Rodriguez DV: Effectiveness of topical insulin
+for the treatment of surface corneal pathologies. Arch Soc
+Esp Oftalmol 2023, 98:220–232.
+Systematic review shows bennefits of topical insulin in the treatment of
+persistent epithelial defects.
+80. Truong T, Silkiss RZ: The role of insulin-like growth factor-1
+and its receptor in the eye: a review and implications for IGF-
+1R inhibition. Ophthalmic Plast Reconstr Surg 2023, 39:4–12.
+81. Cui D, Li G, Akpek EK: Autologous serum eye drops for ocular
+surface disorders. Curr Opin Allergy Clin Immunol 2021, 21:
+493–499.
+82. Vazirani J, Sridhar U, Gokhale N, Doddigarla VR, Sharma S,
+Basu S: Autologous serum eye drops in dry eye disease:
+preferred practice pattern guidelines. Indian J Ophthalmol
+2023, 71:1357–1363.
+83. Gabriel C, Marks DC, Henschler R, Schallmoser K, Burnouf T,
+Koh MBC: Eye drops of human origin-Current status and
+future needs: report on the workshop organized by the ISBT
+Working Party for Cellular Therapies. Vox Sang 2023, 118:
+301–309.
+84. Yavuz Saricay L, Gonzalez Monroy JE, Fulton AB: Can nerve
+growth factor (NGF) Be a treatment option for pediatric eye
+diseases? Semin Ophthalmol 2023, 38:1–6.
+85. Mittal R, Patel S, Galor A: Alternative therapies for dry eye
+disease. Curr Opin Ophthalmol 2021, 32:348–361.
+86. Dai X, Jensen A, Dun C, Karakus S, Rajaii F, Woreta F: Cost and
+prescriber and patient characteristics of cenegermin use in
+the medicare population. Am J Ophthalmol 2023, 250:12–19.
+87
+* *
+. Garcia-Delpech S, Udaondo P, Fernandez-Santodomingo AS,
+Garcia-Teillard D: Neurotrophic keratopathy treated with
+topical recombinant human nerve growth factor (cene￾germin): case series study with long-term follow-up. Case
+Rep Ophthalmol 2022, 13:663–670.
+This work presents evidence of the use of topical recombinant human
+nerve growth factor cenegermin in neurotrophic keratitis.
+88. Arboleda A, Ta CN: Observational study of cenegermin for the
+treatment of limbal stem cell deficiency associated with
+neurotrophic keratopathy. Ther Adv Ophthalmol 2022, 14,
+25158414221134598.
+89. Epitropoulos AT, Weiss JL: Topical human recombinant nerve
+growth factor for stage 1 Neurotrophic Keratitis: retrospec￾tive case series of cenegermin treatment. Am J Ophthalmol
+Case Rep 2022, 27, 101649.
+90. Clark D, Cavanagh B, Shields AL, Karpecki P, Sheppard J,
+Brady TC: Clinically relevant activity of the novel RASP in￾hibitor Reproxalap in allergic conjunctivitis: the phase 3
+ALLEVIATE trial. Am J Ophthalmol 2021, 230:60–67.
+91
+*
+. Clark D, Tauber J, Sheppard J, Brady TC: Early onset and
+broad activity of Reproxalap in a randomized, double￾masked, vehicle-controlled phase 2b trial in dry eye disease.
+Am J Ophthalmol 2021, 226:22–31.
+This work presents evidence of the use of reactive aldehyde species in
+dry eye syndrome.
+92. Ji YW, Byun YJ, Choi W, Jeong E, Kim JS, Noh H, et al.:
+Neutralization of ocular surface TNF-alpha reduces ocular
+surface and lacrimal gland inflammation induced by in vivo
+dry eye. Invest Ophthalmol Vis Sci 2013, 54:7557–7566.
+93
+* *
+. Dong Y, Wang S, Cong L, Zhang T, Cheng J, Yang N, et al.: TNF￾alpha inhibitor tanfanercept (HBM9036) improves signs and
+symptoms of dry eye in a phase 2 trial in the controlled
+adverse environment in China. Int Ophthalmol 2022, 42:
+2459–2472.
+This work presents evidence of the use of TNF-alpha inhibitor tanfa￾nercept on DES treatment.
+94. Lee HB, Choi HJ, Cho SM, Kang S, Ahn HK, Song YJ, et al.:
+Efficacy of HL036 versus cyclosporine A in the treatment of
+naturally occurring canine keratoconjunctivitis sicca. Curr
+Eye Res 2018, 43:889–895.
+95. Zahn I, Garreis F, Schicht M, Rotzer V, Waschke J, Liu Y, et al.:
+A new organotypic 3D slice culture of mouse meibomian
+glands reveals impact of melanocortins. Int J Mol Sci 2022, 23.
+96. Spana C, Taylor AW, Yee DG, Makhlina M, Yang W, Dodd J:
+Probing the role of melanocortin type 1 receptor agonists in
+diverse immunological diseases. Front Pharmacol 2018, 9:
+1535.
+97. Ousler GW, Jordan R, Spana C: Effectiveness of PL9643 in
+treating the signs and symptoms of moderate to severe dry
+eye disease including a subpopulation of hyper-responders
+to CAE® challenge: results from 2 independent clinical trials.
+View Presentation. ARVO 2023.
+98. Kenyon K, Ousler GW, Watson M, Torkildsen G, Vollmer P,
+McLaurin EB, et al.: Efficacy and safety of the melanocortin
+agonist PL9643 in a phase 2 study of subjects with dry eye
+disease. ARVO 2021.
+99. Bleau A-M, Ruz V, González V, Martínez T, Vargas B,
+Jimenez AI: Development of tivanisiran, a topical siRNA
+designed to treat dry eye disease. Integrative Clinical Medicine
+2018, 2.
+100. Zhang MM, Bahal R, Rasmussen TP, Manautou JE, Zhong XB:
+The growth of siRNA-based therapeutics: updated clinical
+studies. Biochem Pharmacol 2021, 189, 114432.
+101. Gonzalez-Muniz R, Bonache MA, Martin-Escura C, Gomez￾Monterrey I: Recent progress in TRPM8 modulation: an
+update. Int J Mol Sci 2019, 20.
+102. Yoon HJ, Kim J, Yang JM, Wei ET, Kim SJ, Yoon KC: Topical
+TRPM8 agonist for relieving neuropathic ocular pain in pa￾tients with dry eye: a pilot study. J Clin Med 2021, 10.
+103. Yang JM, Wei ET, Kim SJ, Yoon KC: TRPM8 channels and dry
+eye. Pharmaceuticals 2018, 11.
+104. Yang JM, Li F, Liu Q, Ruedi M, Wei ET, Lentsman M, et al.:
+A novel TRPM8 agonist relieves dry eye discomfort. BMC
+Ophthalmol 2017, 17:101.
+105
+*
+. Wirta DL, Senchyna M, Lewis AE, Evans DG, McLaurin EB,
+Ousler GW, et al.: A randomized, vehicle-controlled, Phase 2b
+study of two concentrations of the TRPM8 receptor agonist
+AR-15512 in the treatment of dry eye disease (COMET-1).
+Ocul Surf 2022, 26:166–173.
+This study elucidates the use of AR-15512, a transient receptor po￾tential melastatin 8 (TRPM8) agonist for dry eye syndrome treatment.
+106. Rodriguez-Arevalo S, Pujol E, Abas S, Galdeano C, Escolano C,
+Synthesis Vazquez S: Characterization and HPLC analysis of
+the (1S,2S,5R)-Diastereomer and the enantiomer of the clin￾ical candidate AR-15512. Molecules 2021, 26.
+107. Wei Y, Troger A, Spahiu V, Perekhvatova N, Skulachev M,
+Petrov A, et al.: The role of SKQ1 (visomitin) in inflammation
+and wound healing of the ocular surface. Ophthalmol Ther
+2019, 8:63–73.
+108. Brzheskiy VV, Efimova EL, Vorontsova TN, Alekseev VN,
+Gusarevich OG, Shaidurova KN, et al.: Results of a multicenter,
+randomized, double-masked, placebo-controlled clinical
+study of the efficacy and safety of visomitin eye drops in
+patients with dry eye syndrome. Adv Ther 2015, 32:
+1263–1279.
+109. Novikova YP, Gancharova OS, Eichler OV, Philippov PP,
+Grigoryan EN: Preventive and therapeutic effects of SkQ1-
+containing Visomitin eye drops against light-induced retinal
+degeneration. Biochemistry (Mosc) 2014, 79:1101–1110.
+12 Ocular Pharmacology (2024)
+Current Opinion in Pharmacology 2024, 75:102431 www.sciencedirect.com
+110. Bowman SJ, Fox R, Dorner T, Mariette X, Papas A, Grader￾Beck T, et al.: Safety and efficacy of subcutaneous ianalumab
+(VAY736) in patients with primary Sjogren’s syndrome: a
+randomised, double-blind, placebo-controlled, phase 2b
+dose-finding trial. Lancet 2022, 399:161–171.
+111. Lee DSW, Rojas OL, Gommerman JL: B cell depletion thera￾pies in autoimmune disease: advances and mechanistic in￾sights. Nat Rev Drug Discov 2021, 20:179–199.
+112. Kumar NR, Praveen M, Narasimhan R, Khamar P, D’Souza S,
+Sinha-Roy A, et al.: Tear biomarkers in dry eye disease:
+progress in the last decade. Indian J Ophthalmol 2023, 71:
+1190–1202.
+113. Na KS, Mok JW, Kim JY, Rho CR, Joo CK: Correlations be￾tween tear cytokines, chemokines, and soluble receptors and
+clinical severity of dry eye disease. Invest Ophthalmol Vis Sci
+2012, 53:5443–5450.
+114. Goyal S, Chauhan SK, Zhang Q, Dana R. Amelioration of murine
+dry eye disease by topical antagonist to chemokine receptor 2
+ARCH OPHTHALMOL, 127; 2009.
+115. Chauhan SK, Dana R: Role of Th17 cells in the immunopa￾thogenesis of dry eye disease. Mucosal Immunol 2009, 2:
+375–376.
+116. Tan J, Liu H, Huang M, Li N, Tang S, Meng J, et al.: Small
+molecules targeting RORgammat inhibit autoimmune dis￾ease by suppressing Th17 cell differentiation. Cell Death Dis
+2020, 11:697.
+117. Subbarayal B, Chauhan SK, Di Zazzo A, Dana R: IL-17 aug￾ments B cell activation in ocular surface autoimmunity.
+J Immunol 2016, 197:3464–3470.
+118. Wang R, Campbell S, Amir M, Mosure SA, Bassette MA,
+Eliason A, et al.: Genetic and pharmacological inhibition of the
+nuclear receptor RORalpha regulates T(H)17 driven inflam￾matory disorders. Nat Commun 2021, 12:76.
+119
+* *
+. Baratta RO, Schlumpf E, Buono BJD, DeLorey S, Calkins DJ:
+Corneal collagen as a potential therapeutic target in dry eye
+disease. Surv Ophthalmol 2022, 67:60–67.
+This study proposes the healing of corneal collagen as a potential
+therapeutic target for dry eye syndrome treatment.
+120. Baratta RO, Del Buono BJ, Schlumpf E, Ceresa BP, Calkins DJ:
+Collagen mimetic peptides promote corneal epithelial cell
+regeneration. Front Pharmacol 2021, 12, 705623.
+121. Herova M, Schmid M, Gemperle C, Hersberger M: ChemR23, the
+receptor for chemerin and resolvin E1, is expressed and
+functional on M1 but not on M2 macrophages. J Immunol
+2015, 194:2330–2337.
+122. Yang M, Lippestad M, Hodges RR, Fjaervoll HK, Fjaervoll KA,
+Bair JA, et al.: RvE1 uses the LTB(4) receptor BLT1 to in￾crease [Ca(2+)](i) and stimulate mucin secretion in cultured
+rat and human conjunctival goblet cells. Ocul Surf 2020, 18:
+470–482.
+123. Park LC, Gharat L, Park K, Alam J, Yu Z, Hu Y, et al.: Evaluation of
+novel YP-P10 Peptide in animal models of inflammatory dry eye
+disease. ARVO Annual Meeting Abstract June 2022.
+124. Calder VL, Eskandarpour M, Park L, Gharat L. In YP-P10 Peptide
+selectively decreased Th2 and Th17 cells in an in vitro model of
+human blood-derived effector CD4+T-cell subsets. Edited by
+Science IOV, New Orleans: ARVO; 2023.
+Novel treatments for dry eye syndrome Roucaute et al. 13
+www.sciencedirect.com Current Opinion in Pharmacology 2024, 75:102431

@@ -1,0 +1,1540 @@
+Vol.: (0123456789)
+1 3
+Int Ophthalmol (2022) 42:3253–3272 
+https://doi.org/10.1007/s10792-022-02320-7
+REVIEW
+Dry eye syndrome: comprehensive etiologies and recent 
+clinical trials
+Ruojing Huang · Caiying Su · Lvjie Fang · 
+Jiaqi Lu · Jiansu Chen · Yong Ding
+Received: 9 August 2021 / Accepted: 18 April 2022 / Published online: 9 June 2022
+© The Author(s), under exclusive licence to Springer Nature B.V. 2022
+Introduction
+DES is a relatively common clinical ophthalmic 
+condition, characterized by a disorder of the preocu￾lar tear film and affecting approximately 1 out of 7 
+individuals aged 48 and above [1]. Besides DES, this 
+condition can also be known as keratoconjunctivitis 
+sicca (KCS), dry eye disease (DED), ocular surface 
+disease (OSD) or dysfunctional tear syndrome (DTS) 
+[2]. It is a dysfunction of the nasolacrimal unit (nasol￾acrimal glands, corneal surface and eyelids) which 
+leads to defective or insufficient tear film formation 
+[3].
+The maintenance of a physiologically complete 
+tear film is imperative for normal vision as it is, along 
+with the cornea, responsible for focusing light onto 
+the retina [4]. Additionally, it also functions to lubri￾cate the eye, remove debris from the ocular surface 
+as well as maintain nutrition and oxygenation of the 
+ocular structures [5]. Patients who developed DES 
+may experience ocular burning, blurred vision or 
+even pain and often have a reduced quality of life as 
+common daily tasks that require visual attention (e.g. 
+reading, computer work, etc.) become significantly 
+challenging. However, while treatments are avail￾able to minimize the negative impacts, they are often 
+suboptimal and unable to specifically target the root 
+cause(s) of this disease.
+It is now known that DES can be caused by a non￾exhaustive list of factors which include autoimmun￾ity, hormonal imbalance, deleterious environmental 
+Abstract Dry eye syndrome (DES) is multifacto￾rial and likely to be a cause of concern more so than 
+ever given the rapid pace of modernization, which is 
+directly associated with many of the extrinsic causa￾tive factors. Additionally, recent studies have also 
+postulated novel etiologies that may provide the basis 
+for alternative treatment methods clinically. Such 
+insights are especially important given that current 
+approaches to tackle DES remains suboptimal. This 
+review will primarily cover a comprehensive list of 
+causes that lead to DES, summarize all the upcom￾ing and ongoing clinical trials that focuses on treating 
+this disease as well as discuss future potential treat￾ments that can improve inclusivity.
+Keywords Dry eye syndrome · Lacrimal functional 
+unit · Ophthalmology
+Ruojing Huang, Caiying Su, Jiansu Chen and Yong Ding 
+have equally contributed to this work.
+R. Huang · C. Su · L. Fang · J. Lu · Y. Ding (*) 
+Department of Ophthalmology, The First Affiliated 
+Hospital of Jinan University, Huangpu Avenue West 613, 
+Tianhe District, Guangzhou 510630, China
+e-mail: dingyong@jnu.edu.cn
+J. Chen (*) 
+Institute of Ophthalmology, Medical College, Jinan 
+University, Huangpu Avenue West 601, Tianhe District, 
+Guangzhou 510632, China
+e-mail: chenjiansu2000@163.com
+3254 Int Ophthalmol (2022) 42:3253–3272
+1 3Vol:. (1234567890)
+settings and many more. Unbeknown to many, symp￾toms associated with dry eyes may even at times be 
+indicative of undiagnosed systemic diseases which, if 
+treated timely, may avoid life-threatening outcomes 
+[5]. Over the years, given a more profound under￾standing of the various mechanisms involved in the 
+development of this condition, a wide range of novel 
+treatments are underway to provide more effective 
+results and overcome limitations posed by conven￾tional therapeutics utilized in the clinic currently. 
+This review aims to summarize the causes of DES 
+and its respective mechanism, explore ongoing clini￾cal trials for DES treatment and lastly, discuss prom￾ising technologies that can potentially shape future 
+treatment strategies.
+Secretory components and tear film composition
+The tear film is regulated by an integrated lachrimal 
+functional unit (LFU) which consists of the lachri￾mal glands, cornea, conjunctiva, eyelids, meibomian 
+glands, goblet cells as well as the sensory and motor 
+nerves that connect them [6]. As measured by ultra￾high resolution optical coherence tomography (OCT) 
+and validated with interferometry techniques [7, 8], it 
+was found that the tear film, when spread across the 
+exposed conjunctiva and cornea, is approximately 2 
+to 5.5 μm thick [9]. Correspondingly, this extremely 
+thin layer of film is constituted by an even thinner top 
+layer of lipid (about 42 nm) [10] and a mucin-aque￾ous (mucoaqueous) layer with decreasing concentra￾tion of mucins from the cornea epithelium towards 
+the lipid layer [11, 12].
+The lipid layer is derived from meibum produced 
+by the meibomian gland and secreted through the 
+lid margins. Meanwhile, blinking helps to spread the 
+lipid layer across the tear film through surface ten￾sion forces. This configuration functions to stabilize 
+the film by preventing the aqueous component from 
+evaporating too rapidly [13–15]. The aqueous fluid in 
+the tear film, which contains water, electrolytes, small 
+molecule metabolites, plethora of proteins (more than 
+1500 detected [16]) and peptides (more than 200 
+[17]) is mostly produced by the lacrimal glands. The 
+aqueous portion in the mucoaqueous layer provides 
+oxygen and nutrients to the underlying avascular 
+corneal tissue and assist in flushing away epithelial 
+debris, toxins and foreign bodies [18].
+Secreted mucins are present in the aqueous compo￾nent as well and are produced by the goblet cells pre￾sent in the conjunctiva while transmembrane mucins 
+(glycocalyx) that can extend up to 500 nm from the 
+plasma membrane are formed on the apical surfaces 
+of the corneal and conjunctival epithelia [19]. Mucins 
+are large high molecular weight glycoproteins that 
+contain one of more protein domains which are rich 
+in serines and threonines extensively glycosylated via 
+O-glycan attachments [20, 21]. They are essential for 
+providing lubrication, hydration as well as protection 
+against infection and injury [22, 23]. On the ocular 
+surface, it was shown recently that they further main￾tain a disadhesive property to the apical epithelial 
+cells such that, during blinking or sleeping, cell sur￾faces facing each other like the cornea and conjunc￾tiva do not adhere to each other [24]. Together, these 
+constituents maintain the tear film and any slight 
+dysregulation such as decreased aqueous volume or 
+abnormal production of mucins or lipids will lead to 
+DES [25, 26].
+Etiology of DES
+There are a multitude of factors that have been discov￾ered to result in such dysregulations which, in gen￾eral, can be classified as intrinsic and extrinsic. Intrin￾sic factors are defined as conditions present within the 
+body and include autoimmunity [3, 27, 28], hormonal 
+imbalance [29, 30], systemic diseases [31–34], hered￾itary diseases [35, 36], nerve damage [37, 38] and gut 
+dysbiosis [39, 40]. On the other hand, extrinsic ele￾ments are derived from stimulus that occur outside 
+the body and consist of environmental influences [41, 
+42], behaviour and/or habits [43–46], eye accessories 
+[47] and eye surgeries [48, 49] (Fig. 1).
+Intrinsic factors
+Autoimmunity
+Dry eyes caused by autoimmunity could be attrib￾uted to Sjörgen’s syndrome (SS), a chronic autoim￾mune disorder that primarily affects the salivary 
+and lacrimal glands. Specifically, these exocrine 
+glands are heavily infiltrated with lymphocytes (T 
+cells and B cells) and macrophages which produces 
+3255 Int Ophthalmol (2022) 42:3253–3272
+1 3Vol.: (0123456789)
+pro-inflammatory signalling molecules such as IL-1, 
+TNF-α and IFN-γ [28, 50–52]. CD4+ T cells are the 
+primary immune effectors [53] and interact closely 
+with antigen presenting-macrophages to provoke 
+ocular disease development through inflammation￾induced (IL-1 and IFN-γ) local tissue damage [51]. 
+Additionally, they are also associated with peripheral 
+neuropathy in the lacrimal glands, suggesting possible 
+denervation and loss of function [54]. Besides CD4+
+T cells, it was recently observed that highly cytotoxic 
+activated CD8+ T cells are correlated with lacrimal 
+gland epithelial cell death [50] and may account for 
+the reduction in tear production. Given the varied 
+possible causes of DES, the diagnosis of SS-induced 
+dry eyes is relatively tedious and requires defined bio￾markers for validation. Accordingly, it is known that 
+the tear film of patients who developed SS contained 
+elevated amounts of pro-inflammatory cytokines such 
+as IL-1, IL-6, IL-8 and TNF-α. Their presence also 
+corresponded to lower tear secretion levels [55–57]. 
+Other biomarkers include MMP-9 [58, 59], HLA-DR 
+[60, 61] and potentially MUC5AC [62].
+Graves’ opthalmopathy, also known as thyroid eye 
+disease, is another autoimmune condition that can 
+lead to DES [63]. Patients afflicted with this disease 
+produce excessive thyroid hormones which induce 
+an inflammatory response in the orbital tissues [64]. 
+Mechanistically, DES is caused by a combination of 
+mechanical impairment of the lids [65] and autoan￾tibodies targeting the thyroid-stimulating hormone 
+receptors on the lacrimal gland [66]. Incomplete 
+blinking due to lid impairment results in inadequate 
+tear distribution over the ocular surface and exces￾sive tear evaporation [65] while autoantibodies bind￾ing causes aberrant signal transduction in the lacrimal 
+gland and subsequent tear hyposecretion [66].
+While not commonly known, multiple sclerosis, 
+where the central nervous system (CNS) becomes 
+demyelinated, is also an autoimmune disease that is 
+correlated to DES. Specifically, poor corneal sensory 
+Fig. 1 Schematic of dys￾regulated tear film during 
+DES and the various intrin￾sic (blue background) and 
+extrinsic (red background) 
+etiologies
+3256 Int Ophthalmol (2022) 42:3253–3272
+1 3Vol:. (1234567890)
+impulse conduction due to demyelination can lead to 
+insufficient tear production [67].
+Hormonal imbalance
+Hormones are known to influence both the lacrimal 
+and meibomian glands [68]. Sex hormones, particu￾larly androgens, appeared to account for many of 
+the sex-related disease susceptibility of the lacrimal 
+gland in a variety of species [69]. For instance, tes￾tosterone was able to upregulate and downregulate a 
+substantial amount of lacrimal gland genes found to 
+be highly and lowly expressed respectively in male 
+vs. female mice [70, 71]. On the other hand, estrogen 
+and progesterone only impacted a small percentage 
+[71] of these differentially expressed genes between 
+male and female mice [70]. Mechanistically, andro￾gens have been demonstrated to regulate the lacrimal 
+glands’ fluid and protein secretion [72–74] through 
+saturable, high-affinity and steroid-specific receptors 
+binding in acinar and ductar epithelial cells [69, 75]. 
+Accordingly, the lack of androgens was linked to lac￾rimal gland dysfunction and corresponding aqueous 
+tear deficiency [30, 76], which helps to explain the 
+higher DES prevalence among females [77, 78] since 
+they are prone to reduced serum androgen levels dur￾ing various stages of their life (lactation and meno￾pause) [79, 80]. The meibomian glands, which are 
+sebaceous in nature and contain acinar epithelial cells 
+with androgen receptors, are also regulated by andro￾gens [81, 82]. This form of regulation is dependent 
+on 5α-reductase, an enzyme crucial for the produc￾tion of the potent androgen, 5α-dihydrotestosterone 
+(DHT). In the presence of DHT, these acinar cells 
+display enhanced synthesis and secretion of lipids. 
+Conversely, a reduction in DHT resulted in attenuated 
+gland activity, size and lipid release [82, 83], which, 
+in the context of DES, leads to the formation of an 
+unstable tear film attributable to the increased rate of 
+evaporation.
+Systemic diseases
+Diabetes mellitus (DM) is regarded as one of the 
+leading systemic risk factors for DES due to the high 
+prevalence (~18% to 54%) observed in Type 2 dia￾betic patients [84–86]. However, regardless of Type 
+1 or 2 diabetes, both conditions heighten the risk of 
+developing LFU dysfunction such as corneal and 
+conjunctival epithelium damage due to increased lev￾els of HbA1c in blood serum [87]. HbA1c are gly￾cated haemoglobins and provide an estimate of the 
+blood sugar levels of an individual over the last three 
+months [88]. As the conjunctiva epithelium contains 
+goblet cells, the damage sustained will also be asso￾ciated with diminished mucin production. Addition￾ally, hyperglycemia has been shown to activate aldose 
+reductase, an enzyme that catalyzes the conversion of 
+glucose to the cytotoxic sorbitol [89]. Correspond￾ingly, elevated amounts of sorbitol within cells will 
+lead to cellular apoptosis and ultimately lacrimal 
+gland structure dysfunction followed by the reduction 
+in tear secretion [31].
+Xerophthalmia is a systemic disease that consists 
+of a variety of eye disorders, including DES [90]. It 
+is attributed to vitamin A deficiency and is the only 
+vitamin deficiency disease in the world that causes 
+major concern to the public health personnel [91, 
+92]. Vitamin A is crucial for maintaining the dif￾ferentiation and proliferation of the conjunctiva and 
+corneal epithelium [93] by inhibiting the upregula￾tion of apoptotic signals [94]. The lack of vitamin A 
+will therefore lead to loss of goblet cells and mucin 
+production.
+Hereditary diseases
+Familial dysautonomia (FD), also known as Riley￾Day syndrome, is a rare, hereditary autosomal reces￾sive disorder that impairs the development of specific 
+sensory and autonomic neurons during embryogen￾esis [35]. As a result of this maldevelopment, patients 
+with FD are highly vulnerable to optic neuropathy 
+during their childhood, which becomes worse as they 
+age [36]. Without proper control of their LFU, they 
+lack the ability to produce tears at a basal, reflex and 
+emotional level [95].
+Nerve damage
+All the secretory functions in the LFU are regu￾lated by autonomic nerves. The lacrimal gland 
+is largely innervated by the Vasoactive Intestinal 
+Peptide immunoreactive (VIP-IR) parasympathetic 
+nerve fibers (secretory control) [96, 97] and, to a 
+lesser extent, sympathetic nerve fibers (vasculature 
+control) immunoreactive to Neuropeptide Y (NPY￾IR), Tyrosine Hydroxylase (TH-IR) and Dopamine 
+3257 Int Ophthalmol (2022) 42:3253–3272
+1 3Vol.: (0123456789)
+β-Hydroxylase (DBH-IR) [98]. Upon stimulation, 
+water and electrolytes, supplied by the blood, are 
+transported into the duct system by the coordinated 
+activation of ion channels and pumps [99–101]. 
+Meanwhile, proteins produced and stored in the 
+secretory granules of the lacrimal gland acinar cells 
+will be released through stimulus-induced exocyto￾sis [102] and carried along with the ionic fluid.
+The meibomian gland and goblet cells in the con￾junctiva is regulated by both parasympathetic VIP￾IR and sympathetic DBH-IR and NPY-IR nerve fib￾ers as well [97, 103, 104]. VIP-IR nerve fibers are 
+located in close proximity to the acini and central 
+duct of the meibomian gland where they influence 
+the secretion of lipids, contributed by the meibo￾cyte acinar cells, into the lumen of the duct system 
+[97, 105]. On the other hand, VIP-IR nerve fibers 
+are located at the epithelial-stroma junction in the 
+conjunctiva, near the basal membrane of the goblet 
+cells [104]. Upon receiving an appropriate stimu￾lus, the secretory granules within the goblet cells 
+fuse with each other and with the apical membrane 
+to release the mucins, along with some amount of 
+water and electrolytes, onto the ocular surface.
+Correspondingly, the activity of these autonomic 
+nerves are dependent on reflexes initiated by the 
+activation of sensory neurons, which are present 
+in high density, on the ocular surface [38]. At that 
+location, they are very susceptible to direct injury 
+caused by environmental factors and mechanical 
+trauma [38]. Indirect forms of injury can also occur. 
+For example, patients with aqueous tear deficiency 
+from other causes may blink too frequently, which 
+can generate enough stress to damage terminal 
+nerve branches. Besides that, inflammation also 
+plays a key role in altering the physiological state 
+of the peripheral sensory neurons. Specifically, pro￾inflammatory signalling molecules are able to either 
+reduce the sensory neurons’ threshold for activa￾tion (sensitization) or increase their ongoing nerve 
+activity (excitation) [106]. Such changes are linked 
+to the kinetics of the transduction ion channels and 
+voltage-gated ion channels in the axonal membrane 
+[107], affecting the generation and propagation of 
+action potentials [108, 109]. Without consistent 
+control over the activation of the autonomic nerve 
+fibers, tear production will therefore be defective.
+Gut dysbiosis
+The human body is host to trillions of microbiota. 
+Among the various regions, such as the oral cav￾ity, respiratory tract, skin and gastrointestinal tract, 
+that harbor these microorganisms [110], the colon is 
+the organ which consists of the densest number of 
+microbes [111]. This additional diversity of microbi￾ome serves as a functional expansion of host genomes 
+[112] and produces signaling molecules that facilitate 
+host metabolism and regulation of host physiology 
+[113]. Studies have revealed correlations between gut 
+dysbiosis, defined as an imbalance of the gut microbi￾ota diversity (disturbed or inversed Firmicutes/Bacte￾roidetes ratio), and DES. Specifically, this connection 
+was hypothesized to occur through the gut dysbiosis￾ocular surface-lacrimal gland axis which consists of 
+five proposed immune-related mechanisms describing 
+how ratio changes of gut commensal can lead to DES 
+[114, 115]. For example, one of the mechanisms pro￾posed involve the migration of gut dysbiosis-activated 
+CD103+ or CXCR1+ dendritic cells or monocytes/
+macrophage to the ocular surface where they prime 
+T cells to secrete pro-inflammatory cytokines in the 
+ocular surface and lacrimal glands [114]. Conse￾quently, the immune response mounted will lead to a 
+decrease in goblet cells and acinar cells in the con￾junctiva and lacrimal glands, respectively, resulting in 
+reduced mucin and tear secretion.
+Extrinsic factors
+Environmental influences
+The LFU is well-equipped to withstand tolerable 
+amounts of impurities in the environment and pre￾vent ocular surface damage through tear secretion. 
+However, the protection provided by the tear film can 
+be eroded if the pollution becomes too overwhelm￾ing, especially if it affects the function of the various 
+secretory components in the LFU. Particulate matter 
+smaller than 2.5 and 10 μm (PM2.5 and PM10), which 
+consists of inorganic dust, dirt, soot particles and 
+organic allergens like pollen grains, mold and micro￾bial colonies, are common pollutants associated with 
+DES [116–121]. Excessive and prolonged exposure 
+of these pollutants to the ocular surface were shown 
+to trigger chronic inflammatory responses and induce 
+3258 Int Ophthalmol (2022) 42:3253–3272
+1 3Vol:. (1234567890)
+oxidative stress, both of which have cytotoxic effects 
+on the secretory cells [41]. Similarly, gaseous pollut￾ants such as NO2, SO2, O3 and volatile organic com￾pounds (VOCs) such as formaldehyde, toluene and 
+acetone were all found to be positively correlated 
+with DES through inflammatory and cytotoxic causes 
+[122–125].
+Even in the absence of impurities and reactive 
+gases, constant exposure to extreme environmental 
+conditions such as strong winds, low humidity, high 
+temperature and high altitude can directly affect ocu￾lar health as well [125–127]. These scenarios reduce 
+the tear film stability and cause faster tear evaporation 
+[41], resulting in DES.
+Behaviour and/or habits
+Tobacco consumption is one of the main causes 
+of morbidity and mortality globally and has been 
+associated with a number of systemic disorders and 
+conditions, including DES [43–45]. Besides con￾ventional cigarettes, battery-powered electronic ciga￾rettes (ECs), which deliver nicotine through a heated 
+vapor [128], are also recently shown to increase the 
+risk of developing dry eyes [129]. Accordingly, both 
+types of cigarettes affect ocular functionality through 
+the smoke and/or combustion by-products produced, 
+leading to inflammation and subsequent decreased 
+quantity and quality of tear secretion as well as ocular 
+surface damage [129, 130].
+Additionally, long-term usage of computer, tablet 
+and cell phone can also result in DES [131]. It was 
+observed that users blink less when using such dis￾play devices with a screen, which prevented the for￾mation of a stable tear film and therefore leading to a 
+faster rate of tear evaporation [46].
+Eye accessories
+Contact lenses provide an aesthetic means for ocular 
+refractive error correction over glasses and an esti￾mated 140 million people in the world use them [132]. 
+This estimation has remained relatively consistent 
+over the past decade despite numerous improvements 
+in contact lens technology [133]. Correspondingly, a 
+major reason for this observation arises from eye dis￾comfort, mostly the sensation of dry eyes, after pro￾longed usage [134]. Specifically, the close proximity 
+of contact lens to the ocular surface poses a host of 
+issues to the LFU and the tear film.
+When fitted correctly, the contact lens cover 
+the cornea completely and extends by~2  mm onto 
+the conjunctiva. In this configuration, every blink 
+will cause it to move along the conjunctiva, which 
+induces mechanical friction and goblet cells damage 
+within the epithelium [135] over time [136, 137]. A 
+reduction in goblet cell density will therefore lead 
+to decreased mucin production and secretion, which 
+affects tear film spreading. Besides that, contact 
+lenses have also been associated with the loss of the 
+meibomian gland and its orifice obstruction, result￾ing in impeded lipid synthesis and their transport to 
+the tear film. Together, these dysregulations reduce 
+the stability of the pre-lens tear film (PrLTF), the thin 
+layer of fluid constrained between the cornea and the 
+contact lens which is half the thickness of the normal 
+pre-corneal tear film [138], and cause it to be suscep￾tible to rapid evaporation, rupture and dry spot forma￾tion [139]. The lack of a consistent PrLTF is therefore 
+a manifestation of DES.
+Eye surgeries
+Surgical procedures for ocular refractive errors such 
+as laser-assisted in  situ keratomileusis (LASIK), 
+photorefractive keratectomy (PRK) and small inci￾sion lenticule extraction (SMILE) are recognized risk 
+factors for developing dry eye [48, 49, 140]. This is 
+attributable to a limitation posed by these surgical 
+procedures where the sensory nerves present on the 
+ocular surface will inevitably get damaged [48, 49, 
+140]. Without reliable sensory detection, the cor￾neal sensation become impaired, which decreases 
+basal and reflex tearing as well as rate of blinking 
+[141–143]. Moreover, sensory denervation will also 
+disrupt tear production by the lacrimal gland, lead￾ing to reduced tear secretion [144]. In addition to 
+nerve damage, these refractive surgeries are also 
+known to inflict damage to the conjunctival goblet 
+cells [145–147]. Consequently, a reduction in goblet 
+cell density signifies reduced mucin production and 
+therefore, reduced tear film stability. Inflammatory 
+responses induced as a result of postoperative wound￾healing process is the last contributing factor to DES.
+Altogether, these factors constitute the major 
+known causes of DES. For clarity, they are compiled 
+and summarized in Table 1.
+3259 Int Ophthalmol (2022) 42:3253–3272
+1 3Vol.: (0123456789)
+Table 1 Summary of all the intrinsic and extrinsic etiologies and how they lead to dry eyes
+Etiology How it leads to DES References
+Autoimmunity Sjörgen’s syndrome - Lymphocytes and macrophages infiltrate lacrimal 
+glands
+- ↑ inflammatory cytokines, ↑ cell death, ↓ tear 
+secretion
+[28, 50–52]
+Graves’ opthalmopathy - Excessive thyroid hormones
+- ↑ inflammation in orbital tissue
+- Lid impaired mechanically, ↓ rate of blinking, ↑
+tear evaporation
+- Autoantibodies target lacrimal gland, ↓ tear secre￾tion
+[64–66]
+Multiple sclerosis - Poor corneal sensory impulse conduction
+- ↓ tear secretion
+[67]
+Hormonal imbalance Androgens - Androgens bind to steroid-specific receptors in 
+epithelial cells
+- ↓ androgens, lacrimal and meibomian gland 
+dysfunction, ↓ tear secretion, ↓ lipid secretion, ↑
+tear evaporation
+[30, 69, 72–76, 82, 83]
+Systemic diseases Diabetes mellitus - ↑ HbA1c in blood serum
+- Corneal and conjunctival epithelium damage, 
+lacrimal gland dysfunction
+- ↑ goblet cell death, ↓ mucin secretion, ↓ tear 
+secretion
+[31, 87, 89]
+Xerophthalmia - Vitamin A deficiency
+- ↓ goblet cells, ↓ mucin secretion
+[91–94]
+Hereditary diseases Familial dysautonomia - Impaired sensory and autonomic neurons
+- Lack LFU control, no tears produced
+[35, 95]
+Nerve damage VIP-IR nerve fibers - VIP-IR nerve fibers regulate lacrimal and meibo￾mian gland and goblet cells
+- Damage to the nerve itself or to its corresponding 
+sensory neurons leads to ↓ tear secretion, ↓ lipid 
+secretion, ↓ mucin secretion
+[38, 96, 97, 103, 104]
+Gut dysbiosis Firmicutes/Bacteroidetes ratio - Altered ratio lead to dendritic cells’ and mac￾rophages’ migration to ocular surface
+- T cells primed by their presence, secrete pro￾inflammatory cytokines
+- ↓ acinar and goblet cells, ↓ tear and mucin secre￾tion
+[114, 115]
+Environment PM2.5 and PM10 - Prolonged exposure to ocular surface causes 
+inflammation and damage
+- ↓ secretory cells
+[41]
+Gaseous pollutants - Prolonged exposure to ocular surface causes 
+inflammation and damage
+- ↓ secretory cells
+[122–125]
+Extreme weather conditions - Strong winds, low humidity, high temperature and 
+high altitude
+- ↓ tear film stability, ↑ tear evaporation
+[41, 125–127]
+Behavior and/or habits Conventional and battery￾powered electronic ciga￾rettes
+- Smoke and/or combustion by-products produced
+- Ocular surface inflammation and damage
+- ↓ quality and quantity of tear
+[129, 130]
+Display devices - ↓ rate of blinking, ↓ tear film stability, ↑ tear 
+evaporation
+[46]
+3260 Int Ophthalmol (2022) 42:3253–3272
+1 3Vol:. (1234567890)
+Upcoming clinical trials for DES treatment
+Method of search
+A primary search was conducted using ClinicalTri￾als (http://clinicaltrials.gov) and the key words used 
+were dry eye, keratoconjunctivitis sicca, dryness, 
+ocular, ophthalmic and optic. The search filters ‘Not 
+yet recruiting’, ‘Recruiting’, ‘Enrolling by invitation’ 
+and ‘Active, not recruiting’ were then applied to sieve 
+out all the upcoming clinical trials related to these 
+keywords. From there, the studies were reviewed 
+and included only if they are associated with DES 
+treatment.
+Search results
+All the pending and current clinical trials that focused 
+on DES treatment were compiled and tabulated 
+in Table  2. Applying the ‘Not yet recruiting’ filter 
+yielded a total of 47 studies, of which 14 were rel￾evant for this review. For the ‘Recruiting’ filter, there 
+were a total of 146 studies and 34 of them were rel￾evant. Meanwhile, the ‘Enrolling by invitation’ fil￾ter provided a total of 10 studies and 5 of them were 
+found to be relevant. Lastly, the ‘Active, not recruit￾ing’ filter returned a total of 23 studies and 7 of them 
+were screened to be relevant.
+For each of these filter categories, the studies-of￾interest were further grouped according to various 
+treatment types such as biologic, drug, device, drug 
+delivery system, dietary supplement, physical activ￾ity, combinatorial as well as unknown. Here, bio￾logics are distinct from drugs and defined as large 
+complex biological molecules or a combination of 
+molecules that can be derived from carbohydrates, 
+lipids, proteins, nucleic acids, whole cells and even 
+tissues. On the other hand, drugs are designated as 
+molecules that are synthesized chemically and have 
+well-characterized molecular structures. Based on 
+the classification, around 50% of the recent clinical 
+trials will be utilizing biologics and drugs for DES 
+treatment. These therapeutics vary greatly and will 
+mostly be concocted into a solution for delivery as 
+eye drops. Among them, cyclosporine will be one of 
+the most commonly tested anti-inflammatory drug. 
+Even though cyclosporine was already approved for 
+use in clinics to treat DES [207, 208], many of these 
+studies are attempting to further improve its potency 
+by testing different concentrations (NCT04835623), 
+duration (NCT04144413) and delivery method such 
+as sustained release (NCT04541888) and nanoencap￾sulation (NCT04172961). On the other hand, hyalu￾ronic acid and its salt derivative, sodium hyaluronate, 
+will be the most popular biologics utilized in these 
+studies to constitute artificial tears with lubricating 
+[156, 209] and antibacterial properties [210, 211]. 
+As they were also FDA approved, improvements 
+included the addition of other dietary supplements 
+(NCT04485533) and lubricants (NCT03697876).
+Besides biologics and drugs, medical devices 
+are also quite commonly employed, especially for 
+DES caused by Meibomian Gland Dysfunction 
+(MGD). These commercial devices such as Tear￾Care System (NCT04309799, NCT04795752) and 
+MiBo Thermoflo (NCT03767530) usually have 
+components that are attached to the users’ eyelids 
+for providing heat and/or pressure which enhances 
+meibum lipid flow [162, 212]. For other causes of 
+DES, one study will be investigating the efficacy of 
+quantum molecular resonance (QMR) on patients 
+with DES (NCT04320563). QMR is a recent inno￾vative technology that involves the application of 
+low-power high-frequency oscillating electrical 
+currents (4 to 64  MHz), a range which resonates 
+with biological tissues, in order to elicit cellular 
+Table 1 (continued)
+Etiology How it leads to DES References
+Eye accessories Contact lenses - Mechanical friction, ↓ goblet cells, ↓ mucin secre￾tion
+- Meibomian gland damaged, ↓ lipid secretion
+- ↓ tear film stability, ↑ tear evaporation
+[135–139]
+Eye surgeries LASIK, PRK, SMILE - Damaged sensory nerves and goblet cells
+- ↓ rate of blinking, ↓ mucin production, ↓ tear 
+secretion, ↓ tear film stability, ↑ tear evaporation
+[48, 49, 140–147]
+3261 Int Ophthalmol (2022) 42:3253–3272
+1 3Vol.: (0123456789)
+Table 2 A summary of upcoming and ongoing clinical trials for DES treatment as of Feb 2022. Most of the treatments will be deliv￾ered in the form of eye drops
+Identifier Status Treatment/Interven￾tion
+Treatment type Route of adminis￾tration
+Phase Related literatures
+NCT05169931 Not yet recruiting Amniotic membrane 
+extract
+Biologic Ophthalmic (Eye 
+drops)
+1 [148, 149]
+NCT04938908 Not yet recruiting Probiotic from 
+bacterial lysate
+Biologic Ophthalmic (Eye 
+drops)
+2 [150]
+NCT04608084 Not yet recruiting Autologous platelet 
+rich plasma
+Biologic Ophthalmic (Eye 
+drops)
+4 [151, 152]
+NCT04510428 Not yet recruiting Ocular Surface 
+Immune Globulin 
+(OSIG)
+Biologic Ophthalmic (Eye 
+drops)
+2 N.A
+NCT04819269 Not yet recruiting Tivanisiran (siRNA 
+against TRPV1)
+Biologic Ophthalmic (Eye 
+drops)
+3 [153, 154]
+NCT04704531 Not yet recruiting Lagricel Ofteno 
+(Sodium hyaluro￾nate 0.4%)
+Biologic Ophthalmic (Eye 
+drops)
+2 [155, 156]
+NCT03953703 Not yet recruiting Levocarnitine Drug Oral 2 [157]
+NCT04668118 Not yet recruiting Diquafosol Drug Ophthalmic (Eye 
+drops)
+4 [158, 159]
+NCT04835623 Not yet recruiting Cyclosporine 0.09% 
+ophthalmic solu￾tion
+Drug Ophthalmic (Eye 
+drops)
+4 [160]
+NCT04965974 Not yet recruiting Digital blue light 
+blocking filter
+Device N.A N.A N.A
+NCT04877483 Not yet recruiting Acupuncture Device N.A N.A [161]
+NCT04309799 Not yet recruiting Tear Restore Mask 
+(warms the 
+eyelids)
+Device N.A N.A [162]
+NCT04541888 Not yet recruiting CsA eye gel 
+(cyclosporine￾based gel)
+Drug delivery 
+system
+Ophthalmic (Eye 
+drops)
+3 [163]
+NCT04679883 Not yet recruiting 5% GLH8NDE N.A Ophthalmic (Eye 
+drops)
+2 N.A
+NCT05136170 Recruiting Oxervate (ceneg￾ermin a.k.a. 
+rhNGF 20mcg/
+mL)
+Biologic Ophthalmic (Eye 
+drops)
+3 [164]
+NCT05109702 Recruiting Tanfanercept 
+(0.25% HL036 
+ophthalmic solu￾tion)
+Biologic Ophthalmic (Eye 
+drops)
+3 [165]
+NCT04899518 Recruiting ALY688 ophthalmic 
+solution
+Biologic Ophthalmic (Eye 
+drops)
+2 and 3 [166]
+NCT04633213 Recruiting HBM9036 (TNF-α 
+inhibitor)
+Biologic Ophthalmic (Eye 
+drops)
+3 [167, 168]
+NCT04615455 Recruiting Allogeneic adipose￾derived mesen￾chymal stem cells 
+(injection into 
+lacrimal gland)
+Biologic Transplant 2 [169]
+NCT04877210 Recruiting Insulin (in diabet￾ics)
+Biologic Ophthalmic (Eye 
+drops)
+1 [170]
+3262 Int Ophthalmol (2022) 42:3253–3272
+1 3Vol:. (1234567890)
+Table 2 (continued)
+Identifier Status Treatment/Interven￾tion
+Treatment type Route of adminis￾tration
+Phase Related literatures
+NCT04683796 Recruiting Autologous platelet 
+rich plasma vs. 
+autologous serum
+Biologic Ophthalmic (Eye 
+drops)
+3 [171–173]
+NCT04217785 Recruiting Umbilical cord 
+serum
+Biologic Ophthalmic (Eye 
+drops)
+1 and 2 [174, 175]
+NCT03953118 Recruiting Azithromycin (anti￾biotic)
+Drug Oral 4 [176]
+NCT04357795 Recruiting CequaTM (Cyclo￾sporine 0.09%) 
+ophthalmic solu￾tion
+Drug Ophthalmic (Eye 
+drops)
+4 [177]
+NCT05213156 Recruiting Oxatrex (0.3% 
+ofloxacin)
+Drug Ophthalmic (Eye 
+drops)
+4 [178]
+NCT04030962 Recruiting AGN-242428 
+(RORγ inhibi￾tor)+AGN-
+231868 
+(chemokine 
+antagonist)
+Drug Ophthalmic (Eye 
+drops)
+1 and 2 [179]
+NCT05056155 Recruiting Systane Complete 
+(0.6% propylene 
+glycol)
+Drug Ophthalmic (Eye 
+drops)
+N.A N.A
+NCT04735393 Recruiting Reproxalap (cova￾lent inhibitor of 
+RASP)
+Drug Ophthalmic (Eye 
+drops)
+3 [180, 181]
+NCT04734210 Recruiting SURF-200 (beta￾methasone sodium 
+phosphate)
+Drug Ophthalmic (Eye 
+drops)
+2 N.A
+NCT04172961 Recruiting Nanomicellular 
+cyclosporine 
+formulation
+Drug Ophthalmic (Eye 
+drops)
+4 [160]
+NCT04144413 Recruiting Ikervis (1 mg/
+ml cyclosporine 
+formulation)
+Drug Ophthalmic (Eye 
+drops)
+3 [160]
+NCT04553432 Recruiting Omnigen (processed 
+amniotic mem￾brane)
+Device N.A 4 [182]
+NCT05203796 Recruiting Transcutaneous 
+pulsed electri￾cal stimulation 
+(NuEyne 02)
+Device N.A N.A [183]
+NCT04795752 Recruiting TearCare system 
+(thermal treat￾ment)
+Device N.A N.A [184]
+NCT04120584 Recruiting Forma eye applica￾tor (radio fre￾quency treatment)
+Device N.A N.A N.A
+NCT04320563 Recruiting Rexon-eye (4 to 
+64 MHz, quantum 
+molecular reso￾nance)
+Device N.A N.A [185]
+3263 Int Ophthalmol (2022) 42:3253–3272
+1 3Vol.: (0123456789)
+Table 2 (continued)
+Identifier Status Treatment/Interven￾tion
+Treatment type Route of adminis￾tration
+Phase Related literatures
+NCT03767530 Recruiting MiBo Thermoflo 
+(thermal therapy)
+Device N.A N.A [186]
+NCT04730336 Recruiting Tixel (peri-orbital 
+fractional thermo￾mechanical treat￾ment)
+Device N.A N.A N.A
+NCT04763018 Recruiting iTEAR100 (neuro￾stimulate external 
+nasal nerve)
+Device N.A N.A [187]
+NCT04096898 Recruiting Senofilcon A con￾tact lens
+Device N.A N.A [188, 189]
+NCT04498468 Recruiting DEXTENZA 
+(Dexamethasone￾loaded intracanali￾cular insert)
+Drug delivery 
+system
+Implant 4 N.A
+NCT05119920 Recruiting Pilocarpine ophthal￾mic topical cream
+Drug delivery 
+system
+Eyelid 2 N.A
+NCT04527887 Recruiting Dexamethasone￾loaded intracanali￾cular insert
+Drug delivery 
+system
+Implant 4 [190]
+NCT04645446 Recruiting Pro-ocular gel 
+(loaded with 1% 
+progesterone)
+Drug delivery 
+system
+Transdermal 2 [191]
+NCT05027087 Recruiting Blueberry gummy Dietary supplement Oral 3 [192]
+NCT04785261 Recruiting Artelac eye 
+drops+Vidisic 
+gel+traditional 
+chinese medicine 
+formula
+Drug+Biologic Ophthalmic (Eye 
+drops)+Oral
+2 [193]
+NCT04413279 Recruiting Dexamethasone￾loaded intracanali￾cular insert+Lipi￾Flow thermal 
+pulsation
+Drug delivery sys￾tem+Device
+Implant 4 [190, 194]
+NCT03652051 Recruiting AZR-MD-001 (topi￾cal ointment)
+N.A Ophthalmic (Eye 
+drops)
+2 N.A
+NCT03302273 Enrolling by invita￾tion
+Corneal epithelial 
+stem cells
+Biologic Transplant N.A [195, 196]
+NCT04056221 Enrolling by invita￾tion
+Acupuncture Device N.A N.A [161]
+NCT04884217 Enrolling by invita￾tion
+Pro-ocular gel 
+(loaded with 1% 
+progesterone)
+Drug delivery 
+system
+Transdermal 2 [191]
+NCT04421300 Enrolling by invita￾tion
+Smiling exercise Physical activity N.A N.A [197]
+NCT04658927 Enrolling by invita￾tion
+iLUX (applies heat 
+and compression 
+to eyelids)+Dexa￾methasone-loaded 
+intracanalicular 
+insert
+Device+Drug 
+delivery system
+Implant 4 [190, 198]
+3264 Int Ophthalmol (2022) 42:3253–3272
+1 3Vol:. (1234567890)
+responses [213]. This procedure will be performed 
+using Rexon-Eye, a noninvasive, QMR-based pat￾ented instrument. Patients will wear the device like 
+an eye mask and electrodes will stimulate their 
+periorbital region during the therapy for enhanced 
+tear secretion.
+The rest of the treatment types form the minor￾ity within the list of clinical trials. These included 
+drug delivery systems that will provide sustained 
+release through dexamethasone-loaded implants 
+(NCT04527887, NCT04413279, NCT04658927) 
+and hydrogels (NCT04541888, NCT04645446, 
+NCT04884217), dietary supplements consist￾ing of vitamins and lipids (NCT04181593) as 
+well as physical activities for boosting well-being 
+(NCT04421300).
+Future prospects for DES treatment
+As discussed, DES could be caused by a large vari￾ety of factors. However, current treatments mainly 
+addressed the symptoms by hydrating or lubricating 
+the ocular surface without tackling the root prob￾lems [148]. Besides creating unhealthy depend￾ence in patients, such approaches will also lead to 
+significant financial burden due to recurring treat￾ment costs. Therefore, it is encouraging to witness 
+the trajectory of upcoming DES treatment strate￾gies where cellular and tissue regeneration in the 
+LFU are the key focus. Specifically, studies that 
+employ blood components such as platelet rich 
+plasma or serum hold great promise in the clinics 
+not only for treating DES but for other diseases as 
+well [214]. However, like many other treatment 
+Table 2 (continued)
+Identifier Status Treatment/Interven￾tion
+Treatment type Route of adminis￾tration
+Phase Related literatures
+NCT03697876 Active, not recruit￾ing
+PRO-165 (con￾tains chondroitin 
+sulphate, sodium 
+hyaluronate)
+Biologic Ophthalmic (Eye 
+drops)
+1 [156, 199]
+NCT03937882 Active, not recruit￾ing
+RGN-259 (contains 
+Tβ4)
+Biologic Ophthalmic (Eye 
+drops)
+3 [200, 201]
+NCT03878628 Active, not recruit￾ing
+Allogeneic adipose 
+tissue-derived 
+mesenchymal 
+stem cells (injec￾tion into lacrimal 
+gland)
+Biologic Transplant 1 [169]
+NCT04485533 Active, not recruit￾ing
+VisuXL gel (con￾tains Coenzyme 
+Q10, Vitamin E, 
+sodium car￾boxymethylcel￾lulose)+HYLO 
+(contains sodium 
+hyaluronate)
+Biologic Ophthalmic (Eye 
+drops)
+N.A [156, 202, 203]
+NCT04425551 Active, not recruit￾ing
+Micropulse laser Device N.A N.A [204]
+NCT04608942 Active, not recruit￾ing
+Jett Plasma Medi￾cal Lift (remove 
+hyperkeratinized 
+layer to unblock 
+gland ducts)
+Device N.A N.A [205]
+NCT04181593 Active, not recruit￾ing
+OmegaD softgels 
+(Omega-3)
+Dietary supplement Oral 3 [206]
+3265 Int Ophthalmol (2022) 42:3253–3272
+1 3Vol.: (0123456789)
+options, allogeneic stem cell and body fluid therapy 
+come with their own limitations that cannot be eas￾ily circumvented. Most notably, they involve inva￾sive procedures and may deter patients from opting 
+for this method. Additionally, the effectiveness of 
+these components in inducing favorable outcomes is 
+highly dependent on the patients’ suitability as well.
+Therefore, for treatments to be inclusive, they 
+should be varied and multipronged. In our opinion, 
+one promising alternative is gene therapy, which 
+enables the alteration of genetic sequences within 
+tissues and cells with recombinant nucleic acids 
+[215]. Commonly used nucleic acids such as DNA, 
+mRNA, siRNA, miRNA and anti-sense oligonu￾cleotides can be strategically delivered into a defec￾tive target cell or tissue in order to either restore 
+the gene(s) responsible for disease suppression or 
+inhibit the gene(s) related to disease development 
+[216]. Besides its versatility, these nucleic acids can 
+also be administered noninvasively for DES treat￾ment. Accordingly, the efficacy of this technology 
+will be investigated in one of the upcoming clini￾cal trials listed in Table 2 which utilizes Tivanisiran 
+(NCT04819269), a novel 19 nucleotide siRNA for 
+suppressing the expression of the transient recep￾tor potential cation channel subfamily V mem￾ber 1 (TRPV1) [153]. TRPV1 is a pain receptor 
+found in some components of the LFU [217] and 
+the responses it mediates in the sensory neurons 
+was found to be associated with the development 
+of inflammation and neuropathic pain [218]. The 
+delivery of this siRNA-based of eye drop will poten￾tially result in the reduction in TRPV1’s expression 
+in the ocular tissues and therefore, alleviate inflam￾mation and improve tear secretion [219]. Of note, 
+naked nucleic acids are very inefficiently uptaken 
+by cells as they possess similar negative charges 
+as the cell membrane, which leads to electrostatic 
+repulsion [220, 221]. Delivery vehicles are required 
+to transport nucleic acids across the cell membrane 
+and herein determines the success of gene therapy. 
+Recently, a breakthrough in vaccination strategy has 
+shed valuable insights about the optimal form of 
+nucleic acid carriers. Specifically, the Pfizer vaccine 
+for Covid-19 utilizes a specially formulated lipo￾some for delivering mRNAs into cells with great 
+efficiency [222]. With the approval of this revolu￾tionary delivery platform, gene therapy is thus in a 
+favorable position to take off.
+Another prospective DES treatment option is fecal 
+microbiota transplantation (FMT), which is the trans￾fer of fecal materials from a healthy donor into the 
+intestinal tract of an ill or diseased recipient. By doing 
+so, the recipient’s gut microbial composition can be 
+adjusted to resemble the healthy donor’s, thereby con￾ferring health benefits [223]. Since DES was found to 
+be associated with gut dysbiosis, FMT is a potentially 
+relevant and practical technique for treatment. How￾ever, there were not many clinical trials investigating 
+the efficacy of FMT on DES patients as it was only 
+quite recently that a correlation between DES and gut 
+dysbiosis was uncovered. The first and only study was 
+completed on June 2020, which explored the effects 
+of FMT on patients with SS (NCT03926286). Alter￾natively, we may also expect ocular microbiota trans￾plantation in future as studies have identified microbi￾ome differences between closed dry eye patients and 
+healthy closed eye patients [224–226].
+Conclusion
+DES is a relatively common ophthalmic disease that 
+can manifest in various degrees of severity and can 
+be caused by many factors. While not life threaten￾ing, patients may often have to continuously endure 
+discomfort or even pain, which puts a damper in their 
+quality of life. Given the multitude of conditions 
+which DES can originate from, a variety of treatment 
+options is critical to ensure inclusivity and effective￾ness. Encouragingly, current clinical trials are trend￾ing towards this notion and investigating promising 
+research-backed treatments like stem cell therapy, 
+blood component therapy and gene therapy. If suc￾cessful, these strategies may define treatments for 
+other diseases in future as well.
+Author contributions RJH, CYS, LJF and JQL wrote and 
+edited the manuscript. JSC and YD proofread and edited the 
+manuscript. JSC and YD provided guidance and the funding 
+for this work.
+Availability of data and material Not applicable.
+Code availability Not applicable.
+Declarations
+3266 Int Ophthalmol (2022) 42:3253–3272
+1 3Vol:. (1234567890)
+Conflict of interest All authors certify that they have no af￾filiations with or involvement in any organization or entity with 
+any financial interest (such as honoraria; educational grants; 
+participation in speakers’ bureaus; membership, employment, 
+consultancies, stock ownership, or other equity interest; and 
+expert testimony or patent-licensing arrangements), or non￾financial interest (such as personal or professional relationships, 
+affiliations, knowledge or beliefs) in the subject matter or mate￾rials discussed in this manuscript.
+Ethical approval This article does not contain any studies 
+with human participants or animals performed by any of the 
+authors.
+Consent for publication Not applicable.
+References
+1. Moss SE, Klein R, Klein BEK (2000) Prevalence of 
+and risk factors for dry eye syndrome. Arch Ophthalmol 
+9:1264–1268
+2. (2007) The definition and classification of dry eye dis￾ease: report of the Definition and Classification Subcom￾mittee of the International Dry Eye WorkShop (2007). 
+Ocul Surf 2:75–92
+3. Liu KC, Huynh K, Grubbs J Jr et al (2014) Autoimmun￾ity in the pathogenesis and treatment of keratoconjuncti￾vitis sicca. Curr Allergy Asthma Rep 1:403–403
+4. Pflugfelder SC, Stern ME (2020) The cornea in kera￾toconjunctivitis sicca. Exp Eye Res. https://doi.org/10.
+1016/j.exer.2020.108295
+5. Javadi MA, Feizi S (2011) Dry eye syndrome. J Ophthal￾mic Vis Res 3:192–198
+6. Rolando M, Zierhut M (2001) The ocular surface and 
+tear film and their dysfunction in dry eye disease. Surv 
+Ophthalmol 45:S203–S210
+7. King-Smith PE, Fink BA, Hill RM et  al (2004) The 
+thickness of the tear film. Curr Eye Res 4–5:357–368
+8. King-Smith PE, Fink BA, Fogt N et  al (2000) The 
+thickness of the human precorneal tear film: evidence 
+from reflection spectra. Invest Ophthalmol Vis Sci 
+11:3348–3359
+9. Willcox MDP, Argüeso P, Georgiev GA et  al (2017) 
+TFOS DEWS II tear film report. Ocul Surf 3:366–403
+10. King-Smith PE, Hinel EA, Nichols JJ (2010) Application 
+of a novel interferometric method to investigate the rela￾tion between lipid layer thickness and tear film thinning. 
+Invest Ophthalmol Vis Sci 5:2418–2423
+11. Dilly PN (1994) Structure and function of the tear film. 
+In: Sullivan DA (ed) Lacrimal gland, tear film, and dry 
+eye syndromes: basic science and clinical relevance. 
+Springer, Boston, pp 239–247
+12. Cher I (2008) A new look at lubrication of the ocular sur￾face: fluid mechanics behind the blinking eyelids. Ocul 
+Surf 2:79–86
+13. Peng CC, Cerretani C, Li Y et al (2014) Flow evaporim￾eter to assess evaporative resistance of human tear-film 
+lipid layer. Ind Eng Chem Res 47:18130–18139
+14. Bron AJ, Tiffany JM, Gouveia SM et  al (2004) Func￾tional aspects of the tear film lipid layer. Exp Eye Res 
+3:347–360
+15. Knop E, Knop N, Millar T et al (2011) The international 
+workshop on meibomian gland dysfunction: report of the 
+subcommittee on anatomy, physiology, and pathophysi￾ology of the meibomian gland. Invest Ophthalmol Vis 
+Sci 4:1938–1978
+16. Zhou L, Zhao SZ, Koh SK et al (2012) In-depth analysis 
+of the human tear proteome. J Proteom 13:3877–3885
+17. Azkargorta M, Soria J, Ojeda C et al (2015) Human basal 
+tear peptidome characterization by CID, HCD, and ETD 
+followed by in silico and in vitro analyses for antimicro￾bial peptide identification. J Proteome Res 6:2649–2658
+18. Dartt DA, Willcox MDP (2013) Complexity of the tear 
+film: importance in homeostasis and dysfunction during 
+disease. Exp Eye Res 117:1–3
+19. Mantelli F, Mauris J, Argüeso P (2013) The ocular sur￾face epithelial barrier and other mechanisms of mucosal 
+protection: from allergy to infectious diseases. Curr Opin 
+Allergy Clin Immunol 5:563–568
+20. Hattrup CL, Gendler SJ (2008) Structure and function 
+of the cell surface (tethered) mucins. Annu Rev Physiol 
+70:431–457
+21. Thornton DJ, Rousseau K, McGuckin MA (2008) Struc￾ture and function of the polymeric mucins in airways 
+mucus. Annu Rev Physiol 70:459–486
+22. Gipson IK, Hori Y, Argüeso P (2004) Character of ocu￾lar surface mucins and their alteration in dry eye disease. 
+Ocul Surf 2:131–148
+23. Gipson IK, Argüeso P (2003) Role of mucins in the func￾tion of the corneal and conjunctival epithelia. Int Rev 
+Cytol 231:1–49
+24. Sumiyoshi M, Ricciuto J, Tisdale A et al (2008) Antiad￾hesive character of mucin O-glycans at the apical surface 
+of corneal epithelial cells. Invest Ophthalmol Vis Sci 
+1:197–203
+25. Lemp MA (1995) Report of the National Eye Institute/
+Industry workshop on clinical trials in dry eyes. Clao J 
+4:221–232
+26. Johnson ME, Murphy PJ (2004) Changes in the tear film 
+and ocular surface from dry eye syndrome. Prog Retin 
+Eye Res 4:449–474
+27. Stern ME, Schaumburg CS, Pflugfelder SC (2013) Dry 
+eye as a mucosal autoimmune disease. Int Rev Immunol 
+1:19–41
+28. Coursey TG, de Paiva CS (2014) Managing Sjögren’s 
+Syndrome and non-Sjögren Syndrome dry eye with anti￾inflammatory therapy. Clin Ophthalmol 8:1447–1458
+29. Peck T, Olsakovsky L, Aggarwal S (2017) Dry eye syn￾drome in menopause and perimenopausal age group. J 
+Mid-Life Health 2:51–54
+30. Versura P, Giannaccare G, Campos EC (2015) Sex￾steroid imbalance in females and dry eye. Curr Eye Res 
+2:162–175
+31. Zhang X, Zhao L, Deng S et al (2016) Dry eye syndrome 
+in patients with diabetes mellitus: prevalence, etiology, 
+and clinical characteristics. J Ophthalmol 2016:8201053
+32. De Freitas GR, Ferraz GAM, Gehlen M et al (2021) Dry 
+eyes in patients with diabetes mellitus. Prim Care Diabe￾tes 1:184–186
+3267 Int Ophthalmol (2022) 42:3253–3272
+1 3Vol.: (0123456789)
+33. Abd-Allah NM, Hassan AA, Omar G et  al (2020) Dry 
+eye in rheumatoid arthritis: relation to disease activity. 
+Immunol Med 2:92–97
+34. Yumori JW, Trinh D, Lee E et  al (2015) Prevalence of 
+dry eye disease in rheumatoid arthritis patients. Invest 
+Ophthalmol Vis Sci 7:4437–4437
+35. Gold-von Simson G, Axelrod FB (2006) Familial dysau￾tonomia: update and recent advances. Curr Probl Pediatr 
+Adolesc Health Care 6:218–237
+36. Mendoza-Santiesteban CE, Hedges TR 3rd, Norcliffe￾Kaufmann L et  al (2012) Clinical neuro-ophthalmic 
+findings in familial dysautonomia. J Neuro-Ophthalmol 
+1:23–26
+37. Galor A, Levitt RC, Felix ER et  al (2015) Neuropathic 
+ocular pain: an important yet underevaluated feature of 
+dry eye. Eye (Lond) 3:301–312
+38. Belmonte C, Nichols JJ, Cox SM et  al (2017) TFOS 
+DEWS II pain and sensation report. Ocul Surf 3:404–437
+39. Moon J, Choi SH, Yoon CH et al (2020) Gut dysbiosis is 
+prevailing in Sjögren’s syndrome and is related to dry eye 
+severity. PLoS ONE 2:e0229029
+40. Tsigalou C, Stavropoulou E, Bezirtzoglou E (2018) Cur￾rent Insights in microbiome shifts in Sjogren’s syndrome 
+and possible therapeutic interventions. Front Immunol 
+9:1106
+41. Mandell JT, Idarraga M, Kumar N et al (2020) Impact of 
+air pollution and weather on dry eye. J Clin Med 11:3740
+42. Alves M, Novaes P, Morraye Mde A et  al (2014) Is 
+dry eye an environmental disease? Arq Bras Oftalmol 
+3:193–200
+43. Xu L, Zhang W, Zhu X-Y et  al (2016) Smoking and 
+the risk of dry eye: a meta-analysis. Int J Ophthalmol 
+10:1480–1486
+44. Erginturk Acar D, Acar U, Ozen Tunay Z et  al (2017) 
+The effects of smoking on dry eye parameters in healthy 
+women. Cutan Ocul Toxicol 1:1–4
+45. Khalil HE, Aboud S, Azzab M (2018) Comparative study 
+between smokers and nonsmokers regarding dry eye. 
+Delta J Ophthalmol 1:9–13
+46. Akkaya S, Atakan T, Acikalin B et  al (2018) Effects 
+of long-term computer use on eye dryness. North Clin 
+Istanbul 4:319–322
+47. Koh S (2020) Contact lens wear and dry eye: beyond the 
+known. Asia-Pac J Ophthalmol. https://doi.org/10.1097/
+APO.0000000000000329
+48. Shtein RM (2011) Post-LASIK dry eye. Expert Rev Oph￾thalmol 5:575–582
+49. Wong AHY, Cheung RKY, Kua WN et  al (2019) Dry 
+eyes after SMILE. Asia-Pac J Ophthalmol 5:397–405
+50. Barr JY, Wang X, Meyerholz DK et  al (2017) CD8 T 
+cells contribute to lacrimal gland pathology in the non￾obese diabetic mouse model of Sjögren syndrome. 
+Immunol Cell Biol 8:684–694
+51. Zhou D, Chen Y-T, Chen F et al (2012) Critical involve￾ment of macrophage infiltration in the development of 
+Sjögren’s syndrome-associated dry eye. Am J Pathol 
+3:753–760
+52. Srivastava A, Makarenkova HP (2020) Innate immunity 
+and biological therapies for the treatment of Sjögren’s 
+syndrome. Int J Mol Sci 23:9172
+53. Chen Y-T, Lazarev S, Bahrami AF et al (2012) Interleu￾kin-1 receptor mediates the interplay between CD4+ T 
+cells and ocular resident cells to promote keratinizing 
+squamous metaplasia in Sjögren’s syndrome. Lab Inves￾tig 4:556–570
+54. Chen FY, Lee A, Ge S et al (2017) Aire-deficient mice 
+provide a model of corneal and lacrimal gland neuropa￾thy in Sjögren’s syndrome. PLoS ONE 9:e0184916
+55. Pflugfelder SC, Jones D, Ji Z et  al (1999) Altered 
+cytokine balance in the tear fluid and conjunctiva of 
+patients with Sjögren’s syndrome keratoconjunctivitis 
+sicca. Curr Eye Res 3:201–211
+56. Lam H, Bleiden L, de Paiva CS et  al (2009) Tear 
+cytokine profiles in dysfunctional tear syndrome. Am J 
+Ophthalmol 2:198–205
+57. Solomon A, Dursun D, Liu Z et al (2001) Pro- and anti￾inflammatory forms of interleukin-1 in the tear fluid and 
+conjunctiva of patients with dry-eye disease. Invest Oph￾thalmol Vis Sci 10:2283–2292
+58. Kook KY, Jin R, Li L et al (2020) Tear osmolarity and 
+matrix metallopeptidase-9 in dry eye associated with 
+Sjögren’s syndrome. Korean J Ophthalmol 3:179–186
+59. Lanza NL, Valenzuela F, Perez VL et  al (2016) The 
+matrix metalloproteinase 9 point-of-care test in dry eye. 
+Ocul Surf 2:189–195
+60. Tsubota K, Fukagawa K, Fujihara T et al (1999) Regu￾lation of human leukocyte antigen expression in human 
+conjunctival epithelium. Invest Ophthalmol Vis Sci 
+1:28–34
+61. Brignole-Baudouin F, Riancho L, Ismail D et al (2017) 
+Correlation between the inflammatory marker HLA-DR 
+and signs and symptoms in moderate to severe dry eye 
+disease. Invest Ophthalmol Vis Sci 4:2438–2448
+62. Akpek EK, Wu HY, Karakus S et al (2020) Differential 
+diagnosis of sjögren versus non-sjögren dry eye through 
+tear film biomarkers. Cornea 8:991–997
+63. Gürdal C, Saraç O, Genç I et  al (2011) Ocular surface 
+and dry eye in Graves’ disease. Curr Eye Res 1:8–13
+64. Bothun ED, Scheurer RA, Harrison AR et  al (2009) 
+Update on thyroid eye disease and management. Clin 
+Ophthalmol 3:543–551
+65. Iskeleli G, Karakoc Y, Abdula A (2008) Tear film osmo￾larity in patients with thyroid ophthalmopathy. Jpn J 
+Ophthalmol 4:323–326
+66. Eckstein AK, Finkenrath A, Heiligenhaus A et al (2004) 
+Dry eye syndrome in thyroid-associated ophthalmopathy: 
+lacrimal expression of TSH receptor suggests involve￾ment of TSHR-specific autoantibodies. Acta Ophthalmol 
+Scand 3(Pt 1):291–297
+67. Coyle PK, Sibony PA (1986) Tear analysis in multiple 
+sclerosis. Neurology 4:547–550
+68. Pontelli RCN, Rocha BA, Garcia DM et al (2020) Endo￾crine disrupting chemicals associated with dry eye syn￾drome. Ocul Surf 3:487–493
+69. Sullivan DA, Rocha EM, Aragona P et al (2017) TFOS 
+DEWS II sex, gender, and hormones report. Ocul Surf 
+3:284–333
+70. Richards SM, Jensen RV, Liu M et al (2006) Influence of 
+sex on gene expression in the mouse lacrimal gland. Exp 
+Eye Res 1:13–23
+3268 Int Ophthalmol (2022) 42:3253–3272
+1 3Vol:. (1234567890)
+71. Suzuki T, Schirra F, Richards SM et  al (2006) Estro￾gen’s and progesterone’s impact on gene expression in 
+the mouse lacrimal gland. Invest Ophthalmol Vis Sci 
+1:158–168
+72. Toda I, Wickham LA, Sullivan DA (1998) Gender and 
+androgen treatment influence the expression of proto￾oncogenes and apoptotic factors in lacrimal and sali￾vary tissues of MRL/lprMice. Clin Immunol Immuno￾pathol 1:59–71
+73. Richards SM, Liu M, Sullivan BD et al (2002) Gender￾related differences in gene expression of the lacrimal 
+gland. In: Sullivan DA, Stern ME, Tsubota K, Dartt 
+DA, Sullivan RM, Bromberg BB (eds) Lacrimal gland, 
+tear film, and dry eye syndromes 3: basic science and 
+clinical relevance part A and B. Springer, Boston, pp 
+121–127
+74. Gao J, Lambert RW, Wickham LA et al (1995) Androgen 
+control of secretory component mRNA levels in the rat 
+lacrimal gland. J Steroid Biochem Mol Biol 3:239–249
+75. Ono M, Rocha FJ, Sullivan DA (1995) Immunocyto￾chemical location and hormonal control of androgen 
+receptors in lacrimal tissues of the female MRL/Mp-Ipr/
+Ipr mouse model of sjögren’s syndrome. Exp Eye Res 
+6:659–666
+76. Truong S, Cole N, Stapleton F et al (2014) Sex hormones 
+and the dry eye. Clin Exp Optom 4:324–336
+77. Chia EM, Mitchell P, Rochtchina E et  al (2003) Preva￾lence and associations of dry eye syndrome in an older 
+population: the Blue Mountains Eye Study. Clin Exp 
+Ophthalmol 3:229–232
+78. Sullivan DA, Wickham LA, Rocha EM et al (1998) Influ￾ence of gender, sex steroid hormones, and the hypotha￾lamic-pituitary axis on the structure and function of the 
+lacrimal gland. In: Sullivan DA, Dartt DA, Meneray MA 
+(eds) Lacrimal gland, tear film, and dry eye syndromes 2: 
+basic science and clinical relevance. Springer, Boston, pp 
+11–42
+79. Carlsen SM, Jacobsen G, Vanky E (2010) Mid-preg￾nancy androgen levels are negatively associated with 
+breastfeeding. Acta Obstet Gynecol Scand 1:87–94
+80. Yasui T, Matsui S, Tani A et al (2012) Androgen in post￾menopausal women. J Med Invest 1–2:12–27
+81. Thody AJ, Shuster S (1989) Control and function of 
+sebaceous glands. Physiol Rev 2:383–416
+82. Sullivan DA, Sullivan BD, Evans JE et al (2002) Andro￾gen deficiency, Meibomian gland dysfunction, and evap￾orative dry eye. Ann N Y Acad Sci 966:211–222
+83. Schröder HG, Ziegler M, Nickisch K et al (1989) Effects 
+of topically applied antiandrogenic compounds on seba￾ceous glands of hamster ears and flank organs. J Invest 
+Dermatol 5:769–773
+84. Manaviat MR, Rashidi M, Afkhami-Ardekani M et  al 
+(2008) Prevalence of dry eye syndrome and diabetic 
+retinopathy in type 2 diabetic patients. BMC Ophthalmol 
+8:10
+85. Zou X, Lu L, Xu Y et al (2018) Prevalence and clinical 
+characteristics of dry eye disease in community-based 
+type 2 diabetic patients: the Beixinjing eye study. BMC 
+Ophthalmol 1:117
+86. Najafi L, Malek M, Valojerdi AE et al (2013) Dry eye and 
+its correlation to diabetes microvascular complications in 
+people with type 2 diabetes mellitus. J Diabetes Compli￾cat 5:459–462
+87. Gekka M, Miyata K, Nagai Y et al (2004) Corneal epi￾thelial barrier function in diabetic patients. Cornea 
+1:35–37
+88. Nitin S (2010) HbA1c and factors other than diabetes 
+mellitus affecting it. Singapore Med J 8:616–622
+89. Tang WH, Martin KA, Hwa J (2012) Aldose reductase, 
+oxidative stress, and diabetic mellitus. Front Pharmacol 
+3:87
+90. Faustino JF, Ribeiro-Silva A, Dalto RF et  al (2016) 
+Vitamin A and the eye: an old tale for modern times. 
+Arquivos Bras Oftalmol 79:56–61
+91. Pal R, Sagar V (2008) Antecedent risk factors of xeroph￾thalmia among Indian rural preschool children. Eye Con￾tact Lens 2:106–108
+92. McLaughlin S, Welch J, MacDonald E et  al (2014) 
+Xerophthalmia: a potential epidemic on our doorstep? 
+Eye (Lond) 5:621–623
+93. Feroze KB, Kaufman EJ (2021) Xerophthalmia. Stat￾Pearls Publishing, Copyright © 2021, StatPearls Publish￾ing LLC, Treasure Island
+94. Zhang W, Li W, Zhang C et al (2019) Effects of vitamin 
+A on Expressions Of Apoptosis Genes Bax and Bcl-2 
+in epithelial cells of corneal tissues induced by benza￾lkonium chloride in mice with dry eye. Med Sci Monit 
+25:4583–4589
+95. Palma J-A, Norcliffe-Kaufmann L, Fuente-Mora C et al 
+(2014) Current treatments in familial dysautonomia. 
+Expert Opin Pharmacother 18:2653–2671
+96. Nikkinen A, Lehtosalo JI, Uusitalo H et  al (1984) The 
+lacrimal glands of the rat and the guinea pig are inner￾vated by nerve fibers containing immunoreactivities for 
+substance P and vasoactive intestinal polypeptide. Histo￾chemistry 1:23–27
+97. Seifert P, Spitznas M (1999) Vasoactive intestinal poly￾peptide (VIP) innervation of the human eyelid glands. 
+Exp Eye Res 6:685–692
+98. Matsumoto Y, Tanabe T, Ueda S et al (1992) Immuno￾histochemical and enzymehistochemical studies of pep￾tidergic, aminergic and cholinergic innervation of the 
+lacrimal gland of the monkey (Macaca fuscata). J Auton 
+Nerv Syst 3:207–214
+99. Marty A, Tan YP, Trautmann A (1984) Three types of 
+calcium-dependent channel in rat lacrimal glands. J 
+Physiol 357:293–325
+100. Trautmann A, Marty A (1984) Activation of Ca-depend￾ent K channels by carbamoylcholine in rat lacrimal 
+glands. Proc Natl Acad Sci U S A 2:611–615
+101. Wood RL, Mircheff AK (1986) Apical and basal-lateral 
+Na/K-ATPase in rat lacrimal gland acinar cells. Invest 
+Ophthalmol Vis Sci 8:1293–1296
+102. Putney JW Jr, VandeWalle CM, Leslie BA (1978) Stim￾ulus-secretion coupling in the rat lacrimal gland. Am J 
+Physiol 5:C188-198
+103. Seifert P, Spitznas M (1996) Immunocytochemical and 
+ultrastructural evaluation of the distribution of nerv￾ous tissue and neuropeptides in the meibomian gland. 
+Graefes Arch Clin Exp Ophthalmol 10:648–656
+104. Diebold Y, Ríos JD, Hodges RR et  al (2001) Pres￾ence of nerves and their receptors in mouse and human 
+3269 Int Ophthalmol (2022) 42:3253–3272
+1 3Vol.: (0123456789)
+conjunctival goblet cells. Invest Ophthalmol Vis Sci 
+10:2270–2282
+105. Kirch W, Horneber M, Tamm ER (1996) Characteriza￾tion of Meibomian gland innervation in the cynomolgus 
+monkey (Macaca fascicularis). Anat Embryol (Berl) 
+4:365–375
+106. Andersen HH, Yosipovitch G, Galor A (2017) Neuro￾pathic symptoms of the ocular surface: dryness, pain, and 
+itch. Curr Opin Allergy Clin Immunol 5:373–381
+107. Staaf S, Oerther S, Lucas G et  al (2009) Differential 
+regulation of TRP channels in a rat model of neuropathic 
+pain. PAIN® 1:187–199
+108. Habib AM, Wood JN, Cox JJ (2015) Sodium channels 
+and pain. Handbook of experimental pharmacology. 
+Springer, Berlin, pp 39–56
+109. Tibbs GR, Posson DJ, Goldstein PA (2016) Voltage￾gated ion channels in the PNS: novel therapies for neuro￾pathic pain? Trends Pharmacol Sci 7:522–542
+110. Lloyd-Price J, Abu-Ali G, Huttenhower C (2016) The 
+healthy human microbiome. Genome Med 1:51
+111. Sender R, Fuchs S, Milo R (2016) Revised estimates 
+for the number of human and bacteria cells in the body. 
+PLoS Biol 8:e1002533
+112. Kho ZY, Lal SK (2018) The human gut microbiome: a 
+potential controller of wellness and disease. Front Micro￾biol. https://doi.org/10.3389/fmicb.2018.01835
+113. Hooper LV, Gordon JI (2001) Commensal host-bacterial 
+relationships in the gut. Science 5519:1115
+114. Moon J, Yoon CH, Choi SH et al (2020) Can gut micro￾biota affect dry eye syndrome? Int J Mol Sci 22:8433
+115. Trujillo-Vargas CM, Schaefer L, Alam J et al (2020) The 
+gut-eye-lacrimal gland-microbiome axis in Sjögren Syn￾drome. Ocul Surf 2:335–344
+116. Saxena R, Srivastava S, Trivedi D et  al (2003) Impact 
+of environmental pollution on the eye. Acta Ophthalmol 
+Scand 5:491–494
+117. Wiwatanadate P (2014) Acute air pollution-related symp￾toms among residents in Chiang Mai, Thailand. J Envi￾ron Health 6:76–84
+118. Kiotseridis H, Cilio CM, Bjermer L et  al (2013) Grass 
+pollen allergy in children and adolescents-symptoms, 
+health related quality of life and the value of pollen prog￾nosis. Clin Transl Allergy 3:1–19
+119. Idarraga MA, Guerrero JS, Mosle SG et al (2020) Rela￾tionships between short-term exposure to an indoor envi￾ronment and dry eye (DE) symptoms. J Clin Med 5:1316
+120. Rios JL, Boechat JL, Gioda A et  al (2009) Symptoms 
+prevalence among office workers of a sealed versus a 
+non-sealed building: associations to indoor air quality. 
+Environ Int 8:1136–1141
+121. Lu C, Deng Q, Li Y et al (2016) Outdoor air pollution, 
+meteorological conditions and indoor factors in dwell￾ings in relation to sick building syndrome (SBS) among 
+adults in China. Sci Total Environ 560–561:186–196
+122. Jung SJ, Mehta JS, Tong L (2018) Effects of environment 
+pollution on the ocular surface. Ocul Surf 2:198–205
+123. Zhong JY, Lee YC, Hsieh CJ et  al (2018) Associa￾tion between dry eye disease, air pollution and weather 
+changes in Taiwan. Int J Environ Res Public Health 
+10:2269
+124. Mo Z, Fu Q, Lyu D et al (2019) Impacts of air pollution 
+on dry eye disease among residents in Hangzhou, China: 
+a case-crossover study. Environ Pollut 246:183–189
+125. Hwang SH, Choi YH, Paik HJ et  al (2016) Potential 
+importance of ozone in the association between outdoor 
+air pollution and dry eye disease in South Korea. JAMA 
+Ophthalmol 5:503–510
+126. Um SB, Kim NH, Lee HK et al (2014) Spatial epidemi￾ology of dry eye disease: findings from South Korea. Int 
+J Health Geogr 13:31
+127. van Setten G, Labetoulle M, Baudouin C et  al (2016) 
+Evidence of seasonality and effects of psychrometry in 
+dry eye disease. Acta Ophthalmol 5:499–506
+128. Lam DCL, Nana A, Eastwood PR et al (2014) Electronic 
+cigarettes: ‘vaping’ has unproven benefits and potential 
+harm. Respirology 7:945–947
+129. Md Isa NA, Koh PY, Doraj P (2019) The tear function in 
+electronic cigarette smokers. Optom Vis Sci 9:678–685
+130. Thomas J, Jacob GP, Abraham L et al (2012) The effect 
+of smoking on the ocular surface and the precorneal tear 
+film. Australas Med J 4:221–226
+131. Randolph SA (2017) Computer vision syndrome. Work￾place Health Saf 7:328
+132. Stapleton F, Keay L, Jalbert I et al (2007) The epidemi￾ology of contact lens related infiltrates. Optom Vis Sci 
+4:257–272
+133. Markoulli M, Kolanu S (2017) Contact lens wear and dry 
+eyes: challenges and solutions. Clin Optom 9:41–48
+134. Riley C, Young G, Chalmers R (2006) Prevalence of ocu￾lar surface symptoms, signs, and uncomfortable hours of 
+wear in contact lens wearers: the effect of refitting with 
+daily-wear silicone hydrogel lenses (senofilcon a). Eye 
+Contact Lens 6:281–286
+135. Doughty MJ (2011) Contact lens wear and the gob￾let cells of the human conjunctiva: a review. Cont Lens 
+Anterior Eye 4:157–163
+136. Colorado LH, Alzahrani Y, Pritchard N et al (2016) Time 
+course of changes in goblet cell density in symptomatic 
+and asymptomatic contact lens wearers. Invest Ophthal￾mol Vis Sci 6:2888–2894
+137. Sapkota K, Franco S, Sampaio P et  al (2016) Effect of 
+three months of soft contact lens wear on conjunctival 
+cytology. Clin Exp Optom 4:336–341
+138. Nichols JJ, Mitchell GL, King-Smith PE (2005) Thin￾ning rate of the precorneal and prelens tear films. Invest 
+Ophthalmol Vis Sci 7:2353–2361
+139. Sindt CW, Longmuir RA (2007) Contact lens strategies 
+for the patient with dry eye. Ocul Surf 4:294–307
+140. Bower KS, Sia RK, Ryan DS et  al (2015) Chronic dry 
+eye in photorefractive keratectomy and laser in situ ker￾atomileusis: manifestations, incidence, and predictive 
+factors. J Cataract Refract Surg 12:2624–2634
+141. Ambrósio R Jr, Tervo T, Wilson SE (2008) LASIK-asso￾ciated dry eye and neurotrophic epitheliopathy: patho￾physiology and strategies for prevention and treatment. J 
+Refract Surg 4:396–407
+142. Toda I (2018) Dry eye after LASIK. Invest Ophthalmol 
+Vis Sci 14:DES109–DES115
+143. Ang RT, Dartt DA, Tsubota K (2001) Dry eye after 
+refractive surgery. Curr Opin Ophthalmol 4:318–322
+3270 Int Ophthalmol (2022) 42:3253–3272
+1 3Vol:. (1234567890)
+144. Battat L, Macri A, Dursun D et  al (2001) Effects 
+of laser in  situ keratomileusis on tear production, 
+clearance, and the ocular surface. Ophthalmology 
+7:1230–1235
+145. Rodriguez AE, Rodriguez-Prats JL, Hamdi IM et  al 
+(2007) Comparison of goblet cell density after femto￾second laser and mechanical microkeratome in LASIK. 
+Invest Ophthalmol Vis Sci 6:2570–2575
+146. Konomi K, Chen LL, Tarko RS et al (2008) Preoperative 
+characteristics and a potential mechanism of chronic dry 
+eye after LASIK. Invest Ophthalmol Vis Sci 1:168–174
+147. Mian SI, Li AY, Dutta S et al (2009) Dry eyes and cor￾neal sensation after laser in  situ keratomileusis with 
+femtosecond laser flap creation Effect of hinge position, 
+hinge angle, and flap thickness. J Cataract Refract Surg 
+12:2092–2098
+148. O’Neil EC, Henderson M, Massaro-Giordano M et  al 
+(2019) Advances in dry eye disease treatment. Curr Opin 
+Ophthalmol 3:166–178
+149. Yeu E, Goldberg DF, Mah FS et  al (2019) Safety and 
+efficacy of amniotic cytokine extract in the treatment of 
+dry eye disease. Clin Ophthalmol 13:887–894
+150. Iorio R, Petricca S, Luzi C et  al (2021) Lactobacillus 
+sakei Pro-Bio65 reduces TNF-α expression and upregu￾lates GSH content and antioxidant enzymatic activities in 
+human conjunctival cells. Transl Vis Sci Technol 6:8–8
+151. Alio JL, Rodriguez AE, Ferreira-Oliveira R et al (2017) 
+Treatment of dry eye disease with autologous platelet￾rich plasma: a prospective, interventional, non-rand￾omized study. Ophthalmol Ther 2:285–293
+152. You J, Hodge C, Hoque M et al (2020) Human platelets 
+and derived products in treating ocular surface diseases: 
+a systematic review. Clin Ophthalmol 14:3195–3210
+153. Gonzalez V, Ruz V, Bleau AM et al (2020) Tivanisiran 
+as a new treatment for Dry Eye in patients with Sjögren 
+Syndrome. Invest Ophthalmol Vis Sci 7:102–102
+154. Jimenez AI, Ruz V, Gonzalez V et al (2018) Tivanisiran, 
+a new treatment for Dry Eye Disease, that improved 
+signs and symptoms in clinical trials. Invest Ophthalmol 
+Vis Sci 9:925–925
+155. Johnson ME, Murphy PJ, Boulton M (2006) Effective￾ness of sodium hyaluronate eyedrops in the treatment of 
+dry eye. Graefes Arch Clin Exp Ophthalmol 1:109–112
+156. Ang BCH, Sng JJ, Wang PXH et al (2017) Sodium hya￾luronate in the treatment of dry eye syndrome: a system￾atic review and meta-analysis. Sci Rep 1:9013–9013
+157. Garrett Q, Zhang X, Wang Y et al (2013) Topical admin￾istration of L-carnitine on prevention and treatment of 
+murine dry eye. Invest Ophthalmol Vis Sci 15:921–921
+158. Nam K, Kim HJ, Yoo A (2019) Efficacy and safety of 
+topical 3% diquafosol ophthalmic solution for the treat￾ment of multifactorial dry eye disease: meta-analysis of 
+randomized clinical Trials. Ophthalmic Res 4:188–198
+159. Watanabe H (2018) Medical treatment for dry eye in 
+Japan. Investig Ophthalmol Vis Sci 14:DES116–DES120
+160. Wirta DL, Torkildsen GL, Moreira HR et  al (2019) A 
+clinical phase ii study to assess efficacy, safety, and tol￾erability of waterfree cyclosporine formulation for treat￾ment of dry eye disease. Ophthalmology 6:792–800
+161. Yang L, Yang Z, Yu H et  al (2015) Acupuncture ther￾apy is more effective than artificial tears for dry eye 
+syndrome: evidence based on a meta-analysis. Evid￾Based Complement Altern Med 2015:1–11
+162. Borchman D (2019) The optimum temperature for the 
+heat therapy for meibomian gland dysfunction. Ocul Surf 
+2:360–364
+163. Lallemand F, Schmitt M, Bourges J-L et al (2017) Cyclo￾sporine A delivery to the eye: A comprehensive review 
+of academic and industrial efforts. Eur J Pharm Biop￾harm 117:14–28
+164. Sheha H, Tighe S, Hashem O et  al (2019) Update on 
+cenegermin eye drops in the treatment of neurotrophic 
+keratitis. Clin Ophthalmol 13:1973–1980
+165. Shin M, Ahn H, Bernton E et al (2019) HL036 ophthal￾mic solution, a topical TNF-α inhibitor, significantly 
+improves signs and symptoms of dry eye in a phase 2 
+clinical trial (VELOS-1). Invest Ophthalmol Vis Sci 
+9:249–249
+166. Crawford KS, Schuh C, Schuh J et al (2019) Effects of 
+ALY688 on atropine-induced dry eye in rabbits. Invest 
+Ophthalmol Vis Sci 9:305–305
+167. Usuba FS, de Medeiros-Ribeiro AC, Novaes P et  al 
+(2020) Dry eye in rheumatoid arthritis patients under 
+TNF-inhibitors: conjunctival goblet cell as an early ocu￾lar biomarker. Sci Rep 1:14054
+168. Ji YW, Byun YJ, Choi W et al (2013) Neutralization of 
+ocular surface TNF-α reduces ocular surface and lac￾rimal gland inflammation induced by in  vivo dry eye. 
+Invest Ophthalmol Vis Sci 12:7557–7566
+169. Villatoro AJ, Fernández V, Claros S et  al (2015) Use 
+of adipose-derived mesenchymal stem cells in kerato￾conjunctivitis sicca in a canine model. BioMed Res Int 
+2015:527926
+170. Aniah Azmi N, Bastion MC (2020) Short-term results of 
+trial of topical insulin for treatment of dry eyes in diabet￾ics. Eye Contact Lens 46:S25–S32
+171. Alio JL, Colecha JR, Pastor S et al (2007) Symptomatic 
+dry eye treatment with autologous platelet-rich plasma. 
+Ophthalmic Res 3:124–129
+172. López-Plandolit S, Morales MC, Freire V et  al (2011) 
+Efficacy of plasma rich in growth factors for the treat￾ment of dry eye. Cornea 12:1312–1317
+173. Geerling G, MacLennan S, Hartwig D (2004) Autolo￾gous serum eye drops for ocular surface disorders. Br J 
+Ophthalmol 11:1467
+174. Yoon KC (2014) Use of umbilical cord serum in ophthal￾mology. Chonnam Med J 3:82–85
+175. Giannaccare G, Carnevali A, Senni C et al (2020) umbil￾ical cord blood and serum for thetreatment of ocular 
+diseases: a comprehensive review. Ophthalmol Therapy 
+2:235–248
+176. Kagkelaris KA, Makri OE, Georgakopoulos CD et  al 
+(2018) An eye for azithromycin: review of the literature. 
+Ther Adv Ophthalmol 10:2515841418783622
+177. (2019) Cyclosporine 0.09% solution (Cequa) for dry eye 
+Disease. Med Lett Drugs Ther 1577:116–118
+178. Friedlaender MH (1998) Twice-a-day versus four-times￾a-day ofloxacin treatment of external ocular infection. 
+Clao J 1:48–51
+179. Tan J, Liu H, Huang M et al (2020) Small molecules tar￾geting RORγt inhibit autoimmune disease by suppressing 
+Th17 cell differentiation. Cell Death Dis 8:697
+3271 Int Ophthalmol (2022) 42:3253–3272
+1 3Vol.: (0123456789)
+180. Clark D, Tauber J, Sheppard J et al (2021) Early onset 
+and broad activity of reproxalap in a randomized, dou￾ble-masked, vehicle-controlled phase 2b trial in dry eye 
+disease. Am J Ophthalmol 226:22–31
+181. Macdonald S, Halilovic A, Brady T (2018) Novel small 
+molecule aldehyde sequestering agents demonstrate 
+broad therapeutic potential for ocular inflammation. 
+Invest Ophthalmol Vis Sci 9:2663–2663
+182. McDonald MB, Sheha H, Tighe S et  al (2018) Treat￾ment outcomes in the DRy Eye Amniotic Membrane 
+(DREAM) study. Clin Ophthalmol 12:677–681
+183. Cai M-M, Zhang J (2020) Effectiveness of transcutane￾ous electrical stimulation combined with artificial tears 
+for the treatment of dry eye: a randomized controlled 
+trial. Exp Ther Med 6:175–175
+184. Badawi D (2018) A novel system, TearCare(®), for the 
+treatment of the signs and symptoms of dry eye dis￾ease. Clin Ophthalmol 12:683–694
+185. Ruggeri A, Fatigati E, Vigo L (2020) Mixed dry eye 
+patients successfully treated by the innovative high￾frequency electrotherapy device Rexon-Eye®. Invest 
+Ophthalmol Vis Sci 7:114–114
+186. Connor CG, Narayanan S, Miller WL (2016) The 
+efficacy of MiBo Thermoflo in treatment of meibo￾mian gland dysfunction. Invest Ophthalmol Vis Sci 
+12:5678–5678
+187. Ji MH, Moshfeghi DM, Periman L et  al (2020) Novel 
+extranasal tear stimulation: pivotal study results. Transl 
+Vis Sci Technol 12:23–23
+188. Keir N, Woods CA, Dumbleton K et  al (2010) Clini￾cal performance of different care systems with sili￾cone hydrogel contact lenses. Cont Lens Anterior Eye 
+4:189–195
+189. Lazon de la Jara P, Papas E, Diec J et al (2013) Effect of 
+lens care systems on the clinical performance of a con￾tact lens. Optom Vis Sci 4:344–350
+190. Lee A, Blair HA (2020) Dexamethasone intracanalicular 
+insert: a review in treating post-surgical ocular pain and 
+inflammation. Drugs 11:1101–1108
+191. Luo ZK, Domenech-Estarellas E, Han A et al (2020) A 
+novel transdermal treatment of chronic ocular graft-vs￾host disease (oGvHD): a phase II Clinic trial. Biol Blood 
+Marrow Transplant 3(Supplement):S31–S32
+192. Li J, Ruzhi D, Hua X et  al (2016) Blueberry com￾ponent pterostilbene protects corneal epithelial cells 
+from inflammation via anti-oxidative pathway. Sci Rep 
+6:19408
+193. Marquardt R (1986) Treatment of dry eye with a new gel 
+in eyedrop form. Klin Monbl Augenheilkd 1:51–54
+194. Greiner JV (2012) A single LipiFlow® Thermal Pulsa￾tion System treatment improves meibomian gland func￾tion and reduces dry eye symptoms for 9 months. Curr 
+Eye Res 4:272–278
+195. Bains KK, Fukuoka H, Hammond GM et  al (2019) 
+Recovering vision in corneal epithelial stem cell deficient 
+eyes. Cont Lens Anterior Eye 4:350–358
+196. Nurković JS, Vojinović R, Dolićanin Z (2020) Corneal 
+stem cells as a source of regenerative cell-based therapy. 
+Stem Cells Int 2020:1–11
+197. Yeo S, Tong L (2018) Coping with dry eyes: a qualitative 
+approach. BMC Ophthalmol 1:8
+198. Tauber J, Owen J, Bloomenstein M et  al (2020) Com￾parison of the iLUX and the LipiFlow for the treatment 
+of meibomian gland dysfunction and symptoms: a rand￾omized clinical trial. Clin Ophthalmol 14:405–418
+199. Belalcázar-Rey S, Sánchez Huerta V, Ochoa-Tabares JC 
+et  al (2020) Efficacy and safety of sodium hyaluronate/
+chondroitin sulfate preservative-free ophthalmic solution 
+in the treatment of dry eye: a clinical trial. Curr Eye Res 
+46:919–929
+200. Sosne G, Qiu P, Ousler GW et al (2012) Thymosin β4: 
+a potential novel dry eye therapy. Ann N Y Acad Sci 
+1270:45–50
+201. Sosne G, Kleinman HK (2015) Primary mechanisms of 
+thymosin β4 repair activity in dry eye disorders and other 
+tissue injuries. Invest Ophthalmol Vis Sci 9:5110–5117
+202. Postorino EI, Rania L, Aragona E et al (2018) Efficacy 
+of eyedrops containing cross-linked hyaluronic acid and 
+coenzyme Q10 in treating patients with mild to moderate 
+dry eye. Eur J Ophthalmol 1:25–31
+203. Song JK, Lee K, Park HY et al (2017) Efficacy of car￾boxymethylcellulose and hyaluronate in dry eye disease: 
+a systematic review and meta-analysis. Korean J Fam 
+Med 1:2–7
+204. Toyos R, Toyos M, Willcox J et al (2019) Evaluation of 
+the safety and efficacy of intense pulsed light treatment 
+with meibomian gland expression of the upper eyelids 
+for dry eye disease. Photobiomodul Photomed Laser Surg 
+9:527–531
+205. Ferreira FC, Sathler CSCdO, Hida IY et al (2020) Upper 
+eyelid blepharoplasty using plasma exeresis: evaluation 
+of outcomes, satisfaction, and symptoms after procedure. 
+J Cosmet Dermatol 20:2758–2764
+206. Park J, Yoo Y-S, Shin E et  al (2020) Effects of the re￾esterified triglyceride (rTG) form of omega-3 supple￾ments on dry eye following cataract surgery. Br J Oph￾thalmol 105:1504–1509
+207. Kymionis GD, Bouzoukis DI, Diakonis VF et al (2008) 
+Treatment of chronic dry eye: focus on cyclosporine. 
+Clin Ophthalmol 4:829–836
+208. Schultz C (2014) Safety and efficacy of cyclosporine in 
+the treatment of chronic dry eye. Ophthalmol Eye Dis 
+6:37–42
+209. Mori S, Naito M, Moriyama S (2002) Highly viscous 
+sodium hyaluronate and joint lubrication. Int Orthop 
+2:116–121
+210. Romanò CL, De Vecchi E, Bortolin M et al (2017) Hya￾luronic acid and its composites as a local antimicrobial/
+antiadhesive barrier. J Bone Joint Infect 1:63–72
+211. Kummara MR, Kumar A, Sung Soo H (2017) Develop￾ment of antibacterial paper coated with sodium hyaluro￾nate stabilized curcumin-Ag nanohybrid and chitosan via 
+polyelectrolyte complexation for medical applications. 
+Mater Res Express 11:115401
+212. Arita R, Fukuoka S (2020) Non-pharmaceutical treat￾ment options for meibomian gland dysfunction. Clin Exp 
+Optom 6:742–755
+213. Sella S, Adami V, Amati E et al (2018) In-vitro analysis 
+of quantum molecular resonance effects on human mes￾enchymal stromal cells. PLoS ONE 1:e0190082
+214. Kabat M, Bobkov I, Kumar S et al (2020) Trends in mes￾enchymal stem cell clinical trials 2004–2018: is efficacy 
+3272 Int Ophthalmol (2022) 42:3253–3272
+1 3Vol:. (1234567890)
+optimal in a narrow dose range? Stem Cells Transl Med 
+1:17–27
+215. Hanna E, Rémuzat C, Auquier P et al (2017) Gene thera￾pies development: slow progress and promising prospect. 
+J Mark Access Health Policy 1:1265293–1265293
+216. Goswami R, Subramanian G, Silayeva L et  al (2019) 
+Gene therapy leaves a vicious cycle. Front Oncol. https://
+doi.org/10.3389/fonc.2019.00297
+217. Yang JM, Wei ET, Kim SJ et al (2018) TRPM8 channels 
+and dry eye. Pharmaceuticals 4:125
+218. Fischer MJM, Btesh J, McNaughton PA (2013) Disrupt￾ing sensitization of transient receptor potential vanilloid 
+subtype 1 inhibits inflammatory hyperalgesia. J Neurosci 
+17:7407
+219. Masuoka T, Yamashita Y, Nakano K et al (2020) Chronic 
+tear deficiency sensitizes transient receptor poten￾tial vanilloid 1-mediated responses in corneal sensory 
+nerves. Front Cell Neurosci. https://doi.org/10.3389/
+fncel.2020.598678
+220. Huo S, Li H, Boersma AJ et  al (2019) DNA nano￾technology enters cell membranes. Adv Sci 
+10:1900043–1900043
+221. Lin J, Jo SB, Kim T-H et  al (2020) RNA interference 
+in glial cells for nerve injury treatment. J Tissue Eng 
+11:2041731420939224–2041731420939224
+222. (2021) Let’s talk about lipid nanoparticles. Nat Rev 
+Mater 2:99–99
+223. Gupta S, Allen-Vercoe E, Petrof EO (2016) Fecal micro￾biota transplantation: in perspective. Ther Adv Gastroen￾terol 2:229–239
+224. Willis KA, Postnikoff CK, Freeman AB et al (2020) The 
+closed eye harbors a unique microbiome in dry eye dis￾ease. medRxiv 182:90
+225. Gomes JÁP, Frizon L, Demeda VF (2020) Ocular sur￾face microbiome in health and disease. Asia-Pac J Oph￾thalmol 6:505–511
+226. Li JJ, Yi S, Wei L (2020) Ocular microbiota and intraoc￾ular inflammation. Front Immunol. https://doi.org/10.
+3389/fimmu.2020.609765
+Publisher’s Note Springer Nature remains neutral with regard 
+to jurisdictional claims in published maps and institutional 
+affiliations.

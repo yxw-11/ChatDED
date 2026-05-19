@@ -1,0 +1,562 @@
+Ophthalmic Technology Assessment
+Thermal Pulsation in the Management of
+Meibomian Gland Dysfunction and Dry Eye
+A Report by the American Academy of Ophthalmology
+Jeremiah P. Tao, MD,1 Joanne F. Shen, MD,2 Vinay K. Aakalu, MD, MPH,3 Jill A. Foster, MD, FACS,4
+Suzanne K. Freitag, MD,5 Timothy J. McCulley, MD,6 M. Reza Vagefi, MD,7 Stephen J. Kim, MD,8
+Edward J. Wladis, MD9
+Purpose: To review the literature to determine the efficacy and safety of thermal pulsation technologies in
+improving signs or symptoms of meibomian gland dysfunction (MGD) and dry eye compared with no therapy or
+with conventional warm compress therapy or eyelid hygiene.
+Methods: A literature search was conducted in the PubMed database in June 2022 and again in March 2023
+to identify all studies in the English language on the use of thermal pulsation to treat MGD or dry eye. The search
+yielded 59 citations, and 11 articles met all of the inclusion criteria. The panel methodologist then assigned a level
+of evidence rating for each study; 8 studies were rated level I evidence and 3 studies were rated level II evidence.
+Results: All included studies evaluated a single 12-minute session using the LipiFlow automated thermal pul￾sation system (TearScience, Inc, or Johnson & Johnson). Improvements were detected in subjective and objective
+metrics of MGD or dry eye in patients within 1 to 12 months of thermal pulsation treatment compared with
+nontreatment. Most of the studies (9/11) reported greater efficacy with thermal pulsation than with standard warm
+compress therapy and eyelid hygiene. Four of these studies showed relevant industry conflicts of interest. Two of the
+4 level I studies without direct industry participation concluded that thermal pulsation treatment was not significantly
+different from conventional hygiene or warm compress therapy control treatments (in symptoms in one of the studies
+and in objective findings in the second study). No serious adverse events were reported in any of the 11 studies.
+Conclusions: According to the current literature, a single thermal pulsation session may improve subjective
+or objective parameters of MGD and dry eye safely. However, industry support and participation were present in 4
+of the 8 level I studies. The durability beyond several months and cost efficacy remain uncertain. Because the
+inclusion parameters of this assessment captured only the LipiFlow system, the conclusions are limited to that
+product. High-quality independent studies are needed to assess the long-term benefits of this intervention.
+Financial Disclosure(s): The author(s) have no proprietary or commercial interest in any materials discussed
+in this article. Ophthalmology 2023;130:1336-1341 ª 2023 by the American Academy of Ophthalmology
+The American Academy of Ophthalmology prepares
+Ophthalmic Technology Assessments to evaluate new and
+existing procedures, drugs, and diagnostic and screening
+tests. The goal of an Ophthalmic Technology Assessment is
+to review the available research for clinical efficacy and
+safety. After review by members of the Ophthalmic Tech￾nology Assessment Committee, other Academy committees,
+relevant subspecialty societies, and legal counsel, assess￾ments are submitted to the Academy’s Board of Trustees for
+consideration as official Academy statements. The purpose
+of this assessment by the Ophthalmic Technology Assess￾ment Committee Oculoplastics and Orbit Panel is to review
+the published literature on the efficacy and safety of thermal
+pulsation in the treatment of meibomian gland dysfunction
+(MGD) and dry eye.
+Background
+Meibomian gland dysfunction is a chronic, diffuse ab￾normality of the meibomian glands, commonly attributed
+to terminal duct obstruction, qualitative or quantitative
+changes in the glandular secretion, or a combination
+thereof. This abnormality is thought to result in symptoms
+of eye irritation, clinically apparent inflammation, alter￾ation of the tear film, and ocular surface disease. It is
+currently considered the most prevalent cause of dry
+eye.1,2 Dry eye affects millions worldwide and is
+associated with considerable health care costs and
+productivity losses.3,4
+Current therapeutic options for MGD such as regular
+hygiene or applying heat have limited efficacy and can be
+1336 ª 2023 by the American Academy of Ophthalmology
+Published by Elsevier Inc.
+https://doi.org/10.1016/j.ophtha.2023.07.009
+ISSN 0161-6420/23
+burdensome or even painful.5,6 Thermal pulsation using an
+automated or partially automated thermodynamic treatment
+device (e.g., LipiFlow system [TearScience, Inc, or Johnson
+& Johnson], TearCare [Sight Sciences, Inc], MiBoFlo
+Thermoflo [Mibo Medical], and Systane iLux thermal
+pulsation system [Alcon]) was described first by Korb and
+Blackie7 and is an increasingly popular treatment for MGD.
+In brief, these in-office systems apply heat and pressure to
+the eyelids for several minutes while the patient is under
+topical anesthesia. A single unilateral thermal pulsation ses￾sion may cost patients approximately $300 to $1000 (United
+States dollars) out of pocket, and repeat treatment is common
+because MGD is a chronic, lifelong disease.8
+Question for Assessment
+This assessment addressed the following question: What is
+the efficacy and safety of thermal pulsation in improving
+signs or symptoms or both of MGD and dry eye compared
+with no therapy or conventional (nonthermal pulsation)
+therapy such as warm compress or eyelid hygiene?
+Description of Evidence
+A literature search was conducted in the PubMed database in
+June 2022 and again in March 2023 using the following terms:
+Lipiflow, MiBoFlo, Thermoflo, iLux, thermal pulsation[tw],
+vectored thermal pulsation[tw], meibomian gland disease
+[tw], eyelid thermal pulsation system[tw], therma[tiab], and
+pulsation[tiab]. The articles were reviewed to select those that
+met the following inclusion criteria: (1) the study represented
+prospective research in the English language; (2) the study
+included at least 15 participants undergoing thermal pulsation
+controlled against no therapy or conventional (nonthermal
+pulsation) therapy such as warm compress, eyelid hygiene, or
+both; (3) standardized measures of dry eye or ocular surface
+disease were used; and (4) the study included a minimum of 1
+month of follow-up. The search yielded 59 citations, of which
+11 articles met all of the inclusion criteria. The panel’s
+methodologist (V.K.A.) assessed and rated the quality of the
+methodologies in each study according to the American
+Academy of Ophthalmology’s guidelines that are adapted
+from the 2011 Oxford Centre for Evidence-Based Medicine.9
+A level I rating is assigned to well-designed and well￾conducted randomized controlled trials and systematic re￾views. A level II rating is assigned to well-designed cohort
+studies and nonrandomized controlled cohort or follow-up
+trials. A level III rating is assigned to case series or to
+lower-quality case-controlled or cohort studies.
+Published Results
+Eight articles were rated level I evidence and 3 articles were
+rated level II evidence. A summary of the 11 included
+studies is provided in Table 1.
+Level I Study Outcomes
+In a prospective, open-label, randomized, crossover, multi￾center clinical trial that involved 139 participants, Lane et al10
+compared the results for thermal pulsation (69 participants)
+with those for warm compresses (70 participants; control
+group) for adults with MGD. A single thermal pulsation
+session resulted in significant improvement in meibomian
+gland secretion (assessed using a proprietary handheld
+instrument), and tear film breakup time (TBUT) compared
+with the control group at 2 and 4 weeks (P < 0.05). Dry
+eye symptoms assessed using both the Standard Patient
+Evaluation of Eye Dryness (SPEED) and Ocular Surface
+Disease Index (OSDI) improved with thermal pulsation,
+but not in control participants. The authors concluded that
+thermal pulsation resulted in a significantly greater
+reduction in MGD and dry eye signs and symptoms than
+warm compresses. No serious adverse event was reported.
+This study was funded by TearScience. In addition, 2
+authors are employees of TearScience, and another author
+is a paid consultant of the company.
+Finis et al11 compared the efficacy of a single thermal
+pulsation (17 participants) with combined eyelid warming
+and massage (14 participants; control group) in patients
+with MGD in a prospective, randomized, crossover,
+observer-masked clinical trial. They reported that a single
+thermal pulsation is at least as effective as 3 months of twice
+daily eyelid-margin hygiene and warming in terms of OSDI
+scores (P < 0.01). Objective measures, including the change
+in the number of expressible meibomian glands, lipid layer
+thickness (LLT), and TBUT, were similar with those of the
+control group. No serious adverse event was reported. The
+thermal pulsation system was provided by the company
+TearScience, but the authors reported no other relevant con-
+flicts of interest.
+In a randomized, controlled trial, Blackie et al12 evaluated
+the 1-year effects of thermal pulsation in improving MGD and
+dry eye symptoms. They reported that a single thermal pul￾sation (99 participants) delivered a sustained mean improve￾ment in meibomian gland function and mean improvement on
+OSDI over 12 months compared with warm compress therapy
+and eyelid hygiene (98 participants; control group; P <
+0.001). No serious adverse event was reported. This study was
+funded by TearScience. In addition, 2 authors are employees
+of TearScience (C.A.B. and C.A.C.), and the senior author
+(E.J.H.) serves on its medical advisory board.
+In another randomized, controlled trial, Blackie et al13
+evaluated a single thermal pulsation treatment (29
+participants) compared no treatment (25 participants;
+control group) in contact lens wearers. The thermal
+pulsation treatment group showed significantly greater
+mean change from baseline in meibomian gland secretion
+(P < 0.0001) and SPEED (P < 0.0001) at 3 months; that
+group also showed significantly greater improvement in
+TBUT and eyelid wiper epitheliopathy as well as greater
+frequency of over-the-counter drop use compared with the
+control group. At 1 month, mean comfortable contact lens￾wearing time increased by 4.0  3.9 hours, and this was
+sustained for 3 months with no change in the control group.
+No serious adverse event was reported. This study was funded
+by TearScience, and 2 authors are employees of the company.
+Kasetsuwan et al,14 in a prospective, randomized trial,
+evaluated the efficacy of thermal pulsation (26
+participants) compared with standard eyelid hygiene alone
+Tao et al  Ophthalmic Technology Assessment
+1337
+Ophthalmology Volume 130, Number 12, December 2023
+1338 Table 1. Summary of Included Studies
+Authors,
+Year
+Level of
+Evidence Patient Population
+No. of Included
+Patients/Eyelids in
+Treatment Group
+No. of Thermal Pulsation
+Treatments (Specific
+System)
+Longest
+Follow-up
+(Months)
+Control/Comparison, If
+Any (Patients/Eyelids) Outcome/Findings
+Lane et al
+(2012)10
+I American patients with
+MGD
+69/69 1 (LipiFlow) 1 Warm compress (70/70) Significant improvement in MG secretion and TBUT,
+SPEED, and OSDI with thermal pulsation over
+control (P < 0.05).
+Finis et al
+(2014)11
+I German patients with
+MGD
+17/17 1 (LipiFlow) 3 Eyelid warming and
+massage (14/14)
+Thermal pulsation is as least as effective as a 3-month,
+twice-daily lid margin hygiene regimen for MGD in
+improving OSDI (P < 0.01). No significant difference
+was noted between the 2 groups in objective metrics
+such as number of expressible MG, LLT, or TBUT.
+Blackie et al
+(2016)12
+I American patients with
+MGD and dry eyes
+99/99 1 (LipiFlow) 12 Warm compress and lid
+hygiene not reported (98/
+98)
+Significantly greater mean improvement in MG
+function and OSDI of thermal pulsation compared
+with control (P < 0.001).
+Zhao et al
+(2016)18
+II Asian patients with MGD
+and dry eyes
+25/25 1 (LipiFlow) 3 Pretreatment as well as
+compared with warm
+compress (25/25)
+Thermal pulsation improved irritation, TBUT, Schirmer
+test results, and gland secretion compared with
+baseline (P <0.01), but similar to 3 months of twice￾daily warm compresses (P ¼ 0.88).
+Zhao et al
+(2016)19
+II Chinese patients with
+MGD
+29/29 1 (LipiFlow) 3 Pretreatment as well as
+untreated contralateral
+side (29/29)
+Significant reduction in SPEED and OSDI accompanied
+by an increase of invasive TBUT and MGYLS and a
+reduction in corneal staining with thermal pulsation
+compared with the baseline parameters or
+contralateral untreated side (P < 0.05).
+Blackie et al
+(2018)13
+I American and Canadian
+contact lens wearers
+with MGD and dry eyes
+29/29 1 (LipiFlow) 3 No treatment 25/25 Thermal pulsation significantly greater mean change
+from baseline in MG score (P < 0.0001) and SPEED
+(P < 0.001) and significantly greater improvement in
+TBUT (P ¼ 0.005), lid wiper epitheliopathy (P ¼
+0.04), and frequency of artificial tear use (P ¼ 0.02).
+Kasetsuwan
+et al
+(2020)14
+I Thai patients with MGD
+and glaucoma
+26/26 1 (LipiFlow) 6 Eyelid warming, massage,
+and hygiene alone
+(22/22)
+Thermal pulsation similarly improved MG assessment
+score, OSDI, Schirmer test results, TBUT, LLT, and
+meibography as standard lid hygiene (P > 0.05).
+Li et al
+(2020)20
+II Chinese patients with
+MGD and dry eyes
+25/25 obstructive
+MGD
+1 (LipiFlow) 3 Hyposecretory MGD
+(25/25)
+SPEED, OSDI, and partial blink rate decreased.
+Meanwhile, TBUT, tear meniscus height, Schirmer,
+LLT increased compared with baseline in both groups
+after thermal pulsation treatment. Effect more
+profound in obstructive MGD patients (P <0.0001).
+Park et al
+(2021)16
+I Korean cataract patients
+with or without MGD
+60/60 1 (LipiFlow) 3 No intervention (48/48) Thermal pulsation significantly improved MG patency
+and meibum quality, increased TBUT time, reduced
+corneal staining, and improved OSDI and Dry Eye
+Questionnaire (P < 0.05).
+Zhao et al
+(2021)15 I Elderly Chinese cataract surgery patients with
+MGD
+16/16 1 (LipiFlow) 3 Patients with MGD not
+undergoing cataract
+surgery (16/16)
+Subjective symptoms were not alleviated. A single
+thermal pulsation before cataract surgery was effective
+in improving MGYLS compared with control (P <
+0.001) and preventing the decline of TBUT after
+cataract surgery.
+Mencucci
+et al
+(2022)17
+I Italian cataract surgery
+patients with MGD
+23/23 1 (LipiFlow) 2 Warm compress and
+eyelid massage (23/23)
+Thermal pulsation improved TBUT, SPEED, MGYLS,
+MG secretion score, meibum quality, and confocal
+microscopy of MG (P < 0.05).
+LLT ¼ lipid layer thickness; MG ¼ meibomian gland; MGD ¼ meibomian gland dysfunction; MGYLS ¼ meibomian glands yielding liquid secretion; OSDI ¼ Ocular Surface Disease Index;
+SPEED ¼ Standard Patient Evaluation of Eye Dryness; TBUT ¼ tear film breakup time.
+(22 participants; control group) in patients with MGD using
+long-term antiglaucoma medications. At 6 months, thermal
+pulsation treatment combined with standard eyelid hygiene
+was not significantly different from eyelid hygiene alone in
+the meibomian gland expression score, OSDI score,
+Schirmer test score, TBUT, corneal staining score, LLT, or
+meibography score (P > 0.05). Of note, both groups
+exhibited significant improvement from baseline in meibo￾mian gland expression score, OSDI score, LLT, and mei￾bography score. No serious adverse event was reported, and
+no relevant conflict of interest was disclosed.
+In a prospective trial, Zhao et al15 investigated the efficacy
+of preoperative thermal pulsation in 32 elderly Chinese
+patients with cataract and MGD. The authors report that
+subjective symptoms did not improve; however, a single
+application of thermal pulsation before cataract surgery
+objectively alleviated blockage of meibomian glands and
+prevented the decline of TBUT after cataract surgery.
+Meibomian glands yielding liquid secretion improved with
+thermal pulsation compared with contralateral untreated eye
+controls (P < 0.001). No serious adverse event was
+reported. No relevant conflict of interest was disclosed.
+Park et al,16 in a randomized clinical trial, investigated
+the effects of a single thermal pulsation (48 participants)
+versus no treatment (60 participants; control group) before
+cataract surgery on MGD and dry eye induced by surgery.
+They concluded that in this population of patients
+undergoing cataract surgery with or without MGD
+preoperative thermal pulsation improved meibomian gland
+patency and meibum quality, increased TBUT, reduced
+corneal staining, and improved subjective outcomes
+reported on both the OSDI and Dry Eye Questionnaire (P
+< 0.05). No serious adverse event was reported, and no
+relevant conflict of interest was disclosed.
+In a randomized clinical trial, Mencucci et al17
+investigated the effects of a single thermal pulsation (23
+participants) versus warm compresses and eyelid massage
+(23 participants; control group) before cataract surgery on
+MGD and dry eye induced by surgery. They concluded
+that in this population of patients with MGD undergoing
+cataract surgery, preoperative thermal pulsation improved
+dry eye disease in terms of TBUT, SPEED score,
+meibomian glands yielding liquid secretion, meibomian
+gland yielding secretion score, meibum quality, and the
+confocal microscopy of the meibomian glands (P < 0.05).
+No relevant conflict of interest was disclosed.
+Level II Study Outcomes
+In a nonrandomized trial, Zhao et al18 evaluated the efficacy
+and safety of thermal pulsation in 29 Asian patients with
+different grades of meibomian gland loss. A single session
+of thermal pulsation improved irritation, TBUT, Schirmer
+without anesthetics, and gland secretion variables
+compared with pretreatment (P < 0.01). This effect was
+similar to 3 months of twice-daily warm compresses
+(P ¼ 0.88). No serious adverse event was reported. No
+relevant conflict of interest was disclosed.
+In a prospective trial, Zhao et al19 investigated the safety
+and efficacy of a single thermal pulsation in 25 elderly
+Chinese patients with MGD. They report a significant
+reduction in dry eye symptoms (SPEED and OSDI
+questionnaires) accompanied by an increase of invasive
+TBUT and meibomian glands yielding liquid secretion and
+a reduction in corneal staining compared with the baseline
+parameters as well as with the contralateral, untreated eye
+(control group; P < 0.05). No serious adverse event was
+reported. No relevant conflict of interest was disclosed,
+although TearScience supplied the applicators used in this
+study.
+In a nonrandomized clinical trial, Li et al20 compared
+hyposecretory MGD with obstructive MGD with respect
+to patient response to a single thermal pulsation (25
+participants in each group). They evaluated SPEED,
+OSDI, Schirmer without anesthetics test, noninvasive
+keratographic breakup time, tear meniscus height, LLT,
+partial blink rate, meibomian gland loss, and meibomian
+gland morphologic features with LipiView (TearScience,
+Inc). The authors also evaluated meibomian gland
+expressibility and secretion quality in these patients. The
+authors reported that SPEED, OSDI, and partial blink rate
+decreased, whereas noninvasive keratographic breakup
+time, tear meniscus height, Schirmer I, and LLT increased
+compared with baseline in both groups after thermal
+pulsation (P < 0.001), but the effect was more profound
+in hyposecretory MGD (P < 0.001). No serious adverse
+event was reported. No relevant conflict of interest was
+disclosed.
+Conclusions
+This review of the English-language literature reveals that
+a single application of thermal pulsation was safe and
+usually demonstrated a benefit at least comparable with
+standard daily warm compress therapy and eyelid hygiene
+in patients with MGD and dry eye. Patients from pre￾dominately White or Asian populations experienced both
+subjective benefits (as measured by validated question￾naires) and objective improvement in the health of the
+eyelids and ocular surface compared with nontreatment
+for several months after a single thermal pulsation ses￾sion. Four of the included studies were sponsored and
+directly supported by relevant industry and raise concern
+over potential conflict. The 3 level I studies without direct
+industry participation concluded that thermal pulsation
+treatment was not significantly different from eyelid hy￾giene control treatment. Thermal pulsation seems to be
+safe and may add to the therapeutic armamentarium for
+MGD and dry eye, and it may fill a void if regimented
+eyelid hygiene and warm compress therapy are not
+possible or not desirable.
+Future Research
+The durability of thermal pulsation beyond several
+months and cost efficacy remain uncertain. Independent,
+unbiased studies of different thermal pulsation treatment
+frequencies and controlled studies of other thermal
+pulsation platforms in diverse populations are warranted.
+Tao et al  Ophthalmic Technology Assessment
+1339
+This assessment captured only studies of LipiFlow in
+predominately White or Asian patients. Finally, attention
+to the presenting characteristics of those patients for
+whom this technology is ineffective may expand the
+understanding of the role of thermal pulsation in dry
+eye management.
+Footnotes and Disclosures
+Originally received: May 16, 2023.
+Accepted: July 12, 2023.
+Available online: August 27, 2023.Manuscript no. OPHTHA-D-23-00847.
+1 Gavin Herbert Eye Institute, University of California, Irvine School of
+Medicine, Irvine, California.
+2 Mayo Clinic Arizona, Scottsdale, Arizona.
+3 Department of Ophthalmology and Visual Sciences University of Mich￾igan, Ann Arbor, Michigan.
+4 Ophthalmic Surgeons and Consultants of Ohio, Columbus, Ohio.
+5 Massachusetts Eye and Ear, Harvard Medical School, Boston,
+Massachusetts.
+6 Department of Ophthalmology, John P. McGovern Medical School,
+University of Texas Health Science Center, Houston, Texas.
+7 Tufts University School of Medicine, Boston, Massachusetts.
+8 Department of Ophthalmology, Vanderbilt University School of Medi￾cine, Nashville, Tennessee.
+9 Ophthalmic Plastic Surgery, Lions Eye Institute, Department of Ophthal￾mology, Albany Medical Center, Albany (Slingerlands), New York.
+Disclosure(s):
+All authors have completed and submitted the ICMJE disclosures form.
+The author(s) have made the following disclosure(s):
+V.K.A.: Financial support e National Eye Institute, Department of Defense,
+Veterans Affairs; Board of Trustees e University of Illinois; Equity owner
+e ViSo Therapeutics Inc., 8th Line III
+S.K.F.: Consultant e Horizon, Sling, Biridian, Immunovant, Medtronic,
+ASPEN/Third Rock, Poriferous, WL Gore; Royalties e Springer, Thieme;
+Data safety and monitoring committee e Idiopathic intracranial hyperten￾sion study
+E.J.W.: Consultant e Johnson & Johnson Vision
+Funded without commercial support by the American Academy of
+Ophthalmology.
+Prepared by the Ophthalmic Technology Assessment Committee Oculo￾plastics and Orbit Panel and approved by the American Academy of
+Ophthalmology’s Board of Trustees April 21, 2023.
+HUMAN SUBJECTS: No human subjects were included in this study. All
+of the cited research had appropriate humans subjects research approval
+from the respective institutions. The requirement for informed consent was
+waived because of the retrospective nature of the study. All research
+adhered to the tenets of the Declaration of Helsinki.
+No animal subjects were used in this study.
+Author Contributions:
+Conception and design: Tao, Shen, Wladis
+Analysis and interpretation: Tao, Shen, Wladis, Aakalu
+Data collection: Tao, Shen, Aakalu, Foster, Freitag, McCulley, Vagefi,
+Kim, Wladis
+Obtained funding: N/A; Study was performed as part of the authors’ regular
+employment duties. No additional funding was provided.
+Overall responsibility: Tao
+Abbreviations and Acronyms:
+LLT ¼ lipid layer thickness; MGD ¼ meibomian gland dysfunction;
+OSDI ¼ Ocular Surface Disease Index; SPEED ¼ Standard Patient
+Evaluation of Eye Dryness; TBUT ¼ tear film breakup time.
+Correspondence:
+Andre Ambrus, MLIS, American Academy of Ophthalmology, Quality and
+Data Science, P. O. Box 7424, San Francisco, CA 94120-7424. E-mail:
+aambrus@aao.org.
+Key words:
+MiBoFlo, Thermoflo, iLux, thermal pulsation, Lipiflow
+Correspondence:
+Andre Ambrus, MLIS, American Academy of Ophthalmology, Quality and
+Data Science, P. O. Box 7424, San Francisco, CA 94120-7424. E-mail:
+aambrus@aao.org.
+References
+1. Lemp MA, Crews LA, Bron AJ, et al. Distribution of
+aqueous-deficient and evaporative dry eye in a clinic-based
+patient cohort: a retrospective study. Cornea. 2012;31:
+472e478.
+2. Geerling G, Tauber J, Baudouin C, et al. The International
+Workshop on Meibomian Gland Dysfunction: report of the
+Subcommittee on Management and Treatment of Meibomian
+Gland Dysfunction. Invest Ophthalmol Vis Sci. 2011;52:
+2050e2064.
+3. Pflugfelder SC. Prevalence, burden, and pharmacoeconomics
+of dry eye disease. Am J Manag Care. 2008;14:S102eS106.
+4. Clegg JP, Guest JF, Lehman A, Smith AF. The annual cost
+of dry eye syndrome in France, Germany, Italy, Spain,
+Sweden and the United Kingdom among patients managed
+by ophthalmologists. Ophthalmic Epidemiol. 2006;13:
+263e274.
+5. Blackie CA, Korb DR. Meibomian for gland expression:
+forces of expression, types of secretion and the limitation of
+resulting pain. Invest Ophthalmol Vis Sci. 2010;51:3385.
+6. Freedman HL, Preston KL. Heat retention in varieties of warm
+compresses: a comparison between warm soaks, hard-boiled
+eggs and the re-heater. Ophthalmic Surg. 1989;20:846e848.
+7. Korb DR, Blackie CA. Restoration of meibomian gland
+functionality with novel thermodynamic treatment device-a
+case report. Cornea. 2010;29:930e933.
+8. Beining MW, Magno MS, Moschowits E, et al. In-office
+thermal systems for the treatment of dry eye disease. Surv
+Ophthalmol. 2022;67:1405e1418.
+9. Oxford Centre for Evidence-Based Medicine. Levels of evi￾dence (March 2011). Centre for Evidence-Based Medicine:
+University of Oxford; v. 2020. Available at: https://www.
+cebm.ox.ac.uk/resources/levels-of-evidence/ocebm-levels-of￾evidence; Accessed August 2, 2023.
+10. Lane SS, DuBiner HB, Epstein RJ, et al. A new system, the
+LipiFlow , for the treatment of meibomian gland dysfunction.
+Cornea. 2012;31:396e404.
+11. Finis D, Hayajneh J, Konig C, et al. Evaluation of an auto￾mated thermodynamic treatment (LipiFlow ) system for
+Ophthalmology Volume 130, Number 12, December 2023
+1340
+meibomian gland dysfunction: a prospective, randomized,
+observer-masked trial. Ocul Surf. 2014;12:146e154.
+12. Blackie CA, Coleman CA, Holland EJ. The sustained effect
+(12 months) of a single-dose vectored thermal pulsation pro￾cedure for meibomian gland dysfunction and evaporative dry
+eye. Clin Ophthalmol. 2016;10:1385e1396.
+13. Blackie CA, Coleman CA, Nichols KK, et al. A single
+vectored thermal pulsation treatment for meibomian gland
+dysfunction increases mean comfortable contact lens wearing
+time by approximately 4 hours per day. Clin Ophthalmol.
+2018;12:169e183.
+14. Kasetsuwan N, Suwajanakorn D, Tantipat C, Reinprayoon U.
+The efficacy between conventional lid hygiene and additional
+thermal pulsatile system in meibomian gland dysfunction pa￾tients treated with long-term anti-glaucoma medications in a
+randomized controlled trial. Clin Ophthalmol. 2020;14:
+2891e2902.
+15. Zhao Y, Li J, Xue K, et al. Preoperative management of MGD
+with vectored thermal pulsation before cataract surgery: a
+prospective, controlled clinical trial. Semin Ophthalmol.
+2021;36:2e8.
+16. Park J, Yoo YS, Shin K, et al. Effects of lipiflow treatment
+prior to cataract surgery: a prospective, randomized, controlled
+study. Am J Ophthalmol. 2021;230:264e275.
+17. Mencucci R, Mercuri S, Cennamo M, et al. Efficacy of
+vector thermal pulsation treatment in reducing post-cataract
+surgery dry eye disease in patients affected by meibomian
+gland dysfunction. J Cataract Refract Surg. 2023;49(4):
+423e429.
+18. Zhao Y, Veerappan A, Yeo S, et al. Clinical trial of thermal
+pulsation (LipiFlow ) in meibomian gland dysfunction with
+preteatment meibography. Eye Contact Lens. 2016;42:
+339e346.
+19. Zhao Y, Xie J, Li J, et al. Evaluation of monocular treatment
+for meibomian gland dysfunction with an automated thermo￾dynamic system in elderly Chinese patients: a contralateral eye
+study. J Ophthalmol. 2016;2016:9640643. https://doi.org/10.
+1155/2016/9640643. Epub 2016 Dec 27.
+20. Li B, Fu H, Liu T, Xu M. Comparison of the therapeutic effect
+of meibomian thermal pulsation LipiFlow on obstructive and
+hyposecretory meibomian gland dysfunction patients. Int
+Ophthalmol. 2020;40:3469e3479.
+Pictures & Perspectives
+Successfully Treated Giant Conjunctival Papilloma
+An 18-year-old man presented with enlarging masses in his right eye for months. Anterior segment examination revealed multiple
+pedunculated lesions extending the lower palpebral conjunctiva without corneal involvement (A). The fellow eye was uninvolved. We
+performed excisional biopsy combined with cryotherapy and injected interferon a-2a (IFN-a 2a) in subconjunctival space during the
+operation. The histopathological examination revealed papillary, well-differentiated, acanthotic nonkeratinized squamous epithelial cells
+with fibrovascular cores, which was compatible with conjunctival papilloma (B). After excision (C), we kept topical IFN-a 2a 4 times daily
+for 2 months. Three years later, no recurrence developed (D). (Magnified version of Figure A-D is available online at www.aaojournal.org).
+CHIUNG JU HSU, MD1
+CHEN CHANG, MD2
+YI HSUN HUANG, MD, PHD1
+1
+Department of Ophthalmology; 2
+Department of Pathology, National Cheng Kung University Hospital, College of Medicine, National Cheng Kung
+University, Tainan, Taiwan
+Tao et al  Ophthalmic Technology Assessment
+1341

@@ -1,0 +1,564 @@
+TFOS DEWS II Definition and Classification Report
+Jennifer P. Craig, MCOptom, PhD a, 1, *
+, Kelly K. Nichols, OD, PhD b, 1
+, Esen K. Akpek, MD c
+,
+Barbara Caffery, OD, PhD d
+, Harminder S. Dua, MD, PhD e
+, Choun-Ki Joo, MD, PhD f
+,
+Zuguo Liu, MD, PhD g
+, J. Daniel Nelson, MD h, i
+, Jason J. Nichols, OD, PhD b
+,
+Kazuo Tsubota, MD, PhD j
+, Fiona Stapleton, MCOptom, PhD k
+a Department of Ophthalmology, New Zealand National Eye Centre, The University of Auckland, Auckland, New Zealand
+b School of Optometry, University of Alabama, Birmingham, AL, USA
+c Johns Hopkins University, School of Medicine, Baltimore, MA, USA
+d Toronto Eye Care, Toronto, ON, Canada
+e Academic Ophthalmology and Visual Sciences, Division of Clinical Neuroscience, Faculty of Medicine and Health Sciences, University of Nottingham,
+Nottingham, UK
+f Department of Ophthalmology, College of Medicine, Catholic University of Korea, Seoul, South Korea
+g Department of Ophthalmology, Eye Institute of Xiamen University, Xiamen, China
+h Specialty Care for HealthPartners Medical Group and Clinics, St Paul, MN, USA
+i University of Minnesota, Minneapolis, USA
+j Department of Ophthalmology, School of Medicine, Keio University, Tokyo Dental College and Ichikawa Hospital, Tokyo, Japan
+k School of Optometry and Vision Science, University of New South Wales, Sydney, Australia
+article info
+Article history:
+Received 5 May 2017
+Accepted 6 May 2017
+Keywords:
+Aqueous deficient
+Classification
+Definition
+Dry eye disease
+Evaporative
+Mechanism
+abstract
+The goals of the TFOS DEWS II Definition and Classification Subcommittee were to create an evidence￾based definition and a contemporary classification system for dry eye disease (DED). The new defini￾tion recognizes the multifactorial nature of dry eye as a disease where loss of homeostasis of the tear film
+is the central pathophysiological concept. Ocular symptoms, as a broader term that encompasses reports
+of discomfort or visual disturbance, feature in the definition and the key etiologies of tear film instability,
+hyperosmolarity, and ocular surface inflammation and damage were determined to be important for
+inclusion in the definition. In the light of new data, neurosensory abnormalities were also included in the
+definition for the first time. In the classification of DED, recent evidence supports a scheme based on the
+pathophysiology where aqueous deficient and evaporative dry eye exist as a continuum, such that ele￾ments of each are considered in diagnosis and management. Central to the scheme is a positive diagnosis
+of DED with signs and symptoms, and this is directed towards management to restore homeostasis. The
+scheme also allows consideration of various related manifestations, such as non-obvious disease
+involving ocular surface signs without related symptoms, including neurotrophic conditions where
+dysfunctional sensation exists, and cases where symptoms exist without demonstrable ocular surface
+signs, including neuropathic pain. This approach is not intended to override clinical assessment and
+judgment but should prove helpful in guiding clinical management and research.
+© 2017 Elsevier Inc. All rights reserved.
+1. Introduction
+The last three decades have seen the awareness of dry eye dis￾ease (DED) rise considerably around the world. Through the mutual
+efforts of many organizations, much has been learned about the
+basis and impact of this disease in the continued attempt to
+improve clinical care for affected individuals. The Definition and
+Classification Subcommittee arrived at a revised, evidence-based
+definition of dry eye and a classification scheme consistent with
+the collective current understanding of DED. Previous definitions
+and classification schemes for dry eye formed the starting point,
+and revisions were made to address perceived shortcomings, in the
+context of the latest knowledge derived from the current literature,
+and in a consensus-based manner that took into consideration the
+* Corresponding author.
+E-mail address: jp.craig@auckland.ac.nz (J.P. Craig). 1 Subcommittee Co-Chair
+Contents lists available at ScienceDirect
+The Ocular Surface
+journal homepage: www.theocularsurface.com
+http://dx.doi.org/10.1016/j.jtos.2017.05.008
+1542-0124/© 2017 Elsevier Inc. All rights reserved.
+The Ocular Surface 15 (2017) 276e283
+responses and views of the TFOS DEWS II membership. Recognizing
+the value of a global consensus for dry eye, the Definition and
+Classification committee, with contributions from the wider TFOS
+DEWS II membership that represents 23 countries, strived to create
+a universally comprehensible and translatable definition.
+While advances in current clinical, translational, and basic sci￾ence literature have clarified factors that characterize and
+contribute to dry eye, many unanswered questions remain. This
+report describes an updated global definition of dry eye and a
+classification scheme designed to facilitate the clinical manage￾ment of dry eye on the basis of presenting features. It continues to
+recognize the main etiological subtypes of dry eye as aqueous
+deficient and evaporative, but acknowledges the frequent co￾existence and overlap of the subtypes. The revised classification
+system directs the reader, in considering potential contributing
+etiologic elements, toward the TFOS DEWS II Pathophysiology
+report, where these elements are described in more detail [1].
+2. Goals of the definition and classification subcommittee
+The goals of the TFOS DEWS II Definition and Classification
+Subcommittee were to create an evidence-based definition and a
+contemporary classification system for DED.
+3. Historical overview of dry eye
+A review of the history behind our understanding of dry eye
+helps place this most recent revised definition of DED in context.
+Dry eye became formally defined as a disease state only a little over
+30 years ago. By the early to mid-1990s, understanding of dry eye
+had reached a critical point, with the field poised and eager for
+rapid development. The first definition of dry eye, published in
+1995 on the basis of consensus from the NEI/Industry working
+group on Clinical Trials in Dry Eye, was as follows [2].
+‘‘Dry eye is a disorder of the tear film due to tear deficiency or
+excessive tear evaporation which causes damage to the inter￾palpebral ocular surface and is associated with symptoms of ocular
+discomfort.”
+Importantly, this early definition identified the relevance of tear
+film quality as well as tear quantity as a cause of dry eye. For many,
+the 1995 definition and report provided a blueprint for clinical,
+translational, and basic research that would propel the field to the
+next level. Of note is that the definition used the term “disorder”
+and not “disease”.
+Along similar lines, in 2006, a Delphi consensus group proposed
+a new name for DED, reflecting the relevance of both tear quality
+and quantity, namely ‘dysfunctional tear syndrome’. A classification
+system was similarly created designed to guide treatment based on
+disease with or without clinically evident inflammation [3].
+In 2007, the first TFOS DEWS definition of dry eye was pub￾lished, following a three-year international consensus-based pro￾cess [4]. Scarcely 10 years after the publication of the initial NEI/
+Industry report, significant advances in dry eye had been made. The
+growing body of literature, and increased focus on diagnostics and
+therapeutic approaches, led to a revised definition that centered on
+the clinical effects and associated signs [4].
+‘‘Dry eye is a multifactorial disease of the tears and ocular surface
+that results in symptoms of discomfort, visual disturbance, and tear
+film instability with potential damage to the ocular surface. It is
+accompanied by increased osmolarity of the tear film and inflam￾mation of the ocular surface.’’
+The original TFOS DEWS workshop was the first to acknowledge
+that dry eye was indeed a disease entity, with a multifactorial eti￾ology. Again, symptoms were acknowledged to be paramount, but
+were noted to include not only discomfort symptoms but also
+symptoms of transient visual disturbance. While the sequelae of
+dry eye were described in terms of symptoms and tear film insta￾bility, and that increased tear film osmolarity and inflammation
+accompanied the disease, a statement regarding the mechanism or
+etiology of DED was not included. Specifically, increased osmolarity
+and inflammation were described as casual and not causal markers
+of the disease.
+4. Definition of dry eye disease
+4.1. Important considerations
+Following preliminary subcommittee discussions, a survey of
+the TFOS DEWS II membership, conducted in late 2015, asked
+specifically whether the original DEWS definition was acceptable
+and should remain as the DEWS II definition. Of those who
+responded, 77% voted for the definition to be changed. In forced
+choice questioning, support was indicated for a simplified defini￾tion, or truncated version of the original, DEWS definition, however
+almost 2/3 of the membership provided additional feedback, noting
+specific concerns.
+Specifically, it became clear that TFOS DEWS II members
+acknowledged the significant role of inflammation and hyper￾osmolarity within the DED pathway, but challenged inclusion of
+those precise terms in the definition, due to a perception that
+clinical demonstration of these pathophysiological features was
+required to validate a diagnosis of dry eye. To address this, and
+other concerns, a group of representatives from the Definition and
+Classification Subcommittee, the Harmonization and Steering
+Committee, met in December 2016 in St. Paul, MN (USA), following
+review of all submitted TFOS DEWS II reports, to finalize the defi-
+nition proposed by the Definition and Classification Subcommittee.
+A number of critical points were discussed, including acknowl￾edgement that a loss of tear film homeostasis can arise from a
+multitude of factors that encompass eyelid and blink abnormalities,
+in addition to ocular surface or tear component deficiencies [1,5].
+These changes can induce focal or global tear film instability and
+tear hyperosmolarity in response to excessive evaporation from the
+ocular surface, and are regarded as significant entry points that
+contribute to the pathogenesis and perpetuation of a cycle of
+events, or “Vicious Circle”, in DED [4,6,7]. As characterizing the
+precise interactions within this complex ocular surface and tear
+film environment is challenging, it was deemed valuable to include
+both the expected outcome of the disease (a clinically measurable
+disruption of tear film homeostasis) as well as highlight key etio￾logical elements in the definition. The etiological elements are
+important in maximizing specificity in defining dry eye, to differ￾entiate it from other ocular surface diseases. The breadth of po￾tential changes that might occur under the umbrella of homeostatic
+imbalance allows the clinician, researcher, industry representative,
+and/or regulatory body the autonomy to select the features most
+appropriate as outcome measures in accordance with the specific
+dry eye etiology under investigation. The focus on crafting a defi-
+nition and classification with sufficiently broad interpretation to
+allow for growth and flexibility in the field of dry eye research
+remained paramount throughout the definition development
+process.
+Emerging over the last decade has been mounting evidence of
+the potential role of neurosensory abnormalities in the under￾standing and management of DED. Neuropathic pain occurs due to
+J.P. Craig et al. / The Ocular Surface 15 (2017) 276e283 277
+overt damage within the somatosensory nervous system, dis￾tinguishing it from DED. Nociceptive pain occurs in response to
+local tissue damage. Corneal nociceptors, which transmit somato￾sensory “pain” information to the central nervous system, have the
+potential to be sensitized by repeated physiological stimulation or
+by noxious stimuli (e.g., hyperosmolarity or inflammation) [8].
+While a comprehensive understanding of the exact role that
+neurosensory abnormalities play within the pathophysiological
+pathways of DED is yet to be reached, their potential, while we
+await elucidation by further study, is deemed worthy of
+recognition.
+4.2. Additional definition considerations
+Clinically, dry eye is often described as ‘chronic’ and ‘progres￾sive’, although there is currently insufficient evidence to support
+inclusion of these terms in the definition. While omission of these
+terms from the definition is warranted at present, additional
+research, including dry eye natural history studies, should be per￾formed to inform future refinements to the definition terminology.
+4.3. TFOS DEWS II revised definition
+Thus, in summary, the TFOS DEWS II membership, on the basis
+of current evidence, acknowledged that the definition needed to
+recognize the multifactorial nature of DED, and there was agree￾ment that the unifying element in DED is the loss of homeostasis of
+the tear film. Ocular symptoms, which include discomfort or visual
+disturbance, or both, remain a central feature of the disease.
+Conveying the key etiological roles of tear film instability, hyper￾osmolarity, ocular surface inflammation and damage was deemed
+valuable in recognition of the cyclical disease process, with its
+various entry points, as described in the Pathophysiology and Tear
+Film reports [1,5]. Acknowledging the role that neurosensory ab￾normalities play in the etiology of the disease was also considered
+worthy of inclusion within the definition, in light of the expanding
+literature in this area [8].
+This process led to the refined TFOS DEWS II global dry eye
+definition, as follows:
+“Dry eye is a multifactorial disease of the ocular surface charac￾terized by a loss of homeostasis of the tear film, and accompanied
+by ocular symptoms, in which tear film instability and hyper￾osmolarity, ocular surface inflammation and damage, and neuro￾sensory abnormalities play etiological roles.”
+5. Description of terms
+The terminology used in the definition, including diction, word
+order, emphasis, and accepted meaning were deemed critical in
+creating an internationally accepted definition suitable for trans￾lation to multiple languages. The individual terms are described in
+turn.
+5.1. Multifactorial
+The 2007 DEWS report recognized dry eye as a complex,
+multifactorial disease that cannot be characterized by a single
+process, sign or symptom. In medical terms, multifactorial is
+described as having, or stemming from, a number of different
+interacting causes or influences, as is the case in DED.
+5.2. Disease
+Since 2007, the definition has recognized dry eye as a disease.
+Although definitions of ‘disease’ vary, it is generally understood to
+be a disorder of structure or function or a condition of illness that
+results in specific signs or symptoms. From a patient care
+perspective, as well as providing global appreciation of dry eye as
+an entity with pathologic and quality of life implications, it was
+considered important to retain the term “disease” in the definition
+[9].
+5.3. Ocular surface
+For the purposes of this definition, in alignment with previous
+TFOS reports [4,10,11], the ocular surface is defined as comprising
+the structures of the eye and adnexa, including the cornea, con￾junctiva, eyelids, eyelashes, tear film, main and accessory lacrimal
+glands, and the meibomian glands. Thus, the tears, both in terms of
+the individual components at the site of production, and as a film
+on the ocular surface, are included within the term “ocular surface.”
+5.4. Homeostasis of the tear film
+The tear film has a vital role in providing lubrication and pro￾tection to the ocular surface, as well as maintaining a smooth,
+refractive surface for optimal visual performance [5]. Physiologi￾cally, homeostasis describes the state of equilibrium in the body
+with respect to its various functions, and to the chemical compo￾sition of the fluids and tissues [12]. When applied to DED, the
+concept of disrupted tear film homeostasis acknowledges the
+possibility of the many different changes that can occur in the tear
+film and ocular surface [5], in response to one or more of the un￾derlying causes of dry eye [1]. Disruption of homeostasis is
+considered to be the unifying characteristic that describes the
+fundamental process in the development of DED.
+5.5. Symptoms
+The 1995 definition of dry eye identified discomfort as the
+principal symptomatic response associated with dry eye [2], and
+the 2007 definition expanded the concept of symptoms to include
+visual disturbance. While terminology varies with language and
+between different cultures, for example, the terms ‘gritty eyes’ or
+‘stinging eyes’ are not frequently reported or understood in Man￾darin [13], ocular symptoms remain a fundamental component of
+DED. The original TFOS DEWS report retained discomfort as a term
+within the definition, but expanded the concept of symptoms to
+include visual disturbance, in acknowledgement of the transient
+blurring reported by affected individuals that corresponded with
+disrupted tear surface quality [4]. TFOS DEWS II concedes that both
+discomfort and visual disturbance symptoms remain fundamental
+to DED, but to avoid restriction and maximizing relevance across
+the world, has chosen the phrase “…accompanied by ocular
+symptoms” for the current definition, to encompass a broader
+range of possible symptoms associated with DED.
+5.6. Etiological role
+The term “etiological role” emphasizes the concept of an
+involved pathway, without suggestion that specific features be
+considered as measurement outcomes or required diagnostic
+elements.
+J.P. Craig et al. / The Ocular Surface 15 (2017) 276e283 278
+6. Classification schemes for dry eye disease
+6.1. Historical background
+Dry eye classification schemes serve to guide diagnosis and ul￾timately improve patient care through appropriate treatment. The
+NEI/Industry Report (Fig. 1) [2] identified the two primary cate￾gories of dry eye as tear deficient and evaporative, and proposed, in
+sub-classification, a range of intrinsic and extrinsic etiological fac￾tors believed to contribute to dry eye development within these
+categories.
+The classification scheme presented by the TFOS DEWS report
+(Fig. 2) retained the two primary categories, aqueous deficient and
+evaporative, although ‘tear deficient’ was redefined more specif￾ically as ‘aqueous deficient’ [4]. Once again, possible disease etiol￾ogies were listed in a sub-classification tree.
+6.2. Challenges with previous classification schemes
+During the TFOS DEWS II process a number of issues with the
+interpretation of the original DEWS classification scheme were
+highlighted. The first related to the distinction between the pri￾mary categories of dry eye. Co-existence of deficiencies in both tear
+quantity and quality are not uncommon as a result of the cyclical,
+self-perpetuating nature of DED. Once an individual enters into the
+‘Vicious Circle’, irrespective of the entry point, the ensuing tear film
+instability, hyperosmolarity, and inflammation serve to drive
+further adverse change, often blurring the distinction between
+underlying aqueous deficient and evaporative etiologies [1].
+While potential overlap between the aqueous deficient and
+evaporative categories had been acknowledged in the original
+DEWS report [4], both in the text and in the schematic represen￾tation of the pathophysiological process, the classification scheme
+was perceived by many to convey a sense of mutual exclusivity by
+depicting the aqueous deficient and evaporative categories as
+distinct. While the last decade of scientific evidence indicates that
+the fundamental understanding has not shifted dramatically since
+DEWS, it became apparent that addressing the common miscon￾ception associated with the classification scheme, by ensuring the
+potential for overlap between these two categories was discussed,
+would be important in TFOS DEWS II.
+A second issue arose concerning the accuracy of placement of
+some conditions within the DEWS sub-classification zone. The
+purpose of including concurrent sub-class presentations had been
+to aid clinicians in deriving an appropriate management plan.
+However, recent evidence has suggested that a number of condi￾tions could arguably be listed under more than one heading. For
+example, Sjogren syndrome, which, in the 1995 and 2007 reports €
+[2,4] was classified exclusively as being due to aqueous deficiency,
+has become increasingly recognized to possess, concurrently, an
+evaporative component, due to associated meibomian gland
+dysfunction (MGD) [14] that impacts predominantly upon tear￾lipid function.
+Additional concern surrounded the level of specificity important
+in DED diagnosis to avoid misdiagnosis of other ocular surface
+diseases as DED. Such non-specificity in diagnosis increases the risk
+of perceived treatment failure, resulting not only in disillusioned
+patients and clinicians, but threatening the outcomes of clinical
+trials and regulatory approval of novel therapies, through insuffi-
+ciently precise inclusion criteria.
+6.3. Creating the revised classification scheme
+The current report attempts to remove any perception of ex￾clusivity in the classification of dry eye by indicating in the scheme
+that aqueous deficient and evaporative dry eye diagnoses exist on a
+Fig. 1. The 1995 Classification of dry eye [2]. Reproduced with permission from Eye & Contact Lens, previously CLAO J.
+J.P. Craig et al. / The Ocular Surface 15 (2017) 276e283 279
+continuum rather than as separate entities. In diagnosis [15], and in
+management [16], elements of each should be considered.
+This dry eye classification scheme incorporates triaging ele￾ments to provide clarity in diagnosing DED (via the Diagnostic
+Methodology report) [15], from which the various etiologies can be
+considered (see Pathophysiology report) [1] and an appropriate
+management plan can be instituted (see Management and Therapy
+report) [16]. Appropriate management of differentially diagnosed
+ocular surface conditions that masquerade as DED increases the
+chances of successful treatment and allows any co-existing
+component of the condition attributable to DED to be revealed
+and suitably managed.
+Sub-classification is recommended to be undertaken with
+reference to the TFOS DEWS II Pathophysiology report [1], which
+describes the wide range of possible DED subcategories and alludes
+to their predominant etiology within the aqueous deficient and
+evaporative continuum. Importantly, based on the evidence sum￾marized in the various TFOS DEWS II reports, the classification
+scheme also considers the cases where patients exhibit dry eye
+symptoms without evidence of obvious signs, or present with
+marked signs but are absent of dry eye symptoms [8,17].
+Fig. 3 incorporates a clinical decision algorithm, based on the
+current knowledge of the pathophysiology of DED, which seeks to
+promote accuracy in the classification of potential DED presenting
+to the eye care practitioner.
+7. Terminology in the classification of dry eye disease
+As with the definition of DED, a detailed description of the
+terminology is provided to clarify the decision-making behind the
+development of the classification scheme. In the following section,
+specific elements in the 2017 dry eye classification (Fig. 3) are
+introduced and described.
+7.1. Dry eye disease
+Over twenty years of research and countless patient encounters
+have promoted evolution of the understanding of DED. In align￾ment with the definition, the DED classification recognizes the
+necessity of symptomatic involvement and the presence of asso￾ciated ocular surface signs in making a diagnosis of DED. For the
+classification scheme presented here, DED is differentiated from
+other ocular surface diseases, as well as in instances where there
+are symptoms and no signs, or signs and no symptoms.
+7.2. Other ocular surface disease differential diagnoses
+Ocular surface disease is the broad category that is considered to
+include a multitude of ocular surface conditions, some of which
+closely mimic or masquerade as DED, and many that can occur
+concurrently with DED [15]. Because of this complexity and over￾lap, dry eye is frequently treated as a diagnosis of exclusion. The
+TFOS DEWS II Diagnostic Methodology report presents “triaging
+questions” [15], which can be used, in combination with clinical
+findings, to differentially diagnose other ocular surface conditions
+that may require specific management, and result in relief of signs
+and symptoms that might otherwise be attributed to DED.
+It is important to note that many ocular surface diseases can be
+co-morbid with dry eye, thus a step-wise approach to management,
+with subsequent follow-up to monitor signs and symptoms is
+warranted. For example, symptoms and tear film changes
+commensurate with DED might well occur in a condition such as
+lagophthalmos, due to poor lid to globe apposition, preventing
+formation of a stable inter-blink tear film. However, resolution with
+dry eye therapies alone is unlikely to succeed, as the surfacing
+problem cannot be resolved without managing the lagophthalmos.
+The converse of this scenario is that restoration of lid-globe appo￾sition through surgical management of the lagophthalmos has the
+potential to fully resolve the dry eye symptoms and signs without
+the need for dedicated dry eye therapies [16,19]. Further research is
+needed regarding co-morbid ocular surface conditions that induce
+a “secondary” dry eye.
+7.3. Symptoms without signs: neuropathic pain
+The Pain and Sensation Subcommittee report describes a clinical
+scenario of neuropathic pain due to either a lesion or disease in the
+somatosensory system, in which ocular pain symptoms dis￾proportionally outweigh the clinical signs [8]. This is an important
+distinction in the diagnosis, and the required pain management
+falls outside the scope of DED therapy [8].
+Fig. 2. Dry eye classification from the 2007 DEWS Report [4]. Reproduced with permission from The Ocular Surface.
+J.P. Craig et al. / The Ocular Surface 15 (2017) 276e283 280
+7.4. Symptoms without signs: pre-clinical dry eye state
+It is further recognized that symptoms consistent with DED, but
+in the absence of clinical signs, especially when the symptoms are
+intermittent, might indicate a pre-clinical dry eye state, or a sce￾nario of emerging episodic dry eye. Ongoing evaluation for the
+development of signs and the control of symptoms through edu￾cation and prevention are suggested. Studies evaluating the natural
+history of short and long-term preventative efforts in this patient
+group are needed [9]. Determination of whether such individuals
+are at higher risk of developing iatrogenic DED, in comparison to
+those who are non-symptomatic, is also deserving of further
+investigation [17].
+7.5. Signs without symptoms: reduced corneal sensitivity
+Patients exhibiting signs of ocular surface disease, but reporting
+no symptoms of discomfort, require consideration of whether dry
+eye management is indicated. Corneal nerve damage secondary to
+longstanding DED is a recognized phenomenon and the reduced
+corneal sensitivity can mask discomfort. The dysfunctional sensa￾tion is a function of the underlying disease process. Other forms of
+corneal disease exist, where corneal sensation is reduced, and these
+should also be managed accordingly [17].
+7.6. Signs without symptoms: predisposition to dry eye
+Ocular surface changes in the absence of presenting symptoms
+Fig. 3. Classification of dry eye disease (DED). The upper portion of the figure represents a clinical decision algorithm, beginning with the assessment of symptoms, and followed by
+review for signs of ocular surface disease. DED exhibits both symptoms and signs, and can be differentiated from other ocular surface disease with the use of triaging questions and
+ancillary testing [15]. It is to this DED group that diagnostic subtyping [15], and conventional dry eye management strategies [16], apply. Symptomatic patients without
+demonstrable clinical signs do not fall into the DED group, but are differentiated into pre-clinical dry eye or neuropathic pain (non-ocular surface disease). Conversely, asymp￾tomatic patients exhib-iting signs are differentiated into patients with poor corneal sensitivity, or those with prodromal signs, who are at risk of developing manifest DED with time
+or provocation, for example following ophthalmic surgery [17]. The lower portion of Fig. 3 represents the etiological classification of DED, and highlights the two predominant and
+non-mutually exclusive categories; aqueous deficient dry eye (ADDE) and evaporative dry eye (EDE) [4]. Epidemiological and clinical evidence suggest that the preponder-ance of
+DED is evaporative in nature [1,9,18], which is reflected in a greater proportion of Fig. 3 devoted to EDE than ADDE. While it is possible that ADDE can occur without obvious signs of
+EDE and vice versa, as DED progresses, it is increasingly likely that characteristics of both ADDE and EDE will become evident [14]. Further subclas-sification of ADDE and EDE is not
+detailed in Fig. 3, but is acknowledged to relate to a vast range of conditions, as detailed in the Pathophysiology report [1]. ADDE describes conditions affecting lacrimal gland
+function. EDE is recognized to include both lid-related (e.g. MGD and blink-related) and ocular surface-related (e.g. mucin and contact lens-related) causes. Pathophysiological
+details, for the etiological breakdown beyond differentiation into EDE and ADDE, are further detailed in the TFOS DEWS II Patho-physiology report [1] and Tear Film report [5] and
+diagnosis and management algorithms are described in the respective TFOS DEWS II reports [15,16].
+J.P. Craig et al. / The Ocular Surface 15 (2017) 276e283 281
+may be noted during a preoperative examination for cataract or
+refractive surgery, for example, and signify early disease that might
+place the patient at risk of developing symptomatic DED following
+the surgical event [17]. Preventative management should be
+considered, as described in more detail in the Iatrogenic report [17].
+Recently, asymptomatic MGD has been reported with a prevalence
+of double that of symptomatic MGD in a Caucasian population [20].
+While there are limited data on the natural history of DED, symp￾toms do become more common with age [9] and individuals with
+MGD are more likely to report an increase in severity of their
+symptoms with time [21], all of which may support an argument
+for intervention.
+8. Classification of dry eye disease based on predominant
+etiology
+The classification scheme in Fig. 3 (lower half) depicts a scheme
+based on the predominant, but often overlapping, etiologies of
+aqueous deficient and evaporative dry eye. EDE is devoted a larger
+area on the diagram than ADDE in recognition of the current un￾derstanding that an evaporative component to DED is more com￾mon than an aqueous deficient component [14,18]. Indeed, MGD, a
+contributor to EDE, is considered the leading cause of dry eye in
+clinic and population based studies [18,22,23]. The density of
+shading at the extremes of the box indicates that in some cases
+ADDE can occur without observable EDE and vice-versa. However,
+it is acknowledged that as the disease progresses, it is more likely
+that both components will become apparent clinically. Aqueous
+deficiency describes conditions affecting the lacrimal gland, while
+evaporative dry eye is understood to occur with conditions
+affecting the eyelid (e.g. MGD and blink-abnormalities) or the
+ocular surface (e.g. related to mucin deficiency or contact lens
+wear). Further etiological breakdown is described in detail in the
+Pathophysiology report [1]. In the management approach to restore
+tear film and ocular surface homeostasis, the predominant category
+(etiology) helps drive the primary therapeutic approach [4],
+although it remains important that all aspects are considered when
+determining the most likely combination of causative elements
+unique to the individual patient with DED, in order to best target
+the most appropriate management strategy.
+9. Future directions
+The definition and classification of DED has evolved consider￾ably over the past 20 years, informed primarily by a better under￾standing of the pathophysiology of the disease. The understanding
+of DED could be further enhanced through continued research,
+including prospective analysis of the natural history study of dry
+eye, including treated and untreated DED for each of the disease
+main subtypes, and those where either symptoms or signs are
+absent, plus a more detailed understanding of the relationship
+between DED and other overlapping or masquerading conditions.
+The field has evolved considerably over this span of time, and the
+next ten years promise to be as notable for the next generation of
+dry eye clinicians and scientists.
+Financial disclosures
+J. P. Craig, Vice Chair: Oculeve, Allergan, Manuka Health NZ, E￾Swin, CooperVision, Alcon, Optima Pharmaceuticals, OPSM NZ,
+Akorn, Medmont (F); Carl Zeiss Meditec, Eye Institute Auckland (C).
+K. K. Nichols: Allergan, Bruder Healthcare Company (spouse)
+Eleven Biotherapeutics, Johnson and Johnson Vision Care (spouse),
+Kala, Oculus, Sarcode/Shire, TearScience (F); Alcon, Allergan,
+Bausch & Lomb/Valeant, Eleven Biotherapeutics, Kala, Insite
+Pharma, Parion, Sarcode/Shire, ScienceBased Health, Santen, Tear-
+film Innovations (C); Shire (Spouse) (R).
+J. Nichols: Johnson and Johnson Vision Care (F); Bruder
+Healthcare Company (F); Alcon (spouse), Allergan (spouse), Eleven
+Biotherapeutics (spouse), Kala, Oculus (spouse), Sarcode/Shire
+(spouse), TearScience (spouse), (F); Alcon (Spouse), Allergan
+(Spouse), Bausch & Lomb/Valeant (spouse), Eleven Biotherapeutics
+(spouse), Kala (Spouse), Insite Pharma (spouse), Parion (spouse),
+Sarcode/Shire (spouse), ScienceBased Health (spouse), Santen
+(spouse), Tearfilm Innovations (spouse), (C); Shire (R).
+B. Caffery: Allergan (F); Allergan, Labtician (C); Allergan (R).
+H. Dua: Novartis (F); GlaxoSmithKline (I); Nicox, Thea, Allergan 
+(C); NuVision (P); Alcon, Allergan, Bausch & Lomb, Nicox, Thea; 
+NuVision (S).
+E. Akpek: Allergan (F); Biogen, Seattle Genetics, GSK, Nicox (C).
+K. Tsubota: Dai Nippon Insatsu, Echo Denki, JIN Co, Ltd., Kowa
+Co. Ltd., MediProduct, Inc., Molecular Physiology Chemistry Labo￾ratory, Inc., Novartis Pharma K.K., Oryza Oil & Fat Chemical Co., Ltd.,
+Santen Pharmaceutical Co., Ltd., Toshiba Materials Co., Ltd.,
+WAKASA SEIKATSU Corp. (F); QOV, Inc., Tear Solutions, Tissue Tech
+Inc., Tsubota Laboratory, Inc. (I); Laboratoires Thea, Novaliq GmbH, 
+SIFI, SpA (C); Functional Visual Acuity Meter, Moisture Glasses,
+Menisometry Strips, Vitamin D Ointment (P); AMO Japan K.K.;
+NIDEK Co. Ltd., Otsuka Pharmaceutical Co Ltd; Santen Pharma￾ceutical Co., Ltd. (R); Ocular Surface Research & Education Foun￾dation (Board of Directors); Qualitas Inc., (Advisory Board);
+TearSolutions (Advisory Board); Yolia Health (Advisory Board);
+Metro Biotech (Advisory Board); Nobel Institute of Medical Science;
+(Spouse's company) (S).
+C-K. Joo: N.
+Z. Liu: Reilin Co. (C); Santen, Reilin, Alcon (R).
+J. D. Nelson, Chair: TearSolutions (I, C, R), Santen (F, C), Editor in
+Chief, Ocular Surface (F).
+F. Stapleton: Alcon Laboratories, Allergan, CooperVision, John￾son & Johnson Vision Care, Stiltec (F); Nidek (C).
+F (Financial Support), I (Personal Financial Interest), E
+(Employment), C (Consultant), P (Patent), R (Recipient), N (No
+Commercial Relationship), S (non-remunerative).
+Acknowledgements
+The authors gratefully acknowledge the additional contribu￾tions of Anthony J. Bron, Gary N. Foulks, Lyndon Jones, James S.
+Wolffsohn and Mark D.P. Willcox in refining the definition, and to
+Nino Longo (Catania, Italy) and Sabrina Zappia (Rome, Italy) for
+illustrative assistance with Fig. 3.
+References
+[1] Bron AJ, dePaiva CS, Chauhan SK, Bonini S, Gabison EE, Jain S, et al. TFOS DEWS
+II Pathophysiology report. Ocul Surf 2017;15:438e510.
+[2] Lemp MA. Report of the national eye institute/industry workshop on clinical
+trials in dry eyes. CLAO J 1995;21(4):221e32.
+[3] Behrens A, Doyle JJ, Stern L, Chuck RS, McDonnell PJ, Azar DT, et al.
+Dysfunctional tear syndrome: a Delphi approach to treatment recommenda￾tions. Cornea 2006;25(8):900e7.
+[4] The definition and classification of dry eye disease: report of the Definition
+and Classification Subcommittee of the International Dry Eye WorkShop. Ocul
+Surf 2007;2007(5):75e92.
+[5] Willcox MDP, Argüeso P, Georgiev G, Holopainen J, Laurie G, Millar T, et al.
+TFOS DEWS II Tear Film report. Ocul Surf 2017;15:366e403.
+[6] Baudouin C. A new approach for better comprehension of diseases of the
+ocular surface. J Fr Ophtalmol 2007;30:239e46.
+[7] Baudouin C, Messmer EM, Aragona P, Geerling G, Akova YA, Benítez-del￾Castillo J, et al. Revisiting the vicious circle of dry eye disease: a focus on the
+pathophysiology of meibomian gland dysfunction. Br J Ophthalmol
+2016;100(3):300e6.
+[8] Belmonte C, Nichols JJ, Cox SM, Brock JA, Begley CG, Bereiter DA, et al. TFOS
+DEWS II pain and sensation report. Ocul Surf 2017;15:404e37.
+[9] Stapleton F, Alves M, Bunya VY, Jalbert I, Lekhanont K, Malet F, et al. TFOS
+J.P. Craig et al. / The Ocular Surface 15 (2017) 276e283 282
+DEWS II Epidemiology report. Ocul Surf 2017;15:334e65.
+[10] Nichols JJ, Willcox MD, Bron AJ, Belmonte C, Ciolino JB, Craig JP, et al. The TFOS
+international workshop on contact lens discomfort: executive summary.
+Invest Ophthalmol Vis Sci 2013;54:TFOS7e13.
+[11] Nelson JD, Shimazaki J, Benitez-del-Castillo JM, Craig JP, McCulley JP, Den S,
+et al. The international workshop on meibomian gland dysfunction: report of
+the definition and classification subcommittee. Invest Ophthalmol Vis Sci
+2011;52(4):1930e7.
+[12] Merriam-Webster Dictionary 2016. https://www.merriam-webster.com.
+[13] Chao C, Golebiowski B, Cui Y, Stapleton F. Development of a Chinese version of
+the ocular comfort index. Invest Ophthalmol Vis Sci 2014;55(6):3562e71.
+[14] Shimazaki J, Goto E, Ono M, Shimmura S, Tsubota K. Meibomian gland
+dysfunction in patients with Sjogren syndrome. Ophthalmology 1998;105(8): €
+1485e8.
+[15] Wolffsohn JS, Arita R, Chalmers R, Djalilian A, Dogru M, Dumbleton K, et al.
+TFOS DEWS II Diagnostic Methodology report. Ocul Surf 2017;15:539e74.
+[16] Jones L, Downie LE, Korb D, Benitez-del-Castillo JM, Dana R, Deng SX, et al.
+TFOS DEWS II Management and Therapy report. Ocul Surf 2017;15:575e628.
+[17] Gomes JAP, Azar DT, Baudouin C, Efron N, Hirayama M, Horwath-Winter J,
+et al. TFOS DEWS II Iatrogenic report. Ocul Surf 2017;15:511e38.
+[18] Lemp MA, Crews LA, Bron AJ, Foulks GN, Sullivan BD. Distribution of aqueous￾deficient and evaporative dry eye in a clinic-based patient cohort: a retro￾spective study. Cornea 2012;31(5):472e8.
+[19] Latkany RL, Lock B, Speaker M. Nocturnal lagophthalmos: an overview and
+classification. Ocul Surf 2006;4(1):44e53.
+[20] Viso E, Rodríguez-Ares MT, Abelenda D, Oubina B, Gude F. Prevalence of ~
+asymptomatic and symptomatic meibomian gland dysfunction in the general
+population of Spain. Invest Ophthalmol Vis Sci 2012;53(6):2601e6.
+[21] Lienert JP, Tarko L, Uchino M, Christen WG, Schaumberg DA. Long-term nat￾ural history of dry eye disease from the Patient's perspective. Ophthalmology
+2016;123(2):425e33.
+[22] Viso E, Gude F, Rodríguez-Ares MT. The association of meibomian gland
+dysfunction and other common ocular diseases with dry eye: a population￾based study in Spain. Cornea 2011;30(1):1e6.
+[23] Tong L, Chaurasia SS, Mehta JS, Beuerman RW. Screening for meibomian gland
+disease: its relation to dry eye subtypes and symptoms in a tertiary referral
+clinic in Singapore. Invest Ophthalmol Vis Sci 2010;51:3449e54.
+J.P. Craig et al. / The Ocular Surface 15 (2017) 276e283 283

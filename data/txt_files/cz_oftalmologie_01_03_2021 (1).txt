@@ -1,0 +1,738 @@
+CZECH AND SLOVAK OPHTHALMOLOGY 3/2021 107
+PŘEHLEDOVÁ PRÁCE
+SYNDROM SUCHÉHO OKA. PŘEHLED
+SOUHRN
+Tato práce podává ucelený pohled do problematiky suchého oka. Zdůrazňuje ustanovení společnosti Tear Film and Ocular Surface Society, po￾jednává o nové klasifikaci a definici suchého oka na základě jeho patofyziologie a klade důraz na správné diagnostické a terapeutické přístupy, 
+které zobrazuje ve formě algoritmů. 
+Suché oko je multifaktoriální onemocnění očního povrchu charakterizované ztrátou homeostázy slzného filmu a doprovázené očními symptomy, 
+při kterých hrají etiologickou roli nestabilita a hyperosmolarita slzného filmu, zánět a poškození očního povrchu a neurosenzorické abnormality.
+Syndrom suchého oka je dynamickým a komplexním onemocněním očního povrchu a očních adnex se známými rizikovými faktory. Jedná se 
+o onemocnění s cyklickým charakterem, u kterého je nejdůležitějším krokem nalezení vyvolávajícího spouštěče, obnovení homeostázy a přeru-
+šení bludného kruhu. Klíčovými prvky v diagnostice jsou zvýšená osmolarita slzného filmu a zánět očního povrchu, které jsou doprovázené oční-
+mi symptomy (dyskomfort, poruchy zraku). Zánět není vždy asociován s překrvením a lze ho potvrdit několika technikami a metodami. V běžné 
+klinické praxi však zatím stále chybí „zlatý standard“ a dostatek testů k diagnostice zánětu očního povrchu. Léčba syndromu suchého oka musí 
+být individualizována, dynamická a optimalizovaná pro jednotlivá stádia nemoci. 
+Klíčová slova: dry eye disease, TFOS, DEWS, DEWS II, bludný kruh, ADDE, EDE, MGD
+SUMMARY
+DRY EYE DISEASE. A REVIEW
+This article provides a  comprehensive view of the issue of dry eye. It emphasizes provisions of the Tear Film and Ocular Surface Society, 
+discusses the new classification and definition of dry eye based on its pathophysiology, and emphasizes the correct diagnostic and therapeutic 
+approaches, which appears in the form of algorithms.
+Dry eye is a multifactorial disease of the ocular surface characterized by a loss of homeostasis of the tear film, and accompanied by ocular 
+symptoms, in which tear film instability and hyperosmolarity, ocular surface inflammation and damage, and neurosensory abnormalities play 
+etiological roles.
+Dry eye disease is a dynamic and complex disease of the ocular surface and ocular adnexa with known risk factors. It is a disease with a cyclical 
+character, in which the most important step is to find the etiological trigger, to restore homeostasis and break the vicious circle. The key 
+elements in the diagnosis are increased osmolarity of the tear film and inflammation of the ocular surface, which are accompanied by ocular 
+symptoms (discomfort, visual disturbance). Inflammation is not always associated with hyperemia and can be confirmed by several techniques 
+and methods. However, in current clinical practice, there is still no "gold standard" and sufficient tests to diagnose inflammation of the ocular 
+surface. The treatment of dry eye disease must be individualized, dynamic and optimized for each stage of the disease.
+Key words: dry eye disease, TFOS, DEWS, DEWS II, vicious circle, ADDE, EDE, MGD
+Čes. a slov. Oftal., 77, 2021, No. 3, p. 107–119
+Zemanová M.
+Oční klinika Fakultní nemocnice a Lékařské fakulty Masarykovy 
+Univerzity, Brno
+Autorka práce prohlašuje, že vznik i téma odborného sdělení 
+a jeho zveřejnění není ve střetu zájmu a není podpořeno žádnou 
+farmaceutickou firmou. Dále autorka prohlašuje, že práce nebyla 
+zadána jinému časopisu ani jinde otištěna.
+Do redakce doručeno dne: 6. 5. 2020
+Přijato k publikaci dne: 20. 6. 2020
+Publikováno on-line: 30. 11. 2020
+MUDr. Markéta Zemanová, Ph.D.
+Oční klinika FN a LF MU Brno 
+Jihlavská 20
+625 00 Brno
+E-mail: zem.marketa@centrum.cz
+ÚVOD
+Tento přehledový článek se komplexně zabývá defini￾cí, klasifikací, epidemiologií, patofyziologií, správnou dia￾gnostikou, managementem a terapií syndromu suchého 
+oka. Inspirací pro publikování této práce byla účast na ev￾ropském meetingu a workshopu Ocular Surface Masterc￾lass v únoru 2020 v Barceloně ve Španělsku, kde se sešli 
+přední odborníci na problematiku suchého oka, kteří tam 
+prezentovali pokroky a inovace.
+Abychom lépe porozuměli suchému oku, členové spo￾lečnosti Tear Film and Ocular Surface Society (TFOS), 
+neziskové organizace, uspořádali v  březnu 2015 druhý 
+workshop o suchém oku Dry Eye Workshop II (DEWS II), 
+kterého se účastnilo na 150 klinických a  vědeckých od￾borníků z  celého světa zastupující 23 zemí. Cílem TFOS 
+DEWS II bylo vytvořit globální konsensus na základě 
+současných postupů založených na důkazech (evidence-
+-based medicine) a  předefinovat syndrom suchého oka 
+s přihlédnutím k jeho multifaktoriální povaze. Cílem bylo 
+vypracovat doporučení pro diagnostiku, management 
+a terapii, a navrhnout doporučení pro klinická hodnoce￾ní nových farmaceutických intervencí pro léčbu suchého 
+oka. Členové TFOS DEWS II aktualizovali všeobecně sro￾zumitelnou definici suchého oka a revidovali klasifikační 
+schéma k  usnadnění léčby suchého oka na základě pa-
+CZECH AND SLOVAK OPHTHALMOLOGY 3/2021 108
+tofyziologie a kliniky. V červenci 2017 zprávu publikovali 
+v časopise Ocular Surface. Na DEWS II bylo dohodnuto, 
+že sjednocujícím prvkem v onemocnění suchého oka je 
+ztráta homeostázy slzného filmu, a že hlavním rysem DED 
+jsou oční příznaky, mezi které patří dyskomfort a/nebo 
+poruchy zraku. Ke klíčovým etiologickým faktorům vzni￾ku DED patří zvýšená hyperosmolarita, zánět a poškození 
+očního povrchu. V etiopatogenezi hrají roli i neurosenzo￾rické abnormality. Zpráva TFOS DEWS II je pokračováním 
+původní publikace TFOS DEWS z roku 2007. Moderní kla￾sifikace a  diagnostika suchého oka vyhodnocuje epide￾miologii, etiologii a patofyziologii onemocnění [1,2]. 
+Syndrom suchého oka (dry eye disease – DED) je chro￾nické onemocnění představující celosvětový problém. 
+Postihuje stovky milionů lidí po celém světě a je jednou 
+z  nejčastějších příčin návštěv pacientů očních lékařů. 
+Toto symptomatické onemocnění se vyznačuje bludným 
+kruhem nestability slzného filmu a  jeho hyperosmolari￾tou, což vede k zánětu očního povrchu, k jeho poškození 
+a k neurosenzorickým abnormalitám. Mírný až těžký syn￾drom suchého oka je spojen s bolestí, omezením běžných 
+denních aktivit, sníženou vitalitou a často depresemi [2].
+DEFINICE SYNDROMU SUCHÉHO OKA
+„Syndrom suchého oka je multifaktoriální onemocnění 
+očního povrchu charakterizované ztrátou homeostázy 
+slzného filmu a doprovázené očními symptomy, při kte￾rých hrají etiologickou roli nestabilita a hyperosmolarita 
+slzného filmu, zánět a poškození očního povrchu a neu￾rosenzorické abnormality“ [2]. 
+Vývoj definice: Suché oko se formálně stalo chorobou 
+před 30 lety. První formální definice suchého oka, publi￾kovaná v roce 1995 na základě konsensu pracovní skupiny 
+Národního očního institutu National Eye Institute (NEI) na 
+Industry working group on Clinical Trials in Dry Eye, byla 
+následující: „Suché oko je porucha slzného filmu způsobe￾ná nedostatkem slz nebo jejich nadměrným odpařováním, 
+která způsobuje poškození očního povrchu v oblasti inter￾palpebrální štěrbiny a je spojena se symptomy očního dy￾skomfortu“. Definice identifikovala význam kvality slzného 
+filmu i množství slz jako příčiny suchého oka a používala 
+pojem „porucha“, nikoli „nemoc“. V roce 2006 navrhla sku￾pina Delphi nové jméno pro suché oko – tzv. „dysfunkč-
+ní slzný syndrom“ – odrážející význam kvality i  kvantity 
+slz. V  roce 2007 byla společností TFOS z  mezinárodního 
+workshopu Dry Eye (DEWS) zveřejněna, na základě tříleté-
+ho procesu založeného na mezinárodním konsensu, první 
+definice suchého oka všeobecně známá jako TFOS DEWS. 
+Workshop se skládal z 58 členů z 11 zemí a znamenal vý-
+znamný pokrok v oblasti suchého oka. Definice byla násle￾dující: „Suché oko je multifaktoriální onemocnění slz a oč-
+ního povrchu, které má za následek symptomy nepohodlí, 
+poruchy zraku a nestabilitu slzného filmu s potenciálním 
+poškozením očního povrchu. Je doprovázeno zvýšenou 
+osmolaritou slzného filmu a  zánětem očního povrchu“. 
+TFOS DEWS jako první uznal, že suché oko je skutečně 
+nemoc s  multifaktoriální etiologií. Příznaky dyskomfortu 
+a přechodné poruchy zraku byly uznány za prvořadé, na￾opak zvýšená osmolarita a  zánět byly popsány jako pří-
+ležitostné, nikoli kauzální, znaky onemocnění. Vývoj pak 
+pokračoval vydáváním zprávy TFOS DEWS II v roce 2017, 
+která uznala významnou roli zánětu a hyperosmolarity slz￾Obrázek 1. Klasifikace NEI / Indrustry workshop 1995 [3]
+CZECH AND SLOVAK OPHTHALMOLOGY 3/2021 109
+ného filmu, jež jsou klíčové prvky přispívající k patogenezi 
+a  udržování bludného kruhu („vicious circle“). V  definici 
+DEWS II je zahrnut jak očekávaný výsledek onemocnění 
+(klinicky měřitelné narušení homeostázy slzného filmu), 
+tak jsou zdůrazněny významné etiologické spouštěče, kte￾ré jsou nezbytné při specifikaci definice DED a k jeho odli-
+šení od ostatních chorob očního povrchu [2,3].
+KLASIFIKAČNÍ SCHÉMATA SYNDROMU 
+SUCHÉHO OKA
+Klasifikační schémata slouží k  vedení diagnózy 
+a  nastavení adekvátní léčby. Definice a  klasifikace 
+DED za posledních více než 20 let prodělaly zásadní 
+vývoj díky lepšímu pochopení patofyziologie. Původ￾ní zpráva NEI určila dvě primární kategorie suchého 
+oka: kategorie deficitu slz a kategorie slzy odpařující 
+(evaporační). V  rámci těchto kategorií navrhla řadu 
+vnitřních a  vnějších etiologických faktorů, o  kterých 
+předpokládala, že přispívají k  rozvoji DED (Obrázek 
+1). Klasifikační schéma ve zprávě TFOS DEWS (Obrá-
+zek 2) si ponechalo dvě primární kategorie (deficit 
+slz a  odpařování) a  v  sub-klasifikacích opět uvedlo 
+možné etiologie onemocnění. TFOS DEWS II upozor￾nilo na problémy s  interpretací původního schéma￾tu. Jednalo se především o rozlišení mezi primárními 
+kategoriemi DED a  specificitu v  jeho diagnóze. Dal-
+ším problémem bylo odlišení DED od ostatních cho￾rob očního povrchu. Jakmile totiž pacient vstoupí do 
+„bludného kruhu“, bez ohledu na primární spouštěč, 
+následná nestabilita slzného filmu, hyperosmolarita 
+a  zánět vede k  dalším nepříznivým změnám, které 
+často stírají rozdíl mezi základními kategoriemi. Pro 
+ilustraci např. Sjögrenův syndrom, který byl ve zprá-
+vách z  roku 1995 a  2007 klasifikován výhradně jako 
+způsobený deficitem vody, je stále více uznáván 
+v  součinnosti s  evaporací díky přidružené dysfunkci 
+meibomských žláz. Současná klasifikace TFOS DEWS 
+II znázorněná na obrázku 3 obsahuje algoritmus kli￾nického rozhodování založeného na současných 
+znalostech patofyziologie. Toto klasifikační schéma 
+popisuje celou škálu možných subkategorií a zmiňu￾je se o  jejich převládající etiologii (deficit slz a  eva￾porace). Účelem klasifikace je zlepšit diagnostickou 
+metodologii, léčbu i budoucí výzkum [2,3]. 
+TERMINOLOGIE SYNDROMU SUCHÉHO OKA
+Terminologie použitá v  definici byla důležitá při vytvá-
+ření mezinárodně přijaté definice vhodné pro překlad do 
+více jazyků. Zpráva DEWS z  roku 2007 uznala suché oko 
+jako multifaktoriální onemocnění, komplexní funkční 
+poruchu, kterou nelze charakterizovat jediným procesem, 
+znakem nebo symptomem. DEWS také přijala suché oko za 
+nemoc, značící poruchu struktury nebo funkce nebo stav, 
+který má za následek specifické příznaky nebo symptomy. 
+Obrázek 2. Klasifikace z roku 2007 DEWS Report [3]
+CZECH AND SLOVAK OPHTHALMOLOGY 3/2021 110
+Termín oční povrch zahrnuje struktury oka a adnexa, včet￾ně rohovky, spojivky, očních víček, řas, slzného filmu, hlavní 
+a přídatných slzných žláz a meibomských žlázek. Homeo￾stáza popisuje stav dynamické rovnováhy. Narušená home￾ostáza znamená různé změny v slzném filmu a na povrchu 
+oka v reakci na vyvolávající etiologii. Porucha homeostázy 
+slzného filmu je považována za sjednocující charakteristi￾ku a popisuje základní proces ve vývoji DED. Definice z roku 
+1995 označila dyskomfort za hlavní symptom DED, defini￾ce DEWS z roku 2007 pak rozšířila symptomy o poruchy zra￾ku. DEWS II v roce 2017 ponechává zásadní jak dyskomfort, 
+tak poruchy zraku. Pro stanovení diagnózy onemocnění 
+suchého oka je nutné symptomatické postižení a přítom￾nost souvisejících příznaků poškození očního povrchu. Re￾vidovaná definice současně odlišuje DED od ostatních one￾mocnění očního povrchu, které napodobují nebo maskují 
+syndrom suchého oka, nebo se mohou vyskytnout souběž-
+ně se suchým okem. DED je často považováno za diagnózu 
+per exclusionem. 
+Na obrázku 3 je rozhodovací algoritmus počínaje 
+hodnocením symptomů (symptomatičtí a  asymptoma￾tičtí pacienti) a  příznaků onemocnění očního povrchu. 
+Do skupiny symptomatických pacientů bez prokazatel￾ných klinických známek poškození očního povrchu patří 
+neuropatická bolest (způsobená buď lézí nebo poruchou 
+v  somatosenzorickém systému, kde subjektivní potíže 
+nepřiměřeně převažují nad klinickými příznaky) a prekli￾nické stadium suchého oka (symptomy shodné s DED při 
+absenci klinických příznaků). Skupina asymptomatických 
+pacientů vykazujících klinické známky poškození očního 
+povrchu je rozdělena na pacienty se sníženou citlivostí ro￾hovky (neurotrofické poškození nervů rohovky sekundár￾ně při dlouhém trvání DED) a pacienty s prodromálními 
+příznaky a  predispozicí k  suchému oku (změny oční-
+ho povrchu zaznamenané např. při předoperačním 
+vyšetření znamenající časné onemocnění, které by moh￾lo být rizikem manifestace DED v čase). Klasifikační sché-
+ma DEWS II založené na patofyziologii klade důraz na dvě 
+převládající, a  vzájemně se nevylučující, kategorie DED: 
+nedostatek vody (aqueous deficient dry eye – ADDE) 
+a evaporace (evaporative dry eye – EDE). Evaporace, kte￾ré je věnována větší část, je běžnější než nedostatek slz. 
+Dysfunkce meibomských žlázek (MGD) je považována za 
+hlavní příčinu suchého oka. ADDE popisuje stavy ovlivňu￾jící slznou žlázu, abnormality postavení víček a mrknutí, 
+stavy s nedostatkem mucinu, poškození očního povrchu 
+kontaktními čočkami či vliv systémových léků apod. [2,3].
+FAKTORY INCIDENCE A PREVALENCE 
+SYNDROMU SUCHÉHO OKA
+Významný vliv na regulaci povrchu oka a očních adnex 
+mají rozdíly mezi pohlavím a  hormony, které hrají roli 
+Obrázek 3. DEWS II Report z roku 2017 – revidované klasifikační schéma [2]
+CZECH AND SLOVAK OPHTHALMOLOGY 3/2021 111
+v  patogenezi a  prevalenci DED. Souvislost s  prevalen￾cí v rámci pohlaví není překvapením, roli hrají pohlavní 
+chromozomy, pohlavně specifické autozomální faktory 
+a epigenetika (např. mikroRNA, methylace a  acetylace 
+DNA, modifikace histonu). Pohlaví ovlivňuje nejen riziko 
+vzniku DED, ale i projevy nemoci, imunitní odpověď, vní-
+mání bolesti, chování, přístup k systému zdravotní péče 
+a spokojenost pacienta s léčbou. Pohlavní genotyp (XX, 
+XY) určuje genetickou a molekulární podstatu rozdílů ve 
+zdraví a nemoci. Pokud jsou genetické a fyziologické roz￾díly mezi muži a ženami kombinovány s faktory prostředí, 
+vedou k  behaviorálním a  kognitivním rozdílům. Ženské 
+pohlaví je jedním z nejvíce studovaných a pečlivě iden￾tifikovaných rizikových faktorů DED. Současně je proká-
+zaným rizikovým faktorem autoimunitních onemocnění 
+souvisejících s DED (např. Sjögrenův syndrom). Mezi ko￾morbidity a přidružené faktory s DED patří u žen deprese, 
+chronické pánevní bolesti, syndrom dráždivého tračníku 
+a syndrom chronické bolesti. U mužů jsou to léky na hy￾pertenzi, benigní hyperplazii prostaty a  antidepresiva. 
+Dalšími komorbiditami je systémový lupus erytematodes, 
+rosacea, úzkost, senná rýma a xerostomie. Rozdíly souvi￾sející s pohlavím existují v anatomii, fyziologii a patofy￾ziologii očních tkání a adnex. Například zvýšená difúzní 
+atrofie a  periduktální fibróza v  slzných žlázách starších 
+žen může přispět k prevalenci DED. Změny rohovky spe￾cifické pro pohlaví (změny v tloušťce, hydrataci, zakřivení 
+a citlivosti, endotelové pigmentaci, pocitu cizího tělesa, 
+toleranci kontaktní čočky a  zrakové ostrosti) se mohou 
+objevit u  žen během menstruačního cyklu, těhotenství 
+a menopauzy. Pohlavní rozdíly jsou i v přežití štěpu (ro￾hovky od mužských dárců mají vyšší míru přežití než od 
+žen, zatímco transplantáty u ženských příjemců vykazují 
+vyšší míru přežití než u mužů).
+Rohovka žen má výrazně vyšší expresi genu pro trans￾glutaminázu 1 (enzym katalyzující zesíťování proteinů) 
+a  jeho hladina je obvykle zvýšena u  DED a  keratinizace 
+rohovky. Pohlaví hraje roli i  v  prahu citlivosti rohovky 
+a spojivky. Senzitivita (citlivost) je vyšší u žen než u mužů. 
+Ženy mají kratší a  užší slzné kanálky než muži, u  žen je 
+navíc ostrý úhel mezi kostnatým kanálem a  nosním 
+dnem, a tyto faktory mohou přispívat k chronickému zá-
+nětu odvodných slzných cest a  vysvětlovat tak častější 
+primární obstrukce nasolakrimálního duktu. I v slzném fil￾mu existují pohlavní rozdíly. Muži mají silnější lipidovou 
+vrstvu a vyšší osmolaritu slz, u žen je naopak nižší doba 
+roztržení, zvýšení osmolarity slz během stárnutí a dřívější 
+pokles aktivity peroxidázy. Mezi specifické rozdíly v imu￾nitní odpovědi patří fakt, že muži mají větší procento zá-
+nětlivých cytokinů a  ženy mají méně přirozené zabíječ-
+ské buněčné aktivity. U  žen je převaha k  extracelulární 
+odpovědi pomocných T-lymfocytů 2 (T-helper 2, Th2 od￾pověď), zatímco muži mají větší buněčnou imunitní od￾pověď zprostředkovanou T-lymfocyty 1 (T-helper 1, Th1 
+odpověď). Ženy tedy produkují vyšší hladiny cirkulujících 
+protilátek než muži, včetně vyšších hladin autoprotilátek, 
+pokud jsou postiženy autoimunitními chorobami. Pozor￾nost budí i úloha epigenetické regulace mikroRNA (malé 
+dvou-řetězové nekódující RNA, které negativně regulují 
+expresi genu) v rozdílech imunity, kterých je u lidí asi 800, 
+přičemž asi 10 % se nachází na chromozomu X (X-váza￾né miRNA). Dalším faktorem přispívající k rozdílům mezi 
+pohlavím je mikrobion, především mikrobiální osídlení 
+střev, který má zásadní roli ve vývoji, zrání a  modulaci 
+imunitní odpovědi hostitele. Imunitu mohou ovlivnit 
+také nebiologické faktory (chemikálie a kovy) způsobující 
+pracovní rizika. Ženské pohlaví a vyšší věk jsou hlavními 
+faktory spojenými s chronickou bolestí (u DED bolest neu￾ropatická). Subjektivní potíže nemocných jsou popisová-
+ny rozmanitými výrazy jako suchost, pálení, řezání, svě-
+dění, pocti cizího tělesa, horkost, dyskomfort, bolestivé 
+podráždění, fotofobie, pocit vodnatých očí, tlak, bolest či 
+poruchy zraku. Tyto potíže často nekorelují se závažností 
+DED a je těžké spolehlivě vyhodnotit míru bolesti. Jako 
+nástroje pro hodnocení bolesti se používá vizuální ana￾logová stupnice (VAS). V  rámci DED jsou využívány do￾tazníky subjektivních potíží, nejčastěji tzv. Ocular Surfa￾ce Disease Index (OSDI), ve kterém získáme spíše součet 
+symptomů než intenzitu bolesti. Role genotypu v bolesti 
+je stále podceňována. Chronická bolest (i  v  rámci DED) 
+způsobuje depresi, přičemž deprese je častější u žen než 
+u mužů. U pacientů s DED je i výrazně vyšší výskyt poruch 
+spánku a nálady ve vztahu k věku, nikoli k pohlaví [2,4].
+Hormony. Endokrinní systém hraje velkou roli v pato￾genezi DED a rozdílech mezi pohlavím. Rozdíl související 
+s  pohlavím v  prevalenci DED je z  velké části připisován 
+účinkům pohlavních steroidů (androgeny, estrogeny, 
+progrestiny), hypotalamo-hypofyzárních hormonů, glu￾kokortikoidů, inzulínu, inzulínu podobnému růstovému 
+faktoru 1 (IF-1) a  hormonům štítné žlázy. Pohlavní ste￾roidy působí na celou řadu očních tkání a souvisí s léčbou 
+mnoha očních stavů včetně DED, dysfunkce meibom￾ských žláz (MGD), hojení ran, keratokonjunktivitidy, od￾mítnutí transplantátu rohovky a patologie rohovky. Cílo￾vým orgánem pro androgeny je slzná žláza a meibomské 
+žlázy. Deficit androgenů je významným rizikovým fakto￾rem v patogenezi dysfunkce slzných žláz a MGD, součas￾ně je spojen s vývojem obou kategorií DED (ADDE i EDE). 
+Androgenem indukované účinky mají molekulární biolo￾gický základ a mohou podporovat proliferaci epitelových 
+buněk. Nedostatek androgenů je rizikovým faktorem pro 
+vývoj zánětu slzných žláz a  DED u  žen se Sjögrenovým 
+syndromem, nikoli však jejich příčinou.
+Ženy se Sjögrenovým syndromem mají deficit andro￾genů a  zvýšené hladiny prozánětlivých cytokinů (IL-1, 
+TNF-α a  IL-6) v  exokrinních tkáních. Tyto cytokiny mo￾hou narušit normální aktivitu steroidogenních enzymů, 
+což má za následek snížení hladiny testosteronu, zvýšení 
+hladiny estrogenu a prohloubení zánětu. Androgeny po￾tlačují expresi prozánětlivých cytokinů a zesilují hladiny 
+protizánětlivého cytokinu IL-10. Protizánětlivý účinek je 
+místně specifický: androgeny snižují akumulaci lymfocy￾tů v slzných i slinných žlázách, ale nesnižují rozsah zánětu 
+v lymfatických tkáních. Lokální nebo systémové podává-
+ní androgenu významně snižuje příznaky DED. Snížení 
+sérových hladin androgenů, ke kterému dochází během 
+CZECH AND SLOVAK OPHTHALMOLOGY 3/2021 112
+menopauzy, těhotenství, laktace nebo užíváním orálních 
+kontraceptiv obsahujících estrogen, může vyvolat vývoj 
+neimunitního typu DED – tzv. primární deficience slzné 
+žlázy (primary lacrimal gland deficiency). Androgeny sti￾mulují imunitní systém slzné žlázy a transport sekrečních 
+imunoglobulinů (IgA) do slz, což pomáhá chránit integri￾tu povrchu oka před mikrobiální infekcí a toxicitou. An￾drogeny stimulují funkci meibomských žláz, podporují li￾pogenezi, prodlužují dobu rozpadu slzného filmu, snižují 
+evaporaci, potlačují keratinizaci a modulují vývoj a dife￾renciaci. Během stárnutí dochází k významnému poklesu 
+kvality mazu, změnám v lipidovém spektru sekretu a zvý-
+šení metaplazie ústí meibomské žlázy. Androgeny stimu￾lují proliferaci a  imunitní odpověď rohovky a  spojivky. 
+Nedostatek androgenů je spojen s  vývojem epiteliopa￾tie, naopak léčba androgeny stimuluje mitózu, opravuje 
+defekty a  usnadňuje hojení ran, potlačuje angiogenezi 
+a  dystrofie v  rohovce. Androgeny mění i  progresi aler￾gické konjunktivitidy. Estrogen má na imunitní sytém 
+účinky závislé na dávce a koncentraci. Obecně estrogen 
+zvyšuje imunitní odpověď podporující produkci B-buněk 
+a  protilátek, podskupin T-buněk, dendritických buněk, 
+makrofágů a  regulačních cytokinů. Účinek estrogenu 
+na slznou žlázu podporuje za určitých podmínek zá-
+nět a  autoimunitní onemocnění. Intracelulární syntéza 
+estrogenu závisí na cirkulujících hladinách prekurzorů 
+steroidních hormonů a na testosteronu. Testosteron má 
+důležitý vliv na působení estrogenu prostřednictvím aro￾matizace na estrogen v cílových tkáních, včetně očního 
+povrchu. Vyšší hladiny endogenního sérového estroge￾nu jsou spojeny se zvýšenou osmolaritou, sníženou se￾krecí slz a MGD. Účinky estrogenu na oční povrch je třeba 
+korelovat současně v  souvislosti s  účinky progesteronu 
+a  zejména androgenů. Za vyšší prevalenci DED u  žen 
+může být zodpovědné spíše snížení účinku androgenů 
+než zvýšené působení estrogenu samo o sobě. Proges￾teron je primárně tvořen z cholesterolu v nadledvinách 
+a ve vaječnících, jeho vliv na prevalenci DED není znám. 
+Glukokortikoidy jsou důležitými endogenními regulá-
+tory zánětlivé reakce. Syntetické deriváty těchto hormo￾nů jsou užívány jako protizánětlivé látky. Lokální gluko￾kortikoidy se používají jako krátkodobá terapie k  léčbě 
+středně závažných a  těžkých forem DED. Dlouhodobé 
+užívání těchto hormonů s sebou nese nežádoucí účinky 
+(infekce, glaukom, katarakta). V buňkách jsou produková-
+ny dva hlavní glukokortikoidy: kortizon a kortizol (aktivní 
+forma). Za fyziologických podmínek probíhá rohovko￾vým epitelem autokrinní syntéza kortizolu, která přispívá 
+k imunoprotekci očního povrchu. Kortizol jsou schopny 
+produkovat primární kultury lidských rohovkových epi￾teliálních buněk, fibroblastů a alogenních makrofágů. 
+Účinek glukokortikoidů na oční povrch a adnexální tká-
+ně závisí na koncentraci. Osa hypotalamus-hypofýza je 
+hlavním regulátorem endokrinního systému. 
+Hypothalamus zpracovává signály z centrálního nervo￾vého a periferního endokrinního systému a převádí tyto 
+vstupy do přední a  zadní hypofýzy. Hypofýza pak uvol-
+ňuje hormony, které mají regulační funkce a vliv na po￾vrch oka a adnexa. Hypofyzární hormony modulují růst, 
+diferenciaci, funkci slzných a  meibomských žláz a  hrají 
+roli při podpoře pohlavního dimorfismu tkání. Původem 
+prolaktinu v slzných žlázách není jen hypofýza, ale i epi￾teliální buňky acinů slzných žláz (slzná syntéza).Prolaktin 
+je vylučován slznou žlázou do slz a vzhledem k jeho pro￾zánětlivým účinkům je možná role v patogenezi Sjögre￾nova syndromu a podpoře vzniku autoimunity. Naopak 
+schopnost testosteronu snižovat regulaci genu prolak￾tinového receptoru v  slzných žlázách může být jedním 
+z mechanismů, kterým androgeny potlačují zánět v této 
+tkáni při Sjögrenově syndromu. Ženy se seborrhoickou 
+MGD mají výrazně zvýšené hladiny prolaktinu v séru. Bylo 
+prokázáno, že fragmenty prolaktinu inhibují angiogene￾zi rohovky. Lokální aplikace α-melanocyty stimulující 
+hormon (α-MSH) podporuje objem a  stabilitu slz, zlep-
+šuje integritu rohovky a potlačuje zánět očního povrchu. 
+Adrenokortikotropní hormon (ACTH) může být synteti￾zován nebo akumulován uvnitř myoepiteliálních buněk 
+v slzných žlázách. Cirkulující hladiny ACTH byly pozitivně 
+korelovány s centrální tloušťkou rohovky. Receptory hor￾monu stimulující štítnou žlázu (TSH) byly identifikovány 
+v slzné žláze. Tyto receptory jsou považovány za cíl auto￾protilátek při endokrinní orbitopatiu. Hladiny TSH v séru 
+žen, ale ne mužů, jsou také zvýšeny u seborrhoické MGD. 
+Hormony štítné žlázy (T3, T4) podporují syntézu protei￾nů, růst a  diferenciaci tkání, ovlivňují lipolýzu a  lipoge￾nezi. Jejich nedostatek způsobuje hypercholesterolémii 
+a  snížení sekrece lipidů mazovými žlázami. Snížení hla￾din T3 a T4 indukuje hypotrofii slzných žláz a metaplazii 
+rohovky. Potencionální účinky jiných hypotalamických 
+a  hypofyzárních hormonů na oční povrch nebyly defi￾nované. Růstový hormon (GH, somatotropin), inzulínu 
+podobný růstový faktor (IGF-1, somatomedin), stejně 
+jako inzulín, jsou anabolické promotory zodpovědné za 
+mitózu, růst, diferenciaci a opravu. GH, IGF-1 a inzulín se 
+podílejí na metabolismu glukózy, aminokyselin, DNA, li￾pidů a proteinů. Receptory GH, IGF-1 a inzulínu v slzných 
+žlázách a  povrchových tkáních oka mají vliv na vývoj 
+tkání a  na hojení ran. Roli v  modulaci aktivit GH, IGF-1 
+a inzulínu hrají pohlavní hormony. DED je spojován se 
+stárnutím a stárnutí je doprovázeno sníženými hladina￾mi pohlavních hormonů a zvýšenou rezistencí na inzulín. 
+Diabetes snižuje mikrovaskulární, nervovou a metabolic￾kou integritu očního povrchu, slzných a  meibomských 
+žláz. Mezi klinické projevy diabetu patří nižší citlivost 
+rohovky, nižší doba rozpadu slzného filmu a Schirmerův 
+test, vyšší osmolarita slz, epiteliální metaplazie a změny 
+proteinů v slzách zhoršující se s dobou trvání onemocně-
+ní a špatnou glykemickou kontrolou. GH může také hrát 
+roli při hojení rohovky a regeneraci nervů. IGF-1 podpo￾ruje proliferaci a migraci epiteliálních buněk a fibroblas￾tů rohovky, diferenciaci limbálních kmenových buněk 
+a  proliferaci endotelových buněk rohovky na zvířecích 
+modelech. Léčba IGF-1 urychluje hojení ran a regeneraci 
+rohovkových nervů, brání povrchové keratopatii u diabe￾tiků po operaci katarakty a urychluje reepitelizaci u paci￾entů s neurotrofickou keratitidou. Ke zmírnění příznaků 
+CZECH AND SLOVAK OPHTHALMOLOGY 3/2021 113
+těžké formy DED se používá autologní sérum obsahující 
+inzulín a růstové faktory [2,4].
+EPIDEMIOLOGIE SYNDROMU 
+SUCHÉHO OKA
+Subjektivní potíže pacientů negativně ovlivňují kva￾litu jejich života a produktivitu práce. DED má dopad na 
+jednotlivce ovlivněním zrakových funkcí, vznikem fyzické 
+a  psychické bolesti. V  epidemiologických studiích jsou 
+k hodnocení DED používané různé dotazníky. Prevalence
+je míra podílu nemoci v populaci v daném časovém ob￾dobí. Přesné údaje o prevalenci DED nejsou známé z dů-
+vodu nejednotné klasifikace. Odhady prevalence se liší 
+v závislosti na definici, klasifikaci, diagnostických kritériích 
+a charakteristice studované populace. Prevalence DED se 
+ve studiích pohybuje v rozmezí 5 % až 50 %. Studie, v nichž 
+je diagnóza založena na známkách nemoci, obecně uvádí 
+vyšší a variabilnější míru onemocnění, v některých popula￾cích až 75 %. Prevalence DED roste s věkem a vyšší preva￾lence je u žen. Incidence popisuje počet nově nemocných 
+za daný časový úsek. Výskyt DED uvádí jen velmi omezený 
+počet studií a  údaje jsou nepřesné. Budoucí výzkum by 
+měl stanovit lepší hodnocení prevalence DED různé zá-
+važnosti, incidenci v různých populacích, možné rizikové 
+faktory, objasnit dopad klimatu, životního prostředí a so￾cioekonomických faktorů [2,5].
+RIZIKOVÉ FAKTORY SYNDROMU 
+SUCHÉHO OKA
+Rizikové faktory byly kategorizovány jako konzistentní 
+(neměnné), pravděpodobné a  nejednoznačné (nepře￾svědčivé). V  každé této skupině dále rozděleny na mo￾difikovatelné a  nemodifikovatelné. Mezi konzistentní
+nemodifikovatelné faktory patří věk, ženské pohlaví, 
+asijská rasa, MGD, onemocnění pojivové tkáně a Sjögre￾nův syndrom. Mezi konzistentní modifikovatelné fak￾tory patří nedostatek androgenů, práce na počítači, no-
+šení kontaktních čoček, hormonální substituční terapie 
+estrogeny, transplantace krvetvorných buněk, faktory ži￾votního prostředí (znečištění, nízká vlhkost, klimatizace) 
+a užívání léků (antihistaminika, antidepresiva, anxiolytika 
+a isotretinoin). Jako pravděpodobné nemodifikovatel￾né rizikové faktory byly identifikovány diabetes, rosacea, 
+virová infekce, onemocnění štítné žlázy, psychiatrické 
+a afektivní poruchy (úzkost, deprese) a pterygium. Mezi 
+pravděpodobné modifikovatelné rizikové faktory pa￾tří nízký příjem mastných kyselin, refrakční chirurgický 
+zákrok, alergická konjunktivitida a léky (anticholinergika, 
+diuretika, betablokátory). Nejednoznačná nemodifiko￾vatelná rizika jsou hispánská etnika, menopauza, akné 
+a  sarkoidóza. Nejednoznačná modifikovatelná rizika 
+jsou kouření, alkohol, těhotenství, demodex (Demodex 
+folliculorum, roztoč z  čeledi trudníkovitých parazitující 
+na kůži víček, často asociován s  MGD, tvoří cylindrické 
+šupiny při řasovém folikulu), injekce botulotoxinu, mul￾tivitaminy a  perorální antikoncepce. Spouštěčem DED 
+může být stres, otázkou je pak role genetické vnímavosti. 
+Důležité je odlišení DED od ostatních stavů jakými jsou 
+alergické a  infekčních choroby, zánětlivé stavy a  další 
+chronická onemocnění očního povrchu [2,5].
+PATOFYZIOLOGIE SYNDROMU 
+SUCHÉHO OKA
+TFOS DEWS II přezkoumal mechanismy, které se podí-
+lejí na vzniku a udržování DED. Základním mechanismem 
+DED je hyperosmolarita slz, která je vyvolaná nadměr￾nou evaporací, ta poškozuje oční povrch a vzniká zánět. 
+Hyperosmolarita způsobí ztrátu (apoptózu) epiteli-
+álních i  pohárkových buněk. Následně dojde ke snížení 
+smáčivosti povrchu oka, k  brzkému roztržení slzného 
+filmu a  dalšímu zvýšení hyperosmolarity. Cyklus udá-
+lostí, označený jako bludný kruh, je zobrazen na ob￾rázku 4 uprostřed. U ADDE se hyperosmolarita projeví 
+ve stavu, kdy je snížená sekrece slz v podmínkách jejich 
+normálního odpařování z  oka. U EDE je hyperosmolari￾ta způsobena nadměrným odpařováním slzného filmu 
+v podmínkách normálně fungující slzné žlázy. 
+Hyperosmolarita je funkcí odpařování slz u ADDE i EDE, 
+v tomto smyslu jsou všechny formy DED evaporační. 
+Hyperosmolarita je považována za spouštěč kaskády 
+událostí v povrchových epiteliálních buňkách, což vede 
+k uvolňování zánětlivých mediátorů a proteáz. Tyto me￾diátory spolu s hyperosmolaritou způsobí apoptózu epi￾teliálních buněk rohovky a spojivky a pohárkových buněk 
+spojivky a poškodí glykokalyx (ochranná vrstva z hydro￾filních mucinů vázaných na povrchu epitelových buněk 
+zajišťující adhezi slzného filmu, tvoří rozhraní mezi hydro￾fobním epitelem a hydrofilní vrstvou slzného filmu, hraje 
+roli při roztírání slzného filmu a zvlhčení očního povrchu). 
+Výsledkem je charakteristické tečkovité poranění epitelu 
+(epiteliopatie) a  nestabilita slzného filmu. Nestabilita 
+slzného filmu však může být charakteristická i  pro jiné 
+stavy ovlivňující oční povrch (xeroftalmie, oční alergie, 
+prezervační látky, kontaktní čočky). U  DED související 
+s  MGD je hyperosmolarita slz způsobena nedostatkem 
+lipidové vrstvy slzného filmu. ADDE má různé příčiny. 
+Může jít o  důsledek blokování senzorických impulzů 
+do slzné žlázy, které jsou nezbytné pro udržení homeo￾stázy slzného filmu. Blok v reflexním oblouku může být 
+způsoben chronickým abusem lokálních anestetik, po-
+škozením trigeminálních nervů či refrakční operací. Od￾tok slz do slzného vaku může být omezen obstrukcí slz￾ných cest, která vzniká u všech jizevnatých onemocnění, 
+jako jsou trachom, oční jizevnatý pemfigoid, erythema 
+multiforme, reakce štěpu proti hostiteli a chemické úrazy 
+(poleptání, popálení). Dalším rizikovým faktorem, který 
+může působit snížení sekrece slz, jsou systémově užívané 
+léky (antihistaminika, betablokátory, diuretika a některá 
+psychotropní léčiva) a věk. Častou příčinou ADDE je zá-
+nětlivá infiltrace slzných žláz spojená s autoimunitní po-
+CZECH AND SLOVAK OPHTHALMOLOGY 3/2021 114
+ruchou jako je Sjögrenův syndrom (SSDE) či non-Sjögren 
+syndrom (NSDE-KCS). K zánětu slzné žlázy predisponuje 
+i  nízká hladina androgenů. Poranění epitelu, defektní 
+glykokalyx, ztráta slz a pohárových buněk vede ke zvýše￾nému poškození mechanismem tření. Poranění stimulu￾je nervová zakončení rohovky, což vede k dyskomfortu, 
+častějšímu mrkání a kompenzačnímu reflexnímu zvýšení 
+sekrece slz. Tato kompenzační hypersekrece je pravdě-
+podobnější u  EDE, kde je funkce slzné žlázy normální. 
+Schematický diagram představující etiologii a mechanis￾mus MGD, který je hlavní příčinou EDE, je znázorněn na 
+obrázku 5. Existují dvě formy MGD: nejizevnatá (non￾cicatricial MGD) a jizevnatá (cicatricial MGD). Schéma 
+ukazuje vliv stáří, hormonů, kožních chorob (např. léčba 
+akné vulgaris s  kyselinou cis-retinovou může vyvolat 
+atrofii meibomskách žláz), lokálních léků (pilokarpin, 
+timolol) a  toxinů (polychlorované bifenyly). Klíčovou 
+událostí u  nejizevnaté formy je hyperkeratinizace ústí 
+meibomských žláz, což vede k obstrukci, dilataci kanálků 
+a atrofii žláz, později k obliteraci ústí meibomských žláz. 
+Obstrukci může zhoršovat i zvýšená viskozita sekretu díky 
+změnám v lipidovém složení. Mediátory zánětu a lipidy 
+uvolněné do slzného filmu a na oční povrch pak způsobí 
+epiteliopatii. Příznaky zánětu jsou časté na okraji víčka. 
+U  jizevnaté formy se tvoří submukózní jizvy, jizvy ústí 
+meibomských žláz a terminálních kanálů za zadní hranou 
+víčka a na tarzu. Nízká tvorba sekretu meibomských žláz 
+a změny v lipidovém složení vedou k nestabilitě slzného 
+filmu, zvýšenému odpařování slz, a nakonec k EDE [2,6]. 
+U  pacientů s  DED jsou patrné změny v  slzném filmu, 
+nicméně relativně omezené chápání role slzného filmu, 
+jeho struktury a  biofyzikálních aspektů brání porozu￾mění jeho přesného významu v patofyziologii DED. Kli￾nicky se DED vyznačuje ztrátou objemu slz, rychlejším 
+roztržením slzného filmu a  zvýšeným odpařováním slz 
+z povrchu oka. Podvýbor TFOS DEWS II doporučil dvou￾fázový model slzného filmu. Lipidová vrstva překrývá 
+podkladovou muko-vodnou vrstvu. Slzný film se skládá 
+z  mnoha látek včetně lipidů, proteinů, mucinů a  elekt￾rolytů. To vše přispívá k celistvosti slzného filmu. U DED 
+se zvyšuje osmolarita, ale i  změny dalších složek, jako 
+jsou proteiny a muciny, které lze použít jako biomarke￾ry při DED. Tloušťka lipidové vrstvy nemusí ovlivňovat 
+rychlost odpařování, pokud není velmi tenká (méně než 
+24 nm) nebo zcela chybí. Zvýšená exprese sekretu mei￾bomských žlázek u normálních očí nicméně koreluje se 
+sníženým odpařováním jak u zdravých jedinců, tak u pa￾cientů s DED. Abnormální lipidová vrstva slzného filmu 
+Obrázek 4. Patofyziologie DED - TFOS DEWS II REPORT [2]
+CZECH AND SLOVAK OPHTHALMOLOGY 3/2021 115
+je spojena se zvýšeným odpařováním (evaporace ve 
+zdravém oku je 0,14 ±0,07 μL/min, u pacientů s MGD je 
+0,26 ±0,16 μL/min). Rychlost odpařování se však výraz￾ně liší v závislosti na vnějších podmínkách jako je prou￾dění vzduchu a  vlhkost. Sekret meibomských žlázek 
+(meibum) má složitou strukturu a termotropní chování 
+a jeho teplota tání (~30 °C) je nižší než povrchová teplota 
+oka (35 °C), proto je možné, že meibum může být lokálně 
+účinnou bariérou proti odpařování. Potlačení evaporace 
+je založeno na určité organizaci a složení lipidové vrstvy 
+(polární lipidy, rozvětvené lipidy, více-nenasycené mast￾né kyseliny v meibum). Kolapsu a evaporaci na povrchu 
+oka nezabraňuje pouze lipidová vrstva, ale interakce ce￾lého slzného filmu a specifické interakce proteinů nebo 
+sekrečních mucinů (nebo jejich kombinace) včetně solí. 
+Muko-vodná vrstva pokrývá vrchní (apikální) buňky epi￾telu a jejich glykokalyx bohatý na uhlohydráty. V slzách 
+pacientů s  DED jsou patrné změny v  množství mucinu 
+nebo glykosylace různých složek. Hustá polymerní síť 
+mucinu zadržuje vodu, zvyšuje hydrataci a potlačuje dal-
+ší odpařování slz. Muciny, spolu s  proteiny a  polárními 
+lipidy, zlepšují rozprostření a  strukturu lipidové vrstvy 
+slzného filmu. Všechny klíčové složky slzného filmu tak 
+zvyšují odolnost proti odpařování. Snaha charakterizo￾vat biochemii slzného filmu může vést k identifikaci no￾vých markerů, které bude možno použít k  diagnostice, 
+prognóze a léčbě DED. K lepší léčbě pacientů s DED bude 
+nepochybně vést celostní přístup v pochopení struktury 
+a funkce slzného filmu [2,7]. 
+Bolest při DED je způsobena hyperosmolaritou slz, 
+ztrátou lubrikační schopnosti, vyplavením zánětlivých 
+mediátorů a neurosenzorickými faktory. Bolest rozděluje￾me na nociceptivní a neuropatickou. Nociceptivní bolest 
+se objevuje v  reakci na poškození tkáně. Neuropatická 
+bolest se objevuje v důsledku léze uvnitř somatosenzo￾rického nervového systému a  je označována jako pato￾logická či bolest bez biologické hodnoty. Bolest spojená 
+s mechanickou, chemickou a tepelnou stimulací očního 
+povrchu je zprostředkována přes periferní axony neuro￾nů trigeminálního ganglia inervující rohovku a spojivku, 
+zatímco studené termoreceptory detekují vlhkost a  re￾flexně udržují bazální produkci slz a rychlost mrkání. Ve 
+stromatu rohovky tvoří axony subepiteliální nervový ple￾xus, jehož vzestupné větve se větví a terminálně rozšiřují 
+v povrchových vrstvách epitelu. Senzorické nervy funkč-
+ně patří k polymodálním nociceptorovým neuronům, čis￾tým mechano-nociceptorovým neuronům a  studeným 
+termoreceptorovým neuronům. 
+Obrázek 5. Patofyziologie MGD – TFOS DEWS II REPORT [2]
+CZECH AND SLOVAK OPHTHALMOLOGY 3/2021 116
+Tyto neurony se promítají do dvou oblastí jaderné-
+ho komplexu trigeminálního mozkového kmene (jeden 
+je aktivovaný změnami vlhkosti očního povrchu, druhý 
+zprostředkovává smyslově diskriminační aspekty oční 
+bolesti a reflexního mrkání) a hrají tak významnou roli při 
+udržování homeostázy očního povrchu. Odpařování slz 
+způsobuje diskrétní ochlazení očního povrchu a zvyšuje 
+osmolaritu slz, čímž se zvyšuje bazální aktivita chladných 
+termoreceptorů. Spontánní mrkání je udržováno neu￾stálým nervovým impulzem z  chladných termorecepto￾rů očního povrchu. Sekreční aktivita hlavní slzné žlázy je 
+regulována především autonomními parasympatickými 
+nervy, jejichž reaktivita je regulována reflexními vlivy ze 
+senzorických neuronů očního povrchu. Ty vyvolávají se￾kreci pohárových buněk prostřednictvím neidentifiko￾vaných eferentních vláken. Snížená sekrece slz v případě 
+DED způsobí expozici rohovkového epitelu nepříznivým 
+okolním vlivům a často vede k zánětu a poškození perifer￾ních nervů. Zánět způsobuje senzibilizaci polymodálních 
+a  mechano-nociceptorů, současně též potlačuje aktivi￾tu chladových termoreceptorů, což evokuje pocit sucha 
+a způsobí bolest. Při DED je narušení nervů trvalé, dochází 
+k  neobvyklému zvýšení neuronální aktivity a  k  morfo￾logickým změnám inervace rohovky. Poškození nervů 
+a  dlouhodobý zánět mění genovou expresi iontových 
+kanálů a  receptorů na neuronech trigeminálního gang￾lia a  mozkového kmene, mění jejich excitabilitu, konek￾tivitu a  reakci. Udržování molekulárních, strukturálních 
+a funkčních poruch v senzorických drahách nakonec vede 
+k  dysestesiím a  neuropatickým bolestem. Stav rohovko￾vých nervů je hodnocen pomocí esteziometrie a in vivo 
+konfokální mikroskopie. Subjektivní potíže pacientů a je￾jich příznaky vyplývají z nepravidelnosti slzného a očního 
+povrchu. Zvýšené třecí síly poškodí povrch oka, což má za 
+následek charakteristickou tečkovitou epiteliální keratiti￾du, limbickou keratokonjunktivitidu, filamentární keratiti￾du a tvorbu horizontálních řas spojivky paralelních s dol￾ním víčkem (lid parallel conjunctival folds – LIPCOF) [2,8].
+IATROGENNÍ SYNDROM SUCHÉHO OKA
+Suché oko může být způsobeno řadou iatrogenních 
+vlivů, mezi které patří užívání léků, nošení kontakt￾ních čoček a chirurgické zákroky. Lokálně užívané léky 
+v  oftalmologii (adrenergní agonisté, antialergika, an￾tivirotika, betablokátory, inhibitory karboanhydrázy, 
+cholinergní agonisté, miotika, mydriatika/cykloplegika, 
+prostaglandiny, topická anestetika a  nesteroidní pro￾tizánětlivé léky) mohou způsobit DED pro jejich aler￾gické, toxické a imunozánětlivé účinky na oční povrch. 
+Konzervační látky, jako je benzalkoniumchlorid (BAK), 
+byly uznány jako rizikový faktor. Používají se pro své 
+antibakteriální účinky, ale mohou zhoršovat DED pro je￾jich toxický a prozánětlivý účinek. Množství systémově 
+užívaných léků (vazodilatátory, anticholinergika, anti￾hypertenziva, analgetika, sulfonylmočovina, anxiolyti￾ka/hypnotika, antidepresiva, sedativa, antihistaminika, 
+antimalarika, a léky užívané v onkologii) mohou vyvolat 
+DED sekundárně díky snížení produkce slz, změněné 
+reflexní sekreci a  zánětlivým účinkům na sekreční žlá-
+zy. Léky s anticholinergním účinkem (antihypertenziva, 
+antidepresiva) mohou snížit tvorbu slz navázáním na 
+receptory slzných a meibomských žláz. Některé léky uží-
+vané v onkologii vyvolávají tečkovitou keratitidu. Mezi 
+další faktory způsobující DED patří nošení kontaktních 
+čoček. U  nositelů kontaktních čoček jsou následující 
+biofyzikální změny: tenčí, nerovnoměrná lipidová vrst￾va, nestabilita slzného filmu, nižší bazální míra obratu 
+slz a snížený slzný meniskus. 
+Iatrogenní DED je nejčastěji způsobený chirurgický-
+mi zákroky na rohovce, jakými jsou laserové refrakční 
+zákroky (především LASIK) a  keratoplastika. DED zde 
+vzniká v  důsledku porušení rohovkových nervů či po￾operační aplikací lokálních léků. Hyposenzitivita rohovky 
+po laserovém refrakčním zákroku (PRK, LASIK) vzniká pří-
+mým poraněním nervů rohovky či abnormální neuronál￾ní remodelací, a  byla uznána jako hlavní rizikový faktor 
+pooperační DED. Pokroky v  chirurgických postupech 
+slouží k  minimalizaci denervace rohovky během chirur￾gického zákroku a ke snížení výskytu pooperačního DED. 
+K poškození nervů rohovky dochází i po perforující kera￾toplastice, vznikají přetrvávající defekty epitelu rohov￾ky, což může vést ke vředům a možnému selhání štěpu. 
+Výzkumy ukazují slibné výsledky k obnově a regeneraci 
+senzorických nervů po keratoplastice po aplikaci různých 
+neurotrofních faktorů (substance P, IGF-1). 
+Mezi další rizikové faktory vzniku pooperačního DED 
+patří operace šedého zákalu, antiglaukomatózní ope￾race, operace spojivky, okuplastické výkony a estetické 
+rekonstrukce. Chirurgické zákroky vyvolají dysfunk￾ci slzného filmu v  důsledku snížené citlivosti rohovky, 
+ztráty spojivkových buněk, nárůstu zánětlivých mediá-
+torů a vzniku zánětu, a v důsledku účinků očních kapek 
+obsahující konzervační látky a anestetika. Rekonstrukč-
+ní výkony pak vyvolají morfologické změny víček a mei￾bomských žláz. Dalším významným faktorem vzniku 
+DED je aplikace botulotoxinu a různé kosmetické pro￾cedury (make-up, výplně, tetováž, piercing). Skutečná 
+prevalence iatrogenního DED však není známa. V běžné 
+praxi by se měl brát větší zřetel na časnou detekci su￾chého oka před očními operacemi [2,9].
+DIAGNOSTIKA SYNDROMU SUCHÉHO OKA
+Členové TFOS DEWS II identifikovali klíčové testy 
+a techniky používané k diagnostice a monitorování DED 
+a ke kvantifikaci subjektivních příznaků. Navrhli nejvhod￾nější pořadí testů a techniky jejich provádění v klinickém 
+prostředí pro splnění definice DED. Pro diagnostiku bylo 
+navrženo mnoho testů, jejichž senzitivita a  specificita 
+je vysoce závislá na kritériích zařazení, závažnosti DED 
+a  zkoumané populaci. Doporučené testy pro diagnos￾tiku DED a  posouzení jeho závažnosti uvádí obrázek 6. 
+Před diagnostikou je důležité položit třídící otázky k di-
+CZECH AND SLOVAK OPHTHALMOLOGY 3/2021 117
+ferenciálně diagnostickému rozlišení a  vyloučení stavů 
+napodobující DED. Poté by měl být proveden screening 
+příznaků vyplněním dotazníku DryEye Questionnaire-5 
+(DEQ-5) nebo Ocular Surface Disease Index (OSDI). Pozi￾tivní skóre symptomů by pak mělo vést k podrobnějšímu 
+vyšetření a  provedení diagnostických testů. Mezi klíčo￾vé diagnostické testy patří zkrácení neinvazivní doby 
+rozpadu slzného filmu (non-invasive tear breakup time 
+– NIBUT  <  10 s), měření osmolarity slz (≥ 308 mOsm/L, 
+nebo variabilita v  čase a  variabilita mezi oběma očima 
+> 8 mOsm/L, která se zvyšuje se závažností DED) a barve￾ní očního povrchu fluoresceinem a  lissaminovou zelení 
+(rohovka, spojivka a okraje víček). Pozitiva testů v jakém￾koli oku je považována za příznak porušené homeostázy. 
+Diagnóza DED je stavena na základě pozitivního skóre 
+příznaků a jednoho nebo více pozitivních výsledků mar￾kerů homeostázy. Následně by měly být provedeny další 
+klasifikační testy informující o  etiologii DED, mezi které 
+patří meibografie (zobrazování morfologie a funkce mei￾bomských žláz po everzi víčka), lipidová interferometrie 
+(měření tloušťky a dynamiky lipidů) a hodnocení objemu 
+slz, aby se stanovila subklasifikace (ADDE či EDE) a závaž-
+nost DED s cílem zvolit nejlepší strategii léčby. Diagnos￾tická metodologie je určitým vodítkem pro oftalmology 
+a  definuje otázky, které je třeba pacientovi položit, aby 
+bylo možné odlišit primární DED od jiných onemocně-
+ní očního povrchu, nebo od případů, kdy je suché oko 
+sekundární v rámci základního onemocnění. V běžné kli￾nické praxi však zatím stále chybí „zlatý standard“ a do￾statek testů k diagnostice zánětu očního povrchu [2,10].
+MANAGEMENT A LÉČBA SYNDROMU 
+SUCHÉHO OKA
+Členové TFOS DEWS II provedli přezkum současných 
+možností léčby založených na důkazech. Management 
+DED je komplikovaný kvůli jeho multifaktoriální etiolo￾gii. S ohledem na všechny dostupné důkazy byl navržen 
+algoritmus řízení, který představuje postupný přístup 
+v  rozhodování a  léčbě podle závažnosti onemocnění. 
+Při výběru nejvhodnější strategie je rozhodující odlišit 
+dva podtypy DED. Na nich pak závisí možnosti léčby, 
+které jsou v  současné době k  dispozici. Hlavním cílem 
+managementu je obnovení homeostázy očního povrchu 
+a slzného filmu na základě přerušení cyklického charakte￾ru DED. Úkolem je identifikovat a léčit primární spouštěč 
+onemocnění. Management je pak postupný. Navržený 
+algoritmus není striktně nařízen, ale jedná se o pomůc￾ku, která má pomoci při zahájení léčby u většiny pacien￾tů. Není rovnocenný pro všechna stadia DED vzhledem 
+k  různorodosti v  závažnosti a  charakteru. Následně by 
+Obrázek 6. Doporučený diagnostický přístup DED [2]
+CZECH AND SLOVAK OPHTHALMOLOGY 3/2021 118
+měl vést k  individuálním způsobům léčby zaměřeným 
+na konkrétní aspekty patofyziologie. Tabulka 1 ukazuje 
+možnosti managementu a  léčby, která vedou ke zmír￾nění manifestace DED. Pokud pacient nereaguje na da￾nou úroveň léčby, doporučuje se přejít na další úroveň 
+a  předchozí terapie pak může být přerušena. Obecně 
+platí, že management léčby začíná konvenčními a snad￾no dostupnými volně prodejnými preparáty, umělými 
+slzami (pro časná a mírná stádia DED), a postupují k po￾kročilejším druhům terapie (pro závažnější formy DED). 
+Tato doporučení mohou být upravena na základě indivi￾duálního profilu pacienta. Očekávaná doba trvání léčby 
+před ukončením neúspěchu se týká jak reakce pacienta, 
+tak i  uvažované terapie. Léčebné účinky jsou většinou 
+pozorovány během jednoho až tří měsíců, i když někte￾ré terapie (např. cyklosporin A) mohou trvat déle. Léčba 
+DED je dynamická a  má být založená na klinických do￾vednostech a  schopnostech posoudit význam každého 
+z procesů, které mohou napodobovat DED [2,11].
+ZÁVĚR
+Tato práce se komplexně zabývá syndromem suchého 
+oka. Vzhledem k  tomu, že v  České republice je na poli 
+oftalmologie nedostatek moderních publikací pojedná-
+vajících o klasifikaci, patofyziologii, diagnostice, manage￾mentu a léčbě syndromu suchého oka, tato práce měla za 
+úkol podat ucelený pohled do této problematiky. 
+Syndrom suchého oka je dynamickým a  komplexním 
+onemocněním očního povrchu a očních adnex se známý-
+mi rizikovými faktory. Jedná se o onemocnění s cyklickým 
+charakterem, u kterého je nejdůležitějším krokem nalezení 
+vyvolávajícího spouštěče, obnovení homeostázy a  pře￾rušení bludného kruhu. Syndrom suchého oka si v každé 
+své fázi zasluhuje odlišnou strategii diagnostiky, manage￾mentu i léčby. Klíčovými prvky v diagnostice jsou zvýšená 
+osmolarita slzného filmu a  zánět očního povrchu, které 
+jsou doprovázené očními symptomy (dyskomfort, poru￾chy zraku). Syndrom suchého oka může však nastat i bez 
+Tabuka 1. Doporučení pro postupné řízení a léčbu syndromu suchého oka [2]
+Krok 1:
+ ● Edukace pacienta týkající se jeho stavu, řízení, léčby a prognózy
+ ● Modifikace místního prostředí
+ ● Edukace týkající se možných dietních úprav (perorální doplňování esenciálních mastných kyselin)
+ ● Identifikace a potenciální modifikace/eliminace problematických systémových a lokálních léků
+ ● Oční lubrikantia různých typů (pokud je přítomna dysfunkce meibomských žláz, pak zvážit doplňky obsahující lipidy)
+ ● Hygiena víček a teplé obklady
+Krok 2:
+Pokud výše uvedené možnosti nejsou dostatečné, zvažte:
+ ● Lubrikantia bez konzervačních látek pro minimalizaci toxicity vyvolané konzervanty
+ ● Ošetření tea-tree oil pro Demodex (pokud je přítomen)
+ ● Ochrana/zachování slz
+● Okluze slzných punkt
+● Vlhká komůrka/plavecké brýle
+ ● Ošetření přes noc (například masti nebo vlhká komůrka)
+ ● V ordinaci: fyzikální zahřívání a exprese meibomských žláz (včetně terapie pomocí zařízení, jako je LipiFlow)
+ ● V ordinaci: intenzivní pulzní světelná terapie pro dysfunkci meibomských žláz
+ ● Léky na předpis
+● Lokální antibiotikum nebo kombinace antibiotikum/steroid aplikované na okraje víček pro přední blefaritidu (pokud je 
+přítomna)
+● Lokální kortikosteroid (jen po omezenou dobu)
+● Lokální látky podporující sekreci slz
+● Lokální neglukokortikoidní imunomodulační léčiva (jako je cyklosporin)
+● Lokální léky antagonizující antigen asociovaný s funkcemi lymfocytů (LFA-1) jako je Lifitegrast
+● Perorální makrolidová nebo tetracyklinová antibiotika
+Krok 3:
+Pokud výše uvedené možnosti nejsou dostatečné, zvažte:
+ ● Perorální látky podporující sekreci slz
+ ● Autologní/alogenní sérové oční kapky
+ ● Terapeutické kontaktní čočky
+● Měkké kontaktní čočky (bandáž)
+● Tvrdé sklerální čočky
+Krok 4:
+Pokud výše uvedené možnosti nejsou dostatečné, zvažte:
+ ● Lokální kortikosteroid po delší dobu
+ ● Transplantace amniové membrány
+ ● Chirurgická okluze slzných punkt
+ ● Jiné chirurgické přístupy (např. tarzorafie, transplantace slinných žláz)
+CZECH AND SLOVAK OPHTHALMOLOGY 3/2021 119
+ 1. Nelson JD, Craig JP, Akpek EK, et al. TFOS DEWS II Introduction. 
+Ocul Surf. 2017;15(3):269-275.
+ 2. Craig JP, Nelson JD, Azar DT, et al. TFOS DEWS II Report Executive 
+Summary. Ocul Surf. 2017;15(4):802-812. 
+ 3. Craig JP, Nichols KK, Akpek EK, et al. TFOS DEWS II Definition and 
+Classification report. Ocul Surf. 2017;15(3):276-283.
+ 4. Sullivan DA, Rocha EM, Aragona P, et al. TFOS DEWS II Sex, Gender, 
+and Hormones Report. Ocul Surf. 2017;15(3):284-333. 
+ 5. Stapleton F, Alves M, Bunya VY, et al. TFOS DEWS II Epidemiology 
+Report. Ocul Surf. 2017;15(3):334-365. 
+ 6. Bron AJ, dePaiva CS., Chauhan, SK, et al: TFOS DEWS II Patho￾physiology report. Ocul Surf. 2017;15(3):438-510. 
+ 7. Willcox MDP, Argüeso P, Georgiev GA, et al. TFOS DEWS II Tear Film 
+Report. Ocul Surf. 2017;15(3):366-403. 
+ 8. Belmonte C, Nichols JJ, Cox SM, et al. TFOS DEWS II pain and 
+sensation report. Tear Film Report. Ocul Surf. 2017;15(3):404-
+437.
+ 9. Gomes JAP, Azar DT, Baudouin C, et al. TFOS DEWS II iatrogenic re￾port. Ocul Surf. 2017;15(3):511-538. 
+10. Wolffsohn JS, Arita R, Chalmers R, et al. TFOS DEWS II Diagnostic 
+Methodology report. Ocul Surf. 2017;15(3):539-574. 
+11. Jones L, Downie LE, Korb D, et al. TFOS DEWS II Management and 
+Therapy Report. Ocul Surf. 2017;15(3):575-628.
+poškození očního povrchu. Naše pozornost by měla být 
+zaměřena na zánět, který je univerzálním znakem nemoci 
+a hraje hlavní roli. Zánět očního povrchu není vždy asocio￾ván s překrvením, ale lze ho potvrdit několika technikami 
+a metodami, mezi které patří impresní (otisková) cytologie 
+spojivky, konfokální mikroskopie, barvení očního povrchu 
+lissaminovou zelení, stanovení koncentrace metalopro￾teináz (MMP-9) v slzách atd. Současně se neustále rozvíjí 
+nové diagnostické testy, které ovlivní budoucnost man￾agementu. Naším společným cílem by měla být optima￾lizace léčby v jednotlivých stádiích nemoci na základě její 
+etiologie a závažnosti. Strategie léčby syndromu suchého 
+oka musí být individualizována a  dynamická. Pacientovi 
+musíme dát čas porozumět jeho nemoci, položit mu spe￾cifické otázky o  podmínkách zhoršujících jeho příznaky, 
+vysvětlit mu jeho onemocnění a dobře ho poučit o léčbě 
+(kdy a jak aplikovat umělé slzy a kdy jiné preparáty), která 
+je téměř vždy trvalá. Budoucností v léčbě musí být beze￾sporu produkty bez konzervantů. Léčba by měla být kom￾binovaná, zahrnující pravidelnou hygienu očních víček, 
+aplikaci umělých slz a protizánětlivých preparátů bez kon￾zervačních látek. Pokrokem v problematice suchého oka 
+je vývoj nových léčiv a léčebných možností v souladu se 
+zlepšením preklinických a klinických hodnocení a pocho￾pením patofyziologických dějů. 
+Práce zdůrazňuje ustanovení společnosti Tear Film and 
+Ocular Surface Society, pojednává o nové klasifikaci a de￾finici suchého oka na základě jeho patofyziologie a klade 
+důraz na správné diagnostické a  terapeutické přístupy, 
+které zobrazuje ve formě algoritmů.
+LITERATURA

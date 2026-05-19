@@ -1,0 +1,467 @@
+The Diagnosis and Management of Dry Eye
+A Twenty-five–Year Review
+Stephen C. Pflugfelder, M.D., Abraham Solomon, M.D., and
+Michael E. Stern, Ph.D.
+Purpose. To review the advances in the diagnosis, pathogenesis,
+and management of dry eye disease in the past 25 years. Methods.
+Literature review. Results. The preocular tear film is a hydrated
+mucus gel that contains soluble antimicrobial proteins and growth
+factors that protect and support the ocular surface. The final com￾mon pathway in dry eye is a perturbation of the integrated ocular
+surface/lacrimal gland reflex unit. Diagnostic tests evaluating tear
+composition and clearance appear to show stronger correlation
+with the severity of ocular irritation symptoms and keratoconjunc￾tivitis sicca (KCS) than the conventional Schirmer tests. KCS is a
+condition of abnormal differentiation and mucus production by the
+ocular surface epithelium that results in a poorly lubricated, ab￾normally permeable ocular surface that has increased susceptibility
+to environmental insults. Chronic subclinical ocular surface in￾flammation appears to play a key role in the pathogenesis of KCS.
+New therapeutic strategies are aimed at reducing the ocular surface
+inflammation of dry eye disease. Conclusions. There has been a
+tremendous increase in knowledge regarding dry eye disease in the
+past 25 years that has resulted in improved diagnostic classifica￾tion and new targeted therapies.
+Key Words: Dry eye—Tear film—Keratoconjunctivitis sicca—
+Meibomian gland disease.
+Perhaps there is no other area in the field of Cornea and External
+Disease where more advances have been made in the past 25 years
+than in the diagnosis, pathogenesis, and treatment of dry eye and
+tear film disorders. This article will review the major advances in
+this area.
+TEAR FILM STRUCTURE AND COMPOSITION
+The precorneal tear film traditionally was reported to consist of
+three separate layers: mucus, water, and oil. Imaging studies per￾formed in rodents and humans indicate that the mucus, protein, and
+aqueous components in the precorneal tear film combine to form a
+hydrated gel (Fig. 1).1–3 The composition of this mucus gel has not
+been firmly established but appears to consist of a mixture of
+soluble and gel-forming mucins that are produced by the lacrimal
+glands, stratified ocular surface epithelium, and conjunctival gob￾let cells (Table 1). These are anchored by chemical bonds to the
+underlying membrane-bound mucins (glycocalyx) on the superfi￾cial cornea epithelium.4 The integrity of the precorneal mucus gel
+is essential for maintaining high quality vision and ocular comfort.
+Experimental removal of the mucus gel results in a transient al￾teration of corneal barrier function to fluorescein dye, a decrease in
+contrast sensitivity and an increase in corneal surface irregularity.
+These findings are similar to those observed in eyes with kerato￾conjunctivitis, the ocular surface pathology of dry eye that is as￾sociated with decreased and abnormal production of mucins by the
+ocular surface epithelium.
+We have learned that the tear fluid consists of much more than
+just water and electrolytes. The tear fluid is a complex biochemical
+mixture of mucins, immunoglobulins, antimicrobial proteins (ly￾sozyme and lactoferrin), and growth factors such as transforming
+growth factor-alpha, epidermal growth factor, and hepatocyte
+growth factor.5–8 These growth factors regulate cellular processes
+through their interaction with specific cell surface receptors. The
+exact biological function of these peptide factors has not been
+firmly established, but it is likely that some function to maintain
+ocular surface homeostasis, whereas others regulate wound healing
+after ocular surface trauma.
+There has also been a tremendous increase in knowledge re￾garding the composition and structure of the Meibomian gland
+lipid composition. Hydrophilic polar lipids, including phospholip￾ids (phosphatidylcholine, phosphatidylethanolamine), sphingomy￾elin, ceramides, and cerebrosides, form the lipid layer adjacent to
+the aqueous–mucin gel.9,10 The bulk of the tear lipid layer consists
+of the overlying nonpolar hydrophobic lipids (wax esters, choles￾terol esters, triglycerides, free fatty acids, and hydrocarbons) that
+are associated with the polar phase by means of hydrophobic
+bonds.11
+LACRIMAL GLAND-OCULAR
+SURFACE INTERACTION
+It is now recognized that the ocular surface (cornea, conjunctiva,
+accessory lacrimal glands, and Meibomian glands) and the inter￾connecting neural reflex arcs function as an integrated or “func￾Submitted February 8, 2000. Revision received May 22, 2000. Accepted
+May 30, 2000.
+From the Ocular Surface and Tear Center (S.C.P., A.S.), Bascom Palmer
+Eye Institute, Department of Ophthalmology, University of Miami School
+of Medicine, Miami, Florida; and Allergan, Inc. (M.E.S.), Irvine, Califor￾nia, U.S.A.
+Supported in part by Public Health Service Research Grant EY11915,
+Department of Health and Human Services, National Eye Institute,
+Bethesda Maryland, an unrestricted grant from Research to Prevent Blind￾ness and the Drs. David and Maureen Smith Ocular Surface and Tear
+Research Fund.
+Address correspondence and reprint requests to Dr. Stephen C. Pflug￾felder, Bascom Palmer Eye Institute, 900 N.W. 17th Street, Miami, FL
+33136, U.S.A. E-mail: spflugfelder@bpei.med.miami.edu
+Cornea 19(5): 644–649, 2000. © 2000 Lippincott Williams & Wilkins, Inc., Philadelphia
+644
+tional” unit.12 Communication between these tissues occurs
+through their sensory/autonomic neural reflex loop (Fig. 2).
+The majority of tear secretion by the lacrimal glands is reflexive.
+Tear flow is engendered through stimulation (mostly subcon￾scious) of the ocular surface and nasal mucosa.13,14 This initiates
+sensory afferent nerve traffic along the ophthalmic branch of the
+trigeminal nerve (CN-V) to the central nervous system in the area
+of the pons. It is here where the nerve signals are integrated with
+input from emotional (cortical) and various other appropriate cen￾tral nervous system centers. Efferent nerves consist of parasym￾pathetic fibers that travel in the facial (CN-VII) nerve and sym￾pathetic fibers that emanate from the paraspinal sympathetic chain.
+The parasympathetic nerves synapse in the pterygopalatine gan￾glion en route to the main and accessory lacrimal glands. The
+sympathetic fibers course along with the parasympathetic nerves,
+without synapsing at the pterygopalatine ganglion. Both types of
+nerve fibers cause water movement and tear secretion.
+DEFINITION OF DRY EYE
+For years, there has been considerable confusion regarding the
+definition of dry eye as well as the diagnostic classification of dry
+eye conditions. To address these issues, specialists in the field of
+dry eye participated in two workshops held at the National Eye
+Institute (December 13–14, 1993 and December 5–6, 1994) at
+which time a definition and classification scheme for dry eye dis￾ease was proposed.15 Dry eye was defined as “a disorder of the tear
+film due to tear deficiency or excessive evaporation that causes
+damage to the interpalpebral ocular surface and is associated with
+symptoms of discomfort.”15 Consistent with this definition is a
+proposed classification scheme (Fig. 3) that stratifies patients with
+dry eye from those with decreased aqueous tear production by the
+lacrimal glands to those with increased evaporative loss.
+DIAGNOSIS OF DRY EYE DISEASE
+Most clinicians still rely on traditional diagnostic tests, such as
+fluorescein tear breakup time, the Schirmer test, and ocular surface
+dye staining, for diagnosis of dry eye disease. It is now recognized
+that a diagnostic algorithm using many diagnostic tests is better for
+identifying a patient’s dry eye condition than a single test alone.16
+One such approach that we have found useful for diagnostic clas￾sification is presented in Figure 4.16 Many new diagnostic tests
+with improved sensitivity and specificity over these conventional
+TABLE 1. Mucins detected in the ocular surface epithelium and tear fluid
+Mucins
+Source sample (detection
+method) Normal KCS Reference
+MUC-1 Corneal and conjunctival
+specimens (PCR, in situ
+hybridization, IHC)
+Found in conjunctival and corneal
+epithelium
+— Inatomi et al., 199556
+Conjunctival specimens (IHC) — Decreased expression
+of glycosylated form
+Jones et al., 199820
+SMC/MUC-4 (protein,
+mRNA)
+Conjunctival and corneal
+epithelium, tear fluid (IHC,
+immunoprecipitation, western
+blotting, northern blotting)
+Found in the tear fluid and in the
+corneal and conjunctival
+epithelium
+NA Pflugfelder et al., 20004
+MUC-4 Conjunctiva (northern blotting and
+in situ hybridization)
+Found in the stratified conjunctival
+epithelium
+NA Inatomi et al., 199657
+MUC-5AC Conjunctival goblet cells (in situ
+hybridization)
+Found in conjunctival goblet cells NA Inatomi et al., 199657
+Conjunctiva and tear fluid
+(RT-PCR, IHC, western
+blotting)
+Found in conjunctival goblet cells,
+superficial conjunctival
+epithelium and tear fluid
+— Jumblatt et al., 199958
+H185 Conjunctival impression cytologies
+(IHC)
+Mosaic staining pattern Starry sky pattern Danjo et al., 199821
+MEM Conjunctival epithelium (IHC) — Sjo¨gren’s syndrome Pflugfelder et al., 199722
+NA, not evaluated; MEM, mucosal epithelial membrane mucin; SMC, sialomucin complex; RT-PCR, reverse transcription polymerase chain
+reaction; IHC, immunohistochemistry.
+FIG. 1. Proposed structure of precorneal tear film that
+consists of a superficial lipid layer, a middle aqueous/
+mucin phase that contains soluble mucins, aqueous
+fluid, electrolytes, and proteins that are secreted by the
+lacrimal glands, and ocular surface epithelium. This
+layer is anchored to the underlying superficial corneal
+epithelium by chemical attractions to the epithelial
+membrane mucins (glycocalyx).
+DRY EYE REVIEW 645
+Cornea, Vol. 19, No. 5, 2000
+tests have been reported over the past 25 years. These techniques
+include tear film osmolarity, tear fluid protein immunoassays, and
+fluorescein tear clearance.17–20 Although none of these tests has
+yet to gain widespread clinical acceptance, the results of studies
+evaluating these tests indicate that tear composition and clearance
+appear to show stronger correlation with the severity of ocular
+surface irritation symptoms and ocular surface disease than the
+Schirmer test that evaluates tear production alone.
+PATHOGENESIS OF DRY EYE DISEASE
+There has been a considerable increase in knowledge regarding
+the pathogenesis of the keratoconjunctivitis sicca (KCS) that oc￾curs in dry eye disease. The pathologic features of this condition
+include increased epithelial stratification and proliferative index
+and abnormal differentiation with maintenance of a basal pheno￾type.21 Cells throughout the abnormally thickened conjunctival
+epithelium express cytokeratin 14, a cytoskeletal protein normally
+produced by the basal epithelial cells. Furthermore, there is re￾duced expression of secretory and membrane-bound mucins by the
+superficial ocular surface epithelial cells.22,23
+An exact mechanism for the development of these pathologic
+changes has not been elucidated. The severity of KCS worsens as
+aqueous tear secretion decreases and as the ability to reflex tear in
+response to sensory stimulation is lost.16 Ocular surface epithelial
+function and differentiation may be adversely affected by the in￾crease in tear film osmolarity that occurs in dry eye.24 Trauma to
+a poorly lubricated and unprotected ocular surface from environ￾mental factors and blinking may be another contributing factor
+because KCS is most severe in the exposure zone that is subjected
+to these stresses.15,22 If KCS represents a chronic wound-healing
+response, then it may be perpetuated, in part, by reduced levels of
+lacrimal gland-secreted growth factors in the tear fluid.25,26
+Inflammation may represent another important causative factor
+for KCS. Decreased aqueous tear production and tear clearance
+leads to chronic inflammation of the ocular surface.27,28 Evidence
+exists that the etiology of this disease is facilitated through a loss
+of the antiinflammatory environment within the lacrimal glands
+provided through the presence of circulating androgens.29,30 At the
+time of menopause or due to various pathologic conditions, the
+available level of circulating androgens may drop below a thresh￾old, leaving the tissues vulnerable for the initiation of immune￾based inflammation. This is supported by a significantly increased
+incidence of dry eye in women.31 Any condition that results in
+rapid firing of the “functional unit” can now cause the initiation of
+neurogenic inflammation within acini of the lacrimal glands re￾sulting in antigen presentation and cytokine secretion by these
+epithelial cells.32,33 This will draw the attention of vigilantly traf￾ficking T cells within the lacrimal glands. In the normal individual,
+trafficking lymphocytes—finding no inflammation present—
+would undergo apoptosis (programmed cell death) as they leave
+the tissue en route to local lymph nodes. In the presence of in￾flammatory signals, the apoptotic process is aborted (allowing the
+accumulation of lymphocytes within the glands) and the lympho￾cytes become activated and secrete proinflammatory cytokines that
+will result in the “homing” of additional T cells to the tissue and
+an increase in the level of inflammation.34
+It has also been demonstrated that the normally stable, termi￾FIG. 2. Integrated ocular surface/lacrimal gland functional unit. Af￾ferent sensory nerve impulses from the ocular surface and nasal
+mucosa synapse in the brainstem with efferent autonomic secreto￾motor nerve impulses that innervate the lacrimal gland. Stimulation
+of this reflex loop results in delivery of tear fluid and proteins on
+demand to the ocular surface.
+FIG. 3. Diagnostic classification scheme for dry eye
+disease proposed by the National Eye Institute/
+Industry Workshop. Adapted from CLAO J 1995;21:
+222–32.15
+S.C. PFLUGFELDER ET AL. 646
+Cornea, Vol. 19, No. 5, 2000
+nally differentiated, acinar epithelial cells of the lacrimal gland
+undergo abnormal (pathologic) apoptosis.34 Tears now secreted to
+the ocular surface will contain proinflammatory cytokines and will
+inflame the tissues of the ocular surface. Abnormal apoptosis has
+also been detected within the epithelial cells and lymphocytes of
+the ocular surface.34 This ocular surface inflammatory response
+consists of inflammatory cell infiltration, activation of the ocular
+surface epithelium with increased expression of adhesion mol￾ecules, inflammatory cytokines and pro-apoptotic factors, in￾creased concentrations of inflammatory cytokines in the tear fluid,
+and increased activity of matrix-degrading enzymes in the tear
+fluid (summarized in Table 2).26–28,35–39 Significant positive cor￾relation has been observed between the levels of inflammatory
+cytokines in the conjunctival epithelium and the severity of ocular
+irritation symptoms, corneal fluorescein staining, and the severity
+of conjunctival squamous metaplasia in patients with Sjo¨gren’s
+syndrome KCS.26
+THERAPY OF DRY EYE DISEASE
+There have been many recent advances in the treatment of dry
+eye disease. First, there is increasing recognition that the frequent
+FIG. 4. Algorithm for diagnosis of dry eye disease.
+TABLE 2. Cytokines, growth factors and matrix degrading enzymes detected in the ocular surface tissues and in the tear fluid of patients
+tear film disorders
+Cytokine/growth factor Source sample
+(detection method)
+Dry eye diseases Reference
+EGF (protein) Tear fluid (ELISA) Decreased in ocular surface diseases and
+Sjo¨gren’s syndrome
+Van Setten 199125
+Pflugfelder et al., 199926
+IL-1  (mRNA) Conjunctival epithelium (RT-PCR on
+conjunctival cytology specimens)
+Sjo¨gren’s syndrome increased Pflugfelder et al., 199926
+IL-6 (mRNA) Jones et al., 199435
+IL-8 (mRNA)
+TNF- (mRNA)
+TGF- 1 (mRNA)
+HGF (protein)a Tear fluid (ELISA) (Hypothesized to be deceased) Li et al., 19968
+IL-1  (protein) Tear fluid (ELISA) Increased in ocular rosacea Afonso et al., 199927
+Pro-MMP-9 Tear fluid (ELISA)
+IL-1  (protein) Tear fluid (ELISA) Increased in ocular rosacea Barton et al., 199728
+IL-6 (protein) Tear fluid (ELISA) Increased in Sjo¨gren’s syndrome Tishler et al., 199838
+Plasmin Fluorometric assay Increased in Sjo¨gren’s syndrome Virtanen et al., 199759
+MMP-3 (protein) Tear fluid (ELISA) Increased in ocular rosacea Sobrin et al., 200039
+MMP-9 (protein)
+TIMP-1 (protein)
+a Normal (after surgery).
+EGF, epidermal growth factor; MMP, matrix metalloproteinase; TNF, tumor necrosis factor; TGF, transforming growth factor; HGF, hepa￾tocyte growth factor; TIMP, tissue inhibitor of metalloproteinase; ELISA, enzyme-linked immunosorbent assay; RT-PCR, reverse transcription
+polymerase chain reaction.
+DRY EYE REVIEW 647
+Cornea, Vol. 19, No. 5, 2000
+use of artificial tear solutions that are preserved with benzalko￾nium chloride may be toxic to the ocular surface epithelium.40,41
+To avoid the risk of preservative toxicity to the abnormal ocular
+surface epithelium of eyes with KCS, there has been an increase in
+trend over the past decade to use unit-dose nonpreserved artificial
+tears in patients who must frequently instill artificial tears to con￾trol their irritation symptoms. Laboratory studies have shown that
+certain electrolyte compositions and the use of a bicarbonate buff￾ering system in artificial tear solutions promotes normal ocular
+surface differentiation and homeostasis.24,42 Currently, there are
+many commercially available artificial tear preparations with these
+features. Several different multidose artificial tear preparations
+with disappearing preservatives have also been released.
+Although artificial tears have been reported to improve irritation
+symptoms and to decrease ocular surface dye staining in eyes with
+KCS, their use has not been found to improve conjunctival squa￾mous metaplasia.43 For this reason, there is increasing interest in
+developing therapeutic agents for KCS. Extracellular uridine tri￾phosphate and other nucleotides that stimulate P2Y2 purinergic
+receptors, which have been reported to increase chloride, fluid, and
+mucin secretion by the conjunctiva.44,45 These agents may prove
+to have therapeutic benefit for treatment of dry eye disorders.
+Consistent with an immunologic mechanism for development of
+KCS, antiinflammatory therapy has been reported to improve both
+irritation symptoms and ocular surface disease. Cyclosporin is a
+potent immunomogulatory agent that inhibits T cell activation and
+downregulates the production of many inflammatory cytokines.
+Topically applied cyclosporin has been reported to significantly
+improve signs of KCS in dogs that develop this condition and it
+has been approved for treatment of veterinary dry eye disease.46 A
+prospective double-masked randomized placebo-controlled clini￾cal trial evaluating a topical cyclosporin emulsion showed signifi￾cant improvement in the severity of ocular irritation symptoms and
+ocular surface disease in the cyclosporin treated group compared
+to those treated with vehicle.47 Furthermore, when compared to the
+vehicle, cyclosporin was found to decrease many inflammatory
+markers and the level of the inflammatory cytokine interleukin-6
+(IL-6) in the conjunctiva.48
+Our center has reported that topically applied corticosteroids
+remarkably improve the irritation symptoms and ocular surface
+signs of KCS.49,50 Furthermore, we have found that steroids de￾crease levels of the chemotactic cytokine IL-8 in the conjunctival
+epithelium.26 We currently reserve the use of topical corticoste￾roids for treatment of those patients who experience intolerable
+irritation symptoms despite maximal aqueous enhancement
+therapy (artificial tears and punctual occlusion). The fact that cor￾ticosteroids have been found to have excellent efficacy for treat￾ment of KCS provides proof of the principle that inflammation
+plays a key role in the pathogenesis of dry eye disease.
+Female gender has been reported to be a risk factor for devel￾oping KCS, particularly that associated with Sjo¨gren’s syn￾drome.51 Experimental evidence indicates that androgen hormones
+improve lacrimal gland secretory function.52 Furthermore, sys￾temically administered androgenic hormones have been reported
+to significantly reduce lacrimal gland lymphocytic infiltration and
+improve lacrimal gland function in murine models of Sjo¨gren’s
+syndrome.53,54 At the present time, there have been no controlled
+clinical trials of androgen hormones for treatment of dry eye dis￾ease in humans.
+The normal human tear fluid contains many biologically active
+growth factors, such as epidermal growth factor, that are secreted
+by the lacrimal glands. The concentration of these factors have
+been reported to decrease in patients with lacrimal gland dysfunc￾tion. Autologous human serum, which contains many of the
+growth factors that are present in tear fluid, has been reported to
+improve KCS and stimulate conjunctival mucus production.55 Re￾cent advances in the field of biotechnology provide the opportunity
+to formulate tear replacements containing recombinant forms of
+these cytokine growth factors. Future research will hopefully de￾fine whether topical application of one or more of these factors
+alone will duplicate the therapeutic benefits of serum.
+REFERENCES
+1. Nichols BA. Demonstration of the mucous layer of the tear film by
+electron microscopy. Invest Ophthalmol Vis Sci 1985;26:464–73.
+2. Chen HB. Structure and composition of rat precorneal tear film. A
+study by an in vivo cryofixation. Invest Ophthalmol Vis Sci 1997;38:
+381–7.
+3. Prydal JI, Artal P, Woon H, et al. Study of human precorneal tear film
+thickness and structure using laser interferometry. Invest Ophthalmol
+Vis Sci 1992;33:2006–11.
+4. Pflugfelder SC, Liu Z, Monroy D, et al. Detection of sialomucin com￾plex (MUC4) in human ocular surface epithelium and tear fluid. Invest
+Ophthalmol Vis Sci 2000;41:1316–26.
+5. Van Setten GB, Schultz GS. Transforming growth factor alpha is a
+constant component of tear fluid. Graefes Arch Clin Exp Ophthalmol
+1994;232:523–6.
+6. Ohashi Y, Motokura M, Kinoshita Y, et al. Presence of epidermal
+growth factor in human tears. Invest Ophthalmol Vis Sci 1989;30:
+1879–82.
+7. Van Setten GB, Viinikka L, Tervo T. Epidermal growth factor is a
+constant component of normal human tear fluid. Graefes Arch Clin
+Exp Ophthalmol 1989;22:184–7.
+8. Li Q, Weng J, Mohan RR, et al. Hepatocyte growth factor and hepa￾tocyte growth factor receptor in the lacrimal gland, tears and cornea.
+Invest Ophthalmol Vis Sci 1996;37:727–39.
+9. Greiner JV, Glonek T, Korb DR, et al. Phospholipids in meibomian
+gland secretion. Ophthalmic Res 1996;28:44–9.
+10. McCulley J, Shine WE. Meibomian gland secretions in chronic
+blepharitis. Adv Exp Med Biol 1998;430:319–26.
+11. Shine WE, McCulley J. The role of wax and fatty alcohols in chronic
+blepharitis. Invest Ophthalmol Vis Sci 1993;34:3521–5.
+12. Stern ME, Beuerman R, Fox RI, et al. The pathology of dry eye: the
+interaction between the ocular surface and lacrimal glands. Cornea
+1998;17:584–9.
+13. Heigle T, Pflugfelder SC. Aqueous tear production in patients with
+neurotrophic keratitis. Cornea 1996;15:135–8.
+14. Jordan A, Baum J. Basic tear flow? Does it exist? Ophthalmology
+1980;87:920–30.
+15. Lemp MA. Report of the National Eye Institute/Industry Workshop on
+Clinical Trials in Dry Eyes. CLAO J 1995;21:222–32.
+16. Pflugfelder SC, Tseng SCG, Sanabria O, et al. Evaluation of subjective
+assessments and objective diagnostic tests for diagnosing tear-film
+disorders known to cause ocular irritation. Cornea 1998;17:38–56.
+17. Gilbard JP, Farris RL, Santamaria IJ. Osmolarity of tear microvolumes
+in keratoconjunctivitis sicca. Arch Ophthalmol 1978;96:677–81.
+18. McCollum CJ, Foulks GN, Bodner B, et al. Rapid assay of lactoferrin
+in keratoconjunctivitis sicca. Cornea 1994;13:505–8.
+19. Danjo Y. Ocular surface damage and tear lactoferrin in dry eye syn￾drome. Acta Ophthalmol (Copenh) 1994;72:433–7.
+20. Afonso A, Monroy D, Stern ME, et al. Correlation of tear clearance
+and Schirmer test scores with ocular irritation symptoms Ophthalmol￾ogy 1999;106:803–10.
+21. Jones DT, Ji A, Monroy D, et al. Evaluation of ocular surface cytokine,
+mucin, and cytokeratin expression in Sjo¨gren’s Syndrome. Adv Exp
+Med Biol 1998;438:533–6.
+22. Danjo Y, Watanabe H, Tisdale AS, et al. Alteration of mucin in human
+S.C. PFLUGFELDER ET AL. 648
+Cornea, Vol. 19, No. 5, 2000
+conjunctival epithelia in dry eye. Invest Ophthalmol Vis Sci 1998;39:
+2602–9.
+23. Pflugfelder SC, Tseng SCG, Yoshino K, et al. Correlation of goblet
+cell density and mucosal epithelial membrane mucin expression with
+rose bengal staining in patients with ocular irritation. Ophthalmology
+1997;104:223–35.
+24. Gilbard JP, Rossi SR, Heyda KG. Ophthalmic solutions, the ocular
+surface and a unique artificial tear formulation. Am J Ophthalmol
+1989;107:348–55.
+25. Van Setten GB. Ocular disease leads to decreased concentrations of
+epidermal growth factor in the tear fluid. Curr Eye Res 1991;10:523–7.
+26. Pflugfelder SC, Jones DT, Ji Z, et al. Altered cytokine balance in the
+tear fluid and conjunctiva of patients with Sjogren’s syndrome kera￾toconjunctivitis sicca. Curr Eye Res 1999;19:201–11.
+27. Afonso A, Sobrin L, Monroy D, et al. Tear fluid pro-gelatinase B
+activity correlates with tear clearance and IL-1 concentration in pa￾tients with ocular rosacea. Invest Ophthalmol Vis Sci 1999;40:2506–
+12.
+28. Barton K, Monroy D, Nava A, et al. Inflammatory cytokines in tears
+of patients with ocular rosacea. Ophthalmology 1997;104:1868–74.
+29. Azzarolo AM, Wood RL, Mircheff A, et al. Androgen influence on
+lacrimal gland apoptosis, necrosis, and lymphocytic infiltration. Invest
+Ophthalmol Vis Sci 1999;40:592–602.
+30. Sullivan DA, Krenzer KL, Sullivan BD, et al. Does androgen insuffi￾ciency cause lacrimal gland inflammation and aqueous tear defi￾ciency? Invest Ophthalmol Vis Sci 1999;40:1261–5.
+31. McCarty CA, Bansal AK, Livingston PM, et al. The epidemiology of
+dry eye in Melbourne, Australia. Ophthalmology 1998;105:1114–9.
+32. Mircheff A, Gierow JP, Yang T, et al. Sjogren’s autoimmunity: how
+perturbation of recognition in endomembrane traffic may provoke
+pathological recognition at the cell surface. J Mol Recognit 1998;11:
+40–8.
+33. Meggs WJ. Neurogenic inflammation and sensitivity to environmental
+chemicals. Environ Health Perspect 1993;101:234–8.
+34. Gao J, Schwalb TA, Addeo JV, et al. The role of apoptosis in the
+pathogenesis of canine keratoconjunctivitis sicca: the effect of topical
+Cyclosporin A therapy. Cornea 1998;17:654–63.
+35. Jones DT, Monroy D, Ji Z, et al. Sjogren’s syndrome: cytokine and
+Epstein-Barr virus gene expression within the conjunctival epithelium.
+Invest Ophthalmol Vis Sci 1994;35:3493–504.
+36. Baudouin C, Brignole F, Becquet F, et al. Flow cytometry in impres￾sion cytology specimens. Invest Ophthalmol Vis Sci 1997;38:1458–64.
+37. Bourcier T, Saint-Jean M, Brignole F, et al. Expression of CD40 and
+CD40 ligand in the human conjunctival epithelium. Invest Ophthalmol
+Vis Sci 2000;41:120–6.
+38. Tishler M, Yaron I, Geyer D, et al. Elevated tear interleukin-6 levels
+in patients with Sjogren’s syndrome. Ophthalmology 1998;105:
+2327–9.
+39. Sobrin L, Liu Z, Monroy D, et al. Activators and inhibitors of matrix
+metalloproteinase-9 in human tear fluid and corneal epithelial culture
+supernatant. Invest Ophthalmol Vis Sci 2000;41:1703–9.
+40. Gobbels M, Spitznas M. Corneal epithelial permeability of dry eyes
+before and after treatment with artificial tears. Ophthalmology 1992;
+99:873–8.
+41. Ichijima H, Petrol WM, Jester JV, et al. Confocal microscopic studies
+of living rabbit cornea treated with benzalkonium chloride. Cornea
+1992;11:221–5.
+42. Ubels JL, McCartney MD, Lantz WK, et al. Effects of preservative￾free artificial tear solutions on corneal epithelial structure and function.
+Arch Ophthalmol 1995;113:371–8.
+43. Nelson JD, Farris RL. Sodium hyaluronate and polyvinyl alcohol ar￾tificial tear preparations: a comparison in patients with keratoconjunc￾tivitis sicca. Arch Ophthalmol 1988;106:484–7.
+44. Jumblatt JE, Jumblatt MM. Regulation of ocular mucin secretion by
+P2Y2 nucleotide receptors in rabbit and human conjunctiva. Exp Eye
+Res 1998;67:341–6.
+45. Hoyasa K, Ueda H, Kim KJ, et al. Nucleotide stimulation of Cl(−)
+secretion in the pigmented rabbit conjunctiva. J Pharmacol Exp Ther
+1999;291:53–9.
+46. Kazwan RL, Salisbury MA, Ward DA. Spontaneous canine kerato￾conjunctivitis sicca:a useful model for human keratoconjunctivitis
+sicca. Treatment with cyclosporin eye drops. Arch Ophthalmol 1988;
+106:484–7.
+47. Sall K, Stevenson OD, Mundorf TK, et al. Two multicenter, random￾ized studies of the efficacy and safety of cyclosporine ophthalmic
+emulsion in moderate to severe dry eye disease. Ophthalmology 2000;
+107:631–9.
+48. Turner K, Pflugfelder SC, Ji Z, et al. Interleukin-6 levels in the con￾junctival epithelium of patients with dry eye disease treated with cy￾closporine ophthalmic emulsion. Cornea 2000, in press.
+49. Prabhasawat P, Tseng SCG. The frequent association of tear clearance
+in ocular irritation. Br J Ophthalmol 1998;82:666–75.
+50. Marsh P, Pflugfelder SC. Topical non-preserved methylprednisolone
+therapy of keratoconjunctivitis sicca in Sjogren’s syndrome. Ophthal￾mology 1999;106:811–6.
+51. Pflugfelder SC, Whitcher J, Daniels T. Sjogren’s syndrome. In: Pepose
+JS, Holland GN, Wilhelmus KR, eds. Ocular infection and immunity.
+St. Louis: Mosby, 1996:1043–7.
+52. Sullivan DA, Block L, Pena JD. Influence of androgens and pituitary
+hormones on the structural profile and secretory activity of the lacrimal
+gland. Acta Ophthalmol Scand 1996;74:421–35.
+53. Sullivan DA, Edwards JA. Androgen stimulation of lacrimal gland
+function in mouse models of Sjogren’s syndrome. J Steroid Biochem
+Mol Biol 1997;60:237–45.
+54. Sullivan DA, Wickham LA, Rocha EM, et al. Androgens and dry eye
+in Sjogren’s syndrome. Ann N Y Acad Sci 1999;876:312–24.
+55. Tsubota K, Goto E, Fujita H, et al. Treatment of dry eye by autologous
+serum application in Sjogren’s syndrome. Br J Ophthalmol 1999;83:
+390–5.
+56. Inatomi T, Spurr-Michaud S, Tisdale AS, et al. Human corneal and
+conjunctival epithelia express MUC1 mucin. Invest Ophthalmol Vis
+Sci 1995;36:1818–27.
+57. Inatomi T, Spurr-Michaud S, Tisdale AS, et al. Expression of secretory
+mucin genes by human conjunctival epithelia. Invest Ophthalmol Vis
+Sci 1996;37:1684–92.
+58. Jumblatt MM, McKenzie RW, Jumblatt JE. MUC5AC mucin is a
+component of the human precorneal tear film. Invest Ophthalmol Vis
+Sci 1999;40:43–9.
+59. Virtanen T, Konttinen YT, Honkanen N, et al. Tear fluid plasmin
+activity of dry eye patients with Sjogren’s syndrome. Acta Ophthalmol
+Scand 1997;75:137–41.
+DRY EYE REVIEW 649
+Cornea, Vol. 19, No. 5, 2000

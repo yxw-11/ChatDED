@@ -1,0 +1,840 @@
+PEDRAM HAMRAH, MD, EDITOR
+New Perspectives on Dry Eye
+Definition and Diagnosis: A Consensus
+Report by the Asia Dry Eye Society
+KAZUO TSUBOTA, MD, PHD, 1 NORIHIKO YOKOI, MD, PHD, 2 JUN SHIMAZAKI, MD, PHD, 3
+HITOSHI WATANABE, MD, PHD, 4 MURAT DOGRU, MD, PHD, 1,3
+MASAKAZU YAMADA, MD, PHD, 5 SHIGERU KINOSHITA, MD, PHD, 2
+HYO-MYUNG KIM, MD, PHD, 6 HUNG-WON TCHAH, MD, PHD, 7
+JOON YOUNG HYON, MD, PHD, 8 KYUNG-CHUL YOON, MD, PHD, 9
+KYOUNG YUL SEO, MD, PHD, 10 XUGUANG SUN, MD, PHD, 11 WEI CHEN, MD, PHD, 12
+LINGYI LIANG, MD, PHD, 13 MINGWU LI, MD, PHD, 14 AND
+ZUGUO LIU, MD, PHD,15 FOUNDING MEMBERS OF THE
+ASIA DRY EYE SOCIETY
+ABSTRACT For the last 20 years, a great amount of evidence
+has accumulated through epidemiological studies that most of
+the dry eye disease encountered in daily life, especially in video
+display terminal (VDT) workers, involves short tear film
+breakup time (TFBUT) type dry eye, a category characterized by
+severe symptoms but minimal clinical signs other than short
+TFBUT. An unstable tear film also affects the visual function,
+possibly due to the increase of higher order aberrations. Based
+on the change in the understanding of the types, symptoms,
+and signs of dry eye disease, the Asia Dry Eye Society agreed to
+the following definition of dry eye: “Dry eye is a multifactorial
+disease characterized by unstable tear film causing a variety of
+symptoms and/or visual impairment, potentially accompanied
+by ocular surface damage.” The definition stresses instability of
+the tear film as well as the importance of visual impairment,
+highlighting an essential role for TFBUT assessment. This paper
+discusses the concept of Tear Film Oriented Therapy (TFOT),
+which evolved from the definition of dry eye, emphasizing the
+importance of a stable tear film.
+KEY WORDS consensus, definition of dry eye, diagnosis of
+dry eye, dry eye, tear film breakup time, tear film oriented
+therapy
+I. INTRODUCTION
+T he concept of tear deficiency was first proposed in
+1903 by Schirmer, who developed the famous
+Schirmer test, a modified version of which is still
+in clinical use.1 Keratoconjunctivitis sicca in Sjögren syn￾drome was proposed by Sjögren in 1933.2 For many years
+afterward, dry eye was considered to be equivalent to kera￾toconjunctivitis sicca, the aqueous tear deficiency.
+Accepted for publication September 2016.
+From the 1
+Keio University School of Medicine, Tokyo, 2
+Kyoto Prefectural
+University of Medicine, Kyoto, 3
+Tokyo Dental College, Ichikawa, 4
+Kansai
+Rosai Hospital, Amagasaki, 5
+Kyorin University School of Medicine, Tokyo,
+Japan; 6
+Korea University Anam Hospital, 7
+Ulsan University Asan Medical
+Center, 8
+Seoul National University, Seoul National University Bundang
+Hospital, 9
+Chonnam National University Hospital, 10Yonsei University
+Severance Hospital, Korea; 11Beijing Tongren Eye Center, Beijing Institute
+of Ophthalmology, 12The Affiliated Eye Hospital of Wenzhou Medical Uni￾versity, 13Zhongshan Ophthalmic Center, Sun Yat-Sen University, 14Peking
+University People’s Hospital, and 15Eye Institute of Xiamen University,
+China.
+The Asia Dry Eye Society is partially supported by Santen Pharmaceutical
+Co., Ltd. Kazuo Tsubota reports grant support and honoraria from Santen
+Pharmaceutical Co., Ltd., Otsuka Pharmaceutical Co., Ltd., and holds the
+patent for the functional visual acuity measurement system by Kowa Co.
+Jun Shimazaki reports honoraria and consultancies to Santen Pharmaceu￾tical Co., Ltd. and Otsuka Pharmaceutical Co., Ltd. Murat Dogru reports
+grant support from Santen Pharmaceutical Co., Ltd. and Otsuka Pharma￾ceutical Co., Ltd. Shigeru Kinoshita has grant support and honoraria
+from Santen Pharmaceutical Co. Ltd., Otsuka Pharmaceutical Co. Ltd.,
+and Senju Pharamaceutical Co. Ltd. Zuguo Liu reports grant support
+from Senju Pharmaceutical Co., Ltd., and, consultancies to Santen Pharma￾ceutical Co. Ltd. The other authors report no financial disclosure.
+Single-copy reprint requests to Kazuo Tsubota, MD, PhD (address below).
+Corresponding author: Kazuo Tsubota, MD, PhD, Department of Ophthal￾mology, Keio University School of Medicine, 35 Shinanomachi, Shinjuku￾ku, Tokyo 160-8582 Japan. Tel: þ81-3-3353-1211. Fax: þ81-3-3358-5961.
+E-mail address: tsubota@z3.keio.jp
+
+2016 The Author(s). Published by Elsevier Inc. This is an open access
+article under the CC BY-NC-ND license (http://creativecommons.org/
+licenses/by-nc-nd/4.0/). The Ocular Surface ISSN: 1542-0124. Tsubota K,
+Yokoi N, Shimazaki J, Watanabe H, Dogru M, Yamada M, Kinoshita S,
+Kim H-M, Tchah H-W, Hyon JY, Yoon K-C, Seo KY, Sun X, Chen W, Liang
+L, Mingwu L, Liu Z,. New perspectives on dry eye definition and diag￾nosis: a consensus report by the Asia Dry Eye Society. 2017;15(1):65-76.
+Clinical Practice
+THE OCULAR SURFACE / JANUARY 2017, VOL. 15 NO. 1 / www.theocularsurface.com 65
+II. PREVIOUSLY PUBLISHED DEFINITIONS OF DRY EYE
+DISEASE
+Historically, dry eye disease (DED) was considered to be
+due to either insufficient production or impaired stability of
+tears. There is now evidence that any abnormality of the
+ocular surface can trigger disequilibrium in all the other
+components of tear dynamics. In 1995, the National Eye
+Institute/Industry Workshop headed by Lemp concluded
+that “Dry eye is a disorder of the tear film due to tear defi-
+ciency or excessive evaporation, which causes damage to the
+interpalpebral ocular surface and is associated with symp￾toms of ocular discomfort.”
+3 This was a very solid beginning
+for establishing a consensus among dry eye researchers. Tear
+deficiency was still the central concept in dry eye. In 1995,
+the Japanese Dry Eye Society proposed their first definition
+and diagnostic criteria.4 At that time, the Japanese definition
+did not include the symptoms of DED because the ocular
+surface in end-stage Stevens-Johnson syndrome patients
+may be totally keratinized, resulting in absence of symp￾toms. However, such patients may still suffer from visual
+disturbances, which are now considered to be among the
+important symptoms of severe dry eyes. A new definition
+and diagnostic criteria was proposed in 2006 as follows5
+:
+“Dry eye is a chronic disease of tear fluid and keratoconjunctival
+epithelium that results from various factors, and accompanies
+ophthalmic discomfort and abnormal visual function. The diag￾nostic criteria are: 1) assessment of symptoms, 2) qualitative or
+quantitative disturbance of the tear film (quantity: Schirmer I
+test less than 5 mm/5 min; quality: BUT less than 5 sec), 3) ker￾atoconjunctival epithelial damage (staining score greater than 3
+points). The presence of all criteria renders a diagnosis of defi-
+nite dry eye and the presence of two out of the three criteria
+renders a diagnosis of probable dry eye (Figure 1).”
+5
+In 2007, a consensus on definition and diagnosis was
+achieved at the first International Dry Eye WorkShop
+(DEWS) sponsored by the Tear Film and Ocular Surface So￾ciety (TFOS), as follows6
+:
+“Dry eye is a multifactorial disease of the tears and ocular sur￾face that results in symptoms of discomfort, visual disturbance,
+and tear film instability with potential damage to the ocular sur￾face. It is accompanied by increased osmolarity of the tear film
+and inflammation of the ocular surface.”
+6
+The definition of DED in the DEWS report was similar
+to the Japanese definition, but inflammation and osmolarity
+were highlighted as potential risk factors for DED. The def￾initions clearly suggested that symptoms of dry eye should
+be present for the diagnosis. The report proposed that if
+there were no symptoms (including visual disturbances),
+the condition could not be diagnosed as dry eye. However,
+the report emphasized requirements of the presence of a
+decreased tear volume and ocular surface damage by vital
+staining for the definite diagnosis of dry eye. The report
+also described the ocular surface and tear parameters to
+consider when diagnosing dry eye severity, and these were
+the basis for a proposed stepladder approach to treatment
+(Table 1). On the other hand, short tear film breakup time
+(TFBUT) with severe symptoms seems to comprise the ma￾jor type of dry eyes, so a new definition and diagnostic
+criteria were needed.
+In 2006, the Delphi panel proposed a new term, the
+dysfunctional tear syndrome(DTS), and concluded that treat￾ment strategies should rely on symptoms and signs rather
+than tests.7 The panel defined the clinical signs to be consid￾ered in assessing the severity of DTS upon which a severity￾based treatment algorithm was suggested (Figure 2).
+The multinational ODISSEY European Consensus Group
+aimed to establish a clear and practical algorithm for evalua￾tion and diagnosis of severe DED.8 The ODISSEY group,
+comprised of 10 ophthalmologists who all contend with
+ocular surface disease issues on a daily basis, was formed in
+2012. The purpose of their meeting was to review clinical
+and scientific challenges in diagnosis and management of se￾vere DED, and to achieve consensus agreement on a simplified
+approach to evaluation of severe DED (Figure 3). A total of 14
+criteria for DED severity, based on corneal fluorescein stain￾ing (CFS), tear hyperosmolarity, Schirmer test, impression
+cytology, filamentary keratitis, conjunctival staining,
+impaired visual function, meibomian gland disease or eyelid
+inflammation, blepharospasm, TFBUT, aberrometry, in vivo
+corneal confocal microscopy, inflammatory biomarkers (i.e.,
+human leukocyte antigen-DR [HLA-DR], matrix metallopro￾teinase 9 [MMP9], cytokines, tear proteomics) and DED re￾fractory to standard disease treatments were discussed. The
+specificity and sensitivity of these tools for diagnosing severe
+DED were addressed.
+The modern definitions of DED combine objective find￾ings, subjective symptoms, and mechanistic considerations,
+among which hyperosmolarity and inflammation play a key
+role. A second International Dry Eye Workshop commenced
+in May 2015 and will generate a report by 2017, which will
+revise the definition and diagnostic guidelines for DED.
+OUTLINE
+I. Introduction
+II. Previously Published Definitions of Dry Eye Disease
+III. Proposed New Definition of Dry Eye by The Asia Dry
+Eye Society
+A. Concepts Underlying New Definition
+1. Introduction
+2. Unstable Tear Film is the Central Feature of Dry
+Eye
+3. Visual Disturbances in Dry Eye
+4. The Role of Inflammation in Dry Eye
+B. Diagnosis of Dry Eye Disease According to the New
+Definition
+C. Treatment of Dry Eye Disease: Tear Film Oriented
+Therapy
+D. Short TFBUT-type Dry Eye
+1. Characteristics
+2. Possible Mechanism
+IV. Future Directions
+CONSENSUS ON DRY EYE BY ASIA DRY EYE SOCIETY / Tsubota, et al
+66 THE OCULAR SURFACE / JANUARY 2017, VOL. 15 NO. 1 / www.theocularsurface.com
+III. PROPOSED NEW DEFINITION OF DRY EYE BY THE
+ASIA DRY EYE SOCIETY
+A. Concepts Underlying New Definition
+1. Introduction
+The Asia Dry Eye Society (ADES) was first established in
+2012 in Tokyo by representatives from three countries: China,
+Korea, and Japan. ADES was registered as an official society in
+Tokyo; its founding members are listed in the acknowledge￾ments at the end of this paper. The first scientific meeting
+was held in autumn 2012, and the discussions addressed cur￾rent problems in the definition of and criteria for diagnosing
+dry eye. Successive meetings were held in June and November
+Table 1. The 2007 International Dry Eye Workshop Report: Dry Eye Severity Grading Scheme
+Dry Eye Severity Level 1 2 3 4*
+Discomfort, severity &
+frequency
+Mild and/or episodic;
+occurs under
+environmental stress
+Moderate episodic or
+chronic, stress or no
+stress
+Severe frequent or
+constant without stress
+Severe and/or
+disabling and constant
+Visual symptoms None or episodic mild
+fatigue
+Annoying and/or
+activity-limiting
+episodic
+Annoying, chronic and/
+or constant, limiting
+activity
+Constant and/or
+possibly disabling
+Conjunctival injection None to mild None to mild þ/ þ/þþ
+Conjunctival staining None to mild Variable Moderate to marked Marked
+Corneal staining
+(severity/location)
+None to mild Variable Marked central Severe punctate
+erosions
+Corneal/tear signs None to mild Mild debris, Ymeniscus Filamentary keratitis,
+mucus clumping, [tear
+debris
+Filamentary keratitis,
+mucus clumping, [tear
+debris, ulceration
+Lid/meibomian glands MGD variably present MGD variably present Frequent Trichiasis, keratiniza￾tion, symblepharon
+TFBUT (sec) Variable  10  5 Immediate
+Schirmer score (mm/5
+min)
+Variable  10  5  2
+* Must have signs AND symptoms.
+TBUT, fluorescein tear break-up time; MGD, meibomian gland disease.
+Reprinted from The Ocular Surface 5(2), Dry Eye Workshop. The Definition and Classification of Dry Eye Disease: Report of the Definition and
+Classification Subcommittee of the International Dry Eye Workshop (2007). p. 75-92, with permission from Elsevier.
+Figure 1. 2006 Japanese Diagnostic Criteria for Dry Eye.
+CONSENSUS ON DRY EYE BY ASIA DRY EYE SOCIETY / Tsubota, et al
+THE OCULAR SURFACE / JANUARY 2017, VOL. 15 NO. 1 / www.theocularsurface.com 67
+2013, followed by meetings in June, August, and November
+2014. The final consensus meeting was held in Tokyo on
+November 21, 2014, by the dry eye definition committee
+members (Drs. Tsubota, Yokoi, Shimazaki, Watanabe, Kim,
+Tchah, Hyon, Yoon, Seo, Sun, Chen, Liang, Li and Liu),
+who agreed to the new definition as follows:
+“Dry eye is a multifactorial disease characterized by unstable
+tear film causing a variety of symptoms and/or visual impair￾ment, potentially accompanied by ocular surface damage.”
+Recent findings in the field of epidemiology revealed that
+the short TFBUT-type dry eye (unstable tear film) was more
+prevalent than other types of dry eye.9 In the Osaka study,
+Uchino et al conducted a dry eye survey among visual
+display terminal (VDT) workers in Osaka, Japan, and re￾ported that the major type of dry eye was the short
+TFBUT-type dry eye (Figure 4, revised from Table in
+Uchino et al., 20139
+). Tong et al also reported that meibo￾mian gland dysfunction (MGD) resulted in tear instability
+and DED.10 The percentage of dry eye patients with a
+TFBUT <5 seconds was 94.6%, whereas 19.3% had a
+Schirmer test value <5 mm in the Osaka study (Figure 4).
+Figure 5 shows the distribution pattern of TFBUT and
+Schirmer test values in the Osaka study,11 and these were
+similar to those in Tong’s report.12
+Relative to the previous definition, the new definition re￾tains the concept that dry eye is a multifactorial disease. The
+most important agreement was that the condition was char￾acterized by an “unstable tear film.” It was agreed that the
+unstable tear film is the pivotal mechanism of dry eye
+causing symptoms and/or visual impairment. This concept
+is consistent with the visual impairment in dry eye patients;
+aberrations due to the unstable tear film comprise an inte￾gral feature of the deterioration of vision. This concept
+also fits well with the corneal neuralgia hypothesis. The
+most sensitive part of the ocular surface is the corneal
+epithelium, and continuous stimulation by blink itself can
+cause chronic pain in a neuralgia patient.13
+Previously, vital staining of either the cornea or the con￾junctiva was considered to be critical; however, in this new
+definition, ocular surface damage is not required for the def￾inite diagnosis of dry eye. In other words, just the combina￾tion of symptoms and an unstable tear film (short TFBUT)
+is considered to be sufficient to make a definite diagnosis of
+dry eye (Figure 6). This definition is simplistic and suggests
+that since many individuals suffering from dry eye have the
+short TFBUT-type dry eye, they should be treated not as dry
+eye suspects but as patients with DED. This definition
+clearly covers the short TFBUT-type dry eye, the major
+type of dry eye, and emphasizes the importance of
+Figure 2. The Delphi Panel Clinical Sign Recommendations in Dysfunctional Tear Syndrome in Severity Assessment. Reproduced from Behrens A,
+Doyle J, Stern L, et al. Dysfunctional tear syndrome: a Delphi approach to treatment recommendations. Cornea 2006; 25(8):900-7, with permission from
+Wolters Kluwer Health, Inc.
+CONSENSUS ON DRY EYE BY ASIA DRY EYE SOCIETY / Tsubota, et al
+68 THE OCULAR SURFACE / JANUARY 2017, VOL. 15 NO. 1 / www.theocularsurface.com
+measuring tear film stability by TFBUT. However, if patients
+have a stable tear film, even though the Schirmer test value is
+
+5 mm, a definite diagnosis cannot be made under this defi-
+nition The new definition assigns an essential role for
+TFBUT assessment.
+2. Unstable Tear Film is the Central Feature of Dry Eye
+It is widely accepted that dry eye is a multifactorial
+chronic disease. The relevant risk factors include inflamma￾tion, increased tear osmolarity, desiccated environment,
+wind, meibomian gland dysfunction, aging, contact lenses,
+refractive surgeries, conjunctivochalasis, blepharochalasis,
+floppy eyelid syndrome, and others as stated in the interna￾tional DEWS report. Other important dynamic tear factors
+include blink-associated problems such as incomplete blink,
+decreased blink during VDT use, lagophthalmos, blepharo￾spasm, and nocturnal eye opening, which all finally affect
+the tear film layer on the cornea. Various risk factors even￾tually affect one or more of the three layers of the tear film–
+mucin, aqueous, and/or lipid layer– resulting in unstable
+tear film, the central feature of dry eye (Figure 7). This
+concept also provides a very simple approach for the
+Figure 3. The ODISSEY Eu￾ropean Consensus-derived
+scoring algorithm for severe
+DED diagnosis. Reproduced
+from Baudouin G, Aragona P,
+Van Setten G, et al. Diag￾nosing the severity of dry
+eye: a clear and practical al￾gorithm. Br J Ophthalmol
+2014; 98:1168-76, with
+permission from BMJ Pub￾lishing Group Ltd.
+CONSENSUS ON DRY EYE BY ASIA DRY EYE SOCIETY / Tsubota, et al
+THE OCULAR SURFACE / JANUARY 2017, VOL. 15 NO. 1 / www.theocularsurface.com 69
+treatment of dry eye, in which the most important point of
+action is to stabilize the precorneal tear film.
+In the “Treatment” section of this paper, we will discuss
+in detail the concept of tear film oriented therapy, which
+evolved from the definition of dry eye and shows the impor￾tance of a stable tear film. This approach emphasizes the
+importance of tear film as a target of the treatment.
+3. Visual Disturbances in Dry Eye
+It is well known that the very severe cases of dry eye,
+such as in Stevens-Johnson syndrome, ocular cicatricial
+pemphigoid, or advanced Sjögren syndrome, affect visual
+function.14,15 However, dry eye without any corneal damage
+was considered to be just a symptomatic disease not
+affecting the visual function. The last 20 years of research
+have revealed that dry eye with unstable tear film affects
+the quality of vision in clinical measurements as well as in
+daily life.12,15-23 The tear film is the first entry point of light,
+and for the formation of sharp images, a smooth tear film
+layer is mandatory. When the eye is opened after a blink,
+the tear film is formed and the patient may see well momen￾tarily. This instant visual acuity can be maintainable even in
+the dry eye patient with an unstable tear film. Normal visual
+acuity measurement, however, cannot detect the visual
+impairment of the dry eye patient, because it measures the
+maximal visual acuity at the time of eye opening. In daily
+life, patients keep their eyes open for a certain period of
+time, during which the tear film layer becomes irregular
+and the visual acuity may not be maintained. Measurements
+of functional visual acuity can detect such deteriorated vi￾sual acuity over one minute (Figure 8). Since visual acuity
+is the most important parameter of visual function, it is
+now believed that dry eye is a vision-affecting disease.
+Treatment of dry eye by various methods is expected to
+improve TFBUT and functional visual acuity. Kaido et al re￾ported that punctal occlusion stabilizes the tear film layer,
+extends the TFBUT, and improves the functional visual acu￾ity at the same time.24 A new mucin and water secretagogue,
+diquafosol sodium eye drop, has been reported to stabilize
+the tear film layer, which also can improve the functional vi￾sual acuity.25 Thus, treating visual deterioration by targeting
+the unstable tear film is one of the important goals of treat￾ment of dry eye, in addition to improvement of
+discomfort.26
+4. The Role of Inflammation in Dry Eye
+Inflammation is an important risk factor and/or a conse￾quence of dry eye.27 Desiccation stress has been shown to
+induce Th1 type cytokines on the ocular surface, leading
+to Th-17-associated corneal epithelial barrier disruption in
+experimental mice studies.28,29 Severe types of dry eye, like
+≤ 5sec
+94.6% (n=348)
+> 5sec
+5.4% (n=20)
+≤ 5mm
+19.3% (n=71)
+> 5mm
+80.7% (n=297)
+PosiƟ ve
+24.2% (n=89)
+NegaƟ ve
+75.8% (n=279)
+Tear breakup Ɵme (BUT) Schirmer test value Ocular surface staining
+Figure 4. Distribution of TFBUT, Schirmer test value, and ocular surface staining in dry eye patients in the Osaka study. Of 368 people who had a
+diagnosis of dry eye syndrome, the number of subjects with abnormal TFBUT (94.6%) is more than that with abnormal Schirmer test value (19.3%) and
+with ocular surface staining positive (24.2%). Data from Uchino M, et al, 2013.9
+0 
+5 
+10 
+15 
+20 
+25 
+30 
+35 
+40 
+0 2 4 6 8 10 12 
+BUT(sec) 
+79.9% 0.8% 
+4.6% 
+14.7% 
+Figure 5. Four subtypes of dry eye patients in the Osaka study. Top left
+quadrant: TFBUT 5 sec, Schirmer test value >5 mm; bottom left
+quadrant: TFBUT 5 sec, Schirmer test value  5 mm; bottom right
+quadrant: TFBUT>5 sec, Schirmer test value  5 mm; top right quadrant:
+TFBUT>5 sec, Schirmer test value >5 mm. The majority of dry eye
+subtype (79.9%) is TFBUT 5 sec, Schirmer test value >5 mm. Data from
+Yokoi, et al, 2015.11
+CONSENSUS ON DRY EYE BY ASIA DRY EYE SOCIETY / Tsubota, et al
+70 THE OCULAR SURFACE / JANUARY 2017, VOL. 15 NO. 1 / www.theocularsurface.com
+㎜ Schirmer test value( ) 
+keratoconjunctivitis sicca, accompany inflammation. The
+proinflammatory cytokines were increased in the tear fluid
+from patients with severe type of dry eye, as in Sjögren syn￾drome and graft-versus-host disease.30 There is accumu￾lating evidence that inflammation is one of the key
+components of dry eye, and the DEWS definition also
+stresses the role of inflammation.
+The ADES committee discussed whether or not inflam￾mation should be included in the definition of dry eye.
+Various supportive comments were addressed, especially
+by the Korean members, who noted that cyclosporine A is
+available and the control of inflammation is considered to
+be an important therapeutic strategy.31,32 However, it was
+pointed out that inflammation may be one of the risk fac￾tors, not the central core mechanism related to the defini￾tion. Inflammation may affect all three tear film layers,
+but in VDT users, dry eye is not due to inflammation but
+develops due to the suppressed blink and increased evapora￾tion, resulting in a short TFBUT. In this type dry eye, the
+inflammation will also present in some patients if their
+tear film has not recovered quickly. The ADES consensus
+group also discussed the role of tear osmolarity in DED.
+Hyperosmolarity of the tear fluid was reported to be a suit￾able marker to assess DED.33-35 It has been reported that an
+increase in tear evaporation and a decrease in tear produc￾tion induces an increase in tear osmolarity, but due to the
+variations of the measurement, controversial reports exist
+suggesting that this methodology is difficult for practical
+clinical application.36 The ADES consensus group
+concluded that further studies are necessary to investigate
+the relationship of osmolarity to dry eye conditions. Thus,
+tear osmolarity has not been emphasized in the definition
+of dry eyes at this time.
+B. Diagnosis of Dry Eye Disease According to the New
+Definition
+The consensus group discussed practical diagnosis of dry
+eye according to the new definition. First of all, patients
+should have symptoms of either discomfort or visual distur￾bance, which necessitates the evaluation of symptoms.
+Applicability of a variety of methods, including direct or
+validated questionnaires, was considered. The consensus
+group concluded that relevant dry eye questionnaires out￾lined in the DEWS report, such as Ocular Surface Disease
+Index (OSDI),37 McMonnies questionnaire,38 Women’s
+Health Study Questionnaire,16 or the recently reported dry
+eye-related QOL score (DEQS),39 are useful tools, but ques￾tionnaires assessing the visual impairment in daily life may
+provide additional and helpful information in the context of
+this new definition.
+Since the unstable tear film is pivotal in the definition of
+dry eye with this proposal, the measurement of TFBUT is
+mandatory. TFBUT is measured using a fluorescein dye as
+a standard method. To minimize the effect on the tear vol￾ume and TFBUT, a small quantity of the dye (less than
+2 mL) should be administered with a pipette or wetted fluo￾rescein strip.40-42 After the dye is instilled, the subject is
+instructed to blink three times to ensure adequate mixing
+of the dye with the tears. The time interval between the
+last blink and appearance of the first dark spot on the cornea
+is measured by stopwatch. The mean value of the three mea￾surements should be used.
+The consensus members adopted a cutoff value of less
+than 5 seconds for the diagnosis of dry eye. Any tear TFBUT
+value greater than or equal to 5 seconds cannot be consid￾ered as dry eye according to this proposal. Although it is
+not mandatory to check the ocular surface damage and
+tear production by the Schirmer test, they are important
+for the diagnosis of aqueous deficiency type dry eye and
+evaluation of the ocular damage, which may potentially
+lead to epithelial defects and infection. In order to validate
+Figure 6. Dry eye disease is
+diagnosed by the combina￾tion of symptoms and un￾stable tear film.
+Unstable Tear Film
+Static risk factors
+Abnormality of mucin, aqueous and/or oily layers
+Dynamic risk factors
+Conjunctivochalasis, incomplete blink, 
+decreased blink during VDT work, 
+blepharospasm, lagophthalmos, nocturnal eye 
+opening
+Figure 7. Various risk factors affect precorneal tear film.
+CONSENSUS ON DRY EYE BY ASIA DRY EYE SOCIETY / Tsubota, et al
+THE OCULAR SURFACE / JANUARY 2017, VOL. 15 NO. 1 / www.theocularsurface.com 71
+the cut-off value of 5 seconds, cross-sectional and longitudi￾nal studies on dry eyes are being planned.
+C. Treatment of Dry Eye Disease: Tear Film Oriented
+Therapy
+According to the definition and diagnostic criteria, a
+new concept of treatment strategy was developed by the Jap￾anese and the Asian Dry Eye Societies. Since the new defini￾tion proposes a very important role of a “normal precorneal
+tear film” for a healthy ocular surface and an unstable tear
+film is the key factor for the diagnosis of dry eye, attention
+should be paid to tear film stability. This led to development
+of a new strategy called “tear film oriented therapy” (TFOT
+[Figure 9]).
+As previously mentioned, the tear film consists of
+three layers: lipid, aqueous, and mucin. When one of
+the three layers becomes abnormal, the tear film layer
+becomes unstable, possibly leading to the development
+of dry eye. The TFOT concept is as follows: It is possible
+to determine which tear layer is affected. For example, if a
+patient has mucin deficiency, the mucin secretion should
+be recovered first, and prescribing a mucin secretagogue
+such as diquafosol sodium43 or rebamipide eye drops
+would be appropriate. This concept is easy to understand.
+If there is an abnormal layer, the layer should be targeted
+for treatment. When the lipid layer is affected, such as in
+MGD, then it may be appropriate to treat meibomian
+glands, first by lid hygiene or warm compresses.44-47
+The International Workshop report on the management
+of MGD emphasized a severity-based treatment
+algorithm that entails the use of lid warming and hygiene,
+artificial tears, topical/systemic antibiotics, topical lipid
+formulations, and intake of omega 3 fatty acid
+supplements.48
+Figure 8. Comparison of functional visual acuity for non-dry eye and short TFBUT-type dry eye.
+CONSENSUS ON DRY EYE BY ASIA DRY EYE SOCIETY / Tsubota, et al
+72 THE OCULAR SURFACE / JANUARY 2017, VOL. 15 NO. 1 / www.theocularsurface.com
+When the aqueous layer is affected, as in a Sjögren syn￾drome patient, then strategies to increase of tear volume,
+e.g., punctal occlusion49,50 or tear secretagoques,51 would
+be used. Based on this concept, interesting associations
+were detected. Once one layer deteriorates, there seems to
+be a compensation mechanism to stabilize the tear film
+layer. For example, when MGD occurs and the lipid layer
+is affected, the aqueous production appears to increase to
+compensate for the lack of lipid layer.52 This phenomenon
+has not only been observed in the clinic52 but also in animal
+models of MGD (Inaba et al, unpublished data).
+In the context of TFOT strategy, the control of inflamma￾tion is also important, because it improves the three layers
+altogether. Suppression of inflammation may increase the
+mucin secretion and aqueous secretion and improve the
+MGD. The corneal and conjunctival epithelium may cease
+secreting transmembrane and secretory mucins when inflam￾mation persists.53,54 However, according to the concept of
+TFOT, the control of inflammation is not the central strategy
+of dry eye treatment; rather, producing a healthy stable tear
+film is the primary treatment target. Although inflammation
+is not a central concept of TFOT, anti-inflammatory drugs
+are frequently used in the care of dry eye patients.
+D. Short TFBUT-type Dry Eye
+1. Characteristics
+We have originally reported that short TFBUT-type dry
+eye with minimally decreased tear production and minimal
+vital staining may be associated with severe symptoms
+(Figure 10 from Toda et al).55 Since patients with short
+TFBUT-type dry eye have almost no vital staining and normal
+tear production, it is difficult to understand why such dry eye
+patients suffer from symptoms similar to those seen in the tear
+deficient-type of dry eye with ocular surface damage.
+Shimazaki-Den et al reported a subgroup of younger VDT￾user dry eye patients without MGD who had severe dry eye
+symptomatology (compared to patients with aqueous defi-
+cient dry eye) with short TFBUT and no interpalpebral stain￾ing.56 The authors suggested that severe symptomatology
+might relate to the abundance of sensory corneal nerves in
+the younger individuals. Differences in tear clearance may
+also play a role in terms of symptomatology. For the last
+20 years, a great amount of evidence has accumulated showing
+that the short TFBUT-type dry eye is an important disease
+category with severe symptoms, although the clinical signs
+are minimal. Yokoi et al also recently reported that the short
+TFBUT-type is associated with severe symptomatology in
+VDT users.11 The emerging concept of functional visual acu￾ity, which measures the continuous visual acuity over one
+minute, revealed that an unstable tear film affects the visual
+function, possibly due to the increase of higher order aberra￾tions,57-59 which may be why the short TFBUT-type dry eye
+patients often report visual related symptoms, such as ocular
+fatigue.11,54,60
+2. Possible Mechanism
+In addition to increased higher order aberrations and
+deteriorated functional visual acuity, there is another
+Figure 9. The concept of TFOT (Tear Film Oriented Therapy). *Diquafosol sodium may increase the function of the tear film lipid layer by promoting
+spreading of the lipid layer through lipid and tear fluid secretion. **Rebamipide may suppress the inflammation of the ocular surface in dry eye by its
+anti-inflammatory action. Figure provided by Dry Eye Society Japan.
+CONSENSUS ON DRY EYE BY ASIA DRY EYE SOCIETY / Tsubota, et al
+THE OCULAR SURFACE / JANUARY 2017, VOL. 15 NO. 1 / www.theocularsurface.com 73
+possible mechanism to explain the discrepancy between the
+lack of severe signs but presence of severe symptoms. One
+possibility is neuralgia, which has been proposed by Rosen￾thal13 and Battat et al.61 This hypothesis suggests that the
+development of dry eye requires two factors, one being neu￾ralgia or corneal hypersensitivity, and the other being the
+unstable tear film. A short TFBUT produces evaporative
+decrease of corneal temperature,62,63 which is insignificant
+for normal people, but causes pain in neuralgia patients. If
+the tear film is stabilized and reaches a certain level of
+threshold, then the pain system is suppressed. This hypoth￾esis was recently confirmed by Kaido et al, who found that
+short TFBUT-type dry eye had corneal sensitivity and the
+pain was higher in the short TFBUT than to the normal
+controls.64 The neuropathic pain component is important
+for the pathogenesis of dry eye, and this hypothesis should
+be further studied.
+Another possibility involves the effect of accommoda￾tion on symptoms in dry eye patients. In that regard, the
+high frequency components of accommodation are related
+to the severe symptoms in short TFBUT-type dry eye, sug￾gesting that an unstable tear film places a great burden on
+the ciliary muscle to compensate for the optical aberrations
+due to the unstable tear film with each blink (Kaido et al,
+unpublished data).
+Lemp et al proposed the concept of corneal desiccation
+despite normal tear volume.65 They have shown that
+Stevens-Johnson syndrome or ocular cicatricial pemphigoid
+patients with severe ocular surface disease can develop an
+unstable tear film due the lack of proper mucin secretion.
+Since the mucin anchors the tear film on the ocular surface
+epithelium, mucin deficiency is definitely the possible cause
+of unstable tear film.66,67 In addition to very severe mucin
+deficiency as seen in Stevens-Johnson or Sjögren syndrome,
+MUC5AC mucin deficiency in VDT users has been reported
+to be related to an unstable tear film and ocular symptoms.68
+The original short TFBUT report by Toda et al also
+suggested that the chronic inflammation in allergic conjunc￾tivitis might contribute to such decrease.55 Thus, a relative
+mucin deficiency may be the cause of short TFBUT-type
+dry eye. Deficiency of the lipid layer due to MGD may be
+another reason for short TFBUT. In MGD, a compensa￾tional mechanism has been suggested to be activated to sta￾bilize the tear film by increasing the tear production.52
+When the compensational mechanism fails, the tear film
+stability is affected. Practically, combined disturbance of
+the mucin and lipid layers may be the real reason for short
+TFBUT-type dry eye, but further studies are necessary.
+IV. FUTURE DIRECTIONS
+In this report, the Asia Dry Eye Society has proposed a
+new definition of dry eye. The concept is an extension from
+the 1996 and 2007 definitions of dry eye, but it emphasizes
+the importance of tear film and subjective complaints. Since
+dry eye is a sociomedical disease and the fundamental mech￾anism of the disease is still unknown, we expect that our
+proposal will be revised in the future. At the same time,
+we need a global consensus about dry eye in addition to
+the Asian agreement. In the near future, such an integrated
+consensus meeting will be necessary to form a global agree￾ment. The classification of dry eye should also be considered
+depending on the concept of TFOT. From the concept of
+TFOT and our proposed definition, tear deficiency type of
+dry eye is in an independent category. However, evaporative
+DED may be categorized as oil deficient (MGD) variant.
+Although mucin deficiency cannot be evaluated easily in
+daily practice, the short TFBUT-type dry eye may be the
+major type of mucin deficiency dry eye. Further diagnostic
+methods in this direction need to be developed.
+With regard to severity grading, the previous concept
+attempted to coordinate the severity of ocular surface dam￾age and severe symptoms. However, as we have discussed in
+this proposal, there is a discrepancy between severe symp￾toms and severe signs (ocular surface damage) in short
+Short BUT-type Staining type
+Ocular fatigue
+Heavy sensation
+Discomfort
+Dryness
+Pain
+Foreign body
+sensation
+Brightness
+Redness
+Discharge
+Other
+Ocular fatigue
+Heavy sensation
+Discomfort
+Dryness
+Pain
+Foreign body
+sensation
+Brightness
+Redness
+Discharge
+Other
+Mean number of 
+complaints/patients = 4.5
+Mean number of 
+complaints/patients = 5.6
+0 10 20 30 40 50 60 70 80 0 10 20 30 40 50 60 70 80
+Figure 10. Symptoms of
+short TFBUT-type and
+staining-type dry eye. The
+symptoms were comparable
+for the two groups, suggest￾ing that patients with short
+TFBUT-type dry eye suffer
+greatly, despite the lack of
+ocular surface damage.
+Reprinted from Toda I, Shi￾mazaki J, Tsubota K
+Ophthalmology 1995;102(2):
+302-9, with permission from
+Elsevier.55
+CONSENSUS ON DRY EYE BY ASIA DRY EYE SOCIETY / Tsubota, et al
+74 THE OCULAR SURFACE / JANUARY 2017, VOL. 15 NO. 1 / www.theocularsurface.com
+TFBUT-type dry eye. The unstable tear film affecting the vi￾sual function may explain the discrepancy between the signs
+and symptoms from the point of corneal hypersensitivity or
+accommodative stress. These directions should be studied
+extensively in the near future. Since the understanding of
+the fundamentals of dry eye is expanding, we hope we can
+shed more light on the mechanisms of DED and develop
+useful prevention and treatment strategies for our modern
+societies.
+ACKNOWLEDGMENTS
+Founding members of Asia Dry Eye Society:
+CHINA
+Zuguo Liu, Xuguang Sun, Wei Chen, Yingping Deng, Jing Hong, Ying
+Jie, Mingwu Li, Ying Li, Lingyi Liang, Hong Qi, Hua Wang, Xiaoming Yan,
+Wenzhao Yang, Yufeng Ye, Jin Yuan, Hong Zhang, Hui Zhan, Mingchang
+Zhang, Shaozhen Zhao.
+KOREA
+Hyo-Myung Kim, Hungwon Tchah, Chul Young Choi, Eui-Sang
+Chung, Joon Young Hyon, Hyun-Seung Kim, Mee Kum Kim, Myoung￾Joon, Tae-Im Kim, Do-Hyung Lee, Hyung-Keun Lee, Kyoung Yul Seo,
+Jong Suk Song, Kyung-Chul Yoon.
+JAPAN
+Kazuo Tsubota, Norihiko Yokoi, Shiro Amano, Reiko Arita, Murat
+Dogru, Yuichi Hori, Tetsuya Kawakita, Motoko Kawashima, Shizuka
+Koh, Kohji Nishida, Yoko Ogawa, Jun Shimazaki, Hitoshi Watanabe, Masa￾kazu Yamada, Masahiko Yamaguchi.
+REFERENCES
+1. Schirmer O. Studien zur physiologie und pathologie der tranen￾absonderung und tranenabfuhr. Graefes Arch Clin Exp Ophthalmol
+1903;56:197-291
+2. Sjögren H. Zur Kenntnis der Keratoconjunctivitis sicca (Keratitis filifor￾mis bei hypofunktion der Tranendrusen). Acta Ophthalmol (Kbh)
+1933;11:1
+3. Lemp MA. Report of the National Eye Institute/Industry Workshop on
+clinical trials in dry eye. CLAO J 1995;21:221-32
+4. Shimazaki J. Definition and criteria of dry eye. Ganka 1995;7:765-70.
+Japanese
+5. Shimazaki J. Dry Eye Research Group. Definition and diagnosis of
+dry eye 2006. Atarashii Ganka (J of Eye) 2007;24:181-4.
+Japanese
+6. No authors listed. The definition and classification of dry eye disease:
+report of the definition and classification subcommittee of the Interna￾tional Dry Eye Workshop. Ocul Surf 2007;5:75-92
+7. Behrens A, Doyle JJ, Stern L, et al. Dysfunctional tear syndrome: a
+Delphi approach to treatment recommendations. Cornea 2006;25(8):
+900-7
+8. Baudouin C, Aragona P, Van Setten G, et al. Diagnosing the severity of
+dry eye: a clear and practical algorithm. Br J Ophthalmol 2014;98:
+1168-76
+9. Uchino M, Yokoi N, Uchino Y, et al. Prevalence of dry eye disease and
+its risk factors in visual display terminal users: the Osaka study. Am J
+Ophthalmol 2013;156:759-66
+10. Tong L, Chaurasia SS, Mehta JS, Beuerman RW. Screening for meibo￾mian gland disease: its relation to dry eye subtypes and symptoms in a
+tertiary referral clinic in Singapore. Invest Ophthalmol Vis Sci 2010;51:
+3449-54
+11. Yokoi N, Uchino M, Uchino Y, et al. Importance of tear film instability
+in dry eye disease in office workers using visual display terminals: the
+Osaka study. Am J Ophthalmol 2015;159:748-54
+12. Tong L, Waduthantri S, Wong TY, et al. Impact of symptomatic dry eye
+on vision-related daily activities: The Singapore Malay Eye Study. Eye
+2010;24:1486-91
+13. Rosenthal P, Borsook D. The corneal pain system. Part I: The missing
+piece of the dry eye puzzle. Ocul Surf 2012;10:2-14
+14. Tsubota K, Satake Y, Shimazaki J. Treatment of severe dry eye. Lancet
+1996;348:123
+15. Kaido M, Matsumoto Y, Shigeno Y, et al. Corneal fluorescein staining
+correlates with visual function in dry eye patients. Invest Ophthalmol
+Vis Sci 2011;52:9516-22
+16. Schaumberg DA, Sullivan DA, Buring JE, Dana MR. Prevalence of dry
+eye syndrome among US women. Am J Ophthalmol 2003;136:318-26
+17. Schaumberg DA, Dana R, Buring JE, Sullivan DA. Prevalence of dry eye
+disease among US men: estimates from the Physicians’ Health Studies.
+Arch Ophthalmol 2009;127:763-8
+18. Miljanovic B, Dana R, Sullivan DA, Schaumberg DA. Impact of dry eye
+syndrome on vision-related quality of life. Am J Ophthalmol 2007;143:
+409-15
+19. Goto E, Yagi Y, Matsumoto Y, Tsubota K. Impaired functional visual
+acuity of dry eye patients. Am J Ophthalmol 2002;133:181-6
+20. Li M, Gong L, Chapin WJ, Zhu M. Assessment of vision-related quality
+of life in dry eye patients. Invest Ophthalmol Vis Sci 2012;53:5722-7
+21. Yamada M, Mizuno Y, Shigeyasu C. Impact of dry eye on work produc￾tivity. Clinicoecon Outcomes Res 2012;4:307-12
+22. Deschamps N, Ricaud X, Rabut G, et al. The impact of dry eye disease
+on visual performance while driving. Am J Ophthalmol 2013;156:184-9
+23. Uchino M, Uchino Y, Dogru M, et al. Dry eye disease and work pro￾ductivity loss in visual display users: The Osaka study. Am J Ophthalmol
+2014;157:294-300
+24. Kaido M, Ishida R, Dogru M, et al. Efficacy of punctum plug treatment
+in short break-up time dry eye. Optom Vis Sci 2008;85:758-63
+25. Kaido M, Uchino M, Kojima T, et al. Effects of diquafosol tetrasodium
+administration on visual function in short break-up time dry eye. J Ocul
+Pharmacol Ther 2013;29:595-603
+26. Nilforoushan MR, Latkany RA, Speaker MG. Effect of artificial tears on
+visual acuity. Am J Ophthalmol 2005;140:830-5
+27. Stern ME, Pflugfelder SC. Inflammation in dry eye. Ocul Surf 2004;2(2):
+124-30
+28. Chauhan SK, El Annan J, Ecoiffier T, et al. Autoimmunity in dry eye is
+due to resistance of Th17 to Treg suppression. J Immunol 2009;182:
+1247-52
+29. De Paiva CS, Chotikavanich S, Pangelinan SB, et al. IL-17 disrupts
+corneal barrier following desiccating stress. Mucosal Immunol 2009;2:
+243-53
+30. Lee SY, Han SJ, Nam SM, et al. Analysis of tear cytokines and clinical
+correlations in Sjögren syndrome dry eye patients and non-Sjögren syn￾drome dry eye patients. Am J Ophthalmol 2013;156:247-253.e1
+31. Byun YS, Rho CR, Cho K, et al. Cyclosporine 0.05% ophthalmic emul￾sion for dry eye in Korea: a prospective, multicenter, open-label, sur￾veillance study. Korean J Ophthalmol 2011;25:369-74
+32. Baudouin C, Brignole F, Pisella PJ, et al. Flow cytometric analysis of the
+inflammatory marker HLA DR in dry eye syndrome: results from 12
+months of randomized treatment with topical cyclosporin A. Adv Exp
+Med Biol 2002;506(Pt B):761-9
+33. Tomlinson A, Khanal S, Ramaesh K, et al. Tear film osmolarity: deter￾mination of a referent for dry eye diagnosis. Invest Ophthalmol Vis Sci
+2006;47:4309-15
+34. Baudouin C, Aragona P, Messmer EM, et al. Role of hyperosmolarity in
+the pathogenesis and management of dry eye disease: Proceedings of
+the ocean group meeting. Ocul Surf 2013;11:246-58
+35. Fenga C, Aragona P, Di Nola C, Spinella R. Comparison of ocular sur￾face disease index and tear osmolarity as makers of ocular surface
+CONSENSUS ON DRY EYE BY ASIA DRY EYE SOCIETY / Tsubota, et al
+THE OCULAR SURFACE / JANUARY 2017, VOL. 15 NO. 1 / www.theocularsurface.com 75
+dysfunction in video terminal display workers. Am J Ophthalmol
+2014;158:41-8
+36. Amparo F, Jin Y, Hamrah P, et al. What is the value of incorporating
+tear osmolarity measurement in assessing patient response to therapy
+in dry eye disease? Am J Ophthalmol 2014;157:69-77
+37. Schiffman RM, Christianson MD, Jacobsen G, et al. Reliability and val￾idity of the Ocular Surface Disease Index. Arch Ophthalmol 2000;118:
+615-21
+38. McMonnies CW, Ho A. Responses to a dry eye questionnaire from a
+normal population. J Am Optom Assoc 1987;58:588-91
+39. Sakane Y, Yamaguchi M, Yokoi N, et al. Development and validation of
+the Dry Eye-Related Quality-of-Life Score questionnaire. JAMA Oph￾thalmol 2013;131:1331-8
+40. Toda I, Tsubota K. Practical double vital staining for ocular surface
+evaluation. Cornea 1993;12:366-7
+41. Johnson ME, Murphy PJ. The effect of instilled fluorescein solution vol￾ume on the values and repeatability of TBUT measurement. Cornea
+2005;24:811-7
+42. Kanaya Y, Hori Y, Muramatsu R, et al. Comparison of tear meniscus
+height after different methods of fluorescein staining. Atarashii Ganka
+(J of Eye) 2013;30:1750-3
+43. Fujihara T, Murakami T, Nagano T, et al. INS365 suppresses loss of
+corneal epithelial integrity by secretion of mucin-like glycoprotein in
+a rabbit short-term dry eye model. J Ocul Pharmacol Ther 2002;18:
+363-70
+44. Guillon M, Maissa C, Wong S. Eyelid margin modification associated
+with eyelid hygiene in anterior blepharitis and meibomian gland
+dysfunction. Eye Contact Lens 2012;38:319-25
+45. Matsumoto Y, Dogru M, Goto E, et al. Efficacy of a new warm moist air
+device on tear functions of patients with simple meibomian gland
+dysfunction. Cornea 2006;25:644-50
+46. Lee JE, Kim NM, Yang JW, et al. A randomised controlled trial
+comparing a thermal massager with artificial teardrops for the treat￾ment of dry eye. Br J Ophthalmol 2014;98:46-51
+47. Finis D, Kong C, Hayajneh J, et al. Six-month effects of a thermody￾namic treatment for MGD and implications of meibomian gland atro￾phy. Cornea 2014;33:1265-70
+48. Geerling G, Tauber J, Baudouin C, et al. The international workshop on
+meibomian gland dysfunction: report of the subcommittee on manage￾ment and treatment of meibomian gland dysfunction. Invest Ophthal￾mol Vis Sci 2011;52(4):2050-64
+49. Willis RM, Folberg R, Krachmer JH, Holland EJ. The treatment of
+aqueous-deficient dry eye with removable punctal plugs. A clinical
+and impression-cytoogic study. Ophthalmology 1987;94:514-51
+50. Kakizaki H, Takahashi Y, Iwaki M, et al. Punctal and canalicular anat￾omy: Implications for canalicular occlusion in severe dry eye. Am J
+Ophthalmol 2012;153:229-37
+51. Akpek EK, Lindsley KB, Adyantheya RS, et al. Treatment of Sjögren’s
+syndrome-associated dry eye an evidence-based review. Ophthalmology
+2011;118:1242-52
+52. Arita R, Morishige N, Koh S, et al. Increased tear fluid production as a
+compensatory response to meibomian gland loss: a multicenter cross￾sectional study. Ophthalmology 2015;122:925-33
+53. Lemp MA. The mucin-deficient dry eye. Int Ophthalmol Clin 1973;13:
+185-9
+54. Rivas L, Lopez-Garcia JS, Murube J, Garcia-Lozano I. Different
+conjunctival adaptive response in patients with aqueous-deficient and
+with mucous-deficient dry eyes. Eur J Ophthalmol 2007;17:160-70
+55. Toda I, Shimazaki J, Tsubota K. Dry eye with only decreased tear break￾up time is sometimes associated with allergic conjunctivitis. Ophthal￾mology 1995;102:302-9
+56. Shimazaki-Den S, Dogru M, Higa K, Shimazaki J. Symptoms, visual
+function, and mucin expression of eyes with tear film instability. Cornea
+2013;32:1211-8
+57. Kaido M, Ishida R, Dogru M, Tsubota K. The relation of functional vi￾sual acuity measurement methodology to tear functions and ocular sur￾face status. Jpn J Ophthalmol 2011;55:451-9
+58. Koh S, Maeda N, Hori Y, et al. Effects of suppression of blinking on
+quality of vision in borderline cases of evaporative dry eye. Cornea
+2008;27:275-8
+59. Koh S, Maeda N, Hirohara Y, et al. Serial measurements of higher-order
+aberrations after blinking in patients with dry eye. Invest Ophthalmol
+Vis Sci 2008;49:133-8
+60. Toda I, Fujishima H, Tsubota K. Ocular fatigue is the major symptom
+of dry eye. Acta Ophthalmol 1993;71:347-52
+61. Battat L, Dursun D, Pflugfelder SC. Effects of laser in situ keratomileu￾sis on tear production, clearance, and the ocular surface. Ophthalmology
+2001;108:1230-5
+62. Nakamori K, Odawara M, Nakajima T, et al. Blinking is controlled pri￾marily by ocular surface conditions. Am J Ophthalmol 1997;124:24-30
+63. Mori A, Oguchi Y, Goto E, et al. Efficacy and safety of infrared warming
+of the eyelids. Cornea 1999;18:188-93
+64. Kaido M, Kawashima M, Ishida R, Tsubota K. Relationship of corneal
+pain sensitivity with dry eye symptoms in dry eye with short tear break￾up time. Invest Ophthalmol Vis Sci 2016;57:914-9
+65. Lemp M, Dohlman CH, Holly FJ. Corneal desiccation despite normal
+tear volume. Ann Ophthalmol 1970;284:258-61
+66. Lemp MA, Dohlman CH, Kuwabara T, et al. Dry eye secondary to mucus
+deficiency. Trans Am Acad Ophthalmol Otolaryngol 1971;75:1223-7
+67. Versura P, Maltarello MC, Caramazza R, Laschi R. Mucus alteration and
+eye dryness. a possible relationship. Acta Ophthalmol 1989;67:455-64
+68. Uchino Y, Uchino M, Yokoi N, et al. Alteration of tear mucin 5ac in
+office workers using visual display terminals. The Osaka study. JAMA
+Ophthalmol 2014;132:985-92
+CONSENSUS ON DRY EYE BY ASIA DRY EYE SOCIETY / Tsubota, et al
+76 THE OCULAR SURFACE / JANUARY 2017, VOL. 15 NO. 1 / www.theocularsurface.com

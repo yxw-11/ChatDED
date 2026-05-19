@@ -1,0 +1,932 @@
+38 Hong Kong Medical Journal ©2019 Hong Kong Academy of Medicine. CC BY-NC-ND 4.0
+A B S T R A C T
+Dry eye disease is one of the most common 
+ophthalmic complaints; it results from the activity of 
+various pathways and is considered a multifactorial 
+disease. An important factor that contributes to 
+the onset of dry eye disease is meibomian gland 
+dysfunction. Meibomian gland dysfunction causes a 
+disruption in the tear film lipid layer which affects 
+the rate of tear evaporation. This evaporation leads to 
+tear hyperosmolarity, eventually triggering the onset 
+of dry eye disease. Dry eye disease and meibomian 
+gland dysfunction are strongly associated with 
+each other, such that many of their risk factors, 
+signs, and symptoms overlap. This review aimed to 
+provide an update on the association between dry 
+eye disease and meibomian gland dysfunction. A 
+stepwise approach for diagnosis and management is 
+summarised.
+Update on the association between dry eye 
+disease and meibomian gland dysfunction
+Introduction
+Dry eye disease (DED) is one of the most common 
+ocular surface diseases, which can significantly affect 
+the quality of life of affected patients. The definition 
+of DED has been progressively established in recent 
+decades. The goal of the Tear Film and Ocular Surface 
+Society (TFOS) Dry Eye Workshop (DEWS) is to 
+create an evidence-based definition, a well-defined 
+classification system, and an appropriate diagnosis 
+and management algorithm for DED.1
+ In 2007, the 
+TFOS DEWS definition of DED was first published.2 
+In 2017, the TFOS DEWS II amended the definition 
+of DED to be ‘a multifactorial disease of the ocular 
+surface, characterised by a loss of homeostasis of 
+the tear film, and accompanied by ocular symptoms, 
+in which tear film instability and hyperosmolarity, 
+ocular surface inflammation and damage, and 
+neurosensory abnormalities play etiological roles’.1
+The term ‘multifactorial’ indicates that the disease 
+occurs as a result of multiple influential factors, while 
+the term ‘etiological roles’ suggests the involvement 
+of various pathways in the onset of DED.1
+ In 2017, 
+the Asia Dry Eye Society also agreed upon a new 
+definition of DED, as ‘a multifactorial disease 
+characterised by unstable tear film causing a variety 
+of symptoms and or visual impairment, potentially 
+accompanied by ocular surface damage’.3
+The two main categories of DED are evaporative 
+dry eye and aqueous deficient dry eye.2
+ Evaporative 
+Hong Kong Med J 2019;25:38–47
+https://doi.org/10.12809/hkmj187331
+Tommy CY Chan *, Sharon SW Chow, Kelvin HN Wan, Hunter KL Yuen
+1,2,3 TCY Chan *, MB, BS, MMedSc
+3,4 SSW Chow, MB, BS
+1,5 KHN Wan, MB, BS
+1,6 HKL Yuen, MB, ChB
+1 Department of Ophthalmology and Visual Sciences, The Chinese 
+University of Hong Kong, Shatin, Hong Kong 2 Hong Kong Sanatorium & Hospital, Happy Valley, Hong Kong
+3 Department of Ophthalmology, The University of Hong Kong, Cyberport, 
+Hong Kong 4 Department of Ophthalmology, Grantham Hospital, Wong Chuk Hang, 
+Hong Kong 5 Department of Ophthalmology, Tuen Mun Hospital, Tuen Mun, Hong 
+Kong 6 Hong Kong Eye Hospital, Hong Kong 
+* Corresponding author: tommychan.me@gmail.com
+dry eye is related to conditions that affect the eyelids, 
+such as meibomian gland dysfunction (MGD), poor 
+blinking effort, and lid disorders, or that affect the 
+ocular surface, such as prolonged contact lens 
+wear, frequent use of topical drug preservatives, 
+and immune-related ocular surface disorders (eg, 
+atopic keratoconjunctivitis). Aqueous deficient dry 
+eye is primarily due to conditions affecting lacrimal 
+gland function, such as Sjögren’s syndrome, lacrimal 
+gland duct obstruction or deficiencies, and adverse 
+effects of systemic drugs. Epidemiological evidence 
+suggests that DED is mainly evaporative in nature,4
+and is often associated with MGD.5,6
+Meibomian glands are found in the upper and 
+lower eyelids, where they secrete lipids (meibum) 
+onto the ocular surface, forming the outermost layer 
+of the tear film. These lipids spread easily, promoting 
+tear film stability and protecting against evaporation. 
+Meibomian gland dysfunction is defined as ‘a 
+chronic, diffuse abnormality of the meibomian 
+glands, commonly characterised by terminal duct 
+obstruction and/or qualitative/quantitative changes 
+in the glandular secretion. It may result in alteration 
+of the tear film, symptoms of eye irritation, clinically 
+apparent inflammation and ocular surface disease’.7
+This review aims to provide an update on the 
+association between MGD and DED, with particular 
+attention to the diagnosis and management of 
+these conditions. We will discuss the epidemiology, 
+Review Article CME
+This article was 
+published on 31 Jan 
+2019 at www.hkmj.org.
+# Dry eye disease and meibomian gland dysfunction # 
+39 Hong Kong Med J ⎥ Volume 25 Number 1 ⎥ February 2019 ⎥ www.hkmj.org
+眼症與瞼板腺功能障礙關係的最新進展
+陳頌恩、鄒樞韻、尹浩柟、袁國禮
+乾眼症是最常見的眼科疾病之一。它可由各種途徑的活動引起，被認
+為是一種多因素疾病。導致乾眼症發病的其一重要因素為瞼板腺功能
+障礙。瞼板腺功能障礙導致淚膜脂質層受破壞，影響淚液蒸發速率。
+這種蒸發導致淚液高滲透壓，最終引發乾眼症。乾眼症和瞼板腺功能
+障礙密切相關，因此不少風險因素、體徵和症狀均相互重疊。本文提
+供乾眼症與瞼板腺功能障礙間關聯的最新進展，並總結逐步式診斷和
+管理的方法。
+pathophysiology, risk factors, signs and symptoms, 
+diagnosis, and ancillary imaging of MGD and DED, 
+along with appropriate behaviour, medical, and 
+surgical management.
+Methods
+A comprehensive literature search on PubMed was 
+performed for studies published between January 
+2006 and December 2017 with keywords ‘dry eye’, 
+‘dry eye disease’, ‘tear film’, ‘meibomian gland’, and 
+‘meibomian gland dysfunction’. Search results were 
+limited to clinical studies published in English. 
+Articles reporting DED and MGD were reviewed. 
+Particular emphasis was placed on papers that 
+investigated the association between DED and MGD. 
+The reference lists of the retrieved articles were also 
+examined for relevant studies.
+Epidemiology
+The reported prevalence of DED ranges from 5% 
+to 50%,4
+ whereas the reported prevalence of MGD 
+varies more widely from 3.5% to nearly 70%.8,9
+Meibomian gland dysfunction appears to be more 
+prevalent in Asian populations.5
+ Meibomian gland 
+dysfunction has been reported to contribute to 60% 
+of all cases of DED; an additional 20% of cases of 
+DED are caused by aqueous deficiency.
+Pathophysiology of dry eye disease
+All forms of DED primarily occur because of 
+water loss from the tear film, which leads to tear 
+hyperosmolarity due to evaporative dry eye and/or 
+aqueous deficient dry eye.10 In evaporative dry eye, 
+hyperosmolarity results from excessive evaporation 
+of tears in the context of normal lacrimal 
+function. In contrast, in aqueous deficient dry eye, 
+hyperosmolarity occurs due to an inadequate rate 
+of lacrimal secretion in the context of a normal rate 
+of evaporation. Environmental factors affect the 
+presence of hyperosmolarity on the ocular surface, 
+which may trigger the onset of DED, or cause 
+worsening of the condition.
+Pathophysiology of meibomian 
+gland dysfunction
+Meibomian gland dysfunction is classified according 
+to the rate of gland secretion. A low delivery state 
+is characterised by meibomian gland hyposecretion 
+or obstruction, whereas a high delivery state is 
+characterised by meibomian gland hypersecretion. Of 
+these two categories, the most common mechanism 
+is a low delivery state due to duct obstruction.11
+Epithelial hyperkeratinisation is the most common 
+cause of duct obstruction, leading to meibum 
+accumulation with chronic inflammation and, 
+eventually, gland dropout.12 Importantly, this results 
+in the quantitative and qualitative abnormalities of 
+glandular secretions. There is a high prevalence of 
+MGD in acne rosacea, which is a chronic cutaneous 
+inflammatory disorder.
+Association between dry eye 
+disease and meibomian gland 
+dysfunction
+The tear film consists of three distinct layers: the 
+lipid, aqueous, and mucus layers. The lipid layer, 
+a key component of the tear film, is derived from 
+meibomian glands. The lipid layer prevents water 
+evaporation from the ocular surface and is thus 
+crucial in the maintenance of a healthy ocular 
+surface. Dysfunction of the meibomian glands results 
+in unbalanced lipid secretion, thereby increasing the 
+rate of ocular surface evaporation and causing tear 
+hyperosmolarity.13 Patients with MGD reportedly 
+exhibit a higher tear evaporation rate than that of 
+normal subjects.13 This shows that DED is directly 
+correlated with the integrity and quality of meibum 
+on the ocular surface.
+Risk factors
+Many risk factors associated with DED also 
+contribute to MGD. Thus, risk factor modifications 
+can likely improve both disease states.
+Sex
+Female sex is a significant risk factor for the 
+development of both DED and MGD.5,6 This 
+may be due to the effect of hormonal changes on 
+meibomian secretion, as androgen and oestrogen 
+receptors are both present within the meibomian 
+glands.14 Importantly, androgens have been 
+reported to stimulate meibum secretion and 
+suppress inflammation, whereas oestrogens reduce 
+meibum secretion and increase inflammation.15
+Dysfunctional meibomian gland secretion and 
+concurrent alterations in the lipid layer have been 
+ # Chan et al #
+40 Hong Kong Med J ⎥ Volume 25 Number 1 ⎥ February 2019 ⎥ www.hkmj.org
+observed in patients with androgen depletion.16
+Additionally, female sex has been identified as a risk 
+factor for the development of autoimmune diseases 
+that lead to DED, such as Sjögren’s syndrome.17
+Topical medications
+Topical medications can cause both DED and MGD; 
+this may be a result of ocular surface disturbances 
+with various aetiologies, including allergic reactions, 
+toxic epitheliopathy, and inflammatory response from 
+chronic chemical irritation. Multiple studies have 
+revealed a clear relationship between the prevalence 
+primary factor underlying this relationship is the 
+of dry eye and increasing use of eye drops.18 The 
+presence of benzalkonium chloride preservative 
+agent in topical medications. Benzalkonium chloride 
+has been strongly linked with the onset of DED, as 
+it dissolves the lipid tear film layer and has been 
+shown to disrupt tear film osmolarity.19 Similarly, 
+DED and MGD are commonly reported in glaucoma 
+patients who use topical glaucoma medications, 
+which contain benzalkonium chloride. Use of these 
+medications has been associated with changes in 
+meibomian gland structure, leading to MGD.20
+Contact lens wear
+Contact lens wear is commonly associated with the 
+onset of both DED and MGD. An epidemiological 
+study showed that 50% of contact lens wearers 
+experience dry eye symptoms, whereas only 22% 
+of non–contact lens wearers experience such 
+symptoms.21 Contact lens wear alters the integrity of 
+the tear film: a thinner lipid layer has been observed 
+in contact lens wearers, which causes an increased 
+tear evaporation rate and tear hyperosmolarity.22
+Environmental factors, such as prolonged usage 
+of visual display devices, as well as air pollution 
+and seasonal changes, further aggravate dry eye 
+symptoms in contact lens wearers. The occurrence 
+of MGD in contact lens wearers is suspected to be a 
+result of chronic inflammation,23 as well as clogging 
+of gland orifices due to accumulation of desquamated 
+epithelial cells.24 Contact lens wearers demonstrate 
+a high percentage of meibomian gland dropout 
+and reduction in gland function; these aspects are 
+reportedly directly related to the duration of contact 
+lens wear.25
+Refractive surgery
+Worldwide, laser in situ keratomileusis (LASIK) 
+is the most common corneal refractive surgery 
+currently in use. Dry eye disease is often associated 
+with a history of LASIK, and can be aggravated 
+by both preoperative and postoperative factors. 
+Preoperatively, the risk of DED is significantly 
+increased in patients who are long-term contact lens 
+wearers, as well as in patients whose eyes exhibit 
+pre-existing tear film instability.26 Greater refractive 
+correction magnitude requires deeper ablation, 
+resulting in a greater extent of sensory nerve damage. 
+This nerve damage results in reduced corneal 
+sensitivity, leading to neuropathic dry eyes. Notably, 
+this mechanism is the most common aetiology of 
+post-LASIK dry eyes.26 Corneal refractive surgery 
+has also been shown to reduce corneal epithelial 
+integrity, conjunctival goblet cell concentration, and 
+meibomian gland function, resulting in lower ocular 
+surface disease index and ocular surface staining 
+scores.27
+Demodicosis
+Two species of mites, Demodex folliculorum and 
+Demodex brevis, are the only mites that affect human 
+skin; such infestations are known as demodicosis.28
+Reportedly, D folliculorum infests the lash follicles, 
+whereas D brevis infests the meibomian glands.28
+These infestations increase the meibum melting 
+temperature, resulting in a more viscous lipid layer. A 
+recent study showed that a higher D brevis count was 
+associated with more severe MGD.29 Furthermore, 
+confocal microscopy analysis revealed lower counts 
+of Demodex mites in the glands of healthy subjects 
+than in the glands of patients with MGD-related 
+DED.30 The role of Demodex mites in the pathology 
+of MGD has not been fully elucidated; however, 
+eradication of Demodex is particularly helpful in 
+relieving related ocular symptoms. Thus, there may 
+a pathogenic role for Demodex infestation in MGD.
+Symptoms
+Many signs and symptoms of DED overlap with 
+those of MGD. However, most patients with MGD 
+are largely or entirely asymptomatic; if they are 
+symptomatic, their particular symptoms often do 
+not directly correlate with the severity of ocular 
+surface disturbance. In a population-based study in 
+China, 22% of the study population demonstrated 
+asymptomatic MGD, while 9% showed symptomatic 
+MGD.8
+ In cases of symptomatic MGD, patients 
+report a variety of symptoms, including foreign body 
+sensation, dryness, itching, and/or photosensitivity.7
+These manifestations may be linked to chronic 
+inflammation or mechanical friction between the 
+ocular surface and meibum that has accumulated in 
+the gland orifices.
+Ocular surface signs and diagnosis
+Because DED and MGD are common ophthalmic 
+problems, a clear diagnosis is crucial for suitable 
+management. Appropriate tests should be used to 
+diagnose and monitor DED, in accordance with the 
+revised TFOS DEWS II definition of the disease. 
+For these purposes, the TFOS DEWS II proposed a 
+battery of diagnostic tests for DED.
+# Dry eye disease and meibomian gland dysfunction # 
+41 Hong Kong Med J ⎥ Volume 25 Number 1 ⎥ February 2019 ⎥ www.hkmj.org
+The diagnostic tests begin with triaging 
+questions and risk factor analysis. These are followed 
+by screening for symptoms using standardised 
+questionnaires, including the five-item dry eye 
+questionnaire or the ocular surface disease index. 
+Markers of homeostasis used in diagnostic testing 
+include measures of tear breakup time, staining of the 
+ocular surface, Schirmer’s test, and tear osmolarity. 
+Tear breakup time is a non-invasive measurement 
+that is defined as the time required for the tear film 
+to break up sufficiently that the patient can no longer 
+refrain from blinking.31 A tear breakup time of <10 
+seconds is considered diagnostic for DED (Fig 1). 
+Ocular surface staining is performed by fluorescein 
+staining for corneal damage and lissamine green 
+staining for conjunctival and lid margin damage 
+(Fig 2).31 Schirmer’s test consists of the placement of 
+a small strip of filter paper inside the lower fornix 
+with the eye closed. After 5 minutes, the amount 
+of moisture is measured as the distance that tear 
+moisture has travelled on the paper, due to capillary 
+action; a value of <5 mm indicates DED. Finally, 
+tear osmolarity should be assessed with a calibrated 
+device; a positive result is defined as ≥308 mOsm/L 
+in the measured eye, or a difference of >8 mOsm/L 
+between two eyes.32
+The Asia Dry Eye Society recommends diagnosis 
+of DED by using a combination of symptoms assessed 
+by standardised questionnaires (ocular surface 
+disease index, McMonnies questionnaire, women’s 
+health study questionnaire, or five-item dry eye 
+questionnaire), together with a reduced tear breakup 
+time (with a cut-off value of <5 s).3
+Clinical diagnosis of MGD is made based on 
+the examination of altered anatomical features, 
+such as meibomian gland dropout, altered meibum 
+excretion, and changes to lid morphology, with 
+plugging or pouting of the gland orifice. Meibomian 
+glands with normal appearance are shown in Figure 
+3. Gentle gland expression with digital pressure 
+to the central lower lid can evaluate terminal duct 
+obstruction and meibum quality (Fig 4). Subtype 
+classification tests, including identification of MGD 
+features, as well as lipid thickness and tear volume 
+assessment, are then performed to determine 
+whether the disease constitutes evaporative 
+dry eye or aqueous deficient dry eye. Lastly, the 
+severity of disease is evaluated; for this purpose, 
+the International Workshop on Meibomian Gland 
+Dysfunction has provided a grading system that can 
+be used to guide management of MGD.33
+Role of imaging in diagnosis
+In recent years, multiple imaging modalities have 
+been introduced to improve the diagnosis of DED 
+and MGD.34 These modalities aim to facilitate the 
+evaluation of the structural and dynamic properties of 
+the tear film. In cases of DED with tear film instability, 
+topographic systems have been used to determine 
+changes in the edges of the mires of a Placido disc.35
+Anterior segment optical coherence tomography 
+aims to measure the height of the tear meniscus,36
+while infrared meibography provides an objective 
+evaluation of gland structures. Tear film lipid layer 
+thickness can be measured by interferometry, which 
+allows objective and quantitative measurement of 
+tear film integrity.37
+FIG 1. Demonstration of tear breakup time in a patient with dry eye disease. After instillation of fluorescein staining in the eye, 
+the patient was asked to maintain the eye open without blinking. Tear breakup time is defined as the duration from the beginning 
+of eye open (a) to the first appearance of black spots on the corneal surface (b and c)
+FIG 2. Corneal fluorescein staining pattern in patients with (a) mild to moderate 
+and (b) severe dry eye disease. There is an enlarged area of staining in (b) 
+compared with (a)
+At 0 second At 5 seconds At 10 seconds
+(a)
+(a) (b)
+(b) (c)
+ # Chan et al #
+42 Hong Kong Med J ⎥ Volume 25 Number 1 ⎥ February 2019 ⎥ www.hkmj.org
+Both DED and MGD can lower the ocular 
+surface temperature. In DED, the increased tear 
+film evaporation rate causes heat loss, lowering 
+ocular surface temperature.38 In MGD, lower tarsal 
+conjunctival temperatures have been observed, 
+increasing the viscosity of meibum; this change in 
+viscosity leads to worsening of gland function.39
+These advancements in imaging modalities have 
+improved accuracy and standardised the diagnosis 
+of DED and MGD.
+Management
+The aim of all treatment in MGD is to increase the 
+quality and quantity of meibum expression. For this 
+purpose, a stepwise staged approach is necessary to 
+standardise management of the disease.
+DEWS II created an algorithm to implement various 
+40 The TFOS 
+management options, on the basis of disease severity.40
+Initially, patients must be educated regarding 
+environmental and dietary modifications, which 
+include essential fatty acid supplements. Patients 
+must also be guided to eliminate factors contributing 
+to the onset of DED, including contact lens wear, 
+as well as both topical and systemic medications. 
+Several lifestyle modifications, such as ensuring 
+sufficient sleep or rest, maintaining appropriate 
+hydration, and discontinuing smoking habits, may 
+help to relieve symptoms. Ocular lubricants are 
+suggested for mild DED; preferably, these should not 
+contain benzalkonium chloride preservatives. Some 
+of these modification approaches are outlined below, 
+along with an overview of the emerging available 
+treatment devices and options.
+Eyelid hygiene
+In the presence of MGD, eyelid hygiene is the 
+FIG 3. Normal appearance of meibomian glands under infrared illumination
+FIG 4. (a) Obstruction of a meibomian gland orifice in the lower eye lid. (b) Gentle expression of meibum from the gland to 
+evaluate terminal duct obstruction and meibum quality
+(a) (b)
+# Dry eye disease and meibomian gland dysfunction # 
+43 Hong Kong Med J ⎥ Volume 25 Number 1 ⎥ February 2019 ⎥ www.hkmj.org
+cornerstone of MGD management. This treatment 
+modality consists of two components: eyelid warming 
+and eyelid massage. Meibum in patients with MGD is 
+more stagnant and viscous and has a higher melting 
+temperature than that in a healthy individual; 
+thus, warming the eyelid to melt pathologically 
+altered meibum can improve its secretion.33 Warm 
+compression provides further benefits by melting 
+abnormal meibum. Secretions from meibomian 
+glands in patients with MGD exhibit lower levels 
+of lipids, esters, and free sterols.41 Potential 
+involvement of microbes (ie, Staphylococcus spp, 
+Propionibacterium acnes, Bacillus oleronius, and the 
+Demodex species described above) contributes to the 
+pathology of MGD-associated DED by increasing 
+meibum melting temperature and enhancing 
+inflammation. This illustrates the importance of 
+eyelid hygiene in MGD management.42 For patients 
+with MGD who exhibit demodicosis, many treatment 
+options have been described, including the use of 
+topical 2% metronidazole. Recently, the use of tea 
+tree oil has also increased in popularity.43 Tea tree 
+oil is a natural essential oil that includes 4-terpineol, 
+which is antimicrobial, anti-inflammatory, and toxic 
+to Demodex.
+44 Tea tree oil lid scrubs have shown 
+promising results as management for Demodex￾related MGD.45
+Effective eyelid hygiene can be achieved by use 
+of a hot compress (ie, soaking a clean towel in hot 
+water, and applying the towel over the eyelids), which 
+softens the meibum and allows better flow. After the 
+application of the hot compress, lipid by-products 
+can be removed gently by scrubbing both upper and 
+lower lid margins via mild upward or downward 
+compression of the eyelid, using a moist cotton bud; 
+this compression begins from the nasal canthus and 
+moves laterally. An additional therapeutic approach 
+involves the use of mildly diluted baby shampoo 
+for lid scrubs; this is a widely accepted therapy. 
+Although eyelid warming and eyelid massage are 
+efficacious for the management of MGD, they are 
+often time-consuming and labour-intensive; thus, 
+they encounter patient compliance issues.46 There 
+are now a wide variety of lid cleansing products, 
+which facilitate standardisation and simplification 
+of treatment. Additional treatment options include 
+warming of the lids and expression of meibomian 
+glands, either manually (similar to above) or with the 
+use of specially designed devices. One such device, 
+LipiFlow (TearScience; Morrisville [NC], United 
+States), is designed to transfer heat through the 
+eyelid tissue to facilitate emptying of gland contents 
+at a therapeutic temperature of 42.5°C.47 LipiFlow 
+treatment has shown promising results, and may 
+significantly improve symptoms.47
+Intense pulsed light was first reported 
+approximately 10 years ago for the treatment of MGD, 
+and it has demonstrated an ability to improve tear film 
+quality and quantity, as well as to promote reduction 
+of dry eye symptoms.48 Intraductal meibomian 
+gland probing provides another approach to remove 
+abnormal meibum secretions.49 Oral tetracycline and 
+macrolides are reportedly useful in the treatment of 
+MGD-related DED.40 These compounds are used with 
+the assumption that inhibition of lipase production 
+results in reduction of lipid breakdown, which may 
+contribute to improvement in MGD. Macrolides, 
+azithromycin in particular, exhibit anti-inflammatory 
+properties; moreover, these compounds increase 
+cellular accumulation of cholesterol, which may 
+promote a suitable outcome in patients with MGD￾related DED.50
+Lipid-containing artificial lubricants
+The majority of artificial tears are aqueous-based; 
+however, these offer limited and short-term 
+symptomatic relief, partly due to the lack of a lipid 
+component. These artificial tears evaporate at a 
+similar rate to that of natural tears.51 Addition of a 
+lipid component to the artificial lubricant helps to 
+replenish the lipid layer of the normal tear film.33
+These lipid-containing lubricants exhibit long 
+retention times and can stabilise the tear film lipid 
+layer, reduce tear evaporation, and improve the signs 
+of MGD.52 Additionally, lipid-containing lubricants 
+have a longer-lasting effect and cause minimal 
+interference of patient vision. Commercially available 
+lipid-containing lubricants include mineral oil, high￾purity castor oil, mixtures of light and standard 
+mineral oil, and mixtures of polar phospholipid 
+surfactant and mineral oil. A systematic review 
+found that these lipid-containing eye drops are 
+efficacious and safe alternatives to conventional tear 
+lubricants in their abilities to relieve the signs and 
+symptoms of DED.52
+Anti-inflammatory medications
+Because ocular surface inflammation plays an 
+important role in the development of DED, anti￾inflammatory mechanisms must be considered. For 
+patients with moderate to severe DED, low-dose 
+topical steroids have been advocated as a treatment 
+choice, likely because the anti-inflammatory 
+properties of this type of drug can improve ocular 
+inflammation through suppression of inflammatory 
+cytokines.53 Other anti-inflammatory options 
+include non-glucocorticoid immunomodulatory 
+drugs, such as topical cyclosporine A, which is 
+an immunomodulatory drug that can reduce the 
+expression of inflammatory markers.54 Notably, 
+topical cyclosporine A has been proven efficacious in 
+the treatment of DED.55 A randomised trial showed 
+that cyclosporine A is beneficial in the stabilisation 
+of tear film in patients with MGD.56 However, its 
+anti-inflammatory effect is not as remarkable as that 
+observed in DED, because the main pathophysiology 
+ # Chan et al #
+44 Hong Kong Med J ⎥ Volume 25 Number 1 ⎥ February 2019 ⎥ www.hkmj.org
+(epithelial gland hyperkeratinisation) is not clearly 
+resolved.
+In severe cases of DED, autologous serum 
+eye drops can be considered. Autologous serum, 
+which is the fluid component of a patient’s own 
+blood that remains after centrifugation, exhibits 
+similar biochemical properties to those of tears.40
+Autologous serum reportedly contains specific 
+factors that enhance epithelial regeneration, and 
+can inhibit the release of inflammatory cytokines.57
+Another treatment option for patients with severe 
+DED involves scleral contact lenses, which are 
+rigid gas permeable lenses of large diameter that 
+are supported by the sclera and serve as a bridge 
+over the corneoscleral junction. A tear reservoir 
+is maintained between the posterior surface of the 
+scleral contact lens and the anterior corneal surface, 
+improving tear osmolarity and relieving dry eye 
+symptoms.58
+Omega-3 dietary supplementation
+Essential fatty acid supplementation has been 
+proven beneficial in the treatment of DED and MGD, 
+especially when administered by intake of foods rich 
+in omega-3 fatty acids, such as flaxseed and fish 
+oils.59 There is a speculative association between 
+essential fatty acids and modifications in lipid 
+profile, as well as reductions in the fatty acid content 
+of meibomian gland secretions. In a randomised, 
+placebo-controlled, masked trial, omega-3 fatty 
+acid supplementation resulted in improving ocular 
+surface disease index score, tear breakup time, and 
+meibum score in patients with MGD.60 Essential 
+fatty acids also enhance the lipid layer, slow tear 
+evaporation, and reduce apoptosis of lacrimal gland 
+cells.61 Essential fatty acids have been reported to 
+exhibit anti-inflammatory properties, particularly by 
+promoting the production of prostaglandin.62 These 
+modifications improve the tear secretion rate and 
+tear content. Further research is needed to enhance 
+our understanding of the underlying mechanism 
+by which fatty acid supplementation supports the 
+management of MGD.63,64
+Surgical and mechanical treatment options
+In cases where medical treatment is insufficient, 
+surgical and mechanical treatment options include 
+tear conservation via punctual occlusion or moisture 
+chamber goggles. Punctal plugs retain tears on the 
+ocular surface by blocking lacrimal drainage through 
+the puncta (Fig 5). Permanent surgical closure may 
+be useful when patients cannot tolerate punctual 
+plugs. Surgical punctual occlusion blocks tear 
+drainage and improves tear retention, and can be 
+performed by cauterisation65 or lacrimal canalicular 
+ligation.66 A systematic review showed that, when 
+combined with other treatment for DED, punctual 
+occlusion improves dry eye symptoms.67 A less 
+invasive option, moisture chamber goggles provide 
+a humid environment and minimise airflow to the 
+ocular surface, thereby slowing the evaporation of 
+tears.40
+Severe DED can lead to corneal erosion, 
+persistent epithelial defects, corneal ulceration, 
+and eventual corneal scarring. Amniotic membrane 
+transplant is a reasonable option in such cases. 
+Amniotic membrane has been shown to contain 
+multiple neurotransmitters and neurotrophic factors, 
+which are beneficial for the management of severe 
+DED.68 For patients with severe DED with persistent 
+epithelial defects that are refractive to medical 
+treatment, tarsorrhaphy may be useful. Notably, 
+tarsorrhaphy is a procedure that achieves partial 
+or total closure of the eyelids, either temporarily or 
+permanently. By reducing ocular surface exposure, 
+the rate of tear evaporation decreases, such that 
+DED can improve. Due to unfavourable aesthetic 
+outcomes, this approach is typically one of the final 
+methods used for management of severe DED.
+Suggested treatment guideline 
+for dry eye disease or meibomian 
+gland dysfunction for non￾ophthalmologists
+Dry eye disease and MGD are two of the most 
+common ocular conditions encountered by medical 
+practitioners. To manage these conditions, risk 
+factors must be identified and modified. Notably, 
+several environmental and lifestyle modifications 
+can help alleviate these conditions. Proper lighting, 
+anti-glare filters, ergonomic positioning of computer 
+monitors, and regular break time from work may 
+FIG 5. Appearance of punctal plug (black dot in the circle) 
+after insertion into the lower lacrimal canalicular drainage 
+system
+# Dry eye disease and meibomian gland dysfunction # 
+45 Hong Kong Med J ⎥ Volume 25 Number 1 ⎥ February 2019 ⎥ www.hkmj.org
+help improve the symptoms.69 A modest increase 
+in relative humidity, achieved by using a desktop￾powered humidifier, has been shown to increase 
+subjective comfort.70 Reduction or discontinuation 
+of contact lens use, as well as enhancement of 
+moisture within the surrounding environment, 
+are possible risk factor modifications. Smoking 
+cessation can also improve the ocular surface 
+condition and tear function.71 Lubricants can be 
+prescribed to be used as needed for symptomatic 
+relief. If symptoms do not resolve, benzalkonium 
+chloride–free lubricants should be considered. 
+Low-dose topical steroids should be implemented 
+with particular caution, owing to the risk of steroid￾related complications (eg, cataract, glaucoma, and 
+infection). In patients with recalcitrant disease, 
+referral to an ophthalmologist is necessary to ensure 
+regular monitoring. In the presence of MGD-related 
+symptoms, lid hygiene and warm compression 
+are strongly suggested for symptomatic control; 
+careful manual expression of meibum should also be 
+performed. If the above measures fail, or if the DED 
+is secondary to other causes of aqueous deficiency 
+(eg, Sjögren’s syndrome; graft versus host disease; or 
+chronic inflammation in Stevens-Johnson’s disease, 
+toxic epidermal necrolysis, or ocular cicatricial 
+pemphigoid), referral to an ophthalmologist is 
+warranted for further workup (eg, anti-SSA/Ro 
+blood test for Sjögren’s syndrome) and management.
+Conclusion
+Dry eye disease is a common ophthalmic problem, 
+with a cause that is often multifactorial. Meibomian 
+gland dysfunction is an important contributor 
+to DED, owing to an imbalance in lipid secretion 
+that affects the rate of tear evaporation. When 
+tears evaporate quickly, tear osmolarity increases, 
+resulting in DED. There are many risk factors that 
+contribute to onset of both DED and MGD, many 
+of which may overlap between these diseases. A 
+clear diagnosis is vital when managing DED. Various 
+treatment options are available for DED and MGD, 
+and a stepwise staged approach is often crucial for 
+ensuring appropriate management.
+Author contributions
+All authors contributed to the concept and design, acquisition 
+of data, analysis and interpretation of data, drafting of the 
+manuscript, and critical revision for important intellectual 
+content. All authors had full access to the data, contributed to 
+the study, approved the final version for publication, and take 
+responsibility for its accuracy and integrity.
+Conflicts of interest
+As an epidemiology advisor of the Editorial Board, HKL Yuen 
+was not involved in the peer review process of the article. All 
+authors have disclosed no conflicts of interest.
+References
+1. Craig JP, Nichols KK, Akpek EK, et al. TFOS DEWS II 
+definition and classification report. Ocul Surf 2017;15:276-
+83.
+2. The definition and classification of dry eye disease: report 
+of the Definition and Classification Subcommittee of 
+the International Dry Eye WorkShop (2007). Ocul Surf 
+3.
+2007;5:75-92.
+Tsubota K, Yokoi N, Shimazaki J, et al. New perspectives 
+on dry eye definition and diagnosis: a consensus report by 
+the Asia Dry Eye Society. Ocul Surf 2017;15:65-76.
+4. Stapleton F, Alves M, Bunya VY, et al. TFOS DEWS II 
+epidemiology report. Ocul Surf 2017;15:334-65.
+5. Schaumberg DA, Nichols JJ, Papas EB, Tong L, Uchino M, 
+Nichols KK. The International Workshop on Meibomian 
+Gland Dysfunction: report of the subcommittee on the 
+epidemiology of, and associated risk factors for, MGD. 
+Invest Ophthalmol Vis Sci 2011;52:1994-2005.
+6. The epidemiology of dry eye disease: report of the 
+Epidemiology Subcommittee of the International Dry Eye 
+7.
+WorkShop (2007). Ocular Surf 2007;5:93-107.
+Nichols KK, Foulks GN, Bron AJ, et al. The International 
+Workshop on Meibomian Gland Dysfunction: executive 
+summary. Invest Ophthalmol Vis Sci 2011;52:1922-9.
+8. Jie Y, Xu L, Wu YY, Jonas JB. Prevalence of dry eye 
+among adult Chinese in the Beijing Eye Study. Eye (Lond) 
+2009;23:688-93.
+9. McCarty CA, Bansal AK, Livingston PM, Stanislavsky YL, 
+Taylor HR. The epidemiology of dry eye in Melbourne, 
+Australia. Ophthalmology 1998;105:1114-9.
+10. Bron AJ, de Paiva CS, Chauhan SK, et al. TFOS DEWS II 
+pathophysiology report. Ocul Surf 2017;15:438-510.
+11. Chhadva P, Goldhardt R, Galor A. Meibomian gland 
+disease: the role of gland dysfunction in dry eye disease. 
+Ophthalmology 2017;124:S20-6.
+12. Gutgesell VJ, Stern GA, Hood CI. Histopathology 
+of meibomian gland dysfunction. Am J Ophthalmol 
+1982;94:383-7.
+13. Goto E, Endo K, Suzuki A, Fujikura Y, Matsumoto 
+Y, Tsubota K. Tear evaporation dynamics in normal 
+subjects and subjects with obstructive meibomian gland 
+dysfunction. Invest Ophthalmol Vis Sci 2003;44:533-9.
+14. Sullivan DA, Rocha EM, Aragona P, et al. TFOS DEWS II 
+sex, gender, and hormones report. Ocul Surf 2017;15:283-
+15.
+333.
+Bron AJ, Tiffany JM. The contribution of meibomian 
+disease to dry eye. Ocul Surf 2004;2:149-65.
+16. Krenzer KL, Dana MR, Ullman MD, et al. Effect of 
+androgen deficiency on the human meibomian gland and 
+ocular surface. J Clin Endocrinol Metab 2000;85:4874-82.
+17. Wan KH, Chen LJ, Young AL. Depression and anxiety in 
+dry eye disease: a systematic review and meta-analysis. Eye 
+(Lond) 2016;30:1558-67.
+18. Pisella PJ, Pouliquen P, Baudouin C. Prevalence of ocular 
+symptoms and signs with preserved and preservative free 
+glaucoma medication. Br J Ophthalmol 2002;86:418-23.
+19. Labbé A, Terry O, Brasnu E, Van Went C, Baudouin C. 
+Tear film osmolarity in patients treated for glaucoma or 
+ocular hypertension. Cornea 2012;31:994-9.
+20. Agnifili L, Fasanella V, Costagliola C, et al. In vivo confocal 
+microscopy of meibomian glands in glaucoma. Br J 
+Ophthalmol 2013;97:343-9.
+21. Doughty MJ, Fonn D, Richter D, Simpson T, Caffery B, 
+ # Chan et al #
+46 Hong Kong Med J ⎥ Volume 25 Number 1 ⎥ February 2019 ⎥ www.hkmj.org
+Gordon K. A patient questionnaire approach to estimating 
+the prevalence of dry eye symptoms in patients presenting 
+to optometric practices across Canada. Optom Vis Sci 
+1997;74:624-31.
+22. Yokoi N, Yamada H, Mizukusa Y, et al. Rheology of tear 
+film lipid layer spread in normal and aqueous tear-deficient 
+dry eyes. Invest Ophthalmol Vis Sci 2008;49:5319-24.
+23. Arita R, Itoh K, Inoue K, Kuchiba A, Yamaguchi T, 
+Amano S. Contact lens wear is associated with decrease of 
+meibomian glands. Ophthalmology 2009;116:379-84.
+24. Henriquez AS, Korb DR. Meibomian glands and contact 
+lens wear. Br J Ophthalmol 1981;65:108-11.
+25. Alghamdi WM, Markoulli M, Holden BA, Papas EB. 
+Impact of duration of contact lens wear on the structure 
+and function of the meibomian glands. Ophthalmic Physiol 
+Opt 2016;36:120-31.
+26. Nettune GR, Pflugfelder SC. Post-LASIK tear dysfunction 
+and dysesthesia. Ocul Surf 2010;8:135-45.
+27. Albietz JM, Lenton LM. Management of the ocular 
+surface and tear film before, during, and after laser in situ 
+keratomileusis. J Refract Surg 2004;20:62-71.
+28. English FP, Nutting WB. Demodicosis of ophthalmic 
+concern. Am J Ophthalmol 1981;91:362-72.
+29. Liang L, Liu Y, Ding X, Ke H, Chen C, Tseng SC. Significant 
+correlation between meibomian gland dysfunction and 
+keratitis in young patients with Demodex brevis infestation. 
+Br J Ophthalmol 2018;102:1098-102.
+30. Randon M, Liang H, El Hamdaoui M, et al. In vivo confocal 
+microscopy as a novel and reliable tool for the diagnosis of 
+Demodex eyelid infestation. Br J Ophthalmol 2015;99:336-
+41.
+31. Wolffsohn JS, Arita R, Chalmers R, et al. TFOS DEWS II 
+diagnostic methodology report. Ocul Surf 2017;15:539-74.
+32. Lemp MA, Bron AJ, Baudouin C, et al. Tear osmolarity in 
+the diagnosis and management of dry eye disease. Am J 
+Ophthalmol 2011;151:792-8.e1.
+33. Geerling G, Tauber J, Baudouin C, et al. The International 
+Workshop on Meibomian Gland Dysfunction: report 
+of the subcommittee on management and treatment of 
+meibomian gland dysfunction. Invest Ophthalmol Vis Sci 
+2011;52:2050-64.
+34. Chan TC, Wan KH, Shih KC, Jhanji V. Advances in dry 
+eye imaging: the present and beyond. Br J Ophthalmol 
+2018;102:295-301.
+35. Goto T, Zheng X, Okamoto S, Ohashi Y. Tear film 
+stability analysis system: introducing a new application for 
+videokeratography. Cornea 2004;23:S65-70.
+36. Ibrahim OM, Dogru M, Takano Y, et al. Application of 
+visante optical coherence tomography tear meniscus 
+height measurement in the diagnosis of dry eye disease. 
+Ophthalmology 2010;117:1923-9.
+37. Finis D, Pischel N, Schrader S, Geerling G. Evaluation of 
+lipid layer thickness measurement of the tear film as a 
+diagnostic tool for meibomian gland dysfunction. Cornea 
+2013;32:1549-53.
+38. Purslow C, Wolffsohn J. The relation between physical 
+properties of the anterior eye and ocular surface 
+temperature. Optom Vis Sci 2007;84:197-201.
+39. Arita R, Shirakawa R, Maeda S, Yamaguchi M, Ohashi 
+Y, Amano S. Decreased surface temperature of tarsal 
+conjunctiva in patients with meibomian gland dysfunction. 
+JAMA Ophthalmol 2013;131:818-9.
+40. Jones L, Downie LE, Korb D, et al. TFOS DEWS II 
+management and therapy report. Ocul Surf 2017;15:575-
+628.
+41. Shine WE, McCulley JP. Polar lipids in human meibomian 
+gland secretions. Curr Eye Res 2003;26:89-94.
+42. Knop E, Knop N, Millar T, Obata H, Sullivan DA. 
+The International Workshop on Meibomian Gland 
+Dysfunction: report of the subcommittee on anatomy, 
+physiology, and pathophysiology of the meibomian gland. 
+Invest Ophthalmol Vis Sci 2011;52:1938-78.
+43. Gao YY, Di Pascuale MA, Elizondo A, Tseng SC. Clinical 
+treatment of ocular demodecosis by lid scrub with tea tree 
+oil. Cornea 2007;26:136-43.
+44. Tighe S, Gao YY, Tseng SC. Terpinen-4-ol is the most active 
+ingredient of tea tree oil to kill Demodex mites. Transl Vis 
+Sci Technol 2013;2:2.
+45. Gao YY, Xu DL, Huang IJ, Wang R, Tseng SC. Treatment 
+of ocular itching associated with ocular demodicosis by 5% 
+tea tree oil ointment. Cornea 2012;31:14-7.
+46. Korb DR, Blackie CA. Meibomian gland therapeutic 
+expression: quantifying the applied pressure and the 
+limitation of resulting pain. Eye Contact Lens 2011;37:298-
+301.
+47. Lane SS, DuBiner HB, Epstein RJ, et al. A new system, 
+the LipiFlow, for the treatment of meibomian gland 
+dysfunction. Cornea 2012;31:396-404.
+48. Craig JP, Chen YH, Turnbull PR. Prospective trial of 
+intense pulsed light for the treatment of meibomian gland 
+dysfunction. Invest Ophthalmol Vis Sci 2015;56:1965-70.
+49. Sik Sarman Z, Cucen B, Yuksel N, Cengiz A, Caglar Y. 
+Effectiveness of intraductal meibomian gland probing 
+for obstructive meibomian gland dysfunction. Cornea 
+2016;35:721-4.
+50. Liu Y, Kam WR, Ding J, Sullivan DA. Can tetracycline 
+antibiotics duplicate the ability of azithromycin to stimulate 
+human meibomian gland epithelial cell differentiation? 
+Cornea 2015;34:342-6.
+51. Trees GR, Tomlinson A. Effect of artificial tear solutions 
+and saline on tear film evaporation. Optom Vis Sci 
+1990;67:886-90.
+52. Lee SY, Tong L. Lipid-containing lubricants for dry eye: a 
+systematic review. Optom Vis Sci 2012;89:1654-61.
+53. Djalilian AR, Nagineni CN, Mahesh SP, Smith JA, 
+Nussenblatt RB, Hooks JJ. Inhibition of inflammatory 
+cytokine production in human corneal cells by 
+dexamethasone, but not cyclosporin. Cornea 2006;25:709-
+14.
+54. Gao J, Sana R, Calder V, et al. Mitochondrial permeability 
+transition pore in inflammatory apoptosis of human 
+conjunctival epithelial cells and T cells: effect of cyclosporin 
+A. Invest Ophthalmol Vis Sci 2013;54:4717-33.
+55. Wan KH, Chen LJ, Young AL. Efficacy and safety of topical 
+0.05% cyclosporine eye drops in the treatment of dry eye 
+syndrome: a systematic review and meta-analysis. Ocul 
+Surf 2015;13:213-25.
+56. Prabhasawat P, Tesavibul N, Mahawong W. A randomized 
+double-masked study of 0.05% cyclosporine ophthalmic 
+emulsion in the treatment of meibomian gland dysfunction. 
+Cornea 2012;31:1386-93.
+57. López-García JS, García-Lozano I, Rivas L, Giménez C, 
+Acera A, Suárez-Cortés T. Effects of autologous serum eye 
+drops on conjunctival expression of MUC5AC in patients 
+with ocular surface disorders. Cornea 2016;35:336-41.
+58. La Porta Weber S, Becco de Souza R, Gomes JÁ, Hofling-
+# Dry eye disease and meibomian gland dysfunction # 
+47 Hong Kong Med J ⎥ Volume 25 Number 1 ⎥ February 2019 ⎥ www.hkmj.org
+Lima AL. The use of the Esclera scleral contact lens in the 
+treatment of moderate to severe dry eye disease. Am J 
+Ophthalmol 2016;163:167-73.e1.
+59. Liu Y, Kam WR, Sullivan DA. Influence of omega 3 and 
+6 fatty acids on human meibomian gland epithelial cells. 
+Cornea 2016;35:1122-6.
+60. Macsai MS. The role of omega-3 dietary supplementation 
+in blepharitis and meibomian gland dysfunction (an AOS 
+thesis). Trans Am Ophthalmol Soc 2008;106:336-56.
+61. Rosenberg ES, Asbell PA. Essential fatty acids in the 
+treatment of dry eye. Ocul Surf 2010;8:18-28.
+62. Das UN. Essential fatty acids—a review. Curr Pharm 
+Biotechnol 2006;7:467-82.
+63. Barabino S, Rolando M, Camicione P, et al. Systemic linoleic 
+and gamma-linolenic acid therapy in dry eye syndrome 
+with an inflammatory component. Cornea 2003;22:97-101.
+64. Aragona P, Bucolo C, Spinella R, Giuffrida S, Ferreri G. 
+Systemic omega-6 essential fatty acid treatment and 
+pge1 tear content in Sjögren’s syndrome patients. Invest 
+Ophthalmol Vis Sci 2005;46:4474-9.
+65. Ohba E, Dogru M, Hosaka E, et al. Surgical punctal 
+occlusion with a high heat-energy releasing cautery device 
+for severe dry eye with recurrent punctal plug extrusion. 
+Am J Ophthalmol 2011;151:483-7.e1.
+66. DeMartelaere SL, Blaydon SM, Tovilla-Canales JL, Shore 
+JW. A permanent and reversible procedure to block tear 
+drainage for the treatment of dry eye. Ophthalmic Plast 
+Reconstr Surg 2006;22:352-5.
+67. Ervin AM, Law A, Pucker AD. Punctal occlusion 
+for dry eye syndrome. Cochrane Database Syst Rev 
+2017;(6):CD006775.
+68. Sakuragawa N, Elwan MA, Uchida S, Fujii T, Kawashima K. 
+Non-neuronal neurotransmitters and neurotrophic factors 
+in amniotic epithelial cells: expression and function in 
+humans and monkey. Jpn J Pharmacol 2001;85:20-3.
+69. Blehm C, Vishnu S, Khattak A, Mitra S, Yee RW. Computer 
+vision syndrome: a review. Surv Ophthalmol 2005;50:253-
+62.
+70. Wang MT, Chan E, Ea L, et al. Randomized trial of desktop 
+humidifier for dry eye relief in computer users. Optom Vis 
+Sci 2017;94:1052-7.
+71. Aktaş S, Tetikoğlu M, Koçak A, et al. Impact of smoking on 
+the ocular surface, tear function, and tear osmolarity. Curr 
+Eye Res 2017;42:1585-9.

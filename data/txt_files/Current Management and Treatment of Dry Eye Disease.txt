@@ -1,0 +1,315 @@
+309
+©Copyright 2018 by Turkish Ophthalmological Association
+Turkish Journal of Ophthalmology, published by Galenos Publishing House.
+Review
+Current Management and Treatment of Dry Eye Disease
+Address for Correspondence: Murat Doğru MD, Keio University Faculty of Medicine, Department of Ophthalmology, Tokyo, Japan
+Phone: 81-3-5363-2012 E-mail: muratodooru2005@yahoo.co.jp ORCID-ID: orcid.org/0000-0001-9700-6633 
+Received: 13.10.2018 Accepted: 07.11.2018
+Introduction
+Dry eye disease (DED) affects hundreds of millions of 
+people worldwide. According to the 2017 International Dry 
+Eye Workshop II (DEWS II) report, dry eye is “a multifactorial 
+disease of the ocular surface characterized by a loss of homeostasis 
+of the tear film, and accompanied by ocular symptoms, in 
+which tear film instability and hyperosmolarity, ocular surface 
+inflammation and damage, and neurosensory abnormalities 
+play etiological roles.”1 Typical clinically severe dry eye disease 
+manifests with symptoms such as restriction of daily activities, 
+pain, decreased wellness, and impairment in general health.2,3,4
+Specifically, the term “multifactorial disease” states that 
+DED is a complex functional disorder involving various findings 
+and symptoms resulting from numerous complicated processes. 
+The term “ocular surface” encompasses the tear film, lacrimal 
+glands, meibomian glands, cornea, conjunctiva, and eyelids. 
+Disruption of homeostasis refers to the tear film and ocular 
+surface imbalances which accompany many symptoms in 
+DED. Tear film instability, hyperosmolarity, inflammation, 
+and damage, which are the main mechanisms contributing to 
+the physiopathological process, were regarded as triggers of 
+the vicious cycle occurring in DED. Additionally, the DEWS 
+II final summary comprehensively emphasized that neuronal 
+involvement and neurosensory abnormalities play an important 
+role in the pathophysiology of DED.5
+According to the pathophysiological classification, DED has 
+two types, aqueous deficient dry eye (ADDE) and evaporative dry 
+eye (EDE), and this classification is often used to make diagnosis 
+and identify the treatment modality.6
+ This review compiles 
+management and treatment options for dry eye disease. The 
+DEWS II and the Asia Dry Eye Society (ADES) reports served as 
+the basis of this review article.
+A new treatment strategy developed in line with dry eye 
+identification and diagnosis criteria is discussed in the DEWS II 
+and ADES reports. It was emphasized in these newly published 
+reports that more consideration should be given to etiological 
+distinctions.7
+ Determining the necessity of the tear film for a 
+healthy ocular surface and identifying tear film instability as 
+a key factor in the diagnosis of dry eye brought attention to 
+tear film layer stabilization, which led to the development of a 
+new strategy called Tear Film-Oriented Therapy.8
+ This review 
+emphasizes major innovations in dry eye treatment according 
+to DEWS II and ADES reports. DED was previously believed 
+to be largely due to tear deficiency, and accordingly, was treated 
+by way of tear replacement, with artificial tears and punctum 
+plugs.9,10,11,12,13 Recent advances in medical technology and our 
+A better understanding of the pathophysiology and etiology of dry eye disease leads to more efficient management and treatment of the 
+disease process. However, there is substantial variation among both clinicians and countries in terms of dry eye treatment modalities. 
+The latest 2017 International Dry Eye Workshop II report aimed to reduce these differences and emphasized the use of a stepped care 
+algorithm. The algorithm includes treatment forms ranging from artificial tear drops, the primary conventional treatment method, to 
+the latest surgical applications. The aims of the algorithm are to restore homeostasis in the ocular surface, break the vicious cycle of 
+inflammation, and ensure long-term ocular surface comfort.
+Keywords: Dry eye, treatment of dry eye, tear film breakup time
+Abstract
+Keio University Faculty of Medicine, Department of Ophthalmology, Tokyo, Japan
+DOI: 10.4274/tjo.69320 
+Turk J Ophthalmol 2018;48:309-313
+ Cem Şimşek, Murat Doğru, Takashi Kojima, Kazuo Tsubota
+Turk J Ophthalmol 48; 6: 2018
+310
+understanding of the pathophysiology, risk factors, and etiology 
+of DED have contributed to an evolution in treatment strategies 
+over time. Table 1 shows the treatment methods used in the 
+management of DED in detail. In the years since publication 
+of the original TFOS DEWS II Management and Therapy 
+Report,14 there has been a growing realization of the important 
+contribution of meibomian gland dysfunction (MGD) to both 
+the symptoms and signs of DED.15
+The management of DED is highly complicated because of 
+its multifactorial etiology associated with many mechanisms.16
+Therefore, when making a diagnosis of dry eye, clinicians 
+should clearly determine the underlying etiology, such as EDE 
+or ADDE, which are the mechanisms that cause DED, and/
+or other ocular surface diseases, and they should administer 
+relevant treatments accordingly.17,18 In addition, neurotrophic 
+keratopathy accompanied by neuropathic pain and symptoms 
+should definitely be considered in differential diagnosis of patients 
+with intense symptoms despite mild signs.19 Consequently, 
+determining the main causes behind DED is critical for proper 
+management.
+The ultimate goal of DED treatment is to restore homeostasis 
+of the ocular surface and tear film by breaking the vicious cycle 
+of the disease.20 In addition to short-term therapies, it is also 
+necessary to consider long-term treatment by taking into 
+consideration the sequelae that can occur during the chronic 
+disease process. The sequential treatment algorithm suggested in 
+the DEWS II report should not be applied rigidly, but according 
+to the benefit it will provide the patient. In the majority of 
+DED patients, the general purpose should be to start treatment 
+with the interventions most likely to be beneficial, and use more 
+advanced and specific treatments that target the pathophysiology.
+Management algorithms are structured to recommend a 
+series of treatments according to disease stage, but the issue 
+is complicated in DED because the disease often differs from 
+patient to patient in both severity and nature.21 Treatment 
+planning based on treatment algorithms is done according to 
+disease severity. However, due to the coexistence of many factors 
+in DED, strictly adhering to the algorithm system does not 
+always work. For this reason, a higher stage of treatment can be 
+applied in patients who do not respond to the treatment at the 
+Figure 1. A newly developed treatment strategy for dry eye disease: “tear film-oriented therapy” (used with permission from the Dry Eye Society Japan)
+311
+Şimşek et al, New Perspectives on Dry Eye
+Table 1. Detailed proposed treatment methods of dry eye disease
+1. Treatments for tear insufficiency 2. Treatments for lid abnormalities 4. Surgical approaches
+1.1. Tear replacement approaches 2.1. Anterior blepharitis 4.1. Tarsorrhaphy
+1.1.1. Artificial tear substitutes 2.1.1. Lid hygiene 4.2. Surgical treatment for conjunctivochalasis
+→ Aqueous supplementation → Bacterial overcolonization 4.2. Surgical treatment for conjunctivochalasis
+• Viscosity-enhancing agents • Topical antibiotics 4.4. Lid corrections
+ ° Carboxymethyl cellulose (CMC) → Demodex infestation 4.4.1. Dermatochalasis surgery
+ ° Hydroxypropyl methylcellulose • Tea tree oil 4.4.2. Blepharoptosis (ptosis)
+ ° Hyaluronic acid (HA) • Ivermectin 4.4.3. Lower lid blepharoplasty
+ ° Combination of CMC and HA 2.2. Meibomian gland dysfunction 4.5. Conjunctival surgery and amniotic membrane grafts
+ ° Hydroxypropyl-guar (HP-guar) 2.2.1. Ocular lubricants 4.6. Mechanical dacryo-reservoirs
+ ° Combination of HA and HP-guar 2.2.2. Warm compresses 4.7. Major salivary gland transplantation
+ ° Hydroxypropyl cellulose → Blephasteam 4.7.1. Parotid duct transposition
+• Osmotic agents → MGDRx EyeBag 4.7.2. Microvascular submandibular gland transplantation
+• Osmo-protectants → EyeGiene mask 4.8. Minor salivary gland auto-transplantation
+• Antioxidants → Infrared warm compression device
+• Preservatives 2.2.3. Physical treatments 5. Dietary modifications
+• Inactive agents → Forceful expression 5.1. General hydration state
+ ° Buffers → LipiFlow 5.2. Essential fatty acid (ω-3 and ω-6)
+ ° Excipients → Intense pulsed light 5.3. Lactoferrin
+ ° Electrolytes → Intraductal probing 5.4. Other dietary considerations (beta-carotene, vitamins 
+E, C, B, B6, D, zinc and copper)
+→ Lipid supplementation → Debridement scaling
+• Types and properties of lipids 2.3. Blinking abnormalities and ocular exposure 6. Local environmental considerations
+1.1.2. Biological tear substitutes 2.3.1. Treatment for corneal exposure 6.1. Chronic topical medications
+→ Autologous serum 2.3.2. Entropion and ectropion 6.2. Systemic medications
+ • Clinical performance 2.3.3. Contact lenses 6.3. Increase blink rate
+ • Complications and conclusion → Therapeutic soft contact lenses (bandage 
+lenses)
+6.4. Decrease desiccating conditions and environmental 
+pollutants
+→ Adult allogeneic serum → Rigid gas permeable scleral lenses 6.5. Contact lens wear
+→ Umbilical cord serum
+1.1.3. Other agents 3. Anti-inflammatory therapy 7. Complementary medicines
+→ Mucolytics 3.1. Topical glucocorticoids 7.1. Herbal and natural products
+• TRPV1 receptor antagonist 3.2. Non-glucocorticoid immunomodulators 7.2. Honey
+1.2. Tear conservation approaches 3.2.1. Cyclosporine A 7.3. Milk
+1.2.1. Punctal occlusion 3.2.2. Tacrolimus 7.4. Acupuncture
+→ Punctal occlusion with plugs 3.2.3. Non-steroidal anti-inflammatory drugs
+→ Surgical punctal occlusion 3.2.4. Biologics
+1.2.2. Moisture chamber spectacles and humidifiers → Recombinant human nerve growth factor 
+1.3. Tear stimulation approaches → Tumor necrosis factor a-stimulated gene/
+protein-6 
+1.3.1. Topical secretagogues → Interleukin-1 receptor antagonist (IL-1Ra)
+→ Aqueous secretagogues. Diquafosol tetrasodium → Anti-tumor necrosis factor-α therapy 
+→ Mucin secretagogues → Anti interleukin-17 (IL-17) therapy
+Turk J Ophthalmol 48; 6: 2018
+312
+proposed stage and in patients with severe dry eye, or treatment 
+recommended for the next stage can be added while continuing 
+the previous stage of treatment. Approaches adopting dry eye 
+treatment at home in the early stage can usually be performed 
+with over-the-counter lubricants which are low-risk and easy 
+for patients to obtain, but further advanced treatment options 
+should be considered in advanced patients.10,21,22,23 In conclusion, 
+the TFOS DEWS II management and therapy report presents a 
+step-wise approach to the treatment of DED. Implementation of 
+the management and therapeutic algorithm according to disease 
+severity can be summarized in four steps.
+The first step includes alteration of the local environment, 
+patient education, dietary modifications (including oral essential 
+fatty acid supplementation), identification and potential 
+modification/elimination of offending systemic and topical 
+medications, addition of ocular lubricants of various types (if 
+MGD is present, then consider lipid-containing supplements), 
+lid hygiene, and warm compresses.
+If the treatments in the first step are insufficient, the second 
+step is required. Treatments considered in the second step 
+include tea tree oil treatment for Demodex, preservative-free 
+artificial tears (to avoid the toxic effects of preservatives), punctal 
+plugs, moisture chamber devices and goggles to maintain 
+moisture and temperature, overnight ointment application, 
+removing blockages from the meibomian glands using a 
+warming and expression device (such as Lipiflow), intense pulsed 
+light therapy for MGD, and topical administration of drugs such 
+as corticosteroids, antibiotics, secretagogues, non-glucocorticoid 
+immunomodulators (cyclosporine and tacrolimus24), LFA-1 
+antagonist drugs (lifitegrast), and oral macrolide or tetracycline 
+antibiotics.
+If the above treatment options are inadequate, oral 
+secretagogues, autologous/allogenic serum eye drops, rigid and 
+soft contact lenses need to be considered in addition as a third￾step treatment.
+If there is clinical evidence of more severe complications 
+associated with the dry eye presentation, the clinician will need 
+to consider additional treatments in the fourth step, such as 
+application of topical corticosteroid for longer duration, amniotic 
+membrane grafts, surgical punctal occlusion, and other surgical 
+approaches (e.g., tarsorrhaphy, salivary gland transplantation).7
+In summary, dry eye diagnosis and treatment are evolving. 
+The basic mechanism leading to the disease is still not known 
+exactly. Accordingly, a global consensus has not been established 
+in the diagnosis and treatment of the disease. Etiology-oriented 
+treatment has gained importance in the meetings held by ADES 
+and TFOS, and ADES has acknowledged the “Tear Film Layers￾Oriented Therapy” protocol. The ADES consensus recommends 
+that the deficient layer of the tear film should be replaced 
+accordingly and the underlying problem should be addressed 
+directly (Figure 1). Since it is very difficult to classify dry eye 
+treatment within strict rules and base it only on evidence-based 
+studies, each patient should be evaluated individually and 
+patient-specific treatment plans should be made.
+Ethics
+Peer-review: Internally peer-reviewed.
+Authorship Contributions
+Surgical and Medical Practices: Cem Şimşek, Murat 
+Doğru, Takashi Kojima, Concept: Murat Doğru, Tsubota 
+Kazuo, Design: Takashi Kojima, Cem Şimşek, Kazuo Tsubota, 
+Data Collection or Processing: Cem Şimşek, Murat Doğru, 
+Analysis or Interpretation: Cem Şimşek, Murat Doğru, 
+Literature Search: Cem Şimşek, Murat Doğru, Takashi Kojima, 
+Writing: Cem Şimşek, Murat Doğru.
+Conflict of Interest: No conflict of interest was declared by 
+the authors.
+Financial Disclosure: The authors declared that this study 
+received no financial support.
+References
+1. Craig JP, Nichols KK, Akpek EK, Caffery B, Dua HS, Joo CK, Liu Z, Nelson 
+JD, Nichols JJ, Tsubota K, Stapleton F. TFOS DEWS II Definition and 
+Classification Report. Ocul Surf. 2017;15:276-283.
+2. Kim KW, Han SB, Han ER, Woo SJ, Lee JJ, Yoon JC, Hyon JY. Association 
+between depression and dry eye disease in an elderly population. Invest 
+Ophthalmol Vis Sci. 2011;52:7954-7958.
+3. Li M, Gong L, Sun X, Chapin WJ. Anxiety and depression in patients with 
+dry eye syndrome. Curr Eye Res. 2011;36:1-7.
+4. Na KS, Han K, Park YG, Na C, Joo CK. Depression, Stress, Quality of Life, 
+and Dry Eye Disease in Korean Women: A Population-Based Study. Cornea. 
+2015;34:733-738.
+5. Craig JP, Nelson JD, Azar DT, Belmonte C, Bron AJ, Chauhan SK, de Paiva 
+CS, Gomes JAP, Hammitt KM, Jones L, Nichols JJ, Nichols KK, Novack 
+GD, Stapleton FJ, Willcox MDP, Wolffsohn JS, Sullivan DA. TFOS DEWS II 
+Report Executive Summary. Ocul Surf. 2017;15:802-812.
+Table 1. Continued
+1.3.2. Lipid stimulation 3.2.5. Neuropeptides (Substance P, calcitonin 
+gene-related peptide, neuropeptide Y and 
+vasoactive intestinal peptide
+1.3.3. Oral secretagogues 3.3. Lymphocyte function-associated antigen 1 
+antagonist
+1.3.4. Nasal neuro-stimulation 3.3.1. Lifitegrast
+1.3.5. Various tear stimulation methods 3.4. Inflammatory modulation with systemic 
+and topical antibiotics
+3.4.1. Tetracycline therapy
+3.5. Macrolide therapy
+313
+Şimşek et al, New Perspectives on Dry Eye
+6. Lemp MA, Crews LA, Bron AJ, Foulks GN, Sullivan BD. Distribution of 
+aqueous-deficient and evaporative dry eye in a clinic-based patient cohort: a 
+retrospective study. Cornea. 2012;31:472-478.
+7. Jones L, Downie LE, Korb D, Benitez-Del-Castillo JM, Dana R, Deng 
+SX, Dong PN, Geerling G, Hida RY, Liu Y, Seo KY, Tauber J, Wakamatsu 
+TH, Xu J, Wolffsohn JS, Craig JP. TFOS DEWS II Management and Therapy 
+Report. Ocul Surf. 2017;15:575-628.
+8. Tsubota K, Yokoi N, Shimazaki J, Watanabe H, Dogru M, Yamada 
+M, Kinoshita S, Kim HM, Tchah HW, Hyon JY, Yoon KC, Seo KY, Sun 
+X, Chen W, Liang L, Li M, Liu Z; Asia Dry Eye Society. New perspectives 
+on dry eye definition and diagnosis: a consensus report by the Asia Dry Eye 
+Society. Ocular Surf. 2017;15:65-76.
+9. Dogru M, Nakamura M, Shimazaki J, Tsubota K. Changing trends in the 
+treatment of dry-eye disease. Expert Opin Investig Drugs. 2013;22:1581-
+1601.
+10. Dogru M, Tsubota K. Pharmacotherapy of dry eye. Expert Opin Pharmacother. 
+2011;12:325-334.
+11. Goto E, Yagi Y, Kaido M, Matsumoto Y, Konomi K, Tsubota K. Improved 
+functional visual acuity after punctal occlusion in dry eye patients. Am J 
+Ophthalmol. 2003;135:704-705.
+12. Murube J, Paterson A, Murube E. Classification of artificial tears. I: 
+Composition and properties. Adv Exp Med Biol. 1998;438:693-704.
+13. Yokoi N, Komuro A. Non-invasive methods of assessing the tear film. Exp 
+Eye Res. 2004;78:399-407.
+14. No authors listed. Management and therapy of dry eye disease: report of 
+the Management and Therapy Subcommittee of the International Dry Eye 
+WorkShop (2007). Ocul Surf. 2007;5:163-178.
+15. Nelson JD, Shimazaki J, Benitez-del-Castillo JM, Craig JP, McCulley JP, Den 
+S, Foulks GN. The international workshop on meibomian gland dysfunction: 
+report of the definition and classification subcommittee. Invest Ophthalmol 
+Vis Sci. 2011;52:1930-1937.
+16. Wolffsohn JS, Arita R, Chalmers R, Djalilian A, Dogru M, Dumbleton 
+K, Gupta PK, Karpecki P, Lazreg S, Pult H, Sullivan BD, Tomlinson A, Tong 
+L, Villani E, Yoon KC, Jones L, Craig JP. TFOS DEWS II Diagnostic 
+Methodology report. Ocul Surf. 2017;15:539-574.
+17. Williamson JF, Huynh K, Weaver MA, Davis RM. Perceptions of dry 
+eye disease management in current clinical practice. Eye Contact Lens. 
+2014;40:111-115.
+18. Sy A, O’Brien KS, Liu MP, Cuddapah PA, Acharya NR, Lietman TM, Rose￾Nussbaumer J. Expert opinion in the management of aqueous Deficient Dry 
+Eye Disease (DED). BMC Ophthalmol 2015;15:133.
+19. Belmonte C, Nichols JJ, Cox SM, Brock JA, Begley CG, Bereiter DA, Dartt 
+DA, Galor A, Hamrah P, Ivanusic JJ, Jacobs DS, McNamara NA, Rosenblatt 
+MI, Stapleton F, Wolffsohn JS. TFOS DEWS II pain and sensation report. 
+Ocular Surf. 2017;15:404-437.
+20. Downie LE, Keller PR. A pragmatic approach to dry eye diagnosis: evidence 
+into practice. Optom Vis Sci. 2015;92:1189-1197.
+21. Baudouin C, Aragona P, Van Setten G, Rolando M, Irkeç M, Benítez del 
+Castillo J, Geerling G, Labetoulle M, Bonini S; ODISSEY European Consensus 
+Group members. Diagnosing the severity of dry eye: a clear and practical 
+algorithm. Br J Ophthalmol. 2014;98:1168-1176.
+22. Tong L, Petznick A, Lee S, Tan J. Choice of artificial tear formulation for 
+patients with dry eye: where do we start? Cornea. 2012;31(Suppl 1):32-36.
+23. Murube J, Murube A, Zhuo C. Classification of artificial tears. II: Additives 
+and commercial formulas. Adv Exp Med Biol. 1998;438:705-715.
+24. Ohashi Y, Ebihara N, Fujishima H, Fukushima A, Kumagai N, Nakagawa 
+Y, Namba K, Okamoto S, Shoji J, Takamura E, Hayashi K. A randomized, 
+placebo-controlled clinical trial of tacrolimus ophthalmic suspension 0.1% in 
+severe allergic conjunctivitis. J Ocul Pharmacol Ther. 2010;26:165-174

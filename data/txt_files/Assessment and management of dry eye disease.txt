@@ -1,0 +1,387 @@
+Assessment and
+management of dry
+eye disease
+RJ Buckley
+Abstract
+The topic of the 1984 Cambridge
+Ophthalmological Symposium was ‘The Dry
+Eye’; it was chaired by my colleague and
+mentor Mr Peter Wright. In the 33 years that
+have passed since then we have learned a
+great deal more about this condition. This
+short paper sets out to review some of the
+more recent developments.
+Eye (2018) 32, 200–203; doi:10.1038/eye.2017.289;
+published online 5 January 2018
+Definitions
+The term ‘keratoconjunctivitis sicca’ was coined
+by Henrik Sjögren in 19331 and was
+subsequently applied to both Sjögren Syndrome
+and non-Sjögren Syndrome dry eye. In 1995, a
+working group from the National Eye Institute
+and Industry offered the following definition of
+what it termed dry eye disorder.
+‘Dry eye is a disorder of the tear film due to
+tear deficiency or excessive tear evaporation,
+which causes damage to the interpalpebral
+ocular surface and is associated with symptoms
+of discomfort’.
+2
+A new definition was adopted by the Tear
+Film and Ocular Surface Society’s International
+Dry Eye Workshop in 2007, which is as follows.
+‘Dry eye is a multifactorial disease of the tears
+and ocular surface that results in symptoms of
+discomfort, visual disturbance, and tear film
+instability with potential damage to the ocular
+surface. It is accompanied by increased
+osmolarity of the tear film and inflammation of
+the ocular surface’.
+3
+There were several innovations here: the
+multifactorial nature of the condition, a defining
+emphasis on increased tear osmolarity, and the
+first use of the term ‘Dry Eye Disease’ (DED).
+After 2 years of work, the second International
+Dry Eye Workshop reported in the summer of
+2017, having involved 12 subcommittees
+consisting of 150 experts from 23 countries.
+A new definition of DED was offered, which is
+as follows.
+‘Dry eye is a multifactorial disease of the
+ocular surface characterised by a loss of
+homoeostasis of the tear film, and accompanied
+by ocular symptoms, in which tear film
+instability and hyperosmolarity, ocular surface
+inflammation and damage, and neurosensory
+abnormalities have aetiological roles’.
+4
+The new features of this DED definition
+include loss of homoeostasis, which is a useful
+concept clinically in that it may help to
+determine approaches to management, and
+neurosensory abnormalities, which underlines
+the disconnect between symptoms and signs that
+we so often see in our patients.
+Types of dry eye disease and its prevalence
+As is well known, there are two major categories
+of DED, aqueous-deficient (equating with
+reduced lacrimal gland function) and
+evaporative (equating very largely with
+meibomian gland dysfunction). Evaporative dry
+eye is far commoner than aqueous-deficient dry
+eye, and many patients have both forms
+concurrently.5
+The tear film is important to vision as the first
+refracting surface of the eye. Its volume is
+around 7 µl and it is produced at 1.7 µl/min,
+with a 25% turnover per minute; however, these
+figures can only be illustrative as tear production
+is variable over a large range, being dependent
+on environmental and other conditions. For the
+purposes of tear film research, temperature,
+relative humidity, and airspeed can all be
+controlled in a controlled environment chamber.
+Other factors which affect tear production are
+more difficult to control, such as pain, bright
+light, stimulation of the nasal mucosa, and
+inputs from the higher centres, including
+emotional tearing.
+The global prevalence of DED is not constant.
+It is highest in South East Asia, and lowest in
+Europe and the USA. Prevalence increases with
+Faculty of Medical Science,
+Vision and Eye Research
+Unit, Anglia Ruskin
+University, Cambridge, UK
+Correspondence:
+RJ Buckley, Faculty of
+Medical Science, Vision and
+Eye Research Unit, Anglia
+Ruskin University, Health
+Building YST 213, East
+Road, Cambridge CB1 1PT,
+UK
+Tel: +44 (0)8451 962721.
+E-mail: Roger.Buckley@
+anglia.ac.uk
+Received: 17 October 2017
+Accepted: 30 October 2017
+Published online:
+5 January 2018
+Eye (2018) 32, 200–203
+© 2018 Macmillan Publishers Limited, part of Springer Nature. All rights reserved 0950-222X/18
+www.nature.com/eye
+CAMBRIDGE OPHTHALMOLOGICAL SYMPOSIUM
+age, with signs showing a greater increase per decade
+than symptoms. Women have a higher prevalence than
+men. Although most workers have found that tear
+parameters change with age, with volume, Schirmer score
+and break-up time reducing, and osmolarity increasing,6,7
+others have found no significant age differences, except
+that osmolarity increases with age in females.
+Tomlinson’s group suggested that in DED there are
+pathological processes at work, particularly meibomian
+gland dysfunction, and that dry eye is hence an acquired
+disease rather than an age-related change.8
+Assessment of dry eye disease
+There are many programmes for the assessment of
+patients with DED, comprising the recording of
+symptoms and a variable number of observations and
+measurements, which might include tear secretion, tear
+clearance, ocular surface damage, tear film stability, tear
+volume, lipid layer assessment, and tear osmolarity.
+There are many ocular surface symptom questionnaires.
+The Ocular Surface Disease Index consists of 12 questions
+and is a much-used and validated instrument for
+measuring the subjective severity of DED.9
+Ocular surface damage can be assessed with stains and
+by cytology, either by impression or with the aid of the
+confocal microscope. The Oxford Scheme is often used for
+grading ocular surface staining in steps from 0 to 5, using
+fluorescein and rose bengal or lissamine green, as
+described by Bron et al in 2003.10 Tear film stability is an
+important part of the clinical assessment of dry eye
+disease. The non-invasive break-up time requires a special
+instrument, but the fluorescein break-up time can be
+easily measured at the slit lamp and should be carried out
+in every patient. A helpful adjunct to the slit lamp
+examination is an audible signal indicating seconds (eg, a
+mechanical or electronic metronome).
+Ideally, some attempt, beyond recording the break-up
+time, should be made to assess the lipid layer of the tear
+film. Interferometry is not normally available in the clinic,
+and nor is meibometry, in which the quantity of
+meibomian oil on the lid margin is measured. Both of
+these are research tools, but meibography could be used
+routinely in the clinic. The everted lid is scanned with an
+infra-red light source and an image of the meibomian
+glands is immediately seen and can be photographed.
+Structural abnormalities are usually obvious and can be
+scored.11
+In recent years, a consensus has been reached that tear
+osmolarity is the single best marker of dry eye disease
+severity. The most generally used clinical and research
+instrument is the TearLab Osmometer, which estimates
+osmolarity from the electrical impedance of a 50 nl tear
+sample collected from the lateral meniscus. Many workers
+have suggested values or ranges for the osmolarity of
+normal tears. It is generally accepted that the threshold
+for mild to moderate dry eye disease is at 308 mOsm/l.
+Many years ago it was proposed that tear osmolarity and
+plasma osmolality were related and more recently it was
+suggested that tear measurements could help in the
+diagnosis of systemic dehydration.12 We have
+demonstrated that the osmolarity of tears can be driven
+down to a basal level resembling that of plasma by 45 min
+of eye closure.13
+Although osmolarity measurements correlate best with
+severity in DED, and the Schirmer test least well,14 this
+test, introduced as long ago as 1903, is cheap, quick, and
+universally available. The fact that it has been identified
+as the least satisfactory marker of DED severity is partly
+explained by the lack of consistency in its use: the type of
+strip, its position, whether the eyes are open or closed,
+whether a topical anaesthetic or no anaesthetic is used,
+and the evaporation of tear fluid from the strip during the
+5-min test, which varies with environmental conditions.
+However, for clinical purposes it remains a useful
+measure of tear production, so ways need to be found by
+which it can be improved. In a recent poster it was
+proposed that the Schirmer test can provide a reliable
+measure of actual tear production, provided at least three
+readings are taken, at 3, 4, and 5 min.15 Evaporation
+during the course of the Schirmer test can be prevented by
+sheathing the strip in a pocket of impermeable plastic.
+Using a controlled environment chamber, we investigated
+this refinement at different relative humidities and we
+found that the wetting length was always significantly
+greater in sheathed strips.16
+Dry eye disease management
+The principles of DED management start with controlling
+the ocular environment, if possible. This means advising
+the patient to avoid dry atmospheres, high airspeeds
+including fans, car heaters and air conditioning, and being
+aware of the effects of concentration on blink rate.
+Concentration includes reading, working at the computer
+screen, and the use of digital devices. External protection
+of the ocular surface is quite difficult to achieve but is
+sometimes helpful, as are contact lenses in some cases,
+and here the choice is often between silicon hydrogel
+lenses with their low water content and scleral lenses
+which cover the entire exposed ocular surface. In aqueous
+deficiency DED, punctal plugs or cautery can be effective
+in conserving tears.
+There is a huge literature on DED Management. Last
+year a Cochrane Systematic Review found that most over￾the-counter artificial tear preparations are similarly
+effective.17 Some success has been achieved with
+antioxidants, and viscosity enhancers such as drops
+Assessment and management of dry eye disease
+RJ Buckley
+201
+Eye
+containing HPMC or hyaluronic acid are much used.
+Hypo-osmolar drops have been available for years and
+there is interest in newer osmoprotectants, including
+trehalose, a non-reducing sugar whose molecules cluster
+in aqueous solution.
+Lipids combined with viscosity enhancers have been
+shown to be more effective than either alone.18 Treating
+the closed eye with a liposome-containing spray may at
+first seem a strange way to target the ocular surface, but
+the drug crosses the lid margins after a few blinks and
+then, with the ability of phospholipids to generate surface
+monolayers, thickens the lipid layer of the tears for 60–90
+min.19 Autologous serum, prepared from the patient’s
+own blood, is very similar to natural tears, being of the
+correct pH and containing nutrients, vitamins,
+fibronectin, epithelial, and nerve growth factors, but there
+are legal hurdles involved in its preparation and it is very
+expensive, a single batch costing £1300 in 2008.20 A
+recently published multi-centre European RCT of
+ciclosporin 0.1% emulsion showed improvement of
+symptoms and signs in patients with moderate to severe
+DED.21 Steroids have been used for many years in DED
+where there is significant inflammation, and the usual
+caveats of steroid usage apply: short periods of use and
+the ‘less-penetrating’ drugs are to be preferred. There is a
+host of newer drugs at various stages of development
+including clinical trials. One that was licensed by the FDA
+last year was Lifitegrast, an integrin inhibitor that
+downregulates T-lymphocyte-mediated inflammation.22
+Lid hygiene remains one of the mainstays of the
+management of meibomian gland dysfunction, and there
+is still little evidence that commercial alternatives are
+superior to diluted baby shampoo. Warm compresses are
+soothing and may liquefy solidified meibomian
+secretions. Intense pulsed light therapy has received
+much publicity of late but so far only one RCT has been
+published. We in this country have been using systemic
+tetracyclines for years but a 2016 report for the American
+Academy of Ophthalmology revealed that of eight studies
+only one was a RCT.23 Although all these studies
+documented an improvement in meibomian gland
+dysfunction, albeit commonly associated with side-effects,
+no level 1 evidence was found to support the use of oral
+antibiotics in the management of ocular surface disease.
+Topical macrolides, specifically azithromycin, show
+promise, as was illustrated for example in the 2016 study
+of Hosseini.24
+Diet and dietary supplements are two different things.
+As an association between low dietary intake of omega-3
+essential fatty acids and DED has been shown,25 it makes
+sense to advise a diet rich in these EFAs in Dry Eye
+patients. However, we have few high-quality RCTs to
+enable us to assess the value of omega-3 and omega-6
+supplements in these patients. A meta-analysis of seven
+studies involving 790 participants showed that omega-3
+supplementation improved break-up times and Schirmer
+scores, but had no significant effect on symptoms.26
+Conclusion
+Our understanding of DED has advanced very
+considerably since 1984, when the topic was last
+considered in depth at the Cambridge Ophthalmological
+Symposium. This has led to improvements in detection
+and management of this common condition, which have
+benefited our patients.
+Conflict of interest
+The author declares no conflict of interest.
+References
+1 Sjögren H. Zur Kenntnis der keratoconjunctivitis sicca. Acta
+Ophtalmol 1933; 11(Suppl. II): 1–151.
+2 Lemp MA. Report of the National Eye Institute/Industry
+Workshop on Clinical Trials in Dry Eyes. CLAO J 1995; 21(4):
+221–232.
+3 Lemp MA, Baudouin C, Baum J, Dogru M, Foulks GN,
+Kinoshita S et al. The definition and classification of dry eye
+disease: report of the definition and classification
+Subcommittee of the International Dry Eye Workshop. Ocul
+Surf 2007; 5 (2):75–92.
+4 J. Daniel Nelson JD, Craig JP, Akpek EK, Azar DT,
+Belmonte C, Bron AJ et al. TFOS DEWS II introduction. Ocul
+Surf 2017; 15: 269–275.
+5 Lemp MA, Crews LA, Bron AJ, Foulks GN, Sullivan BD.
+Distribution of aqueous-deficient and evaporative dry eye in
+a clinic-based patient cohort: a retrospective study. Cornea
+2012; 31: 472–478.
+6 Mathers WD, Lane JA, Zimmerman MB. Tear film changes
+associated with normal aging. Cornea 1996; 15(3): 229–234.
+7 Ozdemir M, Temizdemir H. Age- and gender-related tear
+function changes in normal population. Eye 2010; 24: 79–83.
+8 Craig JP, Tomlinson A. Age and gender effects on the normal
+tear film. Adv Exp Med Biol 1998; 438: 411–415.
+9 Schiffman RM, Christianson MD, Jacobsen G, Hirsch JD,
+Reis BL. Reliability and validity of the ocular surface disease
+index. Arch Ophthalmol 2000; 118(5): 615–621.
+10 Bron AJ, Evans VE, Smith JA. Grading of corneal and
+conjunctival staining in the context of other dry eye tests.
+Cornea 2003; 22(7): 640–650.
+11 Arita R, Itoh K, Inoue K, Amano S. Noncontact infrared
+meibography to document age-related changes of the
+meibomian glands in a normal population. Ophthalmology
+2008; 115(5): 911–915.
+12 Fortes MB, Diment BC, Di Felice U, Gunn AE, Kendall JL,
+Esmaeelpour M et al. Tear fluid osmolarity as a potential
+marker of hydration status. Med Sci Sports Exerc 2011; 43(8):
+1590–1597.
+13 Willshire C, Buckley RJ, Bron AJ. Estimating basal tear
+osmolarity in normal and dry eye subjects. Cont Lens Anterior
+Eye 2017; epub ahead of print 22 September 2017;
+doi: 10.1016/j.clae.2017.09.005.
+Assessment and management of dry eye disease
+RJ Buckley
+202
+Eye
+14 Sullivan BD, Whitmer D, Nichols KK, Tomlinson A, Foulks
+GN, Geerling G et al. An objective approach to dry eye
+disease severity. Inv Ophthalmol Vis Sci 2010; 51(12):
+6125–6130.
+15 Radke CJ, Kim YH, Li W, Lin MC. Schirmer strips provide
+reliable tear-production rates. Inv Ophthalmol Vis Sci 2017; 58
+(8): 478.
+16 Willshire C, Buckley RJ, Bron AJ. Standardising the Schirmer
+test by enclosing the strip in a waterproof sheath. Acta
+Ophthalmol 2015; 93(S255).
+17 Pucker AD, Ng SM, Nichols JJ. Over the counter (OTC)
+artificial tear drops for dry eye syndrome. Cochrane Database
+Syst Rev 2016; (Issue 2): CD009729.
+18 Tomlinson A, Madden LC, Simmons PA. Effectiveness of
+dry eye therapy under conditions of environmental stress.
+Curr Eye Res 2013; 38(2): 229–236.
+19 Craig JP, Purslow C, Murphy PJ, Wolffsohn JSW. Effect of
+a liposomal spray on the pre-ocular tear film. Cont Lens
+Anterior Eye 2010; 33(2): 83–87.
+20 MacLennan S, Hartwig D, Geerling G. Experiences with a
+centralised national service for autologous serum eyedrops
+in England. Ophthalmologe 2008; 105(7): 639–643.
+21 Baudouin C, Figueiredo FC, Massmer EM, Ismail D,
+Amrane M, Garrigue JS et al. A randomised study of the
+efficacy and safety of 0.1% cyclosporine A cationic emulsion
+in treatment of moderate to severe dry eye. Eur J Ophthalmol
+2017; 27(5): 520–530.
+22 Godin MR, Gupta PL. Lifitegrast ophthalmic solution in the
+treatment of signs and symptoms of dry eye disease: design,
+development, and place in therapy. Clin Ophthalmol 2017; 11:
+951–957.
+23 Wladis EJ, Bradley EA, Bilyk JR, Yen MT, Mawn LA. Oral
+antibiotics for meibomian gland-related ocular surface
+disease: a report by the American Academy of
+Ophthalmology. Ophthalmology 2016; 123(3): 492–496.
+24 Hosseini K, Lindstrom RL, Foulks G, Nichols KK. A
+randomized, double-masked, parallel-group, comparative
+study to evaluate the clinical efficacy and safety of 1%
+azithromycin-0.1% dexamethasone combination compared
+to 1% azithromycin alone, 0.1% dexamethasone alone, and
+vehicle in the treatment of subjects with blepharitis. Clin
+Ophthalmol 2016; 10: 1495–1503.
+25 Miljanovic B, Trivedi KA, Dana MR, Gilbard JP, Buring JE,
+Schaumberg DA. Relation between dietary n-3 and n-6 fatty
+acids and clinically diagnosed dry eye syndrome in women.
+Am J Clin Nutr 2005; 82(4): 887–893.
+26 Liu A, Ji J. Omega-3 essential fatty acids therapy for dry eye
+syndrome: a meta-analysis of randomized controlled studies.
+Med Sci Monit 2014; 20: 1583–1589.
+Assessment and management of dry eye disease
+RJ Buckley
+203
+Eye

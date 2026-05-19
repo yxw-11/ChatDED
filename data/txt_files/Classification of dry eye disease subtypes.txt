@@ -1,0 +1,591 @@
+Contact Lens and Anterior Eye 47 (2024) 102257
+Available online 4 July 2024
+1367-0484/© 2024 The Author(s). Published by Elsevier Ltd on behalf of British Contact Lens Association. This is an open access article under the CC BY license
+(http://creativecommons.org/licenses/by/4.0/).
+Classification of dry eye disease subtypes 
+M. Vidal-Rohr a
+, J.P. Craig a,b
+, L.N. Davies a
+, J.S. Wolffsohn a,b,* 
+a School of Optometry, College of Health and Life Sciences, Aston University, Birmingham, UK b Department of Ophthalmology, Aotearoa New Zealand National Eye Centre, The University of Auckland, New Zealand 
+ARTICLE INFO 
+Keywords: 
+Dry eye disease 
+Subclassification 
+Subtype 
+Aqueous deficiency 
+Evaporative 
+ABSTRACT 
+Purpose: The current subclassifications of dry eye disease (DED) are aqueous deficient (ADDE) and evaporative 
+(EDE) forms, but there lacks consistency in the clinical characteristics used to define each of these. This study 
+used clinical data to inform cut-off values for the subclassification of ADDE and EDE, to allow more consistent 
+study of the epidemiology of both DED subtypes. 
+Methods: The study enrolled 261 residents from the UK, extracted from a cohort with demographics representing 
+the population (mean 42.4 ± 18.7 years, 56 % females). The TFOS DEWS II diagnostic criteria were used to 
+identify those with DED. Meibomian gland loss/drop-out (from meibography), lipid layer thickness (LLT − from 
+interferometry graded on the Guillon-Keeler scale), and tear meniscus height (TMH − Keratograph 5M) along 
+with tear evaporation (Delfin Vapometer) were used to characterise the subclassification. The Dry Eye Risk 
+Factor Survey was used to assess risk factors associated with each DED subtype. 
+Results: Compared to individuals who were not diagnosed with DED, EDE was characterized by signs of mei￾bomian gland loss of > 28 %, LLT grade < 3 and tear evaporation > 46 g/m2
+/h. In contrast, ADDE was best 
+characterized by a reduced TMH < 0.2 mm. Based on these criteria, the prevalence of ADDE was 6.2 %, EDE was 
+64.2 %, and 11.1 % exhibited features of both ADDE and EDE, with 18.5 % unclassified despite having a DED 
+diagnosis. Contact lens wear and computer use were risk factors for ADDE (p < 0.05), whereas age was a positive 
+risk factor for EDE (p < 0.01). Meibomian gland loss (occurring in 27.9 %) was the most commonly observed sign 
+in EDE. 
+Conclusions: Data driven-classification of DED confirms that the evaporative form is most prevalent and identified 
+that in a generalisable UK population, ADDE alone occurs only in approximately 1 in 16 cases of DED. 
+1. Introduction 
+Dry eye (DED) is a multifactorial disease characterized by symptoms 
+resulting from a homeostatic imbalance of the ocular surface and tear 
+film. It has been classified into two main entities: evaporative (EDE) and 
+aqueous deficient (ADDE) DED [1]. These subclassifications are used by 
+clinicians to inform the most effective treatment plan for an individual 
+patient and hence are critical to clinical practice [2]. A lack of stand￾ardisation makes it difficult to compare the results from clinical trials to 
+inform evidence-based practice. Both EDE and ADDE have similar ocular 
+symptoms and general DED signs; however, they have different primary 
+causes and may be associated with different risk factors; therefore a 
+different therapeutic approach is warranted [2]. 
+DED consensus reports support the hypothesis that EDE and ADDE 
+can coexist and that subclassification is an important stage of patient 
+management between diagnosis and treatment [3]. Clinical tests that 
+could inform ADDE and EDE subclassification include those that quan￾tify the tear film volume (including Schirmer test, the Phenol Red 
+Thread test (PRT) and tear meniscus height (TMH)), as well as lipid layer 
+thickness (LLT), tear film evaporation and meibomian gland loss/drop￾out [4]. These clinical assessments are not part of a formal diagnosis of 
+DED, but should be used to inform selection of the most appropriate 
+therapies for an individual patient to improve their quality of life 
+through reducing DED symptoms [4]. 
+While many combinations of clinical tests have been selected to 
+differentiate EDE and ADDE in academic clinical trials, there is no 
+apparent consistency in categorising both DED subtypes [2]. This causes 
+problems, for example in understanding the epidemiology of DED, using 
+differing subclassification test combinations and cut-off values, and 
+hindering direct comparisons of the prevalence rates of EDE and ADDE 
+[5–7] (see Table 1). In general, the selected criteria have been reported 
+without any rationale, and the tests used to diagnose DED prior to 
+* Corresponding author at: Aston University, Aston Triangle, Birmingham B4 7ET, UK. 
+E-mail address: j.s.w.wolffsohn@aston.ac.uk (J.S. Wolffsohn). 
+Contents lists available at ScienceDirect 
+Contact Lens and Anterior Eye 
+journal homepage: www.elsevier.com/locate/clae 
+https://doi.org/10.1016/j.clae.2024.102257 
+Received 11 November 2023; Received in revised form 31 May 2024; Accepted 25 June 2024 
+Contact Lens and Anterior Eye 47 (2024) 102257
+2
+subclassification can be somewhat variable [4]. 
+To achieve an accurate disease subclassification, a standardized DED 
+diagnosis is crucial. Accordingly, TFOS DEWS II identified an evidence￾based DED diagnostic battery of tests and cut-offs [4] and advocated for 
+subsequent subclassification of the disease in those diagnosed, including 
+measurements of TMH, tear evaporation, LLT and meibomian gland loss 
+[4]; however, evidence informing subclassification test cut-off values 
+was lacking. 
+The present study is the first to propose a subclassification system for 
+both ADDE and EDE (with evidence-informed cut-off values) for DED, 
+based on the current diagnostic recommendations of the TFOS DEWS II. 
+Once established, the subclassification system was used to determine the 
+prevalence and risk factors of EDE, ADDE and those displaying elements 
+of both DED subclassifications within the UK population. 
+2. Methods 
+The study conformed to the tenets of the Declaration of Helsinki and 
+all participants gave their written, informed consent to take part. It 
+received a favourable opinion by the ethical committee of Aston Uni￾versity and governance approval. To participate in the study, partici￾pants were required to be ≥ 18 years of age and have lived in the UK for 
+at least the previous 5 years. Participants were invited from those 
+attending routine eye care (not a specialist service), random sampling, 
+with targeting of age and sex stratification to closely match the United 
+Kingdom (UK) Birmingham population census. Less than 10 % declined 
+and were replaced by participants of a similar age and sex. The partic￾ipants were advised not to wear contact lenses or use any artificial tears 
+or topical medication 24 h prior to the study. 
+DED was diagnosed based on the TFOS DEWS II criteria and a pre￾vious study described the methodology [9] used to assess the prevalence 
+and potential risk factors of DED. Measurements of tear evaporation, 
+TMH, LLT and lower/upper meibomian gland loss, were assessed in the 
+order listed to inform the subclassification of DED, as suggested by the 
+TFOS DEWS II [4]. 
+The Delfin VapoMeter (Delfin Technologies Ltd, Kuopoi, Finland) 
+was used to assess tear film evaporation rate. The humidity is measured 
+within a swimming google piece that encloses the eye during measure￾ment. Participants were required to keep their eyes open without 
+blinking during the complete measurement, as specified by the equip￾ment instructions. The average of three consecutive tear film evapora￾tion readings were recorded. 
+The tear meniscus was imaged using infrared light and 1.4 times 
+magnification, with the software callipers used to measure the inferior 
+TMH three times (Keratograph 5M). The lipid layer was imaged using 
+interferometry (1.4 times magnification using the Keratograph 5M) and 
+graded with the modified Guillon-Keeler scale [10]. Participants were 
+instructed to look forward naturally while the instrument was set up for 
+the next measure to ensure blinks were not forced. The predominant 
+Table 1 
+Previous large-scale clinical-population-based studies on DED subtypes. 
+Study Population DED subtypes 
+characteristics ADDE EDE 
+Age (years) 
+Sex (n) 
+Diagnosis Prevalence 
+(%[95 % 
+CI]) 
+Diagnosis Prevalence 
+(%[95 % 
+CI]) 
+Albietz 2000A [5] 3–96 
+♀ 912 
+♂ 672 
+Lipid layer without colour fringes and meibomian 
+glands without particulate, frothy or cloudy 
+meibum, and PRT test of < 10 mm/ 15 s and 
+TMH of < 0.10 mm 
+1.7 [n/a] Lipid layer with colour fringes and meibomian 
+glands with particulate, frothy or cloudy meibum, 
+and PRT test of ≥ 10 mm/ 15 s and 
+TMH of ≥ 0.10 mm 
+4.0 [n/a] 
+Lemp et al. 2012B 
+[8] 
+46.3 ± 16.9 
+♀ 218 
+♂ 81 
+MGD score of ≤ 5 and Schirmer test II of < 7 mm/5 
+min 
+10.3 [n/a] MGD score of > 5 and Schirmer test II 7 mm/5 min 35.5 [n/a] 
+Rege et al. 2013C 
+[6] 
+≥18 
+♀ 2585 
+♂ 2165 
+Meibomian glands without inspissated or 
+toothpaste-like meibum, and Schirmer test II of < 10 
+mm/ 5 min 
+13.36 [n/ 
+a] 
+Meibomian glands with inspissated or toothpaste￾like meibum, and Schirmer test II of ≥ 10 mm/ 5 
+min 
+14.48 [n/ 
+a] 
+Asiedu. Dzasimatu 
+and Kyei 2019D 
+[7] 
+17–35 
+♀ 89 
+83 ♂ 
+Meibomian glands without low expressibility and 
+cloudy or toothpaste-like meibum. and Schirmer test 
+I of ≤ 5 mm/5 min 
+5.2 [n/a]†
+5.2 [n/a]‡
+Meibomian glands with low expressibility and 
+cloudy or toothpaste-like meibum. and Schirmer 
+test I of > 5 mm/5 min 
+11.6 [n/a]†
+7.0 [n/a]‡
+DED = dry eye disease. ADDE = aqueous deficient dry eye. EDE = evaporative dry eye. PRT = phenol red thread. TMH = tear meniscus height. 
+A. DED was defined by at least one of five primary symptoms of the McMonnies questionnaire (soreness, scratchiness, dryness, grittiness and burning) either often or 
+constantly, a fluorescein breakup time of < 10 s and a rose bengal score of ≥ 1 (van Bjisterveld staining score). 
+B. DED was defined by an Ocular Surface Disease Index (OSDI) score of ≥ 5 and at least two of five signs: fluorescein breakup time < 7 s, Schirmer test I < 7 mm/5 min, 
+corneal staining > 0 (National Eye Institute/Industry Workshop scale), conjunctival staining > 0 (National Eye Institute/Industry Workshop scale) and meiboscore of 
+> 5 (Bron/Foulks scoring system). 
+C. DED was defined by presenting a meibum quality score of ≥ 14.5. 
+D. DED was classified into symptomatic† and asymptomatic‡ DED. Symptomatic DED was defined by an OSDI score of ≥ 13 and fluorescein tear break-time of < 10 s or 
+corneal and conjunctival fluorescein staining of ≥ 1 (Oxford grading scale). Asymptomatic DED was defined by an OSDI score of < 13 and fluorescein tear break-time 
+of < 10 s or corneal and conjunctival fluorescein staining of ≥ 1 (Oxford grading scale). 
+Table 2 
+DED subclassification signs of non-DED participants (stratified by sex and the 
+absence/presence of health conditions/problems). 
+Subclassification 
+Signs 
+Non-DED participants 
+(mean ± SD) Without health 
+conditions/ 
+problems 
+With health conditions/ 
+problems 
+♀ n ¼
+20 
+♂ n ¼
+26 
+♀ n ¼
+26 
+♂ n ¼
+27 
+Tear evaporation (g/ 
+m2
+/h) 
+43.3 
+± 2.8 
+37.4 
+± 1.9 
+56.5 
+± 7.1 
+46.1 
+± 5.4 
+TMH (mm) 0.28 
+± 0.02 
+0.28 
+± 0.02 
+0.26 
+± 0.02 
+0.38 
+± 0.03 
+*** 
+LLT score 3.7 
+± 0.3 
+3.3 
+± 0.3 
+3.8 
+± 0.3 
+3.3 
+± 0.2 
+* 
+Lower MG loss (%) 19.3 
+± 3.1 
+17.2 
+± 2.5 
+21.2 
+± 2.5 
+20.8 
+± 2.3 
+Upper MG loss (%) 23.5 
+± 3.8 
+20.9 
+± 2.1 
+30.2 
+± 3.3 
+26.4 
+± 2.7 
+DED = dry eye disease. MG = meibomian gland. * p ≤ 0.05. *** p ≤ 0.001. ♀ =
+female. ♂ = male. n = sample size. SD = standard deviation. 
+M. Vidal-Rohr et al. 
+Contact Lens and Anterior Eye 47 (2024) 102257
+3
+pattern was recorded when overlapping lipid layer patterns were 
+observed. The areas of meibomian gland loss relative to the exposed 
+palpebral area was calculated from infrared light images captured using 
+the Keratograph 5M, with the glands outlined in ImageJ (https://imagej. 
+nih.gov/ij/index.html) [11]. 
+In line with current definitions of EDE and ADDE [3], ADDE was 
+chosen by the authors based on prior approaches to be described by a 
+reduced TMH, whereas EDE was described by a reduced LLT or an 
+increased tear evaporation or lower/upper meibomian gland loss [4]. 
+Meibomian gland dysfunction has been previously graded by the 
+quality of the meibum, more specifically, by its expressibility and 
+appearance [5–7]. In the present study, the condition was defined by 
+meibomian gland dropout, which has been previously correlated with 
+altered meibum [12,13] and is generally less invasive and easier to 
+quantify than gland expression. 
+Sex, age, employment status, health conditions/problems, medica￾tion intake, sleep quality, and outdoor activity were gathered by the Dry 
+Eye Risk Factors Survey (DERFS) [9] and the results used to inform the 
+risk factor analysis of both DED subclassifications. These factors have 
+been shown to be significant risk factors of (TFOS DEWS II diagnosed) 
+Fig. 1. Tear evaporation distribution of healthy non-DED participants (n = 46; numbers above line indicate number of participants) EDE = evaporative dry eye; DED 
+= dry eye disease. (A) Frequency plot of tear evaporation measurements of healthy non-DED participants. (B) Box plot of tear evaporation measurements of healthy 
+non-DED participants. First quartile = 32 g/m2
+/h; Median = 39 g/m2
+/h; Third quartile = 46 g/m2
+/h; Minimum = 11 g/m2
+/h; Maximum = 67 g/m2
+/h. The tear 
+evaporation cut-off value was set at 46 g/m2
+/h. The cut-off value was based on the third quartile of the tear evaporation distribution referring 36 of 46 non-DED 
+participants as non-EDE. The approach used allowed inference of the highest possible test specificity of 78 % (36/46). 
+Fig. 2. TMH distribution of healthy non-DED participants (n = 46; numbers above line indicate number of participants). TMH = tear meniscus height; ADDE =
+aqueous deficient dry eye; DED = dry eye disease. (A) Frequency plot of TMH measurements of healthy non-DED participants. (B) Box plot of TMH measurements of 
+healthy non-DED participants. First quartile = 0.20 mm; Median = 0.28 mm; Third quartile = 0.34 mm; Minimum = 0.00 mm; Maximum = 0.55 mm. The TMH cut￾off value was set at 0.20 mm. The cut-off value was based on the first quartile of the TMH distribution referring 35 of 46 non-DED participants as non-ADDE. The 
+approach used allowed inference of the highest possible test specificity of 76 % (35/46). 
+M. Vidal-Rohr et al. 
+Contact Lens and Anterior Eye 47 (2024) 102257
+4
+DED and, amongst these, sex and health conditions/problems had the 
+greatest statistical significance [9]. 
+Dry eye subclassification test cut-off values were determined from 
+TMH, tear evaporation, LLT and meibomian gland loss readings, 
+ensuring a high level of specificity in the excluding of non-DED partic￾ipants. The readings were first stratified by sex and subsequently by the 
+presence or absence of health conditions or problems, to understand 
+whether either factor might have confounded normal tear film charac￾teristics. The study aimed to adopt cut-off values that were as specific as 
+possible, since parallel testing of highly specific tests gives greater 
+confidence in the differential diagnosis of DED [4]. 
+2.1. Statistical analysis 
+Statistical analysis was performed with SPSS version 23 (IBM Corp, 
+New York. USA). Kolmogorov-Smirnov tests confirmed all ocular pa￾rameters as being statistically different to a normal distribution. Dif￾ferences between EDE and ADDE signs of both male and female non-DED 
+participants, both with and without health conditions were analysed 
+with U-Mann Whitney tests [14]. The prevalence rates of DED sub￾classifications were presented along with 95 % confidence intervals. 
+Associations between EDE and ADDE signs and between the subclassi￾fication symptoms and signs of DED participants were evaluated with 
+Spearman’s rank correlation coefficients. Finally, within DED partici￾pants, risk factors of individuals who had been identified with purely 
+EDE or ADDE characteristics were determined through phi (for dichot￾omous risk factors) and point biserial correlation coefficients (for 
+ordinal risk factors). 
+3. Results 
+Two-hundred and sixty-one Birmingham, UK residents (median age 
+40 years, range 18 to 88 years, 56 % females) participated in the study. 
+The participants were extracted from a cohort stratified by both age and 
+sex to reflect the population of the UK [9]. One hundred and sixty-two 
+participants had been diagnosed with DED based on the TFOS DEWS 
+II criteria and 99 did not exhibit any positive characteristics of DED or 
+ocular surface disease. 
+Measurements of tear evaporation, TMH, LLT and lower/upper 
+meibomian gland loss of non-DED participants with health conditions/ 
+problems differed significantly between females and males; however, 
+this was not the case for non-DED participants without health condi￾tions/problems (Table 2). 
+The cut-off values of the subclassification tests were based on the 
+distribution of TMH, tear evaporation rates, LLT and upper/lower mei￾bomian gland loss of non-DED participants without health conditions or 
+problems using an upper (tear evaporation and meibomian gland loss) 
+or a lower (TMH and LLT) quartile boundary approach (Figs. 1–4). 
+Therefore, ADDE was defined as DED participants with a TMH of <
+0.2 mm along with a normal LLT (a grade of ≥ 3), lower/upper mei￾bomian gland loss (≤28 %) and tear evaporation rate (≤46 g/m2
+/h). 
+EDE was identified by a LLT of grade < 3, lower/upper meibomian gland 
+loss of > 28 % and a tear evaporation rate of > 46 g/m2
+/h, but a normal 
+TMH (≥0.2 mm). Using these criteria, 64.2 % of individuals diagnosed 
+with DED had EDE alone, 6.2 % ADDE alone and 11.1 % showed features 
+of both ADDE and EDE; this left 18.5 % of those meeting the TFOS DEWS 
+II criteria for a diagnosis of DED as unclassified (not meeting either 
+subclassification criteria identified in the study; Fig. 5). Those classified 
+as having ADDE were younger (33.5 ± 13.8 years) than those with EDE 
+(42.1 ± 15.0 years; p = 0.030). Ocular Surface Disease Index assessed 
+symptoms were similar (p = 0.927) between those classified as EDE 
+(20.1 ± 14.7) and ADDE (19.8 ± 11.9). 
+Tear evaporation rate was significantly, but weakly positively 
+correlated with TMH, as well as with meibomian gland loss in the lower 
+eyelid (Table 3). TMH was also weakly correlated with upper meibo￾mian gland loss. LLT grade did not significantly correlate with any other 
+signs specific to ADDE or EDE (Table 3). 
+Within individuals diagnosed with DED, higher symptoms identified 
+by the 5-item Dry Eye Questionnaire (DEQ-5) and Ocular Surface Dis￾ease Index (OSDI) were significantly associated with greater tear evap￾oration (Table 4). However, no other EDE or ADDE associated signs were 
+significantly related to DED symptoms (Table 4). 
+EDE was more common with increasing age (p < 0.01), whereas 
+ADDE was more common in contact lens wearers and in those with high 
+levels of computer use. Sex, smoking habits, education, sleep quality, 
+outdoor activity and health conditions or problems were not identified 
+as significant risk factors of either ADDE or EDE (p > 0.05) in this cohort. 
+Fig. 3. LLT distribution of healthy non-DED participants (n = 46; numbers above line indicate number of participants). LLT = lipid layer thickness; EDE = evap￾orative dry eye; DED = dry eye disease. (A) Frequency plot of LLT measurements of healthy non-DED participants. (B) Box plot of LLT measurements of healthy non￾DED participants. First quartile = 3.0; Median = 4.0; Third quartile = 4.0; Minimum = 1.5; Maximum = 5.0. The LLT cut-off value was set at a grade of 3.0. The cut￾off value was based on the first quartile of the LLT distribution referring 38 of 46 non-DED participants as non-EDE. The approach used permitted inference of the 
+highest possible test specificity of 83 % (38/46). 
+M. Vidal-Rohr et al. 
+M. Vidal-Rohr et al. Contact Lens and Anterior Eye 47 (2024) 102257
+Fig. 4. Meibomian gland loss distribution of healthy non-DED participants (n = 46; numbers above line indicate number of participants). MG = meibomian gland 
+loss; EDE = evaporative dry eye; DED = dry eye disease. (A) Frequency plot of lower/upper MG loss measurements of healthy non-DED participants. (B) Box plot of 
+lower/upper MG loss measurements of healthy non-DED participants. For lower MG loss: First quartile = 9.3 %; Median = 17.5 %; Third quartile = 28.0 %; 
+Minimum = 18.9 %; Maximum = 56.1 %. For upper MG loss: First quartile = 13.0 %; Median = 20.0 %; Third quartile = 28.0 %; Minimum = 9.5 %; Maximum =
+50.5 %. The MG loss cut-off value was set at a grade of 28.0 %. The cut-off value was based on the third quartile of the lower MG loss and upper MG loss distribution 
+referring 35/46 and 36/46 of non-DED participants as non-EDE, respectively. The approach used allowed the highest possible test specificity of 76 % (35/46) for 
+lower MG loss and of 78 % (36/46) for upper MG loss to be inferred. 
+5
+Contact Lens and Anterior Eye 47 (2024) 102257
+6
+4. Discussion 
+This study aimed to propose a subclassification system for both 
+ADDE and EDE (with evidence-informed cut-off values) for DED, based 
+on the current diagnostic recommendations of the TFOS DEWS II. The 
+TFOS DEWS II global, evidence-based, consensus states that a DED 
+diagnosis requires above a pre-defined symptom score (using either the 
+OSDI or DEQ-5 questionnaire) together with one or more signs indi￾cating a break-down of tear film homeostasis (a reduced non-invasive 
+tear breakup time, tear hyperosmolarity or ocular surface staining) 
+[4]. DED is traditionally classified into EDE and ADDE, where the lipid 
+layer production and distribution, or aqueous volume of the tear film 
+tend to be altered, respectively [3]. Establishing the subtypes of DED can 
+be challenging as they have similar symptoms and general signs; how￾ever, distinguishing between the subclassifications is important to 
+inform DED management and therapy decisions [2]. 
+The resulting subclassification scheme, establishing cut-offs for each 
+of TMH, LLT and upper/lower meibomian gland dropout, was used to 
+identify the prevalence and risk factors of both ADDE and EDE among a 
+cohort that is representative of the population of UK. These parameters 
+were mentioned in TFOS DEWS II as tests to inform subclassification [4], 
+however, no established diagnostic cut-off values were available at that 
+time. In the present study, therefore, cut-off values were established 
+from clinical data of non-DED participants with no known health con￾ditions or problems (as these can significantly confound normal tear film 
+functions) [15,16]. Cut-off values producing the highest possible diag￾nostic specificities of the subclassification tests were selected to allow 
+greater confidence in the differential diagnosis of the disease [4]. A TMH 
+of < 0.2 mm was found to best identify DED participants with ADDE. In 
+contrast, tear evaporation rate of > 46 g/m2
+/h, LLT grade of < 3, or 
+lower/upper MG loss of > 28 % were most indicative of EDE. The TMH 
+cut-off value identified was consistent with that reported by Uchida et al. 
+[17]. The cut-off values for tear evaporation, LLT and meibomian gland 
+loss were also in good agreement with previous studies, which found a 
+tear evaporation rates of 48.9 ± 23.5 g/m2
+/h (despite differences in 
+instrumentation and accounting for skin evaporation) [18], LLT of ≥ 75 
+nm [19] and meibomian gland dropout of 30.1 ± 17.4 % [20] in non￾DED individuals. A research communication in 2020 proposed similar 
+cut-off criteria to this study for in-common assessments, despite using a 
+combined sensitivity and specificity cut-off selection choice [21]. 
+Based on the study classification, EDE was the most common form of 
+DED in the UK population, with a prevalence rate of 64.2 %. The findings 
+were in accordance with previous research [5–7] and suggest that, in a 
+general population, those with DED are likely to have a lipid layer that is 
+compromised more commonly than a deficient aqueous layer. Indeed, 
+increased tear evaporation rate was the second most frequently occur￾ring subclassification sign, surpassed only by upper lid meibomian gland 
+loss, which gives the subclassification face validity. 
+It should be noted that 18.5 % of DED participants had no obvious 
+clinical signs of ADDE or EDE. Unclassified DED has been observed in 
+other studies attempting DED classification. For instance, Asiedu et al. 
+reported 23.8 % of symptomatic DED participants and 25 % of asymp￾tomatic participants with ocular surface disease could not be classified 
+[7]. Lemp et al. also were unable to categorise 29 % of their study 
+participants into EDE, ADDE or a mixed DED category [8]. Watery eyes 
+(triggered by tear film instability secondary to meibomian gland 
+dysfunction) has been suggested to possibly mask an ADDE subclassifi￾cation [22]. Moreover, as the tear film is variable over time, more so in 
+diseased eyes, it might be possible that the lack of evidence of the sub￾classification clinical signs was caused by stochastic or measurement 
+noise. In addition, there are no easy ways to assess ocular surface quality 
+clinically, so goblet cell loss or poor glycocalyx quality could be a key 
+feature contributing to DED in those unclassified by the current 
+subclassification. 
+Coexistence of both DED subclassifications in an individual with DED 
+has been associated with increasing disease severity [3]. However, 
+severity matrices, such as those proposed by Bron and colleagues [23], 
+can result in individuals falling into different severity categories across 
+distinct elements of the matrix. Hence, current consensus is that DED 
+severity should be assessed from the participants’ perspective by using 
+symptom self-reports in DED [4]. Sullivan et al. described disease 
+severity as a continuum rather than in distinct grades [24]. The signif￾icant associations between tear evaporation, MG loss and TMH under￾line their combined diagnostic contributions. The counterintuitive 
+increase in TMH with increased evaporation could be due to triggered 
+reflex tearing. A limitation of this study was that meibomian gland 
+expression was not assessed, which could aid the classification of EDE. 
+Overall, the primary goal of management and therapy for DED is to 
+restore tear film homeostasis [2]. It is clear that practitioners utilise 
+different treatments for DED patients based on subclassification as well 
+as severity [25]. Two studies have shown that DED subclassification 
+(although using different subclassification algorithms) can help to pre￾dict effectiveness of different artificial tears formulations in individuals 
+with DED [26,27]. Future studies are needed to differentiate other dry 
+eye treatments / strategies to inform clinical practice to optimise patient 
+treatment. 
+Having established the subclassification system, it was used to 
+determine the prevalence and risk factors of EDE, ADDE and those dis￾playing elements of both DED subclassifications within the UK popula￾tion. In general, large-scale population-based studies establish risk 
+factors for DED as a whole, rather than specific to its subtypes [28]. In 
+the present study, EDE was found to be significantly related to age, 
+which is consistently reported as a risk factor for DED as a whole [29], 
+perhaps attributable to functional and structural changes of meibomian 
+glands occurring with increasing age [30]. In contrast, ADDE was 
+associated with contact lens wear, which is known to reduce TMH even 
+with modern materials [31] and computer use, which has also been 
+associated with a lower TMH after as little as 20 min use [32]. 
+In conclusion, this study has confirmed that EDE, as characterized by 
+Fig. 5. Prevalence of DED subtypes. Error bars: 95 % CI. DED = dry eye dis￾ease. EDE = evaporative dry eye. ADDE = aqueous deficient dry eye. Upper/ 
+lower meibomian gland loss was the most common sign observed in EDE par￾ticipants (27.9 %), followed by altered tear evaporation (20.2 %) and decreased 
+LLT (6.7 %) (Fig. 6). 
+M. Vidal-Rohr et al. 
+Contact Lens and Anterior Eye 47 (2024) 102257
+7
+Fig. 6. Frequency of individual and combined EDE signs in EDE participants EDE = evaporative dry eye. LLT = lipid layer thickness. MG = meibomian gland. 
+Table 3 
+Correlations of subclassification signs in n = 162 DED participants. 
+Correlation of subclassification DED signs (rs) LLT grade TMH (mm) Lower MG loss (%) Upper MG loss (%) 
+Tear evaporation (g/m2
+/h) − 0.122 0.235** 0.171* 0.003 
+LLT grade 0.028 − 0.017 0.021 
+TMH (mm) 0.065 0.197* 
+Lower MG loss (%) 0.133 
+DED = dry eye disease. LLT = lipid layer thickness. TMH = tear meniscus height. MG = meibomian gland loss. * p-value ≤ 0.05. ** p-value ≤ 0.01. 
+Table 4 
+Correlations of subclassification of DED signs and symptoms in n = 162 DED participants. 
+Correlation of DED Symptoms (rs) Tear evaporation (g/m2
+/h) LLT grade TMH (mm) Lower MG loss (%) Upper MG loss (%) 
+DEQ-5 score 0.209** − 0.075 0.017 0.035 0.077 
+OSDI score 0.178* 0.020 − 0.017 0.046 0.132 
+DED = dry eye disease. LLT = lipid layer thickness. MG = meibomian gland loss. 
+DEQ-5 = 5-item Dry Eye Questionnaire. OSDI = Ocular Surface Disease Index. 
+* p-value ≤ 0.05. 
+M. Vidal-Rohr et al. 
+Contact Lens and Anterior Eye 47 (2024) 102257
+8
+signs of tear evaporation, lipid thickness changes and meibomian gland 
+loss, is much more common than ADDE in a UK population, consistent 
+with existing research literature. The risk factors independently associ￾ated with the subclassifications differ, being age for EDE compared to 
+contact lens wear and computer use for ADDE. Research into the best 
+way to further subclassify individuals with dry eye to optimise indi￾vidual patient DED treatment plans is warranted. 
+Declaration of competing interest 
+The authors declare that they have no known competing financial 
+interests or personal relationships that could have appeared to influence 
+the work reported in this paper. 
+Acknowledgements 
+This study received funding by EU Horizon 2020 research and 
+innovation programme under Marie Sklodowska-Curie grant agreement 
+No 642760. The authors thank Dr. Tugce Ipek and Dr. Francesco Men￾duni for their support with this work. 
+References 
+[1] The definition and classification of dry eye disease: report of the Definition and 
+Classification Subcommittee of the International Dry Eye WorkShop (2007). Ocul 
+Surf 2007;5(2):75–92. https://doi.org/10.1016/s1542-0124(12)70081-2. 
+[2] Jones L, Downie LE, Korb DR, Benitez-del-Castillo JM, Dana R, Deng SX, et al. 
+TFOS DEWS II Management and Therapy Report. Ocul Surf 2017;15(3):575–628. 
+[3] Craig JP, Nichols KK, Akpek E, Caffery B, Dua HS, Joo CK, et al. TFOS DEWS II 
+Definition and Classification Report. Ocul Surf 2017;15(3):276–83. 
+[4] Wolffsohn JS, Arita R, Chalmers R, Djalilian A, Dogru M, Dumbleton K, et al. TFOS 
+DEWS II Diagnostic methodology report. Ocul Surf 2017;15(3):539–74. 
+[5] Albietz JM. Prevalence of dry eye subtypes in clinical optometry practice. Optom 
+Vis Sci 2000;77(7):357–63. https://doi.org/10.1097/00006324-200007000- 
+00010. 
+[6] Rege A, Kulkarni V, Puthran N, Khandgave T. A Clinical Study of Subtype-based 
+Prevalence of Dry Eye. J Clin Diagn Res 2013;7(10):2207–10. https://doi.org/ 
+10.7860/jcdr/2013/6089.3472. 
+[7] Asiedu K, Dzasimatu SK, Kyei S. Clinical subtypes of dry eye in youthful clinical 
+sample in Ghana. Cont Lens Anterior Eye 2019;42(2):206–11. https://doi.org/ 
+10.1016/j.clae.2018.10.005. 
+[8] Lemp MA, Crews LA, Bron AJ, Foulks GN, Sullivan BD. Distribution of aqueous￾deficient and evaporative dry eye in a clinic-based patient cohort: a retrospective 
+study. Cornea 2012;31(5):472–8. https://doi.org/10.1097/ 
+ICO.0b013e318225415a. 
+[9] Vidal-Rohr M, Craig JP, Davies LN, Wolffsohn JS. The epidemiology of dry eye 
+disease in the UK: The Aston dry eye study. Cont Lens Anterior Eye 2023;46(3): 
+101837. https://doi.org/10.1016/j.clae.2023.101837. 
+[10] Craig JP, Tomlinson A. Importance of the lipid layer in human tear film stability 
+and evaporation. Optom Vis Sci 1997;74(1):8–13. http://www.ncbi.nlm.nih. 
+gov/pubmed/9148269. 
+[11] Pult H, Riede-Pult B. Comparison of subjective grading and objective assessment in 
+meibography. Cont Lens Anterior Eye 2013;36(1):22–7. https://doi.org/10.1016/j. 
+clae.2012.10.074. 
+[12] Finis D, Ackermann P, Pischel N, Konig C, Hayajneh J, Borrelli M, et al. Evaluation 
+of Meibomian Gland Dysfunction and Local Distribution of Meibomian Gland 
+Atrophy by Non-contact Infrared Meibography. Curr Eye Res 2015;40(10):982–9. 
+https://doi.org/10.3109/02713683.2014.971929. 
+[13] Bilkhu P, Vidal-Rohr M, Trave-Huarte S, Wolffsohn JS. Effect of meibomian gland 
+morphology on functionality with applied treatment. Cont Lens Anterior Eye 2022; 
+45(2):101402. https://doi.org/10.1016/j.clae.2020.12.065. 
+[14] Armstrong RA, Davies LN, Dunne MC, Gilmartin B. Statistical guidelines for clinical 
+studies of human vision. Ophthalmic Physiol Opt 2011;31(2):123–36. https://doi. 
+org/10.1111/j.1475-1313.2010.00815.x. 
+[15] Galor A, Britten-Jones AC, Feng Y, Ferrari G, Goldblum D, Gupta PK, et al. TFOS 
+Lifestyle: Impact of lifestyle challenges on the ocular surface. Ocul Surf 2023;28: 
+262–303. https://doi.org/10.1016/j.jtos.2023.04.008. 
+[16] Gomes JAP, Azar DT, Baudouin C, Bitton E, Chen W, Hafezi F, et al. TFOS Lifestyle: 
+Impact of elective medications and procedures on the ocular surface. Ocul Surf 
+2023;29:331–85. https://doi.org/10.1016/j.jtos.2023.04.011. 
+[17] Uchida A, Uchino M, Goto E, Hosaka E, Kasuya Y, Fukagawa K, et al. Noninvasive 
+interference tear meniscometry in dry eye patients with Sjogren syndrome. Am J 
+Ophthalmol 2007;144(2):232–7. https://doi.org/10.1016/j.ajo.2007.04.006. 
+[18] Tomlinson A, Doane MG, McFadyen A. Inputs and outputs of the lacrimal system: 
+review of production and evaporative loss. Ocul Surf 2009;7(4):186–98. https:// 
+doi.org/10.1016/s1542-0124(12)70186-6. 
+[19] Blackie CA, Solomon JD, Scaffidi RC, Greiner JV, Lemp MA, Korb DR. The 
+relationship between dry eye symptoms and lipid layer thickness. Cornea 2009;28 
+(7):789–94. https://doi.org/10.1097/ICO.0b013e318191b870. 
+[20] Pult H. Relationships Between Meibomian Gland Loss and Age, Sex, and Dry Eye. 
+Eye Contact Lens 2018;44(Suppl 2):S318–24. https://doi.org/10.1097/ 
+ICL.0000000000000467. 
+[21] Wang MTM, Dean SJ, Muntz A, Craig JP. Evaluating the diagnostic utility of 
+evaporative dry eye disease markers. Clin Exp Ophthalmol 2020;48(2):267–70. 
+https://doi.org/10.1111/ceo.13671. 
+[22] Arita R, Morishige N, Koh S, Shirakawa R, Kawashima M, Sakimoto T, et al. 
+Increased Tear Fluid Production as a Compensatory Response to Meibomian Gland 
+Loss: A Multicenter Cross-sectional Study. Ophthalmology 2015;122(5):925–33. 
+https://doi.org/10.1016/j.ophtha.2014.12.018. 
+[23] Methodologies to diagnose and monitor dry eye disease: report of the Diagnostic 
+Methodology Subcommittee of the International Dry Eye WorkShop (2007). Ocul 
+Surf 2007;5(2):108–52. https://doi.org/10.1016/s1542-0124(12)70083-6. 
+[24] Sullivan BD, Whitmer D, Nichols KK, Tomlinson A, Foulks GN, Geerling G, et al. An 
+objective approach to dry eye disease severity. Invest Ophthalmol Vis Sci 2010;51 
+(12):6125–30. https://doi.org/10.1167/iovs.10-5390. 
+[25] Wolffsohn JS, Trave Huarte S, Jones L, Craig JP, Wang MTM, ambassadors T. 
+Clinical practice patterns in the management of dry eye disease: A TFOS 
+international survey. Ocul Surf 2021;21:78–86. https://doi.org/10.1016/j. 
+jtos.2021.04.011. 
+[26] Essa L, Laughton D, Wolffsohn JS. Can the optimum artificial tear treatment for dry 
+eye disease be predicted from presenting signs and symptoms? Cont Lens Anterior 
+Eye 2018;41(1):60–8. https://doi.org/10.1016/j.clae.2017.07.007. 
+[27] Craig JP, Muntz A, Wang MTM, Luensmann D, Tan J, Trave Huarte S, et al. 
+Developing evidence-based guidance for the treatment of dry eye disease with 
+artificial tear supplements: A six-month multicentre, double-masked randomised 
+controlled trial. Ocul Surf 2021;20:62–9. https://doi.org/10.1016/j. 
+jtos.2020.12.006. 
+[28] Stapleton FJ, Alves M, Bunya V, Jalbert I, Lekhanont K, Malet F, et al. TFOS DEWS 
+II Epidemiology Report. Ocul Surf 2017;15(3):334–65. 
+[29] Wang MTM, Muntz A, Lim J, Kim JS, Lacerda L, Arora A, et al. Ageing and the 
+natural history of dry eye disease: A prospective registry-based cross-sectional 
+study. Ocul Surf 2020;18(4):736–41. https://doi.org/10.1016/j.jtos.2020.07.003. 
+[30] Sharma A, Hindman HB. Aging: a predisposition to dry eyes. J Ophthalmol 2014; 
+2014:781683. https://doi.org/10.1155/2014/781683. 
+[31] Montani G, Martino M. Tear film characteristics during wear of daily disposable 
+contact lenses. Clin Ophthalmol 2020;14:1521–31. https://doi.org/10.2147/ 
+OPTH.S242422. 
+[32] Al-Mohtaseb Z, Schachter S, Shen Lee B, Garlich J, Trattler W. The relationship 
+between dry eye disease and digital screen use. Clin Ophthalmol 2021;15:3811–20. 
+https://doi.org/10.2147/OPTH.S321591. 
+M. Vidal-Rohr et al. 

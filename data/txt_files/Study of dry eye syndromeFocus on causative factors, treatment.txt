@@ -1,0 +1,630 @@
+© 2023 Indian Journal of Ophthalmology | Published by Wolters Kluwer - Medknow
+Study of dry eye syndrome: Focus on causative factors, treatment modalities, 
+quality of life, and preservatives used in eye drops
+Pratham M Raval, Harsh H Patel1
+, Dipali M Purohit2
+, Reema M Raval2
+, Shikha V Sood1
+Access this article online
+Website:
+www.ijo.in
+DOI:
+10.4103/IJO.IJO_3359_22
+Quick Response Code:
+Purpose: Dry eye syndrome (DES) is a global issue occurring due to tear deficiency or excessive tear 
+evaporation. It is associated with a variety of symptoms causing ocular discomfort. The purpose of the study 
+was to evaluate causative factors, treatment modalities, quality of life, and preservatives used in eye drops. 
+Methods: This prospective, follow‑up study was conducted in the ophthalmology outpatient department 
+of a tertiary care teaching hospital. Patients older than 18 years of age of either sex diagnosed with DES 
+and willing to give written informed consent were included. The patients were subjected to the Ocular 
+surface disease index Questionnaire (OSDI Questionnaire) twice; at the time of the first visit and at 15 days 
+follow‑up. Results: A male preponderance was observed with a 1.86:1 male‑to‑female ratio. The mean age 
+of the study population was 29.15 ± 10.07 years. The most common presenting complaints were symptoms 
+related to dryness of the eyes followed by refractive error. Exposure to TV/computer screen for more than 
+6 hours is the most common causative factor. There was a statistically significant improvement in overall 
+quality of life (QoL) in patients of DES on treatment. However, no significant difference was seen in the 
+improvement of quality of life in comparison with different preservatives used in prescribed eye drops for 
+the treatment of DES. Conclusion: DES can adversely affect the quality of life of patients. Prompt treatment 
+of this condition can significantly improve the patient’s QoL. Physicians should be encouraged to perform 
+quality of life evaluations for patients with DES to guide them in treatment with more individual‑specific 
+treatment options.
+Key words: Causative factors for dry eye syndrome, dry eye syndrome, preservative use, quality of life
+MBBS Student from Smt. NHL Municipal Medical College, 
+Departments of 1
+Pharmacology and 2
+Ophthalmology, Smt. NHL 
+Municipal Medical College, Ahmedabad, Gujarat, India
+Correspondence to: Dr. Shikha V Sood, Smt. NHL Municipal Medical 
+College, Ellisbridge, Ahmedabad, Gujarat, India. E‑mail: shikhavsood@
+gmail.com
+Received: 26‑Dec‑2022 Revision: 02‑Feb‑2023
+Accepted: 13‑Feb‑2023 Published: 05-Apr-2023
+Dry eye is a disorder of the tear film which occurs due to tear 
+deficiency or excessive tear evaporation; it causes damage to the 
+interpalpebral ocular surface and is associated with a variety of 
+symptoms causing ocular discomfort. Dry eye syndrome (DES) 
+is a common condition reported by patients who seek 
+ophthalmologic care and is characterized by inflammation of 
+the ocular surface and lacrimal glands.[1] Additionally, patients 
+with dry eye are prone to potentially blinding infections, 
+such as bacterial keratitis, and also at an increased risk of 
+complications following common procedures such as laser 
+refractive surgery.[1] The prevalence has been reported in many 
+countries around the world, with a range between 9.5 and 
+90%.[2] Its management is done in a stepwise manner. In step 
+1, modification of the local environment and dietary changes 
+along with lubricants are prescribed. If these measures are 
+inadequate, in the second step 2, non‑preserved lubricants, 
+tear conservation by punctal occlusion, and prescription of 
+topical antibiotics or topical glucocorticoids can be done. If 
+these measures are inadequate, in step 3, oral secretagogues, 
+allogenic serum eye drops, and sclera contact lenses can be 
+tried, and if the condition does not improve by these measures, 
+in step 4, topical corticosteroids for a longer duration, amniotic 
+membrane grafts, and surgical punctal occlusion can be tried.[3]
+Its etiology includes aging, certain medical conditions like 
+Sjogren’s syndrome, allergic eye disease, rheumatoid arthritis, 
+lupus, scleroderma, graft vs. host disease, sarcoidosis, thyroid 
+disorders, and vitamin A deficiency. Certain medicines and 
+corneal nerve desensitivity caused by contact lens use, nerve 
+damage, or laser eye surgery also cause DES.[1] It is learned that 
+the use of certain preservatives in eye drop formulations can 
+also be responsible for dry eye syndrome.[4]
+World health organization (WHO) defines quality of 
+life (QoL) as an individual’s perception of their position in life 
+in the context of the culture and value systems in which they 
+live and in relation to their goals, expectations, standards, and 
+concerns.[5] Patients with dry eye experience various symptoms 
+that can reduce their productivity and overall quality of 
+life. For some patients, the severity of the condition and its 
+chronicity leads to mood alterations and depression.[6] We 
+intend to study the causative factors and treatment modalities 
+of dry eye syndrome, to study the QoL of such patients, and 
+to evaluate preservatives used in eye drops predisposing to 
+dry eye syndrome.
+Cite this article as: Raval PM, Patel HH, Purohit DM, Raval RM, Sood SV. 
+Study of dry eye syndrome: Focus on causative factors, treatment modalities, 
+quality of life, and preservatives used in eye drops. Indian J Ophthalmol 
+2023;71:1587-92.
+This is an open access journal, and articles are distributed under the terms of 
+the Creative Commons Attribution‑NonCommercial‑ShareAlike 4.0 License, 
+which allows others to remix, tweak, and build upon the work non‑commercially, 
+as long as appropriate credit is given and the new creations are licensed under 
+the identical terms.
+For reprints contact: WKHLRPMedknow_reprints@wolterskluwer.com
+Original Article
+1588 Indian Journal of Ophthalmology Volume 71 Issue 4
+16
+9
+1
+1
+4
+2
+2
+2
+0246810 12 14 16 18
+Stabilised oxychloro complex
+Benzalkonium chloride
+Carbomer polymer c
+Polyethylene glycol+ Propylene glycol
+Polymixin B sulphate
+Phenylmercuric N
+D Panthenol
+Sodium perborate
+No. of patients
+Figure 2: Preservatives present in prescribed treatment
+Objectives
+To study causative factors leading to dry eye syndrome, to 
+observe the treatment modalities for dry eye syndrome in 
+a tertiary care teaching hospital to measure QoL in patients 
+with dry eye syndrome, evaluation of preservatives used in 
+eye drops predisposing to dry eyes syndrome.
+Methods
+This study was carried out in the Ophthalmology department 
+of a tertiary care teaching hospital. Data collection began 
+after the approval of the Institutional Review Board. Those 
+patients who were diagnosed as cases of DES, conforming 
+to the inclusion criteria, were enrolled in the study. Written 
+informed consent was taken from all the patients in their 
+vernacular language. Data were collected for 8 weeks and 
+were entered in the standard case record form. Details of drugs 
+being used by the patients prior to complaints of dry eye were 
+noted. Details of the treatment prescribed for DES in terms 
+of brand name, generic name, dose, dosage form, frequency, 
+and duration of treatment were also noted in the case record 
+form. The preservatives present in these treatment modalities 
+were also noted.
+The severity of the dry eye in dry eye disease was 
+assessed on the basis of the Dry Eye Workshop (DEWS) 
+classification.[7] It was classified as severity levels 1, 2, 3 and 
+4, where 1 suggested mild DES, 2 suggests moderate DES, 
+3 suggests severe DES, and 4 suggests severe disabling 
+DES. The quality‑of‑life assessment was done by the Ocular 
+surface disease index Questionnaire (OSDI Questionnaire).[8]
+Patients were subjected to the questionnaire twice; at the 
+time of the first patient visit and at follow‑up after 15 days. 
+The questionnaire had three subscales: ocular symptoms, 
+vision‑related function, and environmental triggers. Patients 
+rated their responses on a 0 to 4 scale with 0 corresponding to 
+“none of the time” and 4 corresponding to “all of the time.” 
+A final score was calculated which ranges from 0 to 100 with 
+scores 0 to 12 representing normal QoL, 13 to 22 representing 
+mildly affected QoL, 23 to 32 representing moderately affected 
+QoL, and greater than 33 representing severely affected QoL. 
+Evaluation of improvement in quality of life was done in 
+comparison with OSDI questionnaire at the time of the first 
+visit and at 15‑day follow‑up and post‑treatment. Patients 
+of either sex, above the age of 18 years who have been 
+diagnosed to be suffering from DES, and patients willing to 
+give written informed consent were included in the study. 
+Patients with psychiatric illness and patients with acute eye 
+conditions (acute conjunctivitis, acute attack of angle closure 
+glaucoma, episcleritis, scleritis, etc.) were excluded from the 
+study.
+Study design: A prospective, observational follow‑up 
+study.
+Sample size: Duration based.
+Statistical analysis
+Complete data were entered in Microsoft Excel 2019 and 
+SPSS software (Statistical Package for Sciences) version 24 
+(IBM Corporation, California). Paired t test and one‑way 
+ANOVA were used. P value <0.05 was considered statistically 
+significant. Pearson correlation test has also been used to check 
+the correlation between age and severity of DES.
+Results
+A total of 40 patients fulfilling the inclusion and exclusion 
+criteria were enrolled in the study.
+Demographic characteristics of the study population
+The mean age of the study population was 29.15 ± 10.07 years. 
+The young population in the age range of 26–35 years was most 
+affected by DES followed by the 16–25 years age range. Fig. 1.
+Males had greater preponderance to DES, with male to 
+female ratio of 1.86:1. Occupational profile of patients included 
+business (n = 3), service (n = 17), farming (n = 2), student (n = 11), 
+housewife (n = 5), and factory worker(n = 2). A higher incidence 
+of DES was seen in patients with service (n = 17), followed by 
+students (n = 11).
+Severity of dryness of eyes in the study population
+The severity of DES was classified on the basis of Dry Eye 
+Workshop (DEWS) classification into mild, moderate, and 
+severe which was seen in 20%, 42%, and 38% of patients, 
+respectively.
+Age and severity of DES correlation
+Pearson correlation test was used to check the correlation 
+between age and severity of DES. The value was found to be 
+0.07 suggesting a very weak correlation.
+Comorbidities
+There were only two patients with comorbidities; diabetes plus 
+hypertension (1 patient) and rheumatoid arthritis (1 patient).
+Presenting complaints
+The different presenting complaints were symptoms related 
+to dryness of the eyes which included a stinging or burning 
+16
+18
+2 3
+1
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+18-25 26-35 36-45 46-55 56-65
+Age groups (years)
+Age distribution in study population (n = 40)
+Figure 1: Age distribution of study population Presrvatives No. of patients
+April 2023 1589 Raval, et al.: Treatment modalities, QoL, causative factors and preservatives used in dry eye syndrome
+sensation in the eyes, a foreign body sensation, sensitivity to 
+light, redness of the eyes, etc., (20 patients). Complaints related 
+to refractive error (15 patients), glaucoma (2 patients), and 
+cataract (2 patients) were also noted. One patient had both 
+glaucoma and complaints related to symptoms of dryness. 
+Most patients presented with complaints related to symptoms 
+of dryness of the eye followed by refractive error.
+Quality of life (QoL) scores in patients of des according to 
+probable causative factors
+Probable causative factors included exposure to TV/computer 
+screens for more than 6 hours, exposure to fumes and dust, 
+benzalkonium chloride, and rheumatoid arthritis. Among 
+these, exposure to TV/computer screen was the most common 
+causative factor seen in 22 patients. Mean OSDI scores for 
+rheumatoid arthritis patient were the highest (21) followed by 
+benzalkonium chloride (18.8 ± 9.28) and those having exposure 
+to fumes and dust (18.5 ± 6.42) Table 1.
+Treatment prescribed for DES to the study population
+The disease‑specific drugs for DES prescribed to the study 
+population included sodium carboxymethyl cellulose (0.5%), 
+cyclosporine (0.09%), hydroxypropyl methyl cellulose (0.3%), 
+sodium hyaluronate (0.1%), polymixin B (0.1%)+ phenyl 
+mercuric nitrate (0.001%), loteprednol etabonate (0.5%), and 
+chloramphenicol(0.5%). Among them, sodium hyaluronate was 
+prescribed the most followed by hydroxypropyl methyl cellulose 
+and sodium carboxymethyl cellulose. Patients prescribed single, 
+two, and three disease‑specific medications were 42.55%, 25%, 
+and 32.50%, respectively. The role of cyclosporin, polymixin 
+B, and chloramphenicol was for the prevention of secondary 
+bacterial infections and not as lubricants. Table 2.
+Preservatives present in the prescribed treatment
+Patients were prescribed different eye drops for treatment 
+of DES which contained various preservatives. These 
+preservatives were stabilized oxychloro complex (0.1%), 
+benzalkonium chloride (0.01%), carbomer polymer c (0.3%), 
+polyethylene glycol (0.4%)+ propylene glycol (0.3%), 
+polymixin B sulfate (0.1%), phenylmercuric N (0.001%), D 
+panthenol (5%), and sodium perborate (0.03%). Stabilized 
+oxychloro complex was most common preservative followed 
+by benzalkonium chloride. Eight patients were prescribed 
+medications without preservative. Three patients were 
+prescribed eye drops containing more than one preservative. 
+Fig. 2.
+Quality of life analysis
+Quality of life analysis was done by the Ocular surface disease 
+index Questionnaire (OSDI Questionnaire). Patients were 
+subjected to OSDI questionnaire twice, at baseline and at 
+follow‑up visit at 15 days. Mean OSDI score at baseline was 
+14.35 ± 8, and after 15 days, it was 4.98 ± 4.2. Paired t test was 
+used in comparison with baseline and after 15 days QoL scores 
+and it was statistically significant (P < 0.001) Table 3.
+Quality of life scores in relation to active ingredients present 
+in eye drops
+We compared the active treatment groups carboxymethyl 
+cellulose, sodium hyaluronate, hydroxypropyl methyl cellulose, 
+a combination of hydroxypropyl methyl cellulose + sodium 
+hyaluronate, and a combination of hydroxypropyl methyl 
+cellulose + carboxymethyl cellulose + sodium hyaluronate 
+with the use of one‑way ANOVA to evaluate any significant 
+differences between them for improvement of QoL. However, 
+on comparing different active ingredients with each other, we 
+did not find a statistically significant difference among them. 
+The improvement in OSDI score was highest in patients taking 
+carboxy methyl cellulose (mean OSDI = 10.42) and least for 
+patients taking hydroxy propyl methyl cellulose (mean OSDI 
+difference = 5.8).
+Quality of life scores in relation to preservatives present in 
+eye drops
+The mean OSDI score difference between baseline and 
+15 days follow‑up was highest with phenylmercuric N and 
+D panthenol (score difference of 10) and least with carbomer 
+polymer c. We applied one‑way ANOVA test to check 
+significance of the difference in the improvement of QoL scores 
+between individual preservative groups but did not find a 
+statistically significant difference (P value <0.94) Table 3.
+Mean OSDI scores in relation to the severity of dryness in 
+DES patients
+Mean OSDI baseline scores for mild, moderate, and severe 
+dryness in patients of DES were 14.12 ± 11.73, 15.94 ± 6.73, 
+and 12.67 ± 7.18, respectively. The difference between them 
+was not significant.
+Comparison of improvement in mean OSDI score in relation 
+to the presence or absence of preservatives in eye drops used 
+for the treatment of DES
+Thirty‑two patients prescribed eye drops for the treatment 
+of DES contained preservatives, and in eight patients, the 
+prescribed eye drops did not contain any preservatives. 
+A greater difference in pre‑ and post‑OSDI scores was seen in 
+patients prescribed eye drops without preservatives, but the 
+difference was not statistically significant as compared to those 
+prescribed eye drops with preservatives.
+Table 2: Treatment for DES prescribed to the study 
+population
+Treatment No. of 
+patients
+Sodium carboxymethyl cellulose (0.5%) 13
+Cyclosporine (0.09%) 9
+Hydroxypropyl methylcellulose (0.3%) 14
+Sodium hyaluronate (0.1%) 20
+Polymixin B (0.1%) + phenyl mercuric nitrate (0.001%) 2
+Loteprednol etabonate (0.5%) 1
+Chloramphenicol (0.5%) 3
+Table 1: Probable causative factors for DES and mean 
+OSDI scores
+Causative factors No. of 
+patients
+Mean OSDI 
+score
+Exposure to TV/computer screen 22 11.81±6.11
+Exposure to fumes and dust 4 18.5±6.42
+Benzalkonium chloride 5 18.8±9.28
+Rheumatoid arthritis 1 21
+No causative factors 8 15.62±11.24
+1590 Indian Journal of Ophthalmology Volume 71 Issue 4
+OSDI scores in relation to individual domains in the OSDI 
+questionnaire
+The effects on individual domains in the OSDI questionnaire, 
+namely, OSDI symptoms (Domain 1), OSDI function 
+(Domain 2), and OSDI triggers (Domain 3) were evaluated 
+based on the mean difference of OSDI scores in individual 
+domains at baseline and at 15 days follow‑up. Domain 2 had 
+more improvement in OSDI score (3.3) compared with Domain 
+1 (2.92) and Domain 3 (3.15). However, the difference was not 
+statistically significant (P = 0.64).
+Discussion
+In our literature search, we found the prevalence of DES in 
+India to be 17.7%, however, that in western India was higher 
+at 34.26%.[9,10] There were negligible studies in India evaluating 
+causative factors, quality of life, and effects of active ingredients 
+and preservatives used in eye drops on DES simultaneously, 
+which prompted us to take up this study.
+Patients with the greater preponderance of DES were 
+in the 26–35 years of age group. The mean age of the study 
+population was 29.15 ± 10.07 years. In our study, males had 
+more preponderance to DES than females, with male to female 
+ratio of 1.86:1. A study done by McCarty et al.
+[11] found a higher 
+prevalence among women. Another study suggested that 
+the prevalence of DES increases with age and doubles after 
+59 years of age.[12] However, we found a very weak correlation 
+of age with DES (Pearson correlation coefficient = 0.07). One 
+probable reason for this could be a small sample size. A study 
+done by McCarty et al.
+[11] suggested that the 21–40 years of age 
+group is associated with more severe DES. This age range is 
+comparable to our study. Another study was done by Schein 
+et al.
+[13] in 2520 patients found no association between age and 
+sex with dry eye.
+The occupational profile of study participants included 
+business, service, farming, student, housewife, and factory 
+workers. Patients who were in service had a higher incidence 
+of DES (n = 17), followed by students (n = 11). One likely reason 
+could be higher exposure to TV/computer screens in these 
+patients. A study done in North India showed that patients 
+involved in desk jobs involving computer use were more 
+predisposed to develop DES,[14] which is in accordance with 
+our study. There were only two patients with comorbidities 
+like diabetes, hypertension, and rheumatoid arthritis in 
+our study. The presenting complaints of patients who were 
+diagnosed with DES included symptoms related to dryness 
+of eyes (a stinging or burning sensation in eyes, a foreign 
+body sensation, sensitivity to light, redness of the eyes, etc.), 
+complaints related to refractive error, glaucoma, and cataract. 
+Most patients presented with symptoms related to dryness of the 
+eye (n = 21) followed by refractive error(n = 15). We assessed the 
+severity of DES on the basis of the Dry Eye Workshop (DEWS) 
+classification. Patients having mild, moderate, and severe DES 
+were 20%, 42%, and 38%, respectively.
+DES is a multifactorial disease with possible overlapping 
+causes. In our study, probable causative factors included 
+exposure to TV/computer screens for more than 6 hours daily, 
+exposure to fumes and dust, benzalkonium chloride, and 
+rheumatoid arthritis. Among these, exposure to TV/computer 
+screens was the most common causative factor seen in 
+22 patients, which was observed to be a common causative 
+factor in a few other studies, too.[14] Mean OSDI score was 
+more for benzalkonium chloride (with a mean OSDI score of 
+18.8 ± 9.28) as a causative factor suggesting more severe DES 
+in these patients. Other studies also suggest that benzalkonium 
+chloride is an important causative factor for severe DES.[15]
+The drugs prescribed to the study population with DES 
+which was disease‑specific include sodium carboxymethyl 
+cellulose, cyclosporine, hydroxypropyl methyl cellulose, 
+sodium hyaluronate, polymixin B + phenyl mercuric nitrate, 
+loteprednol etabonate, and chloramphenicol. Among them, 
+sodium hyaluronate was prescribed the most followed by 
+hydroxypropyl methyl cellulose and sodium carboxymethyl 
+cellulose. Based on the number of disease‑specific medications 
+prescribed for DES; 42.55% of patients were prescribed 
+1 medication; 25% of patients were prescribed two medications 
+and 32.50% of patients were prescribed three medications for 
+the treatment of DES.
+The eye drops prescribed for the treatment of DES contained 
+different preservatives. The primary role of the preservative is 
+to maintain the sterility of the eye drops. For this, they act as a 
+detergent or by oxidative mechanisms or some other nonspecific 
+antimicrobial mechanism. As the eye drops may be used for 
+a considerable period of time some of these preservatives like 
+benzalkonium chloride on repeated use may themselves be 
+Table 3: Improvement in relation to individual preservatives present in eye drops used for the treatment of DES and 
+overall improvement in QoL in patients with DES
+Mean OSDI score Difference
+1st visit (baseline) 2nd visit (follow‑up)
+Stabilized oxychloro complex (0.1%) 14.38 5.13 9.25
+Benzalkonium chloride (0.001%) 13.44 5.00 8.44
+Carbomer polymer c (0.3%) 12 7 5.00
+Polyethylene glycol (0.01%) + propylene glycol (0.3%) 19 10 9.00
+Polymixin b sulfate (0.1%) 12.5 3.0 9.50
+Phenylmercuric N (0.001%) 14.5 4.5 10.00
+D panthenol (5%) 14.5 4.5 10.00
+Sodium perborate (0.03%) 10.5 1.5 9.00
+Overall improvement in QoL 14.35 4.98 9.37*
+*Mean OSDI score difference with P<0.001 suggesting significant difference
+April 2023 1591 Raval, et al.: Treatment modalities, QoL, causative factors and preservatives used in dry eye syndrome
+responsible for causing damage to the ocular surface.[4] Studies 
+have reported a better outcome with the use of preservative‑free 
+eye drops as compared to preservative‑containing eye drops.[15]
+Common preservatives used in our study were stabilized 
+oxychloro complex, benzalkonium chloride, carbomer polymer 
+c, polyethylene glycol + propylene glycol, polymixin B sulfate, 
+phenylmercuric N, D panthenol, and sodium perborate. 
+Among these, stabilized oxychloro complex was the most 
+common preservative followed by benzalkonium chloride. 
+Benzalkonium chloride is a commonly used preservative in 
+eye drops. This is in accordance with other studies.[4,15]
+In this study, quality of life analysis was done by Ocular 
+surface disease index Questionnaire (OSDI Questionnaire), 
+where patients were subjected to the OSDI questionnaire 
+twice, at baseline and at follow‑up visits at 15 days. We used 
+the paired t test to compare the scores at baseline and after 
+15 days. Mean OSDI score at baseline was 14.35 ± 8 and after 
+15 days it was 4.98 ± 4.2 (P value <0.001), which implies that 
+there was statistically significant improvement after follow‑up. 
+A study done by Lopes et al.
+[16] also showed improvement in 
+OSDI scores after the substitution of benzalkonium chloride 
+preserved prostaglandin eye drops by a preservative‑free 
+prostaglandin analog. Another study done by Mateo‐Otobia 
+et al.
+[17] also showed that preservative‑free eye drop formulation 
+containing sodium hyaluronate and trehalose has a better OSDI 
+score compared to eye drops containing preservatives. The 
+mean OSDI score at baseline was in the range of mildly affected 
+quality of life and the mean score at follow‑up was in the range 
+of normal QoL. In our study, mean OSDI scores in patients with 
+mild, moderate, and severe dryness of the eyes were all in the 
+range of mildly affected QoL which is difficult to explain. One 
+probable reason could be can be due to subjective variation in 
+responses given by patients to the OSDI questionnaire.
+We evaluated the effect of different active ingredients used 
+for the treatment of DES in the treating eye drops based on the 
+OSDI QoL scores. The mean OSDI score difference was highest 
+with carboxy methyl cellulose (mean OSDI difference = 10.42). 
+The mean OSDI score difference was least with hydroxy propyl 
+methyl cellulose (mean OSDI difference = 5.8). However, on the 
+application of one‑way ANOVA to check for the difference in 
+the improvement of QoL scores in relation to active ingredients, 
+we did not find a statistically significant difference.
+We also evaluated the effect of preservatives used in treating 
+eye drops on the OSDI QoL scores. The mean OSDI score 
+difference was highest with D panthenol and phenylmercuric 
+N (mean OSDI difference = 10). The mean OSDI score difference 
+was least with carbomer polymer c (mean OSDI difference = 5). 
+However, on the application of one‑way ANOVA to check 
+for differences in the improvement of QoL scores in relation 
+to individual preservatives, we did not find a statistically 
+significant difference. A study done by Debbasch et al.
+[18]
+suggests the cytoprotective effect of carbomer polymer c which 
+is in contradiction with our study result which shows the poor 
+response with carbomer polymer c.
+We also tried to evaluate the difference in QoL scores among 
+patients in whom the prescribed eye drops did not contain any 
+preservatives as compared to those in whom the prescribed 
+eye drops contained preservatives. Thirty‑two patients were 
+prescribed eye drops containing preservatives and eight 
+patients were prescribed eye drops that did not contain any 
+preservative. OSDI scores of patients who were prescribed 
+eye drops without preservatives had a greater difference in 
+their pre‑ and post‑OSDI scores as compared to those who 
+had preservatives in their prescribed eye drop suggesting a 
+better outcome with preservative‑free eye drops. However, 
+the difference was not statistically significant. One probable 
+reason for this could be a small sample size. A prospective 
+epidemiological survey carried out by 249 ophthalmologists 
+on 4107 patients suggested less incidence of DES when 
+preservative‑free eye drops were used.[19] Other studies also 
+have similar results in this regard.[15]
+OSDI questionnaire contained three domains, namely, 
+OSDI symptoms (Domain 1), OSDI function (Domain 2), and 
+OSDI triggers (Domain 3). We tried to evaluate the difference 
+in improvement in the individual domains based on the mean 
+difference of OSDI scores with regard to individual domains at 
+baseline and at 15 days of follow‑up. The difference between the 
+three domains was negligible and not statistically significant. 
+This suggests that there is equivalent improvement in all three 
+domains of the OSDI Questionnaire.
+Our study and other studies[20,21] suggest that DES has a 
+negative impact on several aspects of quality of life. There 
+is the improvement of QoL in the treatment of DES with the 
+prescribed treatment. We found exposure to a computer/TV 
+screen for more than 6 hours to be the most common causative 
+factor. The most common treatment modality was the use of 
+eye drops containing sodium hyaluronate. Stabilized oxychloro 
+complex was the most common preservative used in our study. 
+Both, in relation to the active ingredients and the preservatives 
+used in treating eye drops, there was no statistically 
+significant difference within the active ingredients and also 
+within preservatives in improvement in QoL scores. Though 
+preservative‑free eye drops showed a better improvement in 
+QoL as compared to preservative‑containing eye drops, the 
+difference was not statistically significant.
+Strengths of the Study
+• This study not only evaluates treatment modalities in 
+DES but also assesses the causative factors, and effects 
+of different preservatives in eye drop on the prognosis of 
+DES and quality of life using a robust quality of Life (QoL) 
+questionnaire, that is, Ocular surface disease index 
+Questionnaire (OSDI Questionnaire).
+• This study also analyzed improvement in each domain of the 
+OSDI Questionnaire like OSDI symptoms, OSDI function, 
+and OSDI triggers after treatment.
+Limitations of the Study
+• This study was a duration‑based study, so a limited sample 
+size of 40 patients was collected. Hence, the lacunae 
+associated with a small sample size are present.
+• We did not compare the quality of life among patients 
+receiving either single, dual, or more than two drugs for the 
+treatment of DES with each other due to this sample size.
+Conclusion
+Prevention of exposure to causative factors, early diagnosis, and 
+prompt treatment preferably with preservative‑free treatment 
+modalities may result in a better clinical outcome. Physicians 
+should be encouraged to perform quality of life evaluations 
+for patients with DES to guide them in treatment with more 
+1592 Indian Journal of Ophthalmology Volume 71 Issue 4
+individual‑specific treatment options. Different treatment 
+options can be evaluated based on the severity of the disease and 
+prescription patterns can be modified accordingly.
+Financial support and sponsorship
+Nil.
+Conflicts of interest
+There are no conflicts of interest.
+References
+1. Javadi MA, Feizi S. Dry eye syndrome. J Ophthalmic Vis Res 
+2011;6:192–8.
+2. Shanti Y, Shehada R, Bakkar MM, Qaddumi J. Prevalence and 
+associated risk factors of dry eye disease in 16 northern West bank 
+towns in Palestine: A cross‑sectional study. BMC Ophthalmol 
+2020;20:26.
+3. Akpek EK, Amescua G, Farid M, Garcia‑Ferrer FJ, Lin A, 
+Rhee MK, et al. Dry eye syndrome preferred practice pattern®. 
+Ophthalmology 2019;126:P286–334.
+4. Walsh K, Jones L. The use of preservatives in dry eye drops. Clin 
+Ophthalmol 2019;13:1409–25.
+5. WHOQOL‑measuring Quality of life. Who.int. Available from: 
+https://www.who.int/tools/whoqol.[Last accessed on 2022 Feb 15].
+6. Barabino S, LabetoulleM, RolandoM, MessmerEM. Understanding 
+symptoms and quality of life in patients with dry eye syndrome. 
+Ocul Surf 2016;14:365–76.
+7. Craig JP, Nichols KK, Akpek EK, Caffery B, Dua HS, Joo CK, 
+et al. TFOS DEWS II definition and classification report. Ocul Surf 
+2017;15:276–83.
+8. Özcura F, Aydin S, Helvaci MR. Ocular surface disease index 
+for the diagnosis of dry eye syndrome. Ocul Immunol Inflamm 
+2007;15:389–93.
+9. Chatterjee S, Agrawal D, SharmaA. Dry eye disease in India. Indian 
+J Ophthalmol 2020;68:1499–500.
+10. Neha S, Dhaval B. Prevalence of dry eye disease in western India. 
+Int J Contemp Med Res 2019;6:G10–2.
+11. McCarty CA, Bansal AK, Livingston PM, Stanislavsky YL, 
+Taylor HR. The epidemiology of dry eye in Melbourne, Australia. 
+Ophthalmology 1998;105:1114–9.
+12. Moss SE, Klein R, Klein BE. Prevalence of and risk factors for dry 
+eye syndrome. Arch Ophthalmol 2000;118:1264–8.
+13. Schein OD, Muño B, Tielsch JM, Bandeen‑Roche K, West S. 
+Prevalence of dry eye among the elderly. Am J Ophthalmol 
+1997;124:723–8.
+14. Titiyal JS, Falera RC, Kaur M, Sharma V, Sharma N. Prevalence and 
+risk factors of dry eye disease in North India: Ocular surface disease 
+index‑based cross‑sectional hospital study. Indian J Ophthalmol 
+2018;66:207–11.
+15. Nasser L, Rozycka M, Rendon GG, Navas A. Real‑life results 
+of switching from preserved to preservative‑free artificial tears 
+containing hyaluronate in patients with dry eye disease. Clin 
+Ophthalmol 2018;12:1519–25.
+16. Lopes NLV, Gracitelli CPB, Chalita MR, de Faria NVL. Ocular 
+surface evaluation after the substitution of benzalkonium 
+chloride preserved prostaglandin eye drops by a preservative‑free 
+prostaglandin analogue. Med Hypothesis Discov Innov 
+Ophthalmol 2019;8:52–6.
+17. Mateo‐Otobia A, Del Prado Sanz E, Martínez AB, Corta MI, Sanz 
+MR, Pablo Júlvez LE, et al. Evaluation of ocular surface disease 
+symptoms and patient satisfaction in dry eye disease after 84 days 
+of treatment with preservative‐free eye drops containing sodium 
+hyaluronate and trehalose. Acta Ophthalmologica. 2022;100.
+18. Debbasch C, De La Salle SB, Brignole F, Rat P, Warnet JM, 
+Baudouin C. Cytoprotective effects of hyaluronic acid and 
+Carbomer 934P in ocular surface epithelial cells. Invest Ophthalmol 
+Vis Sci 2002;43:3409–15.
+19. Pisella PJ, Pouliquen P, Baudouin C. Prevalence of ocular 
+symptoms and signs with preserved and preservative free 
+glaucoma medication. Br J Ophthalmol 2002;86:418–23.
+20. Uchino M, Schaumberg DA. Dry eye disease: Impact on quality of 
+life and vision. Curr Ophthalmol Rep 2013;1:51–7.
+21. Miljanović B, Dana R, Sullivan DA, Schaumberg DA. Impact of dry 
+eye syndrome on vision‑related quality of life. Am J Ophthalmol 
+2007;143:409–15.

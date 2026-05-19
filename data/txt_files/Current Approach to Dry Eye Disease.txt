@@ -1,0 +1,869 @@
+Current Approach to Dry Eye Disease
+Valéria Valim & Virginia Fernandes Moça Trevisani &
+Jacqueline Martins de Sousa & Verônica Silva Vilela &
+Rubens Belfort Jr
+Published online: 1 August 2014
+# Springer Science+Business Media New York 2014
+Abstract Dry eye disease (DED) is a multifactorial disease of
+the tears and ocular surface that causes tear film instability
+with potential damage to the ocular surface. The prevalence of
+dry eye in the world population ranges from 6 to 34 %. It is
+more common in those aged over 50, and affects mainly
+women. Since the introduction of the Schirmer’s test in
+1903, other tests have been developed to evaluate dry eye,
+such as biomicroscopy, the tear film breakup time (BUT), vital
+dyes (lissamine green and rose bengal), fluorescein, leaf fern
+test, corneal sensitivity test, conjunctiva impression cytology,
+optical coherence tomography (OCT), and tear osmolarity
+measurement. Although there is no gold standard, it is advis￾able to combine at least two tests. Strategies for treating DED
+have recently been modified and include patient education,
+tear substitute, corticosteroids, secretagogues, fatty acids, im￾munomodulators, occlusion of lacrimal puncta surgery and,
+tarsorrhaphy. Biological therapy and new topical immuno￾modulators such as tacrolimus, tofacitinib and IL-1 receptor
+inhibitor are being tested. In this review, the evaluation tests
+for dry eye are compared and the main studies on treatment are
+presented, with emphasis on studies in patients with Sjögren’s
+syndrome. The authors propose an approach for the manage￾ment of dry eye.
+Keywords Dry eye disease . Sjögren’s syndrome . Cornea .
+Ocular surface
+Introduction
+Dry eye disease (DED) or lacrimal dysfunction syndrome
+(LDS) is a concept established in 2007 by the International
+Workshop on Dry Eye (DEWS). It is a multifactorial disease
+of the tears and ocular surface that causes symptoms of
+discomfort, change in visual acuity, and tear film instability
+with potential damage to the ocular surface. Dry eye also
+causes increase in tear osmolarity and ocular surface inflam￾mation [1].
+The tear film is dynamic and synergistic with the cornea
+and conjunctiva. It is composed of three layers: the mucin,
+aqueous and lipid layer. The main functions of the tear film
+are: optical, metabolic (provides corneal nutrition),
+antimicrobian (due to the presence of enzymes and IgA),
+and as a mechanical barrier (eliminates cellular debris and
+environmental substances). The lipid layer is external and
+produced by Meibomian glands. Its function is to delay the
+V. Valim
+Centro de Referência de Doenças Reumáticas, Serviço de
+Reumatologia, Universidade Federal do Espírito Santo, Hospital
+Universitário Cassiano Antonio de Moraes, Rua Marechal Campos,
+1468, Maruípe, Vitória, ES, Brazil 29040-091
+V. F. M. Trevisani
+Disciplina de Medicina de Urgência e Medicina Baseada em
+Evidências, Universidade Federal de São Paulo, Rua Botucatu 740
+Vila Clementino, São Paulo, SP, Brazil 04023-062
+V. F. M. Trevisani
+Universidade de Santo Amaro, Rua Enéas Siqueira Neto, Jardim das
+Embuias, São Paulo, SP, Brazil
+J. M. de Sousa : R. Belfort Jr
+Escola Paulista de Medicina (EPM), Departamento de Oftalmologia
+e Ciências Visuais, Rua Botucatu 820, Vila Clementino, São Paulo,
+SP, Brazil 04023-062
+V. S. Vilela
+Disciplina de Reumatologia, Universidade do Estado do Rio de
+Janeiro, Avenida 28 de Setembro 77, Vila Isabel, Rio de Janeiro, RJ,
+Brazil 20551-900
+V. Valim (*) : V. F. M. Trevisani : V. S. Vilela
+Scientific Committee on Sjögren’s Syndrome, Brazilian Society of
+Rheumatology, Av. Brigadeiro Luís Antônio, 2466, Bela Vista, São
+Paulo, SP, Brazil 01402-000
+e-mail: val.valim@gmail.com
+Clinic Rev Allerg Immunol (2015) 49:288–297
+DOI 10.1007/s12016-014-8438-7
+evaporation of the lacrimal film. The aqueous layer is the
+major one. It is produced by the lacrimal glands and has high
+aqueous content. The mucin layer is produced by conjunctival
+goblet cells and composed mainly of glycocalyx (tightly
+bound to the corneal and conjunctival epithelia), water soluble
+to mucin and proteins. Antimicrobian enzymes are found
+within the mucin layer [1].
+There are two categories of dry eye according to the DEWS
+classification: aqueous deficiency and increased evaporation.
+The main cause of dry eye of the aqueous deficiency type is
+Sjögren’s Syndrome (SS). Besides SS, other systemic diseases
+that cause decreased tear film production are systemic lupus
+erythematosus (SLE), rheumatoid arthritis (RA), systemic
+sclerosis (SSc), sarcoidosis, graft-versus-host disease,
+episcleritis, lymphoma, diabetes, human immunodeficiency
+(HIV) or hepatitis C viruses infections, and hyper IgG4 syn￾drome. Other causes include deficiency of the lacrimal gland,
+lacrimal duct obstruction, reflex hyposecretion, and the use of
+systemic medications [1–6].
+Evaporative dry eye can be caused by several other dis￾eases, such as blepharitis, psoriasis, rosacea, seborrheic der￾matitis, allergic conjunctivitis, and eyelid disorders (paralysis
+of the facial nerve, Graves’ disease), prolonged contact lens
+use, and use of systemic and topical medications. However,
+studies show that both mechanisms usually coexist, and the
+evaporative isolated form is more common than the aqueous
+isolated deficiency [1–3].
+Tear deficiency causes dryness, red eyes, eye irritation,
+burning or foreign body sensation, excessive or lack of tear￾ing, light sensitivity, blurred vision, and eyestrain. Severe
+cases can result in abrasion or corneal ulceration [7]. Symp￾toms often worsen in dry environments (air conditioning, dust,
+winds) when reading or using the computer for a long time [8,
+9]. The discomfort can affect labor productivity and reading
+[10]. Besides affecting visual function, DED is also related to
+impairment in the health-related quality of life, with negative
+correlation with anxiety and depression [11].
+Epidemiology
+The prevalence of DED in the world population ranges from 6
+to 34 %. It is more common in those aged over 50, and affects
+mainly women (70 %) [12]. A population study in the USA in
+2009 showed that its prevalence in men aged over 50 is 4.3 %,
+and it is expected to affect 2.79 million men in the USA by
+2030 [13].
+The Beaver Dam Offspring Study (BOSS) showed a
+14.5 % prevalence of dry eye symptoms (14.1 % in aged
+21–49 years and 15.2 % in 50 and older) with a significantly
+higher prevalence in women than in men. In women, the
+prevalence increased with age, but this was not observed in
+men in this study. The most important risk factors were: use of
+contact lenses, arthritis, osteoporosis, allergies, thyroid dis￾ease, severe headaches or migraine in the previous three
+months, history of head injury and use of some medications
+(including antihistamines, acetaminophen, benzodiazepines,
+antidepressants, and steroids). There is no association between
+a history of smoking or alcohol consumption and DED [11].
+Environmental risk factors have been studied in the last
+years, and the increased air pollution and atmospheric pres￾sure were the most important related factors. The risk of DED
+was 13 % higher in regions with higher atmospheric pressure.
+In metropolitan areas with high air pollution, people are three
+to four times more likely to have dry eye as compared to rural
+areas [14].
+Computer use causes a decreased rate of blinking, thinning
+of mucin and lipid layers, instability of the tear film and
+increased tear evaporation, leading to DED. Lower environ￾mental humidity increases tear evaporation in 5 and 40 %
+relative humidity, but not at 70 %, when the tear evaporation
+rate is close to zero. About 43 % of soft contact lens wearers
+refer dry eye symptoms [15].
+Sjögren’s Syndrome is the main disease that causes dry eye
+and affects the lacrimal glands, leading to decreased secretion
+and, thus, aqueous tear film production in more than 80 % of
+patients. Dry eye is the main ocular manifestation in RA
+(30 %) and SLE (20 %) and occurs in 15 % of SSc cases [4, 5].
+Diagnosis
+All patients with symptoms of dry eye must be clinically
+evaluated to exclude or confirm a systemic disease or use of
+a medication that may eventually lead to dryness [3–9]. Ques￾tionnaires can be used to detect patients with dry eye and
+evaluate its impact in the quality of life and follow-up treat￾ment. The questionnaires named Dry Eye Screening
+Questionnaire [16] and Sicca Symptoms Inventory [17] eval￾uate ocular and oral symptoms and can be used in the active
+search for suspected SS patients. These questionnaires are
+composed of simple and direct questions, such as:
+– Have you had dry eyes, foreign body sensation, or burn￾ing sand that was persistent over the last 3 months?
+– Are your eyes sensitive to light?
+– Do you usually need to use eye drops as tear substitute
+more than three times a day?
+The Ocular Surface Disease Index (OSDI) questionnaire
+assesses ocular symptoms in patients with dry eyes. That
+questionnaire focuses on three issues: ocular symptoms within
+7 days, possible environmental stimuli causing ocular discom￾fort, and limitations in daily activities caused by an eye
+disease. After, it creates an index based on the answers
+Clinic Rev Allerg Immunol (2015) 49:288–297 289
+provided in each response question and on the total number of
+questions answered [18].
+Some authors observed a weak correlation between patient
+complaints and findings on ophthalmologic examination [19].
+Patients with very severe complaints do not always have
+important ocular changes. Several studies have shown that
+chronic inflammation in the cornea decreases its sensitivity in
+patients with SS compared to patients with other causes of
+keratoconjunctivitis sicca. Contrary to what one would expect
+when it causes most damage to the ocular surface, such
+patients show lower sensitivity of the central cornea. The
+corneal hypoesthesia makes the patient less symptomatic,
+which is one of the main factors for the dissociation between
+signs and symptoms [20, 21]. According to Fox, this discrep￾ancy may delay the diagnosis of SS by up to ten years [22].
+After performing a comprehensive interview, tear deficien￾cy can be investigated by several different tests:
+& Biomicroscopy
+& Schirmer’s test
+& Breakup time of the tear film (BUT)
+& Vital dyes (lissamine green 2 %, rose bengal 1 %)
+& Fluorescein 1 %
+& Test of the leaf fern
+& Test of the corneal sensitivity
+& Conjunctival impression cytology
+& Optical coherence tomography (OCT)
+& Tear osmolarity measurement
+Ocular hyperemia, inflammation of Meibomian gland,
+symblepharon, absence of glare in the cornea are find￾ings that suggest dry eye and can be observed by
+biomicroscopy [19].
+Described in 1903, the Schirmer’s test is still one of the
+most used methods in assessing dry eye nowadays. Schirmer I
+(without the use of anesthetic eye drops before examination)
+uses a filter paper, Whatman No. 41, 5 mm in width and
+35 mm in length, to quantify basal and reflex tear productions
+in a unit of time. The paper is carefully placed on the junction
+of the middle third and the lateral margin of the lower eyelid
+towards the temporal angle [23]. For the SS criterion, it is
+considered positive if ribbon wetting reaches ≤5 mm in 5 min.
+The possibility of modifying the cut-off Schirmer’s I test has
+been studied to see how good the tape with ≤10 mm in 5 min
+would perform. This modification resulted in increases of
+78 % in sensitivity and 82 % in specificity for the diagnosis
+of SS. To evaluate basal tear secretion, it should be instilling a
+drop of anesthetic drops before the test was considered having
+a normal value ≤5 mm in 5 min [23]. It showed a sensitivity of
+60 % and a specificity of 88 % [24–26].
+The breakup time of the tear film (BUT) is measured 2 min
+after the application of the fluorescein dye, using the slit lamp.
+The patient is instructed to blink three times to evenly spread
+the dye over the ocular surface. It is defined as the time in
+seconds between the last blink and the appearance of the
+patient’s dry spot on the surface of the cornea. It needs to be
+measured three times using a stopwatch, and the average of
+the three measurement values is used. It is considered abnor￾mal if it is less than 10 s. This test shows a good correlation
+with the Schirmer’s test [27].
+The rose bengal test evaluates the corneal-conjunctiva in￾volvement using a slit lamp and white light reddish-pink blush
+identifies cells of the corneal epithelium and conjunctival that
+are suffering or devitalized. It is considered abnormal if more
+than four points are observed according to the Bjsterveld
+scale. The rose bengal stain is able to differentiate SS from
+keratoconjunctivitis sicca [28, 29], however, it presents toxic
+effects to surface epithelial cells of the cornea and conjunctiva
+[30].
+The lissamine green test is equivalent to rose bengal assay,
+but it is less irritating to the cornea and is more comfortable for
+the patient (Fig. 1). One drop of dye should be applied in the
+bottom of the lower conjunctival sac of both eyes, and imme￾diately after installation, examination is done using slit lamp
+with white light or red filter [31, 32].
+The fluorescein test assesses the cornea of the patient as
+well as flushing epithelial defects. Assessment with the slit
+lamp should be performed 4–8 min after the dye installation
+with a blue cobalt light to identify punctate epithelial erosions.
+The maximum possible score is 6, and the test shows good
+clinical correlation [33, 34]. For aqueous tear film deficiency,
+changes in upper and lower parts of the cornea were more
+predictive than in the overall cornea [35] (Fig. 2). The
+Sjögren’s International Collaborative Clinical Alliance
+(SICCA) recommends the combination the lissamine green
+test to evaluate the severity of the commitment of the con￾junctiva with the fluorescein test for corneal involvement.
+Using both assays, the SICCA group created a score for SS
+diagnosis called ocular staining scores (ocular staining score
+or OSS). The abnormal OSS≥3 out of 12 for each eye pre￾sented sensitivity of 89.7 % and specificity of 37.8 % for SS
+[36].
+The test of fern leaf (ferning test) assesses the pattern of
+crystallization of tear when placed on a glass slide. It is
+considered normal when it forms a fernlike pattern. The
+absence of this pattern indicates primary deficiency of mucin
+in the tear film [37]. Dry eye patients rarely exhibit patterns I
+and II that are considered normal in a comparative study of
+patients with Sjögren’s syndrome and normal controls. The
+presence of patterns III, IV, and V demonstrated a sensitivity
+of 90 % and specificity of 88 % for DED [38].
+The test of corneal sensitivity is performed with the
+Cochet-Bonnet esthesiometer consisting of nylon filaments
+of different lengths; pressures higher than 0.57 g/mm2 at five
+different points in the cornea are regarded as abnormal values
+[38]. Hypoesthesia after mechanical, thermal, and chemical
+290 Clinic Rev Allerg Immunol (2015) 49:288–297
+stimuli is observed in patients with dry eye, and this observa￾tion correlates with the results of other assessment tests [39].
+Cytology of the ocular surface shows changes in the con￾junctival surface, especially the number, size, and shape of
+goblet cells through a cellulose acetate paper smear [40].
+Other ways of assessing tear are through osmolarity mea￾sure, protein profile, and the presence of extracellular DNA,
+which are found to be helpful in diagnosing systemic diseases
+such as SS [41–43].
+A recent study showed that corneal epithelial thickness
+measured by optical coherence tomography (OCT) increases
+in patients with dry eye compared with the control group. The
+OCT can also be used to measure the height of the tear film,
+which is impaired in patients with aqueous tear deficiency
+film; such examination has good clinical correlation with
+other parameters such as the tear film BUT and fluorescein
+test [44].
+The tear osmolarity test may be carried out by various
+methods, with a high osmolality value usually found in all
+types of dry eye. There are devices that can measure
+osmolarity of the tear in 20 s, with a cut-off of 308 mOsm/
+ml but with variations of 8 mOsm/ml between two measure￾ments being suggestive of the DED diagnosis [45].
+Decreased levels of proteins, such as lysozyme and
+lactoferrin are also related to tear deficiency. Elevated levels
+of metalloproteinase-9 in tear are found in patients with aque￾ous and lipid tear deficiency. Many researchers are studying
+over 1,540 different proteins existing in tears, with the hope of
+finding possible diagnostic and therapeutic options in the
+future [41–43].
+There is no gold standard for the evaluation of dry eye.
+In 2006, a Delphi panel of experts agreed that DED
+severity is an important parameter for the therapeutic
+decision [46]. Recently, the European multinational
+ODISSEY Consensus Group, formed by ocular surface
+experienced ophthalmologists, established a practical guide
+for dry eye diagnostic algorithm. This guide suggests that
+a combination of two criteria, including the presence of
+symptoms (OSDI≥33) and the corneal fluorescein staining
+(≥3), is sufficient to diagnose SS. If no or only mild
+symptoms are observed, they recommended the combina￾tion of at least two objective tests [47]. In studies of
+therapies for dry eye symptoms, 75.5 % used symptom
+questionnaires, 69.4 % used ocular surface staining,
+55.1 % utilized the Schirmer’s test, and 51 % BUT
+[48]. Therefore, OSS and Schirmer’s test parameters are
+the most widely used, but the BUT has a better accuracy
+(Table 1).
+Treatment
+Strategies for treating DED have recently been modified and
+include patient education, lacrimal substitute, anti￾inflammatories, secretagogues, fatty acids, and antioxidants.
+Fig. 1 a Rose bengal staining in
+severe dry eye. b Lissamine green
+in moderate dry eye
+Fig. 2 Examination with fluorescein 1 % at the slip lamp with cobalt blue
+light. a Mild dry eye. b Moderate dry eye. c Severe dry eye
+Clinic Rev Allerg Immunol (2015) 49:288–297 291
+All these strategies are focused on symptomatic relief. The use
+of immune modulators, such as cyclosporine eye drops, is
+well established, and new biological therapies that consider
+the importance of the inflammatory process in the pathogen￾esis of dry eye have been tested. For untreated patients, the
+risk of ocular infection increases at considerable level, and the
+clinical course of the disease may proceed to infection, corneal
+ulceration, or blindness. The vast majority of studies were
+conducted in the last decade, including more than 5,000
+individuals [48] but there is still great difficulty in managing
+moderate to severe DED. Figure 3 presents a flowchart with
+the evidence-based treatment of mild to severe dry eye. There
+are few studies about systemic treatments, most of those in SS
+patients (Table 2).
+The main approach to dry eye is symptom relief,
+using lacrimal substitute, which are able to improve
+dry eye and the functional testing. The ideal lacrimal
+substitute should be similar to the composition of the
+tear and preservatives-free. Eye drops containing glu￾cans, such as sodium hyaluronate (0.1–0.4 %) and car￾boxymethylcellulose (0.5 %) were tested in several clin￾ical trials and found effective, acting better than saline
+solutions [68–71]. Frequency of use should be at least
+four times a day. Gel formulations are long lasting and
+more effective. Nighttime use is recommended, but
+more frequent use can be done daily, in cases of mod￾erate to severe dry eye that are very symptomatic.
+Topical cyclosporine was tested in 14 clinical trials involv￾ing 2,241 patients with dry eye, including 1,451 patients with
+Sjögren’s syndrome, with moderate to severe symptoms, dur￾ing 1–12 months of follow-up. Marked improvements were
+observed in the scores of corneal staining, and the Schirmer’s
+test score as well as the symptom of blurred vision [72–77].
+Burning eye sensation was the main adverse effect reported.
+Comparing the results of 0.1 and 0.05 % concentrations, the
+lowest concentration is found to be as effective and better
+tolerated. It is recommended for twice a day use, for a period
+of 6 to 12 months. With the local administration of cyclospor￾in A (CsA), the expectation is to obtain an effective drug
+concentration at the target area and avoid various side effects
+associated with systemic immunosuppression. Microspheres,
+implants, and liposomes have been developed for the admin￾istration of CsA subconjunctivally to enhance its efficiency
+[77].
+Topical corticosteroids (fluorometholone, clobetasone,
+loteprednolol, and methylprednisolone) are useful for the
+symptomatic relief of dry eye or as the initial treatment.
+However, its use should be limited to only a few weeks
+because there is an increased risk of developing subcapsular
+cataracts [78, 79].
+Table 1 Comparison of diagnos￾tic tests for keratoconjunctivitis
+LR likelihood ratio, CI confidence
+interval
+TEST Sensitivity (%) Specificity (%) Accuracy LR (95 % CI)
+Schirmer I Test [86] 76.9 72.4 74.5 2.75 (95 % CI 1.97–3.83)
+Tear breakup time [36] 82 86 84 5.86 (95 % CI 3.57–9.60)
+Rose bengal [86, 87] 64.3 81.7 73 3.56 (95 % CI 2.28–5.54)
+Lissamine green [26] 63 89 76 5.73 (95 % CI 3.22–10.20)
+Fluorescein [26] 63 84 73.5 3.93 (95 % CI 2.45–6.32)
+Mild Moderate Severe
+Patient Education/Non-pharmacological treatment (4D) 
+Tear substitute (preservative free) (1A) 
+Essential fatty acids supplementation (2B) 
+Topical cyclosporine A (1A) 
+Topical corticosteroid (1A) 
+Secretagogues (muscarinic agonists) (2B) 
+Punctual occlusion (1A) 
+Autologous serum (4C) 
+Contact Lens (4D) 
+Consider Systemic treatment,
+in special if SS 
+Immunossupressant (4C) 
+ Biological erapy (2B) 
+Surgery (4C) 
+Fig. 3 Flow-chart for the
+treatment of dry eye
+292 Clinic Rev Allerg Immunol (2015) 49:288–297
+Occlusion of lacrimal puncta is indicated for moderate to
+severe dry eye that failed to improve with the use of tear
+substitute and topical cyclosporine. It can be done through
+surgical occlusion with silicone plugs or collagen implants.
+Plug extrusion is a common adverse event, while other com￾plications, such as migration, canaliculitis, and infection, may
+also occur. There is no clear advantage in occluding both the
+superior and inferior points and just the inferior [80, 81].
+Forty-two eyes of patients with primary Sjögren’s syndrome
+were analyzed after random allocation to the use of artificial
+tears or occlusion of lacrimal puncta. The values of the
+Schirmer’s test and the time of tear film BUT had better results
+with the use of plugs. In the assessment of contrast sensitivity,
+no significant differences between the two different treatments
+were found [81].
+The fatty acids, in special omega-3, may have an anti￾inflammatory action and it seems to be useful for evaporative
+type of dry eye but its benefit is still controversial when the
+main pathogenic issue is production deficiency, like in SS.
+Flaxseed oil and omega-3 showed improvement in ocular
+tests, ocular discomfort, and increased PGE1 in preliminary
+studies [56–58]. Considering that they have low cost and have
+a good safety profile, fatty acids (1–2 g/day) could be pre￾scribed for all cases.
+Pharmacological stimulation can be obtained by acetylcho￾line receptor agonists such as pilocarpine (M1 and M3 ago￾nists) or cevimeline (M3 selective agonist). Although most
+studies in Sjögren’s syndrome have shown more benefit for
+dry mouth, there is also evidence that it can improve symp￾toms and measures of dry eye. Muscarinic agonists are
+Table 2 Clinical trials for systemic treatment of dry eye in Sjögren’s syndrome patients
+Author/Year Medicine/intervention N Design Duration
+(weeks)
+Outcome/result
+Papas 2004 [49] Pilocarpine 20 at 30 mg/day 256 RCT 12 Significant relief of symptoms of dry mouth ocular
+symptoms
+Petrone 2002 [50] Cevimeline 15–30 mg 3×/day 197 RCT 12 Improvement of ocular and oral symptoms
+Fife 2002 [51] Cevimeline 30–60 mg 3×/day 75 RCT 6 Improvement of ocular and oral symptoms
+Ono 2004 [52] Cevimeline 20–30 mg 3×/day 60 RCT 4 Improvement of ocular and oral symptoms
+Leung 2008 [53] Cevimeline 30 mg 3×/day 50 RCT 10 No improvement symptoms and OSDI
+Aragona 2005 [54] Linoleic acid
+Gamma linoleic acid
+40 RCT 4 Improvement of PGE1, da xerophthalmia, Schirmer
+Pinheiro 2007 [55] Flaxseed oil (Linun Ussitatissum)
+1 vs. 2 g/day
+38 RCT 24 Improvement of symptoms (OSDI), Schirmer’s test,
+BUT and conjunctival impression cytology
+Manthorpe 1984 [56] Ac. Gamalinoleic (efamol) 36 RCT 3 Improvement of Schirmer.
+No improvement of BUT, rose bengal and impression
+cytology.
+Oxholm 1986 [57] Ac. Gamalinoleic (efamol) 28 RCT 28 No improvement in Schirmer, BUT and rose bengal
+Theander 2002 [58] Ac. Gamalinoleic×Corn oil 90 RCT 24 No improvement in fatigue, xerostomia, xerophthalmia,
+salivary flow, rose bengal, Schirmer, use of lubricant
+eye drops,
+Fox 1993 [59] Corticosteroid 16 RCT 24 No improvement
+Fox 1988 [60] Hydroxichloroquine 40 Retrospective 52 Improvement of rose bengal and oral dryness
+Kruize 1993 [61] Hydroxichloroquine 19 Cross over 52 No improvement of dryness, rose bengal, BUT,
+tear lysozyme and salivary scintigraphy
+Yavuz 2011 [62] Hydroxichloroquine 34 Retrospective 12 Improvement of dry eye (symptoms, BUT, fluorescein,
+BAFF in the tear)
+Sankar 2004 [63] Etanercept 25 mg 2×/week 28 RCT 12 There was no significant difference in the symptoms
+of ocular and oral dryness
+Mariette 2004 [64] Infliximab 5 mg/kg 103 RCT 22 There was no significant difference in the symptoms
+of ocular and oral dryness
+Meijer 2010 [65] Rituximab 1 g 2× 2 weeks 30 RCT 18 Improvement of salivary flow and ocular stating score
+(Lissamine Green)
+Devauchelle￾Pensec 2010 [66]
+Rituximab 375 mg/m2 15 Retrospective 36 No improvement
+Carubbi 2013 [67] Rituximab 1 g 2× 2 weeks 41 Prospective,
+controlled
+120 Schirmer’s test improvement
+RCT randomized controlled trial; BUT breakup time of the tear film; OSDI Ocular Surface Disease Index questionnaire; BAFF B-Cell Activating Factor;
+PGE1 prostaglandin E1
+Clinic Rev Allerg Immunol (2015) 49:288–297 293
+contraindicated in closed-angle glaucoma and should be used
+carefully in asthma and heart disease patients [49–53].
+In previous meta-analysis, acupuncture (one session=
+30 min daily for 10 times) was more effective than artificial
+tears, applied six times a day for 30 days (response rates of
+63 % vs 33 %; p=0.03) in improving tear BUT, Schirmer’s
+test results, and fluorescent spots on the cornea (p=0.02, p=
+0.001, and p=0.03, respectively) [82].
+In cases of very severe dry eye, there is an advantage in
+using autologous serum as the substitute for tears. No lubri￾cant eye drops has active components in the formula, such as
+growth factors, vitamins, and immunoglobulins. Another dis￾advantage of using lubricants is that most have preservatives
+in their formula with are potentially toxic and may trigger
+allergic reactions. Although the majority of patients have good
+control of the disease using tear substitute only, in some cases,
+the symptoms and complaints persist despite the proper use of
+medication. Such patients have more severe disease and re￾quire optimized treatment.
+The benefits of autologous serum eye drops application
+were first described in SS patients by Fox in 1984 [83].
+Currently, its use is recommended for cases of severe ocular
+surface changes, such as the SS, graft disease, neurotrophic
+keratitis, persistent epithelial defects, superior limbic kerato￾conjunctivitis, and ocular surface reconstruction. Besides im￾proving ocular lubrication, autologous serum has similar pH
+and osmolarity of the tear, plus several components that allow
+maintenance of epithelial cell viability during the repairing
+process [83–88]. Autologous serum eye drops application
+produces a temporary benefit that lasts only during its use.
+Patients report improvement in symptoms within the first days
+of use, but the clinical improvement of the lesion tends to
+occur after the second week of use [89]. Studies with autolo￾gous serum 20 % in patients with severe dry eye showed
+improvement in signs and symptoms in relation to the use of
+lubricants with no preservatives for 2 weeks. Lacrimal substi￾tute with autologous serum is safe for extended use [88, 89]. It
+is generally well tolerated, and most patients experience im￾provement of the ocular discomfort [89, 90]. A major compli￾cation is immunoglobulin deposition in the cornea, which is
+the presence of peripheral corneal infiltrates, when used at a
+concentration of 100 % [91]. Some patients may present
+discomfort, mild epitheliopathy, bacterial conjunctivitis, and
+eyelid eczema.
+Fig. 4 Tarsorraphy in severe dry eye
+Table 3 Patient education
+• Reassure the patient and explain that dry eyes usually does not progress
+to blindness
+• Explain that some medications could increase dryness, such as diuretics,
+beta blockers, antidepressants and anxiolytics;
+• Advise to use humidifiers environments;
+• Advise to avoid environments with air conditioning and dry climate;
+• Advise to suspension of consumption of caffeinated beverages, alcohol
+and tobacco;
+• Advise to avoid activities that reduce the act of blinking as long periods
+on the computer or prolonged readings;
+• Advise to wear goggles with side protection during exposure to wind or
+practice outdoor sports;
+• Explain how to remove makeup properly.
+Table 4 Main pharmacological and surgical recommendations for dry
+eye treatment
+1. Lacrimal substitute improve comfort and functional tests (A). It must be
+hypotonic, having a greater colloidal osmolarity, and preservatives-free
+(D).
+2. Ocular corticosteroids improve comfort and functional tests and may be
+used in more symptomatic cases for a limited period due to the risk of
+subcapsular cataracts (A).
+3. Ocular cyclosporine 0.05 % BID for 6–12 months is effective in the
+symptomatic and functional improvement of dry eye and must be
+prescribed (A). Eye irritation is frequent even in the concentration of
+0.05 %. Therefore, greater concentrations are not recommended.
+4. Punctual occlusion improves the symptoms and the ocular lacrimal test
+results and is superior to lacrimal substitute (A). Plug extrusion is
+common, and complications, such as migration, canaliculitis, and
+infection, may occur.
+5. Pilocarpine (5 mg, 3 TID) or cevimeline (30 mg, 3 TID) could improve
+dry eye symptoms and lacrimal test results (A). Attention must be
+given to contraindications for the use of muscarinic agonist, such as
+closed angle glaucoma, asthma, and heart diseases.
+6. Supplementation of fatty acids can be used. It is effective for
+evaporative DED, but results are controversial for production
+deficiency (B).
+7. Autologous serum can be used in severe and refractory cases. It has the
+advantage of being preservatives-free, and it is enriched with growth
+factors, immunoglobulins, and vitamins, thus favoring epithelial
+healing (C).
+8. Tarsorrhaphy is an extreme option that could be used in very severe and
+refractory cases (D).
+9. New topical immunomodulators, such as tacrolimus, tofacitinib, and
+IL1 receptor inhibitor, are being tested, and the results are promising
+(C).
+294 Clinic Rev Allerg Immunol (2015) 49:288–297
+Tarsorrhaphy is a simple and safe procedure that is used as
+an extreme option in cases of very severe dry eye (Fig. 4). It
+includes temporary or permanent closure of the eyelids and
+can be accomplished in four ways: (1) short tarsorrhaphy
+sutures: eyelid closure with tape or glue (lasting a few days)
+or paralysis of the elevator muscles through local injection of
+toxin botulinum (lasting about 16 days); (2) temporary
+tarsorrhaphy suture: with or without cushion (lasting 4–
+6 weeks); (3) Permanent tarsorrhaphy, which can be opened
+in the future: excision of the opposite eyelid margins, which
+heal together forming a strong adhesion. Final
+blepharorraphy: making tarsal flaps. Tarsorrhaphy palpebral
+fissure decreases the rate of evaporation of the tear film,
+allows a better distribution of the tear film on the epithelial
+defect, and decreases the effect caused by the mechanical
+motion of the injured eyelid corneal epithelium. There are
+many advantages of tarsorrhaphy on total occlusion, including
+increased oxygen supply to the epithelium, and the possibility
+of administering eye drops, partial view, and examination the
+injured eye [92, 93].
+Certain treatment approaches are designed to modu￾late the underlying disease process. Cyclosporin A
+(CsA) is now frequently used for the treatment of mod￾erate to severe DED. It is the first immunomodulatory
+topical agent that has an evident anti-inflammatory ef￾fect. Tacrolimus is another calcineurin inhibitor that
+inhibits the production of IL-2, which is already used
+for vernal keratoconjunctivitis, and corneal transplants,
+where it has been recently tested in pilot studies at
+0.1 % concentration in topical formulation for dry eye
+patients [94].
+Topical ophthalmic JAK-3 inhibitor tofacitinib may act as
+an immunomodulator in patients with DED. In a pilot study,
+treatment for 8 weeks showed a promising reduction of con￾junctival cell surface HLA-DR expression and tear levels of
+proinflammatory cytokines and inflammatory markers [95].
+Topical treatment with IL-1Ra was effective in ameliorating
+the clinical signs of dry eye disease, as well as in reducing
+underlying inflammation. These effects were comparable with
+those resulting from treatment with topical methylpredniso￾lone. Topical IL-1Ra may hold promise as a novel therapeutic
+strategy in the treatment of dry eye [96]. Systemic immuno￾suppressant or biological therapy has been tested for dry eye
+treatment of SS patients (Table 2) [59–67]. In spite of not
+having evidence for using it routinely, maybe in some more
+severe cases, if the diagnosis is early in the evolution score,
+systemic treatment could be useful. Biologic agents like ritux￾imab, abatacept, and belimumab [97–99] are promising and
+should be tested in large and randomized controlled trials.
+Main topics for patient education are presented in
+Table 3. Evidence-based recommendations of pharmaco￾logical and surgical treatment are summarized in Table 4
+of this review.
+Conflict of interest The authors declare that they have no conflicts of
+interest concerning this article.
+References
+1. The definition and classification of dry eye disease: report of the
+definition and classification subcommittee of the international dry
+eye workshop (2007) Ocul Surf 2007; 5(2): 75–92
+2. Lemp MA, Crews LA, Bron AJ, Foulks GN, Sullivan BD (2012)
+Distribution of aqueous-deficient and evaporative dry eye in a clinic￾based patient cohort: a retrospective study. Cornea 31:472–478
+3. Fonseca EC, Arruda GV, Rocha EM (2010) Olho seco: etiopatogenia
+e tratamento/Dry eye: ethyopathogenesis and treatment. Arq Bras
+Oftalmol 73:197–203
+4. Davies JB, Prakabar KT (2008) Ocular manifestations of systemic
+lupus erythematosus. Curr Opin Rheumatol 19:178–181
+5. Waszczykpwaska A, Gos R, Waszczykpwaska E, Dziankowska￾Bartkowiak B, Jurowski P (2013) Prevalence of ocular manifesta￾tions in systemic sclerosis patients. Arch Med Sci 9:1107–1113
+6. Fox RI (1994) Systemic diseases associated with dry eye. Int
+Ophtalmol Clin 34:37–56
+7. Fox R, Creamer P (2012) Clinical manifestations of Sjögren’s syn￾drome: exocrine gland disease. Wolters Kluwer Healt 7:210–235
+8. Felberg S, Dantas PEC (2006) Diagnóstico e tratamento da síndrome
+de Sjõgren/Sjögren’s syndrome: diagnosis and treatment. Arq Bras
+Oftalmol 69:959–963
+9. Kassan SS, Moutsopoulos HM (2004) Clinical manifestations and
+early diagnosis of Sjögren’s syndrome. Arch Intern Med 164:1275–
+1284
+10. Van Landingham SW, West SK, Akpek EK, Muñoz B, Ramulu PY
+(2014) Impact of dry eye on reading in a population based sample of
+the elderly: the Salisbury Eye Evaluation. Br J Ophthalmol 98:639–
+644
+11. Paulsen AJ, Cruickshanks KJ, Fischer ME, Huang GH, Klein BE,
+Klein R, Dalton DS (2014) Dry eye in the beaver dam offspring
+study: prevalence, risk factors, and health-related quality of life. Am J
+Ophthalmol 157:799–806
+12. The epidemiology of dry eye disease: report of the epidemiology
+subcommittee of the international dry eye workshop. Ocul Surf 2007;
+5: 93–107
+13. Schaumberg DA, Dana R, Buring JE, Sullivan DA (2009) Prevalence
+of dry eye disease among US Men: estimates from the physicians’
+health studies. Arch Ophthalmol 127:763–785
+14. Galor A, Kumar N, Feuer W, Lee DJ (2014) Environmental factors
+affect the risk of dry eye syndrome in a United States veteran
+population. Ophthalmology 121:972–973
+15. Bron AJ, Tomlinson A, Foulks GN, Pepose JS, Baudouin C, Geerling
+G, Nichols KK, Lemp MA (2014) Rethinking dry eye disease: a
+perspective on clinical implications. Ocul Surf 12(2 Suppl):S1–S31
+16. Oden NL, Lilienfeld DE, Lemp MA, Nelson JD, Ederer F (1998)
+Sensitivity and specificity of a screening questionnaire for dry eye.
+Adv Exp Med Biol 438:807–820
+17. Bowman SJ, Booth DA, Platts RG, Field A, Rostron J, UK Sjögren’s
+Interest Group (2003) Validation of the sicca symptoms inventory for
+clinical studies of Sjögren’s syndrome. J Rheumatol 30:1259–1266
+18. Schiffman RM, Christianson MD, Jacobsen G, Hirsch JD, Reis BL
+(2000) Reliability and validity of the ocular surface disease index.
+Arch Ophthalmol 118:615–621
+19. Zeev MS, Miller DD, Latkany R (2014) Diagnosis of dry eye disease
+and emerging technologies. Clin Ophthalmol 2:581–590
+20. Barboza MN, Barboza GN, de Melo GM et al (2008) Correlation
+between signals and symptoms of dry eye in Sjögren’s syndrome
+patients. Arq Bras Oftalmol 71:547–552
+Clinic Rev Allerg Immunol (2015) 49:288–297 295
+21. Adatia FA, Michaeli-Cohen A, Naor J, Caffery B, Bookman A,
+Slomovic A (2004) Correlation between corneal sensitivity, subjec￾tive dry eye symptoms and corneal staining in Sjögren’s syndrome.
+Can J Ophthalmol 39:767–771
+22. Fox R, Kang HI (1992) Pathogenesis of Sjögren’s syndrome. Rheum
+Dis Clin N Am 18:517–538
+23. Schirmer O (2003) Studien zur physiologie und pathologie der
+tranen-absonderung und tranenabfuhr. Arch Clin Exp Ophthalmol
+56:197–291
+24. Versura P, Frigato M, Cellini M, Mulè R, Malavolta N, Campos EC
+(2007) Diagnostic performance of tear function tests in Sjogren's
+syndrome patients. Eye (Lond) 21:229–237
+25. de Monchy I, Gendron G, Miceli C, Pogorzalek N, Mariette X,
+Labetoulle M (2011) Combination of the Schirmer I and phenol red
+thread tests as a rescue strategy for diagnosis of ocular dryness
+associated with Sjögren's syndrome. Invest Ophthalmol Vis Sci 52:
+5167–5173
+26. Vitali C, Moutsopoulos HM, Bombardieri S (1994) The European
+community study group on diagnostic criteria for Sjögren's syn￾drome. Sensitivity and specificity of tests for ocular and oral involve￾ment in Sjögren’s syndrome. Ann Rheum Dis 53:637–647
+27. Lemp MA (1982) Breakup of the tear film. Int Ophthalmol Clin 13:
+97–102
+28. Caffery B, Simpson T, Wang S et al (2010) Rose bengal staining of
+the temporal conjunctiva differentiates Sjögren's syndrome from
+keratoconjunctivitis sicca. Invest Ophthalmol Vis Sci 51:2381–2387
+29. Knezović I, Alajbeg I, Karlović D, Pavan J, Vrkić N, Bisćan A (2011)
+Differential diagnostic performance of Rose Bengal Score Test in
+Sjøgren's syndrome patients. Coll Antropol 35:1105–1113
+30. Klaassen-Broekema N, Mackor AJ, van Bijsterveld OP (1992) The
+diagnostic power of the tests for tear gland related keratoconjuncti￾vitis sicca. Neth J Med 40:113–116
+31. Manning FJ, Wehrly SR, Foulks GN (1995) Patient tolerance and
+ocular surface staining characteristics of lissamine green versus rose
+bengal. Ophthalmology 102:1953–1957
+32. Hamrah P, Alipour F, Jiang S, Sohn JH, Foulks GN (2011)
+Optimizing evaluation of Lissamine Green parameters for ocular
+surface staining. Eye 25:1429–1434
+33. Feenstra RP, Tseng SC (1992) Comparison of fluorescein and rose
+bengal staining. Ophthalmology 99:605–617
+34. Begley C, Simpson T, Liu H et al (2013) Quantitative analysis of tear
+film fluorescence and discomfort during tear film instability and
+thinning. Invest Ophthalmol Vis Sci 54:2645–2653
+35. Fenner BJ, Tong L (2013) Corneal staining characteristics in limited
+zones compared with whole cornea documentation for the detection
+of dry eye subtypes. InvestigOpthalmol Vis Sci 54:8013–8019
+36. Whitcher JP, Shiboski CH, Shiboski SC, Sjögren's International
+Collaborative Clinical Alliance Research Groups et al (2010) A
+simplified quantitative method for assessing keratoconjunctivitis
+sicca from the Sjögren's Syndrome International Registry. Am J
+Ophthalmol 149:405–415
+37. Tabbara KF, Okumoto M (1982) Ocular ferning test: a qualitative test
+for mucus deficiency. Ophthalmology 89:712–714
+38. Cochet P, Bonnet R (1961) Corneal esthesiometry, performance and
+practical importance. Bull Soc Ophtalmol Fr 6:541–550
+39. Bourcier T, Acosta MC, Borderie V et al (2005) Decreased corneal
+sensitivity in patients with dry eye. Investig Ophtalmol Vis Sci 46:
+2341–2345
+40. Dart J (1997) Impression cytology of the ocular surface: research tool
+or routine clinical investigation? Br J Ophtalmol 81:930
+41. Lee SY, Han SJ, Nam SM et al (2013) Analysis of tear cytokines and
+clinical correlations in Sjögren syndrome dry eye patients and non￾Sjögren syndrome dry eye patients. Am J Ophthalmol 156:247–253
+42. Utine CA, Bıçakçıgil M, Yavuz S, Çiftçi F (2011) Tear osmolarity
+measurements in dry eye related to primary Sjögren's syndrome. Curr
+Eye Res 36:683–690
+43. von Thun Und Hohenstein-Blaul N, Funke S, Grus FH (2013) Tears
+as a source of biomarkers for ocular and systemic diseases. Exp Eye
+Res 117:126–137
+44. Kanellopoulos AJ, Asimellis G (2014) In vivo 3-dimensional corneal
+epithelial thickness mapping as an indicator of dry eye: preliminary
+clinical assessment. Am J Ophthalmol 157:63–68
+45. Foulks GN, Pflugfelder SC (2014) New testing options for diagnos￾ing and grading dry eye disease. Am J Ophthalmol. doi:10.1016/j.
+ajo.2014.03.002
+46. Behrens A, Doyle JJ, Stern L, Dysfunctional tear syndrome study
+group et al (2006) Dysfunctional tear syndrome: a Delphi approach to
+treatment recommendations. Cornea 25:900–907
+47. Baudouin C, Aragona P, Van Setten G et al (2014) ODISSEY
+European consensus group members. Diagnosing the severity of
+dry eye: a clear and practical algorithm. Br J Ophthalmol. doi:10.
+1136/bjophthalmol-2013-304619
+48. Alves M, Fonseca EC, Alvers MF et al (2013) Dry eye disease
+treatment: a systematic review of published trials and a critical
+appraisal of therapeutic strategies. Ocul Surf 11:181–192
+49. Papas AS, Sherrer YS, Charney M et al (2004) Successful treatment
+of dry mouth and dry eye symptoms in Sjögren's syndrome patients
+with oral pilocarpine: a randomized, placebo-controlled, dose￾adjustment study. J Clin Rheumatol 10:169–177
+50. Petrone D, Condemi JJ, Fife R, Gluck O, Cohen S, Dalgin P (2002) A
+double-blind, randomized, placebo-controlled study of cevimeline in
+Sjögren's syndrome patients with xerostomia and keratoconjunctivitis
+sicca. Arthritis Rheum 46:748–754
+51. Fife RS, Chase WF, Dore RK (2002) Cevimeline for the treatment of
+xerostomia in patients with Sjögren syndrome: a randomized trial.
+Arch Intern Med 162:1293–1300
+52. Ono M, Takamura E, Shinozaki K et al (2004) Therapeutic effect of
+cevimeline on dry eye in patients with Sjögren's syndrome: a ran￾domized, double-blind clinical study. Am J Ophthalmol 138:6–17
+53. Leung KC, McMillan AS, Wong MC, Leung WK, Mok MY, Lau CS
+(2008) The efficacy of cevimeline hydrochloride in the treatment of
+xerostomia in Sjögren's syndrome in southern Chinese patients: a
+randomised double-blind, placebo-controlled crossover study. Clin
+Rheumatol 27:429–436
+54. Aragona P, Bucolo C, Spinella R, Giuffrida S, Ferreri G (2005)
+Systemic omega-6 essential fatty acid treatment and pge1 tear content
+in Sjögren's syndrome patients. Invest Ophthalmol Vis Sci 46:4474–
+4479
+55. Pinheiro MN Jr, dos Santos PM, dos Santos RC, Barros JN, Passos
+LF, Cardoso Neto J (2007) Oral flaxseed oil (Linum usitatissimum) in
+the treatment for dry-eye Sjögren's syndrome patients. Arq Bras
+Oftalmol 70:649–655
+56. Manthorpe R, Hagen Petersen S, Prause JU (1984) Primary Sjögren's
+syndrome treated with Efamol/Efavit. A double-blind cross-over
+investigation. Rheumatol Int 4:165–167
+57. Oxholm P, Manthorpe R, Prause JU, Horrobin D (1986) Patients with
+primary Sjögren's syndrome treated for two months with evening
+primrose oil. Scand J Rheumatol 15:103–108
+58. Theander E, Horrobin DF, Jacobsson LT, Manthorpe R (2002)
+Gammalinolenic acid treatment of fatigue associated with primary
+Sjögren's syndrome. Scand J Rheumatol 31:72–79
+59. Fox PC, Datiles M, Atkinson JC, Macynski AA, Scott J, Fletcher D,
+Valdez IH, Kurrasch RH, Delapenha R, Jackson W (1993)
+Prednisone and piroxicam for treatment of primary Sjögren's syn￾drome. Clin Exp Rheumatol 11:149–156
+60. Fox RI, Chan E, Benton L, Fong S, Friedlaender M, Howell FV
+(1988) Treatment of primary Sjögren’s syndrome with
+hydroxychloroquine. Am J Med 85(4A):62–67
+61. Kruize AA, Hené RJ, Kallenberg CG, van Bijsterveld OP, van der
+Heide A, Kater L, Bijlsma JW (1993) Hydroxychloroquine treatment
+for primary Sjögren's syndrome: a two year double blind crossover
+trial. Ann Rheum Dis 52:360–364
+296 Clinic Rev Allerg Immunol (2015) 49:288–297
+62. Yavuz S, As furoğlu E, Bicakcigil M, Toker E (2011)
+Hydroxychloroquine improves dry eye symptoms of patients with
+primary Sjogren's syndrome. Rheumatol Int 31:1045–1049
+63. Sankar V, Brennan MT, Kok MR, Leakan RA, Smith JA, Manny J,
+Baum BJ, Pillemer SR (2004) Etanercept in Sjögren's syndrome: a
+twelve-week randomized, double-blind, placebo-controlled pilot
+clinical trial. Arthritis Rheum 50:2240–2245
+64. Mariette X, Ravaud P, Steinfeld S, Baron G, Goetz J, Hachulla E,
+Combe B, Puéchal X, Pennec Y, Sauvezie B, Perdriger A, Hayem G,
+Janin A, Sibilia J (2004) Inefficacy of infliximab in primary Sjögren's
+syndrome: results of the randomized, controlled Trial of Remicade in
+Primary Sjögren's Syndrome (TRIPSS). Arthritis Rheum 50:1270–
+1276
+65. Meijer JM, Meiners PM, Vissink A, Spijkervet FK, Abdulahad W,
+Kamminga N, Brouwer E, Kallenberg CG, Bootsma H (2010)
+Effectiveness of rituximab treatment in primary Sjögren's syndrome:
+a randomized, double-blind, placebo-controlled trial. Arthritis
+Rheum 62:960–968
+66. Devauchelle-Pensec V, Cagnard N, Pers JO, Youinou P, Saraux A,
+Chiocchia G (2010) Gene expression profile in the salivary glands of
+primary Sjögren's syndrome patients before and after treatment with
+rituximab. Arthritis Rheum 62:2262–2271
+67. Carubbi F, Cipriani P, Marrelli A, Benedetto P, Ruscitti P, Berardicurti
+O, Pantano I, Liakouli V, Alvaro S, Alunno A, Manzo A, Ciccia F,
+Gerli R, Triolo G, Giacomelli R (2013) Efficacy and safety of
+rituximab treatment in early primary Sjögren's syndrome: a prospec￾tive, multi-center, follow-up study. Arthritis Res Ther 15(5):R172
+68. Lee JH, Ahn HS, Kim EK, Kim TI (2011) Efficacy of sodium
+hyaluronate and carboxymethylcellulose in treating mild to moderate
+dry eye disease. Cornea 30:175–179
+69. Rolando M, Autori S, Badino F, Barabino S (2009) Protecting the
+ocular surface and improving the quality of life of dry eye patients: a
+study of the efficacy of an HP-guar containing ocular lubricant in a
+population of dry eye patients. J Ocular Pharmacol Ther 25:271–278
+70. Brignole F, Pisella PJ, Dupas B et al (2005) Efficacy and safety of
+0.18 % sodium hyaluronate in patients with moderate dry eye syn￾drome and superficial keratitis. Graefes Arch Clin Exp Ophthalmol
+243:531–538
+71. Aragona P, Papa V, Micali A et al (2002) Long-term treatment with
+sodium hyaluronate-containing artificial tears reduces ocular surface
+damage in patients with dry eye. Br J Ophthalmol 86:181–184
+72. Salib GM, McDonald MB, Smolek M (2006) Safety and efficacy of
+cyclosporine 0.05 % drops versus unpreserved artificial tears in dry￾eye patients having laser in situ keratomileusis. J Cataract Refract
+Surg 32:772–778
+73. Sall K, Stevenson OD, Mundorf TK, Reis BL (2000) Two multicen￾ter, randomized studies of the efficacy and safety of cyclosporine
+ophthalmic emulsion in moderate to severe dry eye disease. CsA
+Phase 3 Study Group. Ophthalmology 107:631–639
+74. Sall KN, Cohen SM, Dhristensen MT, Stein JM (2006) An evaluation
+of the efficacy of a cyclosporine-based dry eye therapy when used
+with market artificial tears as supportive therapy in dry eye disease.
+Eye Contact Lens 32:21–26
+75. Gunduz K, Ozdemir O (1994) Topical cyclosporin treatment of
+keratoconjunctivitis sicca in secondary Sjogren’s syndrome. Acta
+Ophthalmol (Copenh) 72:438–442
+76. Ramos-Casals M, Tzioufas AG, Stone JH, Sisó A, Bosch X (2010)
+Treatment of primary Sjögren syndrome: a systematic review. JAMA
+28:452–460
+77. Yavuz B, Bozdağ Pehlivan S, Unlü N (2012) An overview on dry eye
+treatment: approaches for cyclosporin a delivery. Sci World J 24:1–11
+78. Aragona P, Spinella R, Rania L et al (2013) Safety and efficacy of
+0.1 % clobetasone butyrate eyedrops in the treatment of dry eye in
+Sjögren syndrome. Eur J Ophthalmol 23:368–376
+79. Lee JH, Min K, Kim SK, Kim EK, Kim TI (2014) Inflammatory
+cytokine and osmolarity changes in the tears of dry eye patients
+treated with topical 1 % methylprednisolone. Yonsei Med J 55:
+203–208
+80. Farrell J, Patel S, Grierson DG, Sturrock RD (2003) A clinical
+procedure to predict the value of temporary occlusion therapy in
+keratoconjunctivitis sicca. Ophthalmic Physiol Opt 23:1–8
+81. Qiu W, Liu Z, Ao M, Li X, Wang W (2013) Punctal plugs versus
+artificial tears for treating primary Sjögren's syndrome with kerato￾conjunctivitis SICCA: a comparative observation of their effects on
+visual function. Rheumatol Int 33:2543–2548
+82. Lee MS, Shin BC, Choi TY, Ernst E (2011) Acupuncture for treating
+dry eye: a systematic review. Acta Ophthalmol 89:101–106
+83. Fox RI, Chan R, Michelson JB, Belmont JB, Michelson PE (1984)
+Beneficial effect of artificial tears made with autologous serum in
+patients with keratoconjunctivitis sicca. Arthritis Rheum 27:459–461
+84. Quinto GG, Campos M, Behrens A (2008) Autologous serum for
+ocular surface diseases. Arq Bras Oftalmol 71(6 Supl):47–54
+85. Liu L, Hartwig D, Harloff S, Herminghaus P, Wedel T, Geerling G
+(2005) An optimised protocol for the production of autologous serum
+eyedrops. Graefes Arch Clin Exp Ophthalmol 243:706–714
+86. Koffler BH (2006) Autologous serum therapy of the ocular surface
+with novel delivery by platelet concentrate gel. Ocul Surf 4:188–195
+87. Poon AC, Geerling G, Dart JK, Fraenkel GE, Daniels JT (2001)
+Autologous serum eyedrops for dry eyes and epithelial defects:
+clinical and in vitro toxicity studies. Br J Ophthalmol 85:1188–1197
+88. Lee GA, Chen SX (2008) Autologous serum in the management of
+recalcitrant dry eye syndrome. Clin Exp Ophthalmol 36:119–122
+89. Kojima T, Ishida R, Dogru M et al (2005) The effect of autologous
+serum eye drops in the treatment of severe dry eye disease: a prospec￾tive randomized case-control study. Am J Ophthalmol 139:242–246
+90. Tananuvat N, Daniell M, Sullivan LJ et al (2001) Controlled study of
+the use of autologous serum in dry eye patients. Cornea 20:802–806
+91. McDonnell PJ, Schanzlin DJ, Rao NA (1988) Immunoglobulin de￾position in the cornea after application of autologous serum. Arch
+Ophthalmol 106:1423–1425
+92. Rosenberg GJ (2000) Temporary tarsorrhaphy suture to prevent or
+treat scleral show and ectropion secondary to laser resurfacing or
+laser blepharoplasty. Plast Reconstr Surg 106:721–725
+93. Cosar CB, Cohen EJ, Rapuano CJ et al (2001) Tarsorrhaphy: clinical
+experience from a cornea practice. Cornea 20:787–791
+94. Kheirkhah A, Zavareh MK, Farzbod F, Mahbod M, Behrouz MJ
+(2011) Topical 0.005 % tacrolimus eye drop for refractory vernal
+keratoconjunctivitis. Eye (Lond) 25:872–880
+95. Huang JF, Yafawi R, Zhang M et al (2012) Immunomodulatory effect
+of the topical ophthalmic Janus kinase inhibitor tofacitinib (CP-690,
+550) in patients with dry eye disease. Ophthalmology 119:43–50
+96. Okanobo A, Chauhan SK, Dastjerdi MH, Kodati S, Dana R (2012)
+Efficacy of topical blockade of interleukin-1 in experimental dry eye
+disease. Am J Ophthalmol 154:63–71
+97. Meiners PM, Vissink A, Kroese FG, Spijkervet FK, Smitt￾Kamminga NS, Abdulahad WH, Bulthuis-Kuiper J, Brouwer E,
+Arends S, Bootsma H (2014) Abatacept treatment reduces disease
+activity in early primary Sjogren's syndrome (open-label proof of
+concept ASAP study). Ann Rheum Dis 73(7):1393–1396
+98. Adler S, Körner M, Förger F, Huscher D, Caversaccio MD, Villiger
+PM (2013) Evaluation of histological, serological and clinical chang￾es in response to abatacept treatment of primary Sjögren's syndrome:
+a pilot study. Arthritis Care Res (Hoboken) 65:1862–1868
+99. Mariette X, Seror R, Quartuccio L, Baron G, Salvin S, Fabris M,
+Desmoulins F, Nocturne G, Ravaud P, De Vita S (2013) Efficacy and
+safety of belimumab in primary Sjogren’s syndrome: results of the
+BELISS open-label phase II study. Ann Rheum Dis. doi:10.1136/
+annrheumdis-2013-203991
+Clinic Rev Allerg Immunol (2015) 49:288–297 297

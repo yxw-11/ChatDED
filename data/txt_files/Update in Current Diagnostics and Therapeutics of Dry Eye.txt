@@ -1,0 +1,534 @@
+Update in Current Diagnostics and Therapeutics of Dry Eye 
+Disease
+Praneetha Thulasi1Ali Djalilian2,*
+1Department of Ophthalmology, Emory University, Atlanta, GA, USA
+2Department of Ophthalmology & Visual Sciences, Illinois Eye and Ear Infirmary, University of 
+Illinois at Chicago, Chicago, IL, USA
+Abstract
+Dry eye disease (DED) represents a heterogeneous group of conditions with tear film insufficiency 
+and signs and/or symptoms of ocular surface irritation. The clinical manifestations of DED can be 
+highly variable, hence the diagnosis is often based on a combination of symptoms, signs, and 
+clinical tests given that any one of these alone would miss a significant number of patients. 
+Similarly, based on the varying presentation and pathophysiology, the treatment must often be 
+tailored to each patient by targeting the specific mechanisms involved in their disease. The purpose 
+of this review is to summarize recent advances that have allowed us to better recognize, categorize, 
+and treat patients with DED. The most notable new diagnostic tests in DED are tear film 
+osmolarity, inflammatory biomarkers, and meibomian gland imaging. Therapeutically, anti￾inflammatory therapy, meibomian gland heating and expression, and scleral contact lenses are 
+some of the latest options available for treating DED.
+Introduction
+Dry eye disease (DED) has multifactorial etiologies and pathophysiologies that ultimately 
+lead to tear film insufficiency and signs and/or symptoms of ocular surface disease. The 
+clinical manifestations of DED often have poor correlation between signs and symptoms. 
+Likewise, diagnostic tests of the ocular surface often have significant variability. Thus, the 
+diagnosis of DED is typically based on a combination of symptoms, signs, and clinical tests 
+since any one of these alone would miss a number of patients. Similarly, there is no single 
+therapeutic strategy that fits all patients and instead, treatment is best individualized by 
+targeting the specific mechanisms that are driving the disease process in each patient. The 
+purpose of this review is to summarize recent advances that have allowed us to better 
+recognize, categorize, and manage patients with DED. In particular, the emphasis is placed 
+on the technology without specifically endorsing or recommending any particular product.
+*Corresponding author thulasip@gmail.com, adjalili@uic.edu, 312-996-8936. 
+Publisher's Disclaimer: This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our 
+customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of 
+the resulting proof before it is published in its final citable form. Please note that during the production process errors may be 
+discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+Conflict of Interest
+None
+HHS Public Access
+Author manuscript
+Ophthalmology. Author manuscript; available in PMC 2019 July 27.
+Published in final edited form as:
+Ophthalmology. 2017 November ; 124(11 Suppl): S27–S33. doi:10.1016/j.ophtha.2017.07.022.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Diagnostic Testing
+While clinical history and examination remain the mainstay of DED diagnostics, ancillary 
+testing with newer imaging technology has added much to our armamentarium. Many of 
+these are available as point-of-care tests, making them widely available to clinicians. An 
+important point to reiterate is that since DED is a heterogeneous disease, the tests described 
+below may be useful for some subtypes of DED, but not all. Therefore, the results of each 
+test should be interpreted in the context of each patient and not as an absolute measure of 
+whether a patient has DED.
+Tear Osmolarity
+Tear osmolarity has been widely studied both in research and clinical settings and is thought 
+to represent one of the best global markers of DED. An insufficient or unstable tear film 
+would by definition become hyperosmolar. The more widely available point-of-care test 
+device uses micro-electrode technology to measure the number of charged particles in a tear 
+sample provide an estimate of the tear osmolarity. Normal tear osmolarity has a value of 302 
+mOsm/L, with minimal inter-eye difference. A value of 308 mOsm/L in either eye is often 
+used as the threshold in differentiating normal and early stages of DED, with 316 mOsm/L 
+used a cutoff for more advanced DED.1
+ An important characteristic of tear osmolarity is its 
+variability, both inter-eye as well as repeat measurements in the same eye. The worse the 
+severity of dry eyes, the more variable tear osmolarity has been found to be (6.9±5.9 
+mOsm/L in mild, 11.7±10.9 mOsm/L in moderate, and 26.5±22.7 mOsm/L in severe DES, 
+respectively).2
+ Thus, a difference of 8 mOsm/L between two eyes is also considered to be 
+significant and compatible with an unstable tear film.
+As noted earlier, given the variability of the results, there are patients with symptoms of 
+DED whose tear osmolarity may be measured as normal. In other words, a normal value 
+does not always rule out DED; and hence, an elevated tear osmolarity should not be 
+considered a prerequisite for the diagnosis. However, an elevated osmolarity strongly 
+suggests presence of an inadequate tear film compatible with DED. Furthermore, it is worth 
+noting that osmolarity is best not used as a static measure (e.g. not like height measurement). 
+Rather, in some ways, it is analogous to clinical tests such as blood glucose, where there can 
+be moment to moment variability depending on the time of the day, the patient’s food intake, 
+physical activity, etc. The same way that the average blood sugar (Hemoglobin A1C) 
+provides a more reliable measure of the patient’s glucose control, in a patient with an 
+unstable tear film, the average tear film osmolarity over a specific period would likely be 
+elevated and thus a single measurement may not best reflect the overall status of the tear 
+film. Therefore, by standardizing the clinical measurement to minimize the setting and 
+operator variability, and by focusing on the trends and averages, tear osmolarity can offer 
+valuable insights into the status of the tear film and potentially guide the status of therapy in 
+many subtypes of DED.
+Inflammatory biomarkers
+Inflammation is a key driving mechanism in many cases of DED. However, differentiating 
+cases of DED with a major inflammatory component from those in whom inflammation 
+Thulasi and Djalilian Page 2
+Ophthalmology. Author manuscript; available in PMC 2019 July 27.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+plays a less fundamental role can be challenging. Biomarkers that can detect subclinical 
+inflammation and ideally, even provide information about the severity of inflammation, can 
+significantly improve our ability to individualize therapies. One key inflammatory biomarker 
+that is now in clinical use is matrix metalloproteinase (MMP)-9. This endopeptidase is part 
+of the extracellular matrix remodeling that takes place after injury and has been found to be 
+a key component of the inflammatory cycle in DED.
+Quantitative assessment of MMP-9 levels seem to correlate well with DED. One study 
+showed a level of 7.2 U/mg in controls, compared to 473 U/mg in patients with MGD, and 
+651 U/mg in patients with Sjogren’s syndrome.3
+ However, qualitative measurements of 
+MMP-9 levels have shown variable sensitivities and specificities, likely reflecting the myriad 
+of etiologies leading to elevated inflammation.3–6While it’s not yet clear whether a negative 
+qualitative test of MMP-9 is a reflection of lack of inflammation, stage of DED, or a cutoff 
+value that is not sensitive enough, a positive MMP-9 test can certainly help guide treatment 
+plan and support the use of anti-inflammatory therapy.7
+ In particular, a positive test would 
+prompt the early use of anti-inflammatory medications, as outlined later in this review.
+Meibomian gland Imaging
+Meibomian gland disease is a major, and perhaps the most common, etiologic factor in the 
+pathogenesis of many subtypes of DED. Clinical diagnosis is often limited to examination of 
+the lid margin by slit lamp to assess the degree of inspissation and telangiectasias, as well as 
+subjective assessment of meibomian gland openings and meibum quality. However, 
+information about the integrity of the glands within the tarsus has generally been more 
+cumbersome to obtain using older meibography techniques. Recently, infrared based non￾contact imaging modalities of meibomian gland have offered detailed imaging to guide the 
+diagnosis and treatment of MGD-related DED.
+Infrared meibography utilizes non-contact methods to image both upper and lower lids. 
+Meibomian gland dropout as assessed by this method correlates well with signs and 
+symptoms of dry eye disease.8,9
+ The commercially available imaging systems in the U.S. 
+utilize automated meibomian gland grading which further reduces the subjectivity of 
+meibomian gland evaluation.10 Spectral domain ocular coherence tomography as well as 
+confocal microscopy have similarly been used to evaluate meibomian gland function 
+although they are less automated and less convenient.11–13
+These imaging modalities can provide valuable objective information about the integrity of 
+the glands, which in turn helps identify patients in whom MGD is an underlying cause of 
+their DED and thus guide appropriate therapy.
+Tear film stability and volume
+Traditionally, tear film stability and volume/production are assessed by fluorescein tear 
+breakup time (TBUT) and Schirmer testing. While these tests remain essential components 
+of the ocular surface exam, they are subjective and are influenced by many factors, including 
+fluorescein volume.14 Several non-invasive tests now provide objective measure of these 
+variables.
+Thulasi and Djalilian Page 3
+Ophthalmology. Author manuscript; available in PMC 2019 July 27.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Non-invasive Tear break-up time—Non-invasive measures of TBUT have been in 
+practice for a long time and provide advantages over the fluorescein TBUT. Generally, these 
+are topography-based imaging systems which provide automated measurement of TBUT 
+using the distortion of the mires reflected from pre-corneal tear layer.9
+ Despite its 
+advantages over fluorescein TBUT, particularly reduced variability and subjectivity, the use 
+of non-invasive TBUT has not yet become a routine part of the DED exam and is limited 
+mostly to clinical studies.
+Lipid layer thickness—Another useful parameter in assessing tear film stability is the 
+lipid layer thickness. Interferometry can offer a quantitative value of lipid layer thickness, 
+providing insight into the health of the meibomian glands secretions While lipid layer 
+thickness correlates well with symptoms as well as signs of dry eyes,9,15 it does not 
+necessarily reflect quality of the lipid layer.16 More studies are needed to determine the 
+precise role of this measure in the diagnosis and follow-up of patients with DED.
+Tear Meniscus Height—Anterior segment optical coherence tomography (OCT), as well 
+as some of the other ocular surface imaging systems that use interferometry, provide a non￾invasive measure of the tear volume by quantifying the tear meniscus height. It has been 
+shown to be a good proxy for tear volume and correlate with tear breakup time, corneal 
+fluorescein staining, and diagnosis of DED.17 Despite its non-invasive nature, quantitative 
+measurement of the tear meniscus height is generally not a part of the routine ocular exam in 
+a DED. Anterior segment OCT, on the other hand, may be particularly useful for assessing 
+and measuring conjunctivochalasis, a common finding in patients with ocular surface 
+disease.18
+Advances in Dry Eye Therapeutics
+Treatment of DED is based on minimizing inflammation and optimizing the various 
+components of the tear film. Artificial tears remain an essential part of patient comfort, with 
+various lipid- and gel-based formulations holding promise in better simulating a healthy 
+ocular surface.19 Other key interventions are listed below.
+Anti-inflammatory Therapies
+Inflammation is one of the major targets in treating DED and breaking the cycle of 
+inflammation is crucial in improving symptoms. As noted above, the use of MMP-9 testing 
+may help identify patients in whom anti-inflammatory therapy should be considered early. 
+Regardless, all patients with DED deserve a trial of anti-inflammatory therapy at some point 
+during their treatment.
+Steroids—Corticosteroids are one of the most effective and rapid therapies available for 
+suppressing inflammation on the ocular surface. In the context of DED, steroids are used 
+mainly as pulse therapy. A short course of either commercially available topical steroids or 
+preservative-free methylprednisolone 1% can be effective in improving DED and a positive 
+response to steroids provides further evidence that inflammation likely plays a key role in 
+the patient’s disease.20,21 Long term therapy is obviously not a desirable option given the 
+Thulasi and Djalilian Page 4
+Ophthalmology. Author manuscript; available in PMC 2019 July 27.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+risk of complications, nonetheless, steroids are often helpful to “kick start” the anti￾inflammatory therapy with transition to the agents outlined below for long term therapy.
+Cyclosporine A—One of the mainstays of anti-inflammatory therapy has been 
+cyclosporine A (CsA). A meta-analysis of 12 randomized control trials comparing topical 
+0.05% to control showed improvement on Ocular Surface Disease Index (OSDI) scores, tear 
+breakup time, Schirmer I scores, corneal fluorescein staining, and goblet cell densities.22 
+Despite compelling results in trials with subsequent FDA approval for keratoconjunctivitis 
+sicca, in clinical practice, a large subgroup of patients do not respond to CsA 0.05%. This 
+may be taken as an indication that either inflammation does not play a critical role in many 
+non-responders, or else T cells are not the main bad actors in those patients. Additional 
+contributing factors to the lack of clinical response may be delayed onset of action and 
+tolerability. Currently, different CsA preparations are in clinical trials for DED, and with 
+improved tolerability and bio-availability, topical CsA is expected to remain an important 
+non-steroidal option for controlling inflammation in DED.
+Lifitegrast—The newest addition to the anti-inflammatory armamentarium for DED is the 
+recently FDA approved drug, lifitegrast. 23–25 It blocks lymphocyte-function associated 
+antigen/intracellular adhesion molecule-1 (LFA-ICAM-1) interaction, thus decreasing T-cell 
+recruitment. A notable advantage of lifitegrast appears to be its faster onset of action, with 
+patients reporting improved symptoms within a few weeks. Clinical experience with 
+lifitegrast is still quite limited, but with time, it should become another valuable tool for the 
+management of inflammation in DED. An important question that will become apparent 
+with further research is whether lifitegrast and CsA have any additive effects or if they are 
+best used as single agents.
+Polyunsaturated fatty acids
+Omega-3 fatty acids have been shown to decrease inflammatory markers and ameliorate dry 
+eye symptoms. Multiple trials have shown improved tear production, tear breakup time, 
+Schirmer score, and OSDI scores.26–32 Likewise, studies have shown decreased HLA-DR 
+positive cells, another marker of surface inflammation.26,31 While improvements have been 
+shown in these trials, many of these supplements lack standardization to date. In particular, 
+there may be significant differences in preparations that could affect the absorption and 
+bioactivity of Omega-3. For instance, fish-oil based preparations provide different types of 
+polyunsaturated fatty acids (EPA and DHA) compared to plant based preparations (ALA). 
+Nevertheless, omega-3 supplement is a well-tolerated therapy to improve ocular surface 
+health in nearly all forms of DED and is generally recommended to be used for all patients 
+with no medical contraindications.
+Antibiotics with anti-inflammatory action
+Antibiotics, specifically those with concomitant anti-inflammatory action, play an important 
+role in the management of DED due to MGD. The mechanism of action is generally two￾fold, first to reduce/alter the eyelid flora that is contributing to MGD and ocular surface 
+inflammation, and second, through a direct anti-inflammatory effect. The two main groups 
+of antibiotics that have been used are tetracyclines and macrolides. Oral doxycycline or 
+Thulasi and Djalilian Page 5
+Ophthalmology. Author manuscript; available in PMC 2019 July 27.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+minocycline successfully improve patient-reported symptoms and signs of MGD.33,34 
+However, patients are at risk for side effects, with gastrointestinal disturbance being the most 
+common. Also, given the growing body of research on the role of gut microbiome in 
+modulating the immune system, it is unclear what effects altering the gut flora with 
+doxycycline has in the long term.
+Azithromycin, either topical or oral, is used alternatively. A comparison study of topical 
+azithromycin versus oral doxycycline showed that both improved signs and symptoms of 
+MGD but with different compositions of changes in meibum, suggesting different 
+mechanisms of action.35,36 Research suggests that unlike doxycycline, azithromycin can 
+simulate meibomian gland cell differentiation in vitro.37 A 5-day course of oral 
+azithromycin has also been studied in comparison to daily oral doxycycline and showed 
+similar improvements but with less side effects at 2 months.36
+Meibomian gland heating/expression
+Intense Pulse Light therapy has been shown to be effective in dermatologic literature but 
+studies in ophthalmic literature are still few. A prospective placebo-controlled study in 
+patients with MGD showed improved subjective symptoms of DED in both the treatment 
+and placebo eyes, but only the treatment eye showed improved lipid layer grade and tear 
+break-up time over a 45-day period.38 Other studies show similar improvement in subjective 
+and objective measures.39,40 Combination therapy of intense pulsed light therapy and 
+meibomian gland expression improved dry eye symptoms as well as meibomian gland 
+function in a majority of patients.41 However, it is not without side effects: uveitis, iris 
+atrophy, pupillary defects, photophobia, pain, and corneal pigment deposition have all been 
+reported in patients who received IPL without appropriate eye protection.42–46
+Thermal pulsation has also been used in patients with various degrees of MGD and shows 
+improvement in patients,47–50 in some up to 3 years.51 However, the effects do fade away 
+with time and an interventional study comparing single session of thermal pulsation to warm 
+compresses twice daily for 3 months found that by 4 months, both groups show improved 
+symptoms and signs without any significant difference between the two groups.52 Given the 
+arduous nature of daily warm compresses, cost notwithstanding, thermal pulsation may be a 
+good option for those with significant MGD related DED.
+Overall, both therapies come with the advantage that they are a single-time intervention with 
+longer lasting effects. While both are very promising, they are still relatively cost-prohibitive 
+and not available as a treatment option for all patients.
+Therapies for Refractory cases of DED
+Autologous Serum
+Autologous serum tears have long been used in a wide variety of ocular surface diseases, 
+including DED. Autologous serum tears provide a natural substitute for the many bio-active 
+proteins, vitamins and lipids that are typically present in human tears. Studies have shown 
+conclusively that they can provide symptomatic relief in many subtypes of DED.53–59 
+Clinically, serum tears appear to be particularly useful in patients with marked aqueous tear 
+Thulasi and Djalilian Page 6
+Ophthalmology. Author manuscript; available in PMC 2019 July 27.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+deficiency. At our center, serum tears are routinely offered to patients who have failed 
+standard measures. Our preferred starting concentration is 20%, but studies comparing the 
+different concentrations are limited. Platelet rich plasma tears, a closely related therapy, is 
+thought to provide a richer concentration of growth factors, and likely has similar efficacy in 
+this setting, but again studies comparing their efficacies in DED are lacking.60,61 Overall, 
+autologous serum or plasma is an essential part of our therapeutic management of refractory 
+cases. The major challenge with this therapeutic is accessibility and cost.
+Amniotic membrane
+Cryopreserved amniotic membrane transplantation has known anti-inflammatory and 
+restorative properties in a variety of ocular surface disorders. It is believed to work through 
+the presence of anti-inflammatory mediators within its stroma as well as its barrier 
+properties by entrapping inflammatory cells. Both cryopreserved and freeze-dried amniotic 
+membrane have been used as sutureless devices in patients with ocular surface disease.62 
+Given the limited number of studies its role in the management of DED is unclear.
+Contact Lenses
+With advancing technology, contact lenses have become a key therapeutic modality for 
+DED, particularly for the severe cases. There are two types of lenses that are used. Soft 
+bandage contact lenses have been studied in patients with a variety of ocular surface diseases 
+with improvement in both subjective and objective measures.63–65 No infectious 
+complications were noted when antibiotic prophylaxis was used along with extended wear.
+63,64 Although studies are limited, in our clinical experience, in selected patients, soft 
+contact lenses (daily or extended wear) can provide significant relief in refractory DED.
+The most effective contact lens option for patients with severe DED is scleral lenses. Scleral 
+lenses are typically fluid-filled and vault over the cornea, resting over the limbus, hence 
+providing it with constant lubrication. Several studies using scleral lenses have shown 
+improved comfort, decreased dry eye symptoms, and improved visual acuity with good 
+safety profile in patients with severe ocular surface disease.66–71 While the PROSE 
+(Prosthetic Replacement of Ocular Surface Ecosystem) lenses were the first lenses to be 
+used for this indication,71 they are available only in select centers in the U.S. Newer scleral 
+lenses are easier to fit and readily available commercially, making them more accessible to 
+patients. Despite their efficacy, the use of scleral lenses remains limited partly due to 
+availability and cost, and perhaps given the fact that many eye care providers may not be 
+aware of their significant therapeutic benefits. One downside of scleral lenses is that they 
+require more training to use and hence not all patients can handle them appropriately. With 
+time, contact lenses are expected to play an increasing role in the management of refractory 
+DED.
+Conclusion
+Overall, advances in technologies have significantly improved both diagnostics and 
+therapeutics available for DED. Ongoing and future developments are expected to further 
+enhance our ability to recognize, categorize and provide patient-specific therapies in DED.
+Thulasi and Djalilian Page 7
+Ophthalmology. Author manuscript; available in PMC 2019 July 27.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Acknowledgements
+This work was supported by R01 EY024349–01A1 (ARD), Core grant EY01792 from NEI/NIH; unrestricted grant 
+to the department from Research to Prevent Blindness (RPB). ARD is the recipient of a Career Development Award 
+from RPB.
+References
+1. Bron AJ, Tomlinson A, Foulks GN, et al. Rethinking dry eye disease: a perspective on clinical 
+implications. The ocular surface 2014;12(2 Suppl):S1–31. [PubMed: 24725379] 
+2. Lemp MA, Bron AJ, Baudouin C, et al. Tear osmolarity in the diagnosis and management of dry eye 
+disease. American journal of ophthalmology 2011;151(5):792–798.e791. [PubMed: 21310379] 
+3. Solomon A, Dursun D, Liu Z, Xie Y, Macri A, Pflugfelder SC. Pro- and anti-inflammatory forms of 
+interleukin-1 in the tear fluid and conjunctiva of patients with dry-eye disease. Investigative 
+ophthalmology & visual science 2001;42(10):2283–2292. [PubMed: 11527941] 
+4. Lanza NL, McClellan AL, Batawi H, et al. Dry Eye Profiles in Patients with a Positive Elevated 
+Surface Matrix Metalloproteinase 9 Point-of-Care Test Versus Negative Patients. The ocular surface 
+2016;14(2):216–223. [PubMed: 26807724] 
+5. Messmer EM, von Lindenfels V, Garbe A, Kampik A. Matrix Metalloproteinase 9 Testing in Dry 
+Eye Disease Using a Commercially Available Point-of-Care Immunoassay. Ophthalmology 
+2016;123(11):2300–2308. [PubMed: 27665213] 
+6. Schargus M, Ivanova S, Kakkassery V, Dick HB, Joachim S. Correlation of Tear Film Osmolarity 
+and 2 Different MMP-9 Tests With Common Dry Eye Tests in a Cohort of Non-Dry Eye Patients. 
+Cornea 2015;34(7):739–744. [PubMed: 25909238] 
+7. Sambursky R Presence or absence of ocular surface inflammation directs clinical and therapeutic 
+management of dry eye. Clinical ophthalmology (Auckland, N.Z.) 2016;10:2337–2343.
+8. Finis D, Ackermann P, Pischel N, et al. Evaluation of Meibomian Gland Dysfunction and Local 
+Distribution of Meibomian Gland Atrophy by Non-contact Infrared Meibography. Current eye 
+research 2015;40(10):982–989. [PubMed: 25330304] 
+9. Ji YW, Lee J, Lee H, Seo KY, Kim EK, Kim TI. Automated Measurement of Tear Film Dynamics 
+and Lipid Layer Thickness for Assessment of Non-Sjogren Dry Eye Syndrome With Meibomian 
+Gland Dysfunction. Cornea 2017;36(2):176–182. [PubMed: 28060064] 
+10. Ngo W, Srinivasan S, Schulze M, Jones L. Repeatability of grading meibomian gland dropout 
+using two infrared systems. Optometry and vision science : official publication of the American 
+Academy of Optometry 2014;91(6):658–667. [PubMed: 24830370] 
+11. Liang Q, Pan Z, Zhou M, et al. Evaluation of Optical Coherence Tomography Meibography in 
+Patients With Obstructive Meibomian Gland Dysfunction. Cornea 2015;34(10):1193–1199. 
+[PubMed: 26226467] 
+12. Yoo YS, Na KS, Byun YS, et al. Examination of Gland Dropout Detected on Infrared 
+Meibography by Using Optical Coherence Tomography Meibography. The ocular surface 
+2017;15(1):130–138.e131. [PubMed: 27816570] 
+13. Kobayashi A, Yoshita T, Sugiyama K. In vivo findings of the bulbar/palpebral conjunctiva and 
+presumed meibomian glands by laser scanning confocal microscopy. Cornea 2005;24(8):985–988. 
+[PubMed: 16227847] 
+14. Greiner JV, Finnemore VM, Exford JM, et al. Effects of fluorescein instillation methods on the tear 
+film lipid layer. Advances in experimental medicine and biology 2002;506(Pt A):507–512. 
+[PubMed: 12613953] 
+15. Blackie CA, Solomon JD, Scaffidi RC, Greiner JV, Lemp MA, Korb DR. The relationship between 
+dry eye symptoms and lipid layer thickness. Cornea 2009;28(7):789–794. [PubMed: 19574906] 
+16. King-Smith PE, Reuter KS, Braun RJ, Nichols JJ, Nichols KK. Tear film breakup and structure 
+studied by simultaneous video recording of fluorescence and tear film lipid layer images. 
+Investigative ophthalmology & visual science 2013;54(7):4900–4909. [PubMed: 23766476] 
+Thulasi and Djalilian Page 8
+Ophthalmology. Author manuscript; available in PMC 2019 July 27.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+17. Ibrahim OM, Dogru M, Takano Y, et al. Application of visante optical coherence tomography tear 
+meniscus height measurement in the diagnosis of dry eye disease. Ophthalmology 2010;117(10):
+1923–1929. [PubMed: 20605216] 
+18. Gumus K, Pflugfelder SC. Increasing prevalence and severity of conjunctivochalasis with aging 
+detected by anterior segment optical coherence tomography. American journal of ophthalmology 
+2013;155(2):238–242.e232. [PubMed: 23036571] 
+19. Baudouin C, Galarreta DJ, Mrukwa-Kominek E, et al. Clinical evaluation of an oil-based lubricant 
+eyedrop in dry eye patients with lipid deficiency. European journal of ophthalmology 2017;27(2):
+122–128. [PubMed: 27791253] 
+20. Marsh P, Pflugfelder SC. Topical nonpreserved methylprednisolone therapy for keratoconjunctivitis 
+sicca in Sjogren syndrome. Ophthalmology 1999;106(4):811–816. [PubMed: 10201607] 
+21. Hong S, Kim T, Chung SH, Kim EK, Seo KY. Recurrence after topical nonpreserved 
+methylprednisolone therapy for keratoconjunctivitis sicca in Sjogren’s syndrome. Journal of ocular 
+pharmacology and therapeutics : the official journal of the Association for Ocular Pharmacology 
+and Therapeutics 2007;23(1):78–82.
+22. Wan KH, Chen LJ, Young AL. Efficacy and Safety of Topical 0.05% Cyclosporine Eye Drops in 
+the Treatment of Dry Eye Syndrome: A Systematic Review and Meta-analysis. The ocular surface 
+2015;13(3):213–225. [PubMed: 26045239] 
+23. Holland EJ, Luchs J, Karpecki PM, et al. Lifitegrast for the Treatment of Dry Eye Disease: Results 
+of a Phase III, Randomized, Double-Masked, Placebo-Controlled Trial (OPUS-3). Ophthalmology 
+2017;124(1):53–60. [PubMed: 28079022] 
+24. Sheppard JD, Torkildsen GL, Lonsdale JD, et al. Lifitegrast ophthalmic solution 5.0% for treatment 
+of dry eye disease: results of the OPUS-1 phase 3 study. Ophthalmology 2014;121(2):475–483. 
+[PubMed: 24289915] 
+25. Tauber J, Karpecki P, Latkany R, et al. Lifitegrast Ophthalmic Solution 5.0% versus Placebo for 
+Treatment of Dry Eye Disease: Results of the Randomized Phase III OPUS-2 Study. 
+Ophthalmology 2015;122(12):2423–2431. [PubMed: 26365210] 
+26. Brignole-Baudouin F, Baudouin C, Aragona P, et al. A multicentre, double-masked, randomized, 
+controlled trial assessing the effect of oral supplementation of omega-3 and omega-6 fatty acids on 
+a conjunctival inflammatory marker in dry eye patients. Acta ophthalmologica 2011;89(7):e591–
+597. [PubMed: 21834921] 
+27. Deinema LA, Vingrys AJ, Wong CY, Jackson DC, Chinnery HR, Downie LE. A Randomized, 
+Double-Masked, Placebo-Controlled Clinical Trial of Two Forms of Omega-3 Supplements for 
+Treating Dry Eye Disease. Ophthalmology 2017;124(1):43–52. [PubMed: 27817918] 
+28. Epitropoulos AT, Donnenfeld ED, Shah ZA, et al. Effect of Oral Re-esterified Omega-3 Nutritional 
+Supplementation on Dry Eyes. Cornea 2016;35(9):1185–1191. [PubMed: 27442314] 
+29. Georgakopoulos CD, Makri OE, Pagoulatos D, et al. Effect of Omega-3 Fatty Acids Dietary 
+Supplementation on Ocular Surface and Tear Film in Diabetic Patients with Dry Eye. Journal of 
+the American College of Nutrition 2017;36(1):38–43. [PubMed: 27797641] 
+30. Qiao J, Yan X. Emerging treatment options for meibomian gland dysfunction. Clinical 
+ophthalmology (Auckland, N.Z.) 2013;7:1797–1803.
+31. Sheppard JD Jr., Singh R, McClellan AJ, et al. Long-term Supplementation With n-6 and n-3 
+PUFAs Improves Moderate-to-Severe Keratoconjunctivitis Sicca: A Randomized Double-Blind 
+Clinical Trial. Cornea 2013;32(10):1297–1304. [PubMed: 23884332] 
+32. Zhu W, Wu Y, Li G, Wang J, Li X. Efficacy of polyunsaturated fatty acids for dry eye syndrome: a 
+meta-analysis of randomized controlled trials. Nutrition reviews 2014;72(10):662–671. [PubMed: 
+25236365] 
+33. Wladis EJ, Bradley EA, Bilyk JR, Yen MT, Mawn LA. Oral Antibiotics for Meibomian Gland￾Related Ocular Surface Disease: A Report by the American Academy of Ophthalmology. 
+Ophthalmology 2016;123(3):492–496. [PubMed: 26707417] 
+34. Yoo SE, Lee DC, Chang MH. The effect of low-dose doxycycline therapy in chronic meibomian 
+gland dysfunction. Korean journal of ophthalmology : KJO 2005;19(4):258–263. [PubMed: 
+16491814] 
+Thulasi and Djalilian Page 9
+Ophthalmology. Author manuscript; available in PMC 2019 July 27.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+35. Foulks GN, Borchman D, Yappert M, Kakar S. Topical azithromycin and oral doxycycline therapy 
+of meibomian gland dysfunction: a comparative clinical and spectroscopic pilot study. Cornea 
+2013;32(1):44–53. [PubMed: 22668581] 
+36. Kashkouli MB, Fazel AJ, Kiavash V, Nojomi M, Ghiasian L. Oral azithromycin versus doxycycline 
+in meibomian gland dysfunction: a randomised double-masked open-label clinical trial. The 
+British journal of ophthalmology 2015;99(2):199–204. [PubMed: 25138765] 
+37. Liu Y, Kam WR, Ding J, Sullivan DA. Can tetracycline antibiotics duplicate the ability of 
+azithromycin to stimulate human meibomian gland epithelial cell differentiation? Cornea 
+2015;34(3):342–346. [PubMed: 25611398] 
+38. Craig JP, Chen YH, Turnbull PR. Prospective trial of intense pulsed light for the treatment of 
+meibomian gland dysfunction. Investigative ophthalmology & visual science 2015;56(3):1965–
+1970. [PubMed: 25678687] 
+39. Gupta PK, Vora GK, Matossian C, Kim M, Stinnett S. Outcomes of intense pulsed light therapy for 
+treatment of evaporative dry eye disease. Canadian journal of ophthalmology. Journal canadien 
+d’ophtalmologie 2016;51(4):249–253.
+40. Toyos R, McGill W, Briscoe D. Intense pulsed light treatment for dry eye disease due to 
+meibomian gland dysfunction; a 3-year retrospective study. Photomedicine and laser surgery 
+2015;33(1):41–46. [PubMed: 25594770] 
+41. Vegunta S, Patel D, Shen JF. Combination Therapy of Intense Pulsed Light Therapy and 
+Meibomian Gland Expression (IPL/MGX) Can Improve Dry Eye Symptoms and Meibomian 
+Gland Function in Patients With Refractory Dry Eye: A Retrospective Analysis. Cornea 
+2016;35(3):318–322. [PubMed: 26785301] 
+42. Crabb M, Chan WO, Taranath D, Huilgol SC. Intense pulsed light therapy (IPL) induced iritis 
+following treatment for a medial canthal capillary malformation. The Australasian journal of 
+dermatology 2014;55(4):289–291. [PubMed: 24417640] 
+43. Hong S, Lee JR, Lim T. Pigment deposition of cosmetic contact lenses on the cornea after intense 
+pulsed-light treatment. Korean journal of ophthalmology : KJO 2010;24(6):367–370. [PubMed: 
+21165237] 
+44. Javey G, Schwartz SG, Albini TA. Ocular complication of intense pulsed light therapy: iris 
+photoablation. Dermatologic surgery : official publication for American Society for Dermatologic 
+Surgery [et al.] 2010;36(9):1466–1468.
+45. Jewsbury H, Morgan F. Uveitis and iris photoablation secondary to intense pulsed light therapy. 
+Canadian journal of ophthalmology. Journal canadien d’ophtalmologie 2012;47(4):e13–14.
+46. Lee WW, Murdock J, Albini TA, O’Brien TP, Levine ML. Ocular damage secondary to intense 
+pulse light therapy to the face. Ophthalmic plastic and reconstructive surgery 2011;27(4):263–265. 
+[PubMed: 21346668] 
+47. Blackie CA, Coleman CA, Holland EJ. The sustained effect (12 months) of a single-dose vectored 
+thermal pulsation procedure for meibomian gland dysfunction and evaporative dry eye. Clinical 
+ophthalmology (Auckland, N.Z.) 2016;10:1385–1396.
+48. Blackie CA, Carlson AN, Korb DR. Treatment for meibomian gland dysfunction and dry eye 
+symptoms with a single-dose vectored thermal pulsation: a review. Current opinion in 
+ophthalmology 2015;26(4):306–313. [PubMed: 26058030] 
+49. Finis D, Hayajneh J, Konig C, Borrelli M, Schrader S, Geerling G. Evaluation of an automated 
+thermodynamic treatment (LipiFlow(R)) system for meibomian gland dysfunction: a prospective, 
+randomized, observer-masked trial. The ocular surface 2014;12(2):146–154. [PubMed: 24725326] 
+50. Greiner JV. Long-term (12-month) improvement in meibomian gland function and reduced dry eye 
+symptoms with a single thermal pulsation treatment. Clinical & experimental ophthalmology 
+2013;41(6):524–530. [PubMed: 23145471] 
+51. Greiner JV. Long-Term (3 Year) Effects of a Single Thermal Pulsation System Treatment on 
+Meibomian Gland Function and Dry Eye Symptoms. Eye & contact lens 2016;42(2):99–107. 
+[PubMed: 26222095] 
+52. Zhao Y, Veerappan A, Yeo S, et al. Clinical Trial of Thermal Pulsation (LipiFlow) in Meibomian 
+Gland Dysfunction With Preteatment Meibography. Eye & contact lens 2016;42(6):339–346. 
+[PubMed: 26825281] 
+Thulasi and Djalilian Page 10
+Ophthalmology. Author manuscript; available in PMC 2019 July 27.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+53. Celebi AR, Ulusoy C, Mirza GE. The efficacy of autologous serum eye drops for severe dry eye 
+syndrome: a randomized double-blind crossover study. Graefe’s archive for clinical and 
+experimental ophthalmology = Albrecht von Graefes Archiv fur klinische und experimentelle 
+Ophthalmologie 2014;252(4):619–626.
+54. Hussain M, Shtein RM, Sugar A, et al. Long-term use of autologous serum 50% eye drops for the 
+treatment of dry eye disease. Cornea 2014;33(12):1245–1251. [PubMed: 25299423] 
+55. Hwang J, Chung SH, Jeon S, Kwok SK, Park SH, Kim MS. Comparison of clinical efficacies of 
+autologous serum eye drops in patients with primary and secondary Sjogren syndrome. Cornea 
+2014;33(7):663–667. [PubMed: 24886995] 
+56. Liu Y, Hirayama M, Cui X, Connell S, Kawakita T, Tsubota K. Effectiveness of Autologous Serum 
+Eye Drops Combined With Punctal Plugs for the Treatment of Sjogren Syndrome-Related Dry 
+Eye. Cornea 2015;34(10):1214–1220. [PubMed: 26226470] 
+57. Mahelkova G, Vesela V, Seidler Stangova P, et al. [Tear Osmolarity in Patients with Severe Dry 
+Eye Syndrome Before and After Autologous Serum Treatment: a Comparison with Tear 
+Osmolarity in Healthy Volunteers]. Ceska a slovenska oftalmologie : casopis Ceske oftalmologicke 
+spolecnosti a Slovenske oftalmologicke spolecnosti 2015;71(4):184–188. [PubMed: 26395851] 
+58. Pan Q, Angelina A, Marrone M, Stark WJ, Akpek EK. Autologous serum eye drops for dry eye. 
+The Cochrane database of systematic reviews 2017;2:Cd009327. [PubMed: 28245347] 
+59. Urzua CA, Vasquez DH, Huidobro A, Hernandez H, Alfaro J. Randomized double-blind clinical 
+trial of autologous serum versus artificial tears in dry eye syndrome. Current eye research 
+2012;37(8):684–688. [PubMed: 22670856] 
+60. Lopez-Plandolit S, Morales MC, Freire V, Grau AE, Duran JA. Efficacy of plasma rich in growth 
+factors for the treatment of dry eye. Cornea 2011;30(12):1312–1317. [PubMed: 22012030] 
+61. Merayo-Lloves J, Sanchez-Avila RM, Riestra AC, et al. Safety and Efficacy of Autologous Plasma 
+Rich in Growth Factors Eye Drops for the Treatment of Evaporative Dry Eye. Ophthalmic research 
+2016;56(2):68–73. [PubMed: 27229893] 
+62. Cheng AM, Zhao D, Chen R, et al. Accelerated Restoration of Ocular Surface Health in Dry Eye 
+Disease by Self-Retained Cryopreserved Amniotic Membrane. The ocular surface 2016;14(1):56–
+63. [PubMed: 26387870] 
+63. Inamoto Y, Sun YC, Flowers ME, et al. Bandage Soft Contact Lenses for Ocular Graft-versus-Host 
+Disease. Biology of blood and marrow transplantation : journal of the American Society for Blood 
+and Marrow Transplantation 2015;21(11):2002–2007.
+64. Russo PA, Bouchard CS, Galasso JM. Extended-wear silicone hydrogel soft contact lenses in the 
+management of moderate to severe dry eye signs and symptoms secondary to graft-versus-host 
+disease. Eye & contact lens 2007;33(3):144–147. [PubMed: 17502749] 
+65. Stoyanova EI, Otten HM, Wisse R, Rothova A, Riemens A. Bandage and scleral contact lenses for 
+ocular graft-versus-host disease after allogeneic haematopoietic stem cell transplantation. Acta 
+ophthalmologica 2015;93(7):e604. [PubMed: 25923173] 
+66. Alipour F, Kheirkhah A, Jabarvand Behrouz M. Use of mini scleral contact lenses in moderate to 
+severe dry eye. Contact lens & anterior eye : the journal of the British Contact Lens Association 
+2012;35(6):272–276. [PubMed: 22902924] 
+67. Carracedo G, Blanco MS, Martin-Gil A, Zicheng W, Alvarez JC, Pintor J. Short-term Effect of 
+Scleral Lens on the Dry Eye Biomarkers in Keratoconus. Optometry and vision science : official 
+publication of the American Academy of Optometry 2016;93(2):150–157. [PubMed: 26657697] 
+68. Tappin MJ, Pullum KW, Buckley RJ. Scleral contact lenses for overnight wear in the management 
+of ocular surface disorders. Eye (London, England) 2001;15(Pt 2):168–172.
+69. Weber SL, de Souza RB, Gomes JA, Hofling-Lima AL. The Use of the Esclera Scleral Contact 
+Lens in the Treatment of Moderate to Severe Dry Eye Disease. American journal of 
+ophthalmology 2016;163:167–173.e161. [PubMed: 26701271] 
+70. Yuksel E, Bilgihan K, Novruzlu S, Yuksel N, Koksal M. The Management of Refractory Dry Eye 
+With Semi-Scleral Contact Lens. Eye & contact lens 2016.
+71. Dimit R, Gire A, Pflugfelder SC, Bergmanson JP. Patient ocular conditions and clinical outcomes 
+using a PROSE scleral device. Contact lens & anterior eye : the journal of the British Contact Lens 
+Association 2013;36(4):159–163. [PubMed: 23499361] 
+Thulasi and Djalilian Page 11
+Ophthalmology. Author manuscript; available in PMC 2019 July 27.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Highlights
+This review covers the latest diagnostic and therapeutic strategies in the management of 
+dry eye disease. New diagnostic tests including tear film osmolarity, inflammatory 
+biomarkers and meibomian gland imaging have enhanced our ability to recognize and 
+categorize patients with dry eye disease. Therapeutically, anti-inflammatory therapy, 
+meibomian gland heating and expression, and scleral contact lenses are some of the latest 
+options available for treating dry eye disease.
+Thulasi and Djalilian Page 12
+Ophthalmology. Author manuscript; available in PMC 2019 July 27.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript

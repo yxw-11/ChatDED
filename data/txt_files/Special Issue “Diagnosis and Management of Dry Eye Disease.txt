@@ -1,0 +1,111 @@
+Citation: Giannaccare, G.; Di Zazzo, A.
+Special Issue “Diagnosis and
+Management of Dry Eye Disease and
+Ocular Surface Inflammation”.
+Medicina 2022, 58, 764. https://
+doi.org/10.3390/medicina58060764
+Received: 27 May 2022
+Accepted: 3 June 2022
+Published: 5 June 2022
+Publisher’s Note: MDPI stays neutral
+with regard to jurisdictional claims in
+published maps and institutional affil￾iations.
+Copyright: © 2022 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/). medicina
+Editorial
+Special Issue “Diagnosis and Management of Dry Eye Disease
+and Ocular Surface Inflammation”
+Giuseppe Giannaccare 1,* and Antonio Di Zazzo 2
+1 Department of Ophthalmology, Magna Graecia University of Catanzaro, 88100 Catanzaro, Italy
+2 Department of Ophthalmology, University Campus Bio-Medico, 00128 Rome, Italy;
+antoniodizazzo@gmail.com
+* Correspondence: giuseppe.giannaccare@gmail.com
+It is estimated that a wide proportion of the world’s population (5% to 50%) may
+suffer from dry eye disease to a various extent [1]. Since the prevalence is higher in older
+people, the global burden of the disease is projected to further increase in the next decades
+due to the ageing of populations. Nevertheless, there is still lack of reliable and validated
+biomarker(s) to diagnose the condition, monitor its course over time and guide clinical
+management. As such, the “real life” diagnosis is usually reached by combining multiple
+subjective and invasive tests performed at the slit-lamp, such as among others vital dye
+staining and tear film break-up time. However, these tests are observer-dependent and lack
+standardization, resulting in high interobserver and intraobserver variance [2,3]. Another
+important problem is the poor concordance between the objective signs and the symptoms
+experienced by patients, in particular in cases with neurosensory abnormalities [4].
+To overcome these issues, recent non-invasive devices have been developed to measure
+various novel diagnostic parameters, such as non-invasive break-up time, tear meniscus
+height, infrared meibography, aberrometry, tear film interferometry, humidity, temperature
+and corneal nerves metrics [5–10]. All-in-one integrate devices combining multiple tests
+to obtain a comprehensive ocular surface evaluation are now available. These devices
+have the great advantage of providing automated results, thus improving the diagnostic
+repeatability and reproducibility. Moreover, given the complex and multifactorial nature of
+dry eye disease, the possibility to identify the ocular surface structure or the tear film layer
+mostly affected can allow for a targeted treatment.
+In parallel with the development of novel diagnostic devices, new dry eye treatments
+have also been developed and introduced on the market. With regards to topical treatment,
+tear substitutes formulations have evolved into multiple-action combined formulas tar￾geting different key mechanisms of the vicious dry eye cycle [11,12]. Soft corticosteroids,
+cyclosporine A, tacrolimus and lifitegrast have been indicated as possible useful and safe
+tools to control inflammation. Certain dietary constituents also seem to have positive
+effects on the ocular surface health, with omega-3 fatty acids having the strongest level
+of evidence in support of their use. The treatment of meibomian gland dysfunction has
+also progressively shifted from simple lid hygiene to novel in-office treatments based on
+devices administering therapeutic levels of heat and pressure/vibration [13], as well as
+intense pulse light [14] or low-level light therapy [15].
+This collection of articles will provide a focused update on the most compelling
+diagnostic and therapeutic innovations for dry eye disease and ocular surface inflammation.
+As Guest Editors, we would like to thank the authors who will contribute to this Special
+Issue and the reviewers who will provide helpful suggestions to further improve the quality
+of the papers. We would also like to extend our gratitude to the team of the journal Medicina
+for their robust support in this project.
+Medicina 2022, 58, 764. https://doi.org/10.3390/medicina58060764 https://www.mdpi.com/journal/medicina
+Medicina 2022, 58, 764 2 of 2
+Author Contributions: Conceptualization, G.G. and A.D.Z.; methodology, G.G. and A.D.Z.; writing—
+original draft preparation, G.G. and A.D.Z.; writing—review and editing, G.G. and A.D.Z.; supervi￾sion, G.G. and A.D.Z.All authors have read and agreed to the published version of the manuscript.
+Funding: This research received no external funding.
+Institutional Review Board Statement: Not applicable.
+Informed Consent Statement: Not applicable.
+Data Availability Statement: Data sharing not applicable No new data were created or analyzed in
+this study. Data sharing is not applicable to this article.
+Conflicts of Interest: The authors declare no conflict of interest.
+References
+1. Stapleton, F.; Alves, M.; Bunya, V.Y.; Jalbert, I.; Lekhanont, K.; Malet, F.; Na, K.S.; Schaumberg, D.; Uchino, M.; Vehof, J.; et al.
+TFOS DEWS II Epidemiology Report. Ocul. Surf. 2017, 15, 334–365. [CrossRef]
+2. Giannaccare, G.; Vigo, L.; Pellegrini, M.; Sebastiani, S.; Carones, F. Ocular Surface Workup with Automated Noninvasive
+Measurements for the Diagnosis of Meibomian Gland Dysfunction. Cornea 2018, 37, 740–745. [CrossRef] [PubMed]
+3. Pellegrini, M.; Giannaccare, G.; Bernabei, F.; Moscardelli, F.; Sessa, M.; Arpinati, M.; Bonifazi, F.; Versura, P. Longitudinal Corneal
+Endothelial Cell Changes in Patients Undergoing Hematopoietic Stem Cell Transplantation. Cornea 2021, 40, 462–466. [CrossRef]
+[PubMed]
+4. Song, H.; Zhang, M.; Hu, X.; Li, K.; Jiang, X.; Liu, Y.; Lv, H.; Li, X. Correlation Analysis of Ocular Symptoms and Signs in Patients
+with Dry Eye. J. Ophthalmol. 2017, 2017, 1247138. [CrossRef]
+5. Giannaccare, G.; Bonifazi, F.; Sebastiani, S.; Sessa, M.; Pellegrini, M.; Arpinati, M.; Moscardelli, F.; Versura, P.; Campos, E.
+Meibomian Gland Dropout in Hematological Patients Before Hematopoietic Stem Cell Transplantation. Cornea 2018, 37, 1264–
+1269. [CrossRef] [PubMed]
+6. Bernabei, F.; Versura, P.; Pellegrini, M.; Moscardelli, F.; Bonifazi, F.; Sessa, M.; Arpinati, M.; Scorcia, V.; Giannaccare, G.
+Longitudinal Analysis of Infrared Meibography in Patients Undergoing Hematopoietic Stem Cell Transplantation. Cornea 2020,
+39, 812–817. [CrossRef] [PubMed]
+7. Giannaccare, G.; Pellegrini, M.; Sebastiani, S.; Moscardelli, F.; Versura, P.; Campos, E.C. In vivo confocal microscopy morphometric
+analysis of corneal subbasal nerve plexus in dry eye disease using newly developed fully automated system. Graefes. Arch. Clin.
+Exp. Ophthalmol. 2019, 257, 583–589. [CrossRef] [PubMed]
+8. Di Cello, L.; Pellegrini, M.; Vagge, A.; Borselli, M.; Ferro Desideri, L.; Scorcia, V.; Traverso, C.E.; Giannaccare, G. Advances in the
+noninvasive diagnosis of dry eye disease. Appl. Sci. 2021, 11, 10384. [CrossRef]
+9. Vigo, L.; Pellegrini, M.; Bernabei, F.; Carones, F.; Scorcia, V.; Giannaccare, G. Diagnostic Performance of a Novel Noninvasive
+Workup in the Setting of Dry Eye Disease. J. Ophthalmol. 2020, 2020, 5804123. [CrossRef] [PubMed]
+10. Gaudenzi, D.; Mori, T.; Crugliano, S.; Grasso, A.; Frontini, C.; Carducci, A.; Yadav, S.; Sgrulletta, R.; Schena, E.; Coassin, M.; et al.
+AS-OCT and ocular hygrometer as innovative tools in dry eye disease diagnosis. Appl. Sci. 2022, 12, 1647. [CrossRef]
+11. Fariselli, C.; Giannaccare, G.; Fresina, M.; Versura, P. Trehalose/hyaluronate eyedrop effects on ocular surface inflammatory
+markers and mucin expression in dry eye patients. Clin. Ophthalmol. 2018, 12, 1293–1300. [CrossRef] [PubMed]
+12. Vigo, L.; Senni, C.; Pellegrini, M.; Vagge, A.; Ferro Desideri, L.; Carones, F.; Scorcia, V.; Giannaccare, G. Effects of a New
+Formulation of Multiple-Action Tear Substitute on Objective Ocular Surface Parameters and Ocular Discomfort Symptoms in
+Patients with Dry Eye Disease. Ophthalmol Ther. 2022, 1–7. [CrossRef] [PubMed]
+13. Vigo, L.; Pellegrini, M.; Carones, F.; Scorcia, V.; Giannaccare, G. Short-Term Effects of a Novel Eye Mask Producing Heat and Vibra￾tion for the Treatment of Meibomian Gland Dysfunction: A Pilot Study. J. Ophthalmol. 2021, 2021, 1370002. [CrossRef] [PubMed]
+14. Vigo, L.; Taroni, L.; Bernabei, F.; Pellegrini, M.; Sebastiani, S.; Mercanti, A.; Di Stefano, N.; Scorcia, V.; Carones, F.; Giannaccare, G.
+Ocular Surface Workup in Patients with Meibomian Gland Dysfunction Treated with Intense Regulated Pulsed Light. Diagnostics
+2019, 9, 147. [CrossRef] [PubMed]
+15. Giannaccare, G.; Pellegrini, M.; Carnovale Scalzo, G.; Borselli, M.; Ceravolo, D.; Scorcia, V. Low-Level Light Therapy Versus
+Intense Pulsed Light for the Treatment of Meibomian Gland Dysfunction Preliminary Results from a Prospective Randomized
+Comparative Study. Cornea 2022. [CrossRef]

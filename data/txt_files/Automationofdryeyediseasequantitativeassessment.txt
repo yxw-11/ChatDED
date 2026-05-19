@@ -1,0 +1,1194 @@
+REVIEW
+Automation of dry eye disease quantitative assessment:
+A review
+Ikram Brahim MSc1,2,3 | Mathieu Lamard PhD1,3 |
+Anas-Alexis Benyoussef MD, MSc4 | Gwenolé Quellec PhD1
+1
+Inserm, UMR 1101, Brest, France
+2
+Inserm, UMR 1227, Brest, France
+3
+Université Bretagne Occidentale, Brest,
+France
+4
+Service d'Ophtalmologie, CHRU Brest,
+Brest, France
+Correspondence
+Ikram Brahim and Gwenolé Quellec,
+Inserm, UMR 1101, Brest, F-29200 France.
+Email: ikram.brahim@univ-brest.fr and
+gwenole.quellec@inserm.fr
+Funding information
+The Brittany Region; Innovative
+Medicines Initiative 2 Joint Undertaking,
+Grant/Award Number: 806975
+Abstract
+Dry eye disease (DED) is a common eye condition worldwide and a primary
+reason for visits to the ophthalmologist. DED diagnosis is performed through a
+combination of tests, some of which are unfortunately invasive, non￾reproducible and lack accuracy. The following review describes methods that
+diagnose and measure the extent of eye dryness, enabling clinicians to quantify
+its severity. Our aim with this paper is to review classical methods as well as
+those that incorporate automation. For only four ways of quantifying DED, we
+take a deeper look into what main elements can benefit from automation and
+the different ways studies have incorporated it. Like numerous medical fields,
+Artificial Intelligence (AI) appears to be the path towards quality DED diagno￾sis. This review categorises diagnostic methods into the following: classical,
+semi-automated and promising AI-based automated methods.
+KEYWORDS
+artificial intelligence, automation, dry eye disease, ophthalmology, quantification
+1 | INTRODUCTION
+As developed by the International Dry Eye Workshop
+(DEWS), dry eye disease (DED) is a multifactorial pathol￾ogy, affecting tears and ocular surface (Lemp et al. 2007).
+It is a major pathology, with a growing prevalence due to
+the increase in longevity, the integration of screen-based
+activities at all ages, and environmental pollution; all
+conditions that induce meibomian dysfunction. Addition￾ally, refractive surgery, whether corneal or intraocular,
+can cause transient or chronic dry syndrome through an
+inflammatory and neurogenic mechanism if homeostasis
+is not restored.1 These circumstances of occurrence have
+been added to the classical etiologies represented by the
+deficiencies of tear secretion observed in primary or
+secondary Sjogren's syndrome (SjS) syndrome and the
+immune or allergic causes, which remain the source of
+severe dry eyes. DED results in tear film instability, dam￾aged ocular surface and thus in discomfort and pain.2 It
+also decreases visual performance in terms of visual acu￾ity but also in the quality of vision (fluctuations, degrada￾tion of contrast sensitivity, optical aberrations induced by
+the instability of the tear film). The impact on the quality
+of life can be major and responsible for a significant rate
+of absenteeism at work and induced depression. This
+added to the increase of the lubricant market more than
+25% in 10 years, placing DED at the rank of public health
+problem in industrialised countries.3
+The following review explores these diagnostic tests
+and the practicality of automating the quantification
+Received: 16 November 2021 Revised: 9 May 2022 Accepted: 14 May 2022
+DOI: 10.1111/ceo.14119
+This is an open access article under the terms of the Creative Commons Attribution License, which permits use, distribution and reproduction in any medium, provided
+the original work is properly cited.
+© 2022 The Authors. Clinical & Experimental Ophthalmology published by John Wiley & Sons Australia, Ltd on behalf of Royal Australian and New Zealand College of
+Ophthalmologists.
+Clin Experiment Ophthalmol. 2022;50:653–666. wileyonlinelibrary.com/journal/ceo 653
+methods. Each section considers the quantification of
+one characteristic that signals dry eye. Our goal is to shed
+light on which diagnostic methods are more than likely
+to benefit from automation. We also want to show the
+most prominent studies for each of the diagnostic
+methods that indicate DED. We believe such a study is of
+importance to clinicians that are interested in the impact
+AI has, and will continue to have, specifically in the field
+of dry eye. This review shows the course of DED diagno￾sis which, like various fields, is headed towards incorpo￾rating more AI solutions. The major goal of our analysis
+is to emphasise the present demand for automation. The
+methods described differ in terms of what they quantify,
+the amount of quantification they accomplish, and the
+level of automation they employ. However, the overall
+tendency in our analysis is that automation resulted in
+either easier acquisition or better accuracy. This review
+shows the course of DED diagnosis which, like retinal
+image analysis for instance is headed towards incorporat￾ing more AI solutions.4–8
+The Tear Film Ocular Surface Society (TFOS,
+DEWS I, DEWS II) presented two reports in 2007 and
+2017, which updates the definition and how we classify
+DED2,9. The DEWS II report provides an etiological clas￾sification of DED and the basis of its symptoms. DED
+was divided into two major subtypes: evaporative and
+aqueous-deficient. Evaporative DED is due to a high
+evaporation rate of the tear film, caused intrinsically,
+meibomian oil insufficiency, or extrinsically. The most
+common cause of evaporative DED is Meibomian gland
+dysfunction (MGD).10 MGD changes the tear components
+causing instability and goblet cell loss.11 Evaporative
+DED is often due to extrinsic causes, including vitamin A
+deficiency, contact lens wear and the use of topical
+agents.2 Aqueous-deficient DED is due to a decrease in
+tear production from the lacrimal glands. It can be cat￾egorised into SjS related or non-SjS related. Ten percent
+of patients diagnosed with DED also have SjS, and both
+are difficult to diagnose.12 Dry eye diseases can be diag￾nosed by the lack of stability of the tear film, the produc￾tion of tears, the damage caused to the epithelium or
+gland dysfunction.
+Following both DEWS studies we decided to orga￾nise our review into four main sections that each
+addresses a way of diagnosing DED. Each
+section contains three subcategories: classical diagnostic
+methods, semi-automated and fully automated methods.
+Section 2 includes methods that evaluate a decrease in
+tear secretion and volume. Reproducible tests that mea￾sure secretion, meniscus shape, regularity and residual
+volume of tears are key indicators of DED. Section 3
+considers methods that focus on the damaged ocular
+surface. The instillation of a dye penetrates the lipid
+layer of the epithelium, staining-damaged areas. The
+staining can quantify the damage and its severity, but
+there are limitations of ocular surface damage grading.
+Following that, Section 4 tackles methods that measure
+tear film stability. The quality of each layer within the
+tear film is essential to characterise DED. Section 5 dis￾cusses meibomian gland diagnostic methods and exam￾ining the lid margin. Glands of the ocular surface
+produce tear fluid components and diagnosis can be of
+tear content or glandular structures. This section focuses
+on MGD diagnostic methods as it significantly correlates
+with DED. The subsections of each include classical
+diagnostic methods implement simple medical tests and
+often require full participation of a specialist. Semi￾automated methods exploit either automated acquisition
+or algorithms that help in quantifying DED but still
+require manual intervention. Alternatively, fully auto￾mated methods cut out the need for manual interven￾tion and in some cases, automate both the diagnosis and
+DED severity grading.
+Several reviews and surveys also have similar objec￾tives but focus mainly on classical clinical diagnostic
+methods.13–20 Other articles and reviews discussing
+current and future AI applications in ophthalmology
+include.7,8,21–27
+1.1 | Method of literature search
+The systematic approach for this review included the fol￾lowing search terms: dry eye disease, dry eye, quantifica￾tion, automated. Using Elsevier's Scopus as a main
+database, as well as arXiv and IEEE Xplore. We included
+papers published up to beginning of March 2021
+(included). As for the selection process, abstracts of the
+search results were used to identify methods that can be
+used. Classical methods were mostly found in clinical
+papers, as well as existing surveys. As for automated
+methods or semi-automated methods, those chosen had
+to include quantification in their results. The framework
+should also present clearly where the automation was
+incorporated.
+2 | TEAR SECRETION AND
+VOLUME
+The reduction in tear secretion is a primary indicator of
+DED. Tear film is composed of three layers: oil, water
+and a mucin layer. The aqueous and mucin layers are a
+single layer of mucoaqueous gel with a viscosity gradient
+along the tear film.28 A deficiency in any layer, ultimately
+causes discomfort and disrupts the tear film.
+654 BRAHIM ET AL.
+2.1 | Clinical diagnostic tests
+Assessing tear secretion dates back to 1903 when
+Schirmer29 first presented his test. The test determines
+whether enough tears are being produced measuring
+both basal and reflex tears.17 The test uses a small piece
+of filter paper (35  5 mm) placed over the lower eyelid
+for 5 min. The length of the wetted filter paper is the tear
+secretion grade. Schirmer describes variations of the test,
+including using a topical anaesthetic and nasal stimula￾tion to measure reflex tears. Despite the controversy and
+lack of reproducibility, sensitivity and specificity,16,30,31
+the test is still frequently used. Moderate modifications
+have been made to reduce them but without major
+improvements.31–39 Further modifications include the
+fluorescein clearance test, which assesses tear clearance
+or turnover rate. Fluorescein clearance test consists of
+1-min Schirmer's tests performed consecutively for
+30-min after the application of the fluorescein dye.40,41
+Tear clearance rate is the rate at which the dye fades
+5-min after instillation and is graded visually: 1–1/256.
+Dogru et al.42 showed that strip meniscometry eliminates
+the need for fluorescein dye, or any touching of the eyelid
+and can be performed in 5 s to evaluate tear secretion.
+Lastly, tear function index value was proposed by Xu
+et al.,43 which consists of both Schirmer's test and mea￾suring the tear clearance rate. Scores correlated with tear
+quantity and stability and can be computed as follows:
+Tear function index ¼ schirmer test value
+tear clearance rate
+2.2 | Semi-automated methods
+All the semi-automated methods measure the tear meniscus
+height from images after instilling fluorescein dye. First,
+used by Guillon in 1998, images were acquired from a video
+camera attached to a slit-lamp or an interference device.44
+Tearscope-plus (Keeler, Windsor, United Kingdom) was
+also used to visualise the tear meniscus height by Uchida
+et al.45 in healthy, DED and SjS subjects. The captured
+images were later analysed using a software to obtain the
+tear meniscus height. Fodor et al.46 compare the measure￾ment of tear meniscus height using images from Keeler
+Tearscope-plus (Keeler Instruments Inc.) against slit-lamp
+images with or without fluorescein staining. Measurements
+of the lower tear meniscus height using a tearscope were
+found to be more repeatable than fluorescein tear film
+break up time and Schirmer's test. Optical coherence
+tomography (OCT) is a more recent non-invasive technique
+that can scan the tear meniscus in cross-section. A modern
+acquisition method is the Topcon ImageNET 2000 (Topcon,
+Japan), in Johnson et al.’s study,47 includes a full program
+of image enhancements such as; contrast adjustment, box
+enhancement, are measurement tools, to help the evalua￾tion process. Tear meniscus height measurements were
+compared between OCT, optical pachymeter and video cap￾ture en-face (IMAGEnet2000), optical pachymetry en-face
+and in cross-section.47 The study found all five techniques
+to have a similar average tear meniscus height. Savini
+et al.48 concluded that OCT can be used to measure tear
+meniscus height. Raj et al.49 also found a positive correla￾tion between Schirmer's and tear meniscus and concluded
+that OCT enables a better understanding and treatment of
+DED. Tear meniscus height measurements obtained by fre￾quency domain OCT and a keratograph were compared by
+Baek et al.50 and Arriola et al.51 Baek et al. concluded that
+tear meniscus height measurements correlated with each
+other and other tests [Schirmer test, tear film breakup time
+(TBUT), dry eye severity] with good repeatability while
+Arriola et al. found more reliable measurements using the
+frequency domain OCT and weak correlation with
+keratograph.
+Courrier et al.52 presented an all-in-one non-contact
+ocular surface imaging device (LacryDiag-Quantel Medi￾cal) that measures various dry eye parameters that
+include the tear meniscus height. It also provides lipid
+layer analysis, non-invasive breakup time (NIBUT), and
+meibography analysis, which all require manual inter￾vention to obtain the final quantification. Other devices
+capable of tear meniscus height measurement include
+Dry Eye Monitor KOWA DR-1 (Kowa), Oculus
+Keratograph 5M (K5M; Oculus Optikgerate GmbH) and
+Optovue RTVue (Optovue Inc.).
+2.3 | Automated methods
+Yedidya et al. presented an algorithm that evaluates the
+tear meniscus from slit-lamp images after fluorescein
+instillation.53 Based on asymmetric graph-cuts, the
+method segments the tear meniscus and determine its
+grade through height and number of branches. Another
+method presented by Cheazemin et al.54 also automati￾cally measures the tear meniscus height from video
+sequences. Using k-means segmentation, and a threshold
+determined using the Otsu's method, tear meniscus height
+was determined based on the length of the segmentation.
+The method requires calibration to obtain a physical value
+from the measurement unit (pixels). The first two methods
+operate on the same imaging modality (slit-lamp images)
+and are based on similar image processing techniques.
+A more recent method that also automatically assesses
+the characteristics of the tear film including, tear meniscus,
+BRAHIM ET AL. 655
+area, height, depth and radius was presented by Stegmann
+et al.55 Using ultrahigh-resolution OCT measurements to
+automatically segment the tear meniscus and extract the
+tear film characteristics. It was tested on 10 healthy sub￾jects only, a significant correlation was found between all
+tear meniscus parameters and literature values. All three
+methods showed that tear characteristics can be extracted
+with simple methods and two data types, namely slit-lamp
+images and ultrahigh-resolution OCT, although none were
+extensively validated.
+3 | OCULAR SURFACE DAMAGE
+The lesions that appear on the epithelial and sub￾epithelial tissues are clinical signs of various ocular
+surface diseases.56 Referred to as superficial punctate
+keratitis (SPK),57 which is a small damaged groups of
+cells on the surface of the cornea or conjunctiva.
+3.1 | Clinical diagnostic tests
+The damaged parts of the cornea are made more visible
+using a dye. Fluorescein dates back to 1882 when it was
+first used to stain corneal abrasions.58 Fluorescein sodium
+is still used and instilled by preserved doses or paper strips.
+Lesions are more visible if a yellow (blue-free) filter is
+used.16 Damage to the conjunctival epithelium however is
+more difficult to detect with fluorescein staining due to the
+poor scleral contrast. Another dye, derivative of fluorescein,
+rose bengal is mainly used on the conjunctiva to detect the
+damage areas.16 Lastly, lissamine green is a synthetic
+organic acid dye that is interchangeable with RB15 and
+used more often since it's been proven to be less toxic and
+more easily tolerated. Bron et al. present a more exhaustive
+coverage of clinical ocular surface staining.59 To quantify
+the staining and track its evolution, clinicians refer to
+numerous grading scales that were detailed by Begley
+et al.13 Another more detailed method for grading recently
+developed by Woods et al. includes a scale of 0–100 for
+staining type and area, and 0–4 for depth.60 Named the
+CORE (Center for Ocular Research Education) staining
+scale, and is reported for five zones [central (C), superior
+(S), nasal (N), inferior (I) and temporal (T)]. The staining
+scale helps in tracking the evolution of the damage.
+3.2 | Semi-automated methods
+The following methods process slit-lamp recorded images
+with a semi-automated algorithm. Ornberg et al.61
+improve fluorescein images with image processing tech￾niques. The stains are also measured by size, intensity
+and position relative to the pupil, which improves
+quantification. The method does not automate the
+staining quantification but helps in identifying them.
+Amparo et al. compared their corneal fluorescein
+staining index, an index given using their proposed
+method, to the National Eye Institute/Industry grading
+scale.62 The proposed method divides the cornea in five
+zones and quantify each of them separately. The cor￾neal fluorescein staining index scoring system
+summarised the result in a 0–100 score. The corneal
+fluorescein staining index provides a plateau gap that
+allows for the evolution of the staining to be docu￾mented. The corneal fluorescein staining index has a
+larger grading range and is computer guided, which
+resulted in increased consistency and accuracy com￾pared to the National Eye Institute/Industry grading
+scale. Although not fully automated, the method brings
+forward a great contribution which is a new grading
+scale. It also has a better interobserver agreement when
+compared to that of the National Eye Institute/Industry
+grading scale. Another study using lissamine green dye
+by Bunya et al. evaluates ocular surface damage only to
+the bulbar conjunctiva.63 The image is then processed
+and a random forest regression classifier is trained
+using the extracted features. The method uses auto￾mated acquisition and grading but requires user assis￾tance for the region of interest selection. The scores
+correlated with the van Bijsterveld scale better than the
+National Eye Institute/Industry grading scale.
+3.3 | Automated methods
+Chun et al.64 propose a method that takes advantage of
+several digital image processing steps to enhance corneal
+punctate epithelial erosions. The method uses median fil￾ters, noise removal, contrast-limited adaptive histogram
+equalisation filters that improve contrast without ampli￾fying the noise, as well as erosion filters to better high￾light the ocular surface damage.
+The method resulted in a strong correlation with the
+Oxford scale and a better correlation with the National
+Eye Institute/Industry grading scale than both methods
+by References 62 and 63, which were similar. Another
+automated method of staining detection that uses image
+processing was developed by Rodriguez et al.56 The
+binary images are used for blob detection, and those are
+the punctate dots. The algorithm then counts the dots
+(Ndots). Lastly, the predicted grade (Gpred) is calculated
+using Equation (1).
+656 BRAHIM ET AL.
+Gpred ¼ 1:48log Ndots ð Þ0:206 ð1Þ
+Gpred ¼ 1:3244log Ndots ð Þ0:0612 ð2Þ
+A similar approach summarised with a different
+Equation (2) was presented by Bagbaba et al.65 The
+method employs image processing techniques such as
+Hough transform, active contour models and connected
+component labelling. This method had a larger data set
+(70 images) and a better correlation with clinical scores
+compared to that presented by Rodriguez et al.
+(54 images). The grades predicted using Equation 2 have
+a higher precision and thus a better correlation with clin￾ical grading scales.
+An approach to quantify staining and distinguish SjS
+from Ocular Graft versus-host Disease was recently
+described by Pellegrini et al.66 Pellegrini et al.’s method
+calculates the corneal staining index, which is defined as
+the ratio between the detected staining area and the area
+of the cornea. The particles' morphological patterns are
+described to help distinguish between SjS and Ocular
+Graft versus-host Disease staining. The parameters
+include area, circularity and roundness of each stain. The
+study found that Ocular Graft versus-host Disease
+staining spots were more circular and round compared to
+SjS. The approach resulted in a less significant correlation
+with the oxford and National Eye Institute/Industry grad￾ing scales compared with methods by.56,64,65 Benefiting
+from deep learning, Su et al. propose the automatic detec￾tion and grading of punctate dots with a convolutional
+neural network (CNN).67 Images were manually seg￾mented only to train the model using five pre-defined
+classes: tear film, eyelash, eyelid, punctate dots and con￾junctiva. The model then produces a probability map of
+punctate dots, used to calculate the CNN-SPK value. A
+newly defined grading scale, which is:
+CNN SPK ¼ area of the punctate dot predicted
+area of the cornea
+Obtaining significant correlations with clinical grading
+scales, this method is close to those by.56,64,66 The more
+recent fully automated methods all use slit-lamp exami￾nations and achieve similar results. It is evident that
+using only staining examinations we can extract valuable
+information that can help refine ocular surface diagnosis.
+One advantage of slit lamp acquisitions is that the data,
+namely images, can easily be extracted and are compati￾ble with popular computer vision AI algorithms. There￾fore, we expect significant development along this
+direction in the near future.
+4 | TEAR FILM STABILITY
+A healthy human tear film is composed of a lipid layer,
+and the aqueous and mucin layer. The evaluation of tear
+film stability can be through the components or a normal
+blink function. Any impairment can result in the tear
+film not reforming properly.
+4.1 | Clinical diagnostic tests
+The most referenced and useful technique to assess the
+extent of tear evaporation is the tear breakup time
+(TBUT). Introduced by Norn et al. (1969) the test diagno￾ses the tear film instability by first instilling sodium fluo￾rescein then observing through a slit-lamp. The timing
+between the last blink and appearance of the first break
+or dry spot is TBUT. Results of less than 10 s are abnor￾mal, 5–10 s being marginal, and less than 5 s suggest dry
+eye.68 Vanely et al. also found TBUT to be highly repro￾ducible but stated that it remains a supportive value for
+DED diagnosis.69 TBUT is performed in various ways
+and is continuously modified. The main difference
+between the ways is the degree of invasiveness. Some
+BUT measurement methods instill sodium fluorescein
+then observe using a cobalt blue light with a yellow fil￾ter. Alternatively, non-invasive methods do not use dye
+and instead use different instruments. Guillon et al.
+measured in a non-invasive manner using a tearscope,
+giving NIBUT.
+Besides TBUT, another way to measure tear film sta￾bility is changes in ocular temperature.70,71 The tempera￾ture change mapped using an ocular thermogram allowed
+Morgan et al.72 to determine that the mean ocular surface
+temperature was greater in DED patients. Fujishima et al.
+determined a change in the corneal temperature using an
+infrared radiation thermometer.73 Changes in temperature
+with each blink were observed to be larger in patients with
+DED. Both studies showed a correlation between corneal
+temperature change and TBUT.
+Mengher et al. also assessed tear film stability via
+NIBUT measurements.74 The method described is using
+a slit-lamp and observing a grid reflection from the tear.
+Discontinuities in the pattern observed are caused by
+loss of tear film integrity. The keratometer that measures
+the corneal curvature and shows an illuminated grid pat￾tern reflected from the tear surface.19,36 A modified
+method using the keratometer, proposed by Hirji et al.
+includes adding a circular grid and the mean of five mea￾surements to obtain TBUT.75 Another instrument used
+to asses NIBUT is the hand held keratoscope which also
+uses a grid (Loveridge grid).76 Wang et al. underlined the
+BRAHIM ET AL. 657
+importance of documenting the instrument used when
+measuring NIBUT.77 The comparison study highlighted
+that instrument-mounted interferometric and
+keratoscopic measurements had good repeatability
+unlike hand-held device.
+4.2 | Semi-automated methods
+Corneal topography, also referred to as photokeratoscopy
+or videokeratography is another method used to measure
+NIBUT.78 Their automated acquisition maps the surface
+curvature of the cornea. Goto et al. implemented a new
+videokeratography software that captures consecutive
+corneal surface images every 10 s.79 A positive correlation
+was found between the topographic map and the fluores￾cein staining TBUT results. Goto et al. also proposed
+another analysis study of tear lipid thickness through tear
+interference images that quantify lipid spread time and
+tear lipid stability.80 In this study, interference images are
+compared with colour charts and the lipid layer thickness
+is correlated with the intensity of the post-processed
+image. There was no quantitative correlation or evalua￾tion for the study.
+The degree of irregularity of corneal surface shape
+can be expressed by the surface asymmetry index and
+surface regularity index. Surface asymmetry index pro￾vides a quantitative measure of the radial symmetry of
+the four central videokeratoscope mires surrounding the
+vertex of the cornea and surface regularity index is a
+measure of central and paracentral corneal irregular￾ity.81,82 Tear film stability is measured by timing tear film
+build up, and changes in surface asymmetry index and
+surface regularity index. Tear Stability Analysis System
+was evaluated by Kojima et al.83
+The system results in 10 consecutive corneal top￾ograms and proved effective. The tear stability regularity
+and tear surface asymmetry index were derived by
+Kojima et al. from surface asymmetry index and surface
+regularity index for analysis. The study resulted in a
+higher tear stability regularity and tear surface asymme￾try indexes for the dry eye group.
+Digital videos were used to measure the total area of
+the breakup and then the TBUT.84 Employing only an
+automated method of acquisition as well as analysis on
+grey-scale images, area of the breakup and TBUT were
+measured using a program that calculates the number of
+pixels in the area divided by the pixels of the exposed cor￾nea. Chiang et al. studied another non-invasive diagnosis
+using an infrared thermal imager system.85 DED patients
+often exhibit a faster cooling of the ocular surface. The
+study showed that analysing thermal images and ocular
+temperature decay can be used as a DED diagnostic.
+The tearscope records the lipid layer interference pat￾tern and can help assess the tear lipid stability. Rolando
+et al. used the tearscope as a method of acquisition to
+count the number of blinks, number of waves of the
+interference patterns and evaluate changes in their shape
+and position.86 The dynamic lipid layer interference pat￾terns had a very significant correlation with TBUT.
+Videokeratoscopy also assesses tear film surface quality,
+the model used by Alonso-Caneiro et al. relates changes
+in tear film topography and the placido image obtaining
+very similar results to Mengher et al.74,87 Most recently,
+the methodology presented by Carpente et al.88 includes
+blink detection and image processing to detect the
+breakup area. The videos used were recorded using a
+Topcon DV-3 camera attached to a slit-lamp. Frame
+intensity helps identify blinks and after that the region of
+interest is located and extracted using image processing
+techniques. The NIBUT is then detected at the appear￾ance of the break up area.
+A study by Niu et al. Comparing three different
+methods to evaluate TBUT; NIBUT measured by video￾interferometer (DR-1™), NIBUT by video topography
+(TNIBUT) and finally using fluorescein dye (FBUT).
+Results of the study showed that all methods were reliable
+in tear film breakup evaluation and significant difference
+was between FBUT and NIBUT, TNIBUT and between
+NIBUT and TNIBUT. Another by Ali Khan et al. com￾pares BUT and NIBUT in contact lens users and found no
+significant difference between values.89 The study used
+FBUT, video keratograph and keratometer. Lastly, Vidas
+et al. found NIBUT measurements by tearscope to have
+higher sensitivity, specificity and area under the curve.90
+4.3 | Automated methods
+A fully automated tear film stability diagnosis algorithm
+is presented by Yedidya et al.91 The algorithm analyses
+videos from slit-lamp examination (fluorescein instilla￾tion) and locates the iris and region of interest. The
+region of interest in this case are the dry areas where the
+tear film breaks and appears darker in fluorescent
+images. The method produces a graph of the evolution of
+dry areas in real time. An optometrist manually seg￾mented the dry areas for evaluation and the method had
+a high segmentation accuracy. Shortly after, the method
+was extended to include TBUT measurement, analysis of
+tear film thinning, and the detection of meniscus-induced
+dryness.92 The study reports an average error of 1.06 s for
+TBUT estimation and detects the region of break with
+encouraging results (segmentation accuracy ≥84%). Both
+methods have a very small database and test set but
+encouraging results.
+658 BRAHIM ET AL.
+Another method proposed by Cebreiro et al. also mea￾sures the TBUT, by analysing the colour information
+from tear film videos.93 Dark spots characterise the
+breakup of the tear film, and by extracting the percentage
+of dark pixels that denotes the frame corresponding to
+the TBUT. The method also had a small data set but pro￾vides a good methodology for automated BUT measure￾ment with results that correlated with experts.
+Su et al. proposed two parameters, the temperature
+difference value and compactness value, which deal with
+the irregularity of temperature distribution on the tear
+film.94 Results showed statistically significant differences
+between DED and normal eye group. Compactness value
+is described as a spatial indicator of tear film stability and
+both parameters correlate to BUT. The study encourages
+further development of infrared thermal image systems
+in order to obtain another non-invasive DED diagnostic
+method.
+The lipid layer can also be assessed from interferome￾try images and patterns can be recognised to estimate its
+thickness. Wu et al. segment interferometry images based
+on texture to detect film breakup areas.95 The automated
+method is able to classify with a high accuracy. By com￾bining both texture and colour analysis, Ramos et al.96
+classify interferometry images following the Guillon cate￾gories44 as well as Wu et al.’s method. Bolon-Canedo
+et al. address how automatic classification can be time
+consuming and proposes a feature selection technique
+that does not compromise accuracy.97 The method corre￾lated well to optometrists' annotations, and achieved a
+higher classification accuracy than Ramos et al. and
+Wu et al.
+A similar approach by Remeseiro et al. also uses col￾our and texture analysis on the region of interest to
+obtain a descriptor.98 Interferometry images are cat￾egorised based on pattern recognition. The proposed
+method compares four machine learning algorithms:
+naive bayes (Finn V. 1996), random tree,99 random
+forest,100 support vector machine101 and different param￾eter configurations. With grading scales of five clinical
+categories, the support vector machine classifier pro￾duced the most promising results. Acharya et al. tested
+the above machine learning algorithms using infrared
+thermography images along with; the k-nearest neigh￾bour, decision tree and probabilistic neural network to
+classify normal and DED cases.102 It resulted with a
+much higher accuracy than Beatriz Remeseiro et al. using
+probabilistic neural network and k-nearest neighbour for
+the left eye and support vector machine for the right
+eye.98
+An optimization and expansion on Mendez et al.’s
+method are proposed by Peteiro-barrel et al. for lipid
+layer pattern recognition.103,104 The method tested
+different classifiers: support vector machine, decision
+tree, naive bayes, Fisher's linear discriminant, and multi￾layer perceptron to classify tear film. Results showed that
+class binarization and feature selection both affect the
+performance of the machine learning algorithms, multi￾layer perceptron was ranked first regardless of the
+decision-making method applied. Several methods have
+been proposed to classify interferometry images using
+feature selection and machine learning algorithms.98,105
+A more advanced study in the incorporation of AI to
+detect TBUT uses a CNN. Proposed by Su et al.,106 digital
+slit-lamp recordings were used to train the CNN model.
+The method first labels patches of each frame into the fol￾lowing: breakup, non-break, eyelash, eyelid and sclera.
+The trained model, able to identify patches as break
+region, then results in a probability map of breakup area.
+This study is the first CNN application to evaluate TBUT
+and it resulted in strong correlations with clinical
+measurements.
+DED diagnosis through tear film stability is a very
+rich form of diagnosis that has seen more automation
+attempts. There are fully automated devices that are com￾mercial and widely used in healthcare facilities. The
+LipiView®II Ocular Surface Interferometer (TearScience)
+is a commercialised system that provides both quantita￾tive assessment and imaging. The system includes blink
+analysis, visualisation and measurement of lipid layer
+thickness, and illumination of the meibomian glands.
+Lastly the NIBUT is automatically quantified by various
+commercialised systems including Kanghua Ruiming's
+SLM-6E(A) Dry Eye Analyser, the LacryDiag, and
+Antares by Lumenis.
+5 | MEIBOMIAN GLAND
+DYSFUNCTION
+Tear Film and Ocular Surface Society (TFOS) completed
+a report on MGD in 2011, a leading cause of DED.107 The
+report develops a classification of MGD, assesses the diag￾nosis, grading of severity and creates a summary of
+recommendations to further the research. MGD is
+characterised by terminal duct obstruction and any quali￾tative or quantitative changes to the glands.107 Studies
+also show the contribution of MGD to ocular surface dis￾eases including DED.108
+5.1 | Clinical diagnostic tests
+Meibomian glands are responsible for secreting lipid,
+which makes up the tear film along with an aqueous and
+mucin layer.109 Clinical diagnostic tests commonly
+BRAHIM ET AL. 659
+visually identify duct obstruction, referred to as diagnos￾tic expression. The examination is performed using slit￾lamp bio-microscopy to check if the glands are blocked
+or open. Wang et al.’s study showed that 3 years may be
+an important time node for DED in primary SjS patients
+before meibomian glands get affected, signifying the
+importance of early detection.110 The most used method
+in practice is to apply small physical force to the outer
+surface of the eyelid and observe the outflow from the
+glands.111,112 Graded using a 0–4 scale, where zero is no
+obstruction and four is complete obstruction.113 Turbid￾ity, a characteristic used in common practice, is also
+graded 0–4. Zero is for clear meibum and four when it's
+cloudy and toothpaste like. Bron et al. present a compre￾hensive classification by grading various features for both
+lids.114
+Arita et al. developed and validated various grading
+scales through the following parameters: telangiectasia,
+mucocutaneous junction, irregularity, plugging, foaming,
+thickness, meiboscore and each parameter was scored 0–
+2 or 0–3.115 The six new grading scales proved to be reli￾able, although the study evaluated only one eye for each
+subject. These are a few of the classical clinical diagnostic
+tests, some of which have been enhanced. A detailed
+study by Foulks et al. includes all the MGD clinical diag￾nostic methods, classification and grading.10
+5.2 | Semi-automated methods
+The most common automated acquisition method is
+meibography (contact or non-contact), which is used to
+visualise the meibomian gland's structure. Two forms are
+described, a transillumination technique that uses white
+light first introduced in 1977 by Tapie et al., and infrared
+meibography where the glands appear as white struc￾tures.116,117 Robin et al. studied both transillumination
+biomicroscopy and infrared meibography finding both
+techniques able to classify clinical MGD.118
+Devices capable of meibography are Keratograph 5M
+(Oculus) and the LipiScan Dynamic Meibomian Imager
+(TearScience, Johnson and Johnson Vision). Pult et al.
+found better intra and interobserver repeatability when
+using a five-grade scale after digital grading versus the
+four-grade scale.119 Lin et al. also used the Keratogaph
+5M and measured the MG perimeter and quantified the
+tortuosity, an effective MGD index.120
+Image analysis is one of the main forms of diagnosis
+in recent studies. The hyperspectral imaging technique,
+was studied by Shehieb et al. proving that MGD monitor￾ing and early detection are possible.121 In vivo confocal
+microscopy, a non-invasive imaging technique was used
+by Randon et al. as a classification method along with
+the In vivo confocal microscopy score.122,123 The study
+showed a strong correlation between the in vivo confocal
+microscopy and meibography scores. Qazi et al. and Zhou
+et al. also use in vivo confocal microscopy.124,125
+Meibometer is an instrument used for meibomian
+lipid quantification, although the procedure is invasive, it
+has been enhanced overtime.126,127 Yokoi et al. studied
+MGD function using both direct meibometry and inte￾grated meibometry and found reduced lipid levels in
+patients with MGD.128 The study concluded that inte￾grated meibometry is less effective but provides a visual
+of the lipid imprint that could be useful.
+Napoli et al. found that both spectral-domain OCT
+and infrared meibography have a close agreement when
+used to evaluate gland changes.129 A semi-automated
+software by Shehzad et al. used infrared images for
+analysis.130 The software proved to be highly practical
+and reproducible compared with manually analysed
+meibography images. Images used in their study were
+taken using the CSO Sirius Topographer (CSO, Italy),
+and a correlation was found between manual analysis
+and the semi-automated software (used by various oper￾ators). Some issues include eyelid folds, focus problems
+and the software sometimes detects white areas or
+reflections as MG, which are areas that could be
+improved. Lastly, and more recently Garcia-Marques
+et al. also assess MG using infrared meibography
+(Keratograph 5M).131 With a new metric based on MG
+visibility, the proposed method measures MGD in an
+objective and repeatable manner that could aid diagno￾sis and treatment follow-ups. A detailed review by
+Villani et al. looks into the most recent publications on
+MGD imaging diagnostic techniques with well-reported
+studies on humans.132
+5.3 | Automated methods
+Most of the following fully automated image-based solu￾tions rely on certain tasks that have been enhanced by
+AI. Automatic segmentation has been significantly
+enhanced by deep learning and used to quantify MG
+dropout. Celik et al.’s algorithm segmented enhanced
+infrared images and, using an support vector machine,
+classified them as healthy, intermediate or unhealthy
+with a good accuracy.133 Arita et al. developed a software,
+which objectively evaluated the MG area for non-invasive
+meibography.134 It first detects the area, uses image￾processing techniques and then measures it. Some limita￾tions include the need for manual corrections and image
+quality that could affect the detection of certain areas.
+MGD can also be detected via tear film lipid layer thick￾ness. Hwang et al. developed an algorithm that can
+660 BRAHIM ET AL.
+determine the iris radius, locate, track a region of inter￾est, process the lipid layer interference pattern and ana￾lyse the lipid layer thickness distributions.135 The
+algorithm obtained results consistent with an ophthal￾mologist's evaluation. Wang et al.’s proposed model seg￾ments and computes atrophy percentage achieving a very
+good accuracy for both tasks.136
+Images from the Keratograph 5M and a hand-held
+camera were used by Prabhu et al. to train a segmenta￾tion model.137 Images were processed then segmented
+and five metrics were measured: gland-drop, tortuosity,
+width, length and total number of glands. The proposed
+method proved to be quite accurate as the metrics
+derived were close to the ground truth metrics. Also
+using images from a Keratograph 5M Xiao et al.’s auto￾mated method relies on image processing techniques to
+quantify MGD using newly defined diameter deforma￾tion index, gland tortuosity index and glands signal
+index.138 Maruoka et al. evaluated deep learning models
+and their ability to detect obstructive MGD using in vivo
+laser confocal microscopy images.139 The proposed
+model detects healthy MG and obstructed MG with a
+high sensitivity and specificity. Wang et al.’s proposed
+method also segments MGs, analyzes morphological fea￾tures and predicts ghost glands.140 The paper shows that
+detecting ghost glands is more challenging than
+detecting MG, obtaining average scores for segmentation
+and ghost gland prediction accuracy. Dai et al. enhanced
+a well-known segmentation model (U-Net) to segment
+MGs as well, achieving a high score in segmentation
+evaluation metric (intersection-over-union) and a repeat￾ability of 100%.141 The performance results for segmenta￾tion of the gland and MGs correlated well with a manual
+approach. Another image-based analysis method quan￾tifies MGD automatically using deep learning by training
+a model to define and measure contours of each MG.142
+Khan et al.’s method out-performed the state-of-the-art
+methods for detection and analysis of MGD drop-out
+area compared to manual segmentation. The LipiView®
+is also currently used in practice for MGD assessment
+and imaging. It includes dynamic meibomian imaging
+and near infrared surface imaging. The system also facil￾itates patient data management but not disease evolu￾tion. MGD quantification is currently seeing a lot of
+novel developments as the image segmentation task is
+currently very popular in AI.
+6 | DISCUSSION AND
+CONCLUSIONS
+The ocular surface is a recent concept and represents an
+anatomical crossroads in which the cornea and tear film
+play a major role. A subject of great importance, its
+exploration is becoming more systematic. Particularly in
+the context of refractive surgery, and Sjogren syndrome
+(SjS). In routine practice and during clinical trials, quan￾tification is subjective since it's based on a rough
+estimate.
+Effective DED treatment is based on effective quanti￾fication. Highlighting the importance of having an objec￾tive, reproducible and reliable measurement. As
+discussed in this, review DED can be detected, measured
+and assessed in several ways. As a result, there is cur￾rently a bias in the evaluation of treatments. A bias stem￾ming from experience, quantification method or even the
+time taken to evaluate a patient. Based on this and the
+pathophysiology clarified by the work accomplished in
+the DEWS, measurement tools have been developed to
+better quantify the changes of the tear film and its reper￾cussions on the ocular surface.
+The objective of developing artificial intelligence
+(AI) into this field is to obtain a more precise evaluation
+index, whether simple or composite. Although the stand￾ardisation of data for AI training could be time-consuming
+and require qualified operators, using the trained algorithm
+is fast and requires very few resources. Any ophthalmolo￾gist can benefit from it, regardless of their specialisation.
+Making quantification less ambiguous can ultimately help
+ophthalmologists see patients at any stage of DED and still
+have a detailed non-biased accurate history. Allowing for
+timely detection and personalised treatment. The develop￾ments possible are at several levels: improving the grading
+proposed by the platforms, objectively quantifying the qual￾itative measurements from the slit-lamp examination with
+dyes. This approach is by far the most important, since
+these indices are the reference examinations for clinical
+research. The third axis of development would be the
+multi-modal approach, gathering all the examinations and
+parameters to define a severity and/or evolution and prog￾nosis score.
+Methods that have incorporated deep learning to
+evaluate and quantify DED emerged in the last couple of
+years. Most of the semi and fully automated methods that
+we presented focus on evaluating tear film stability.
+Including automation has proved to enhance test repeat￾ability. Full automation, although less, is recent and is
+growing exponentially. The automated methods include
+only nine deep learning methods, the earliest being publi￾shed in 2018. This shows that the improvement to be
+obtained from deep learning is yet to be solidified. The
+recent development of imaging tools dedicated to the
+ocular surface now provides a more precise acquisition
+and visualisation. In fact, all the new parameters pro￾posed by these new tools remain to be optimised in the
+definition of the thresholds of normality and in their
+BRAHIM ET AL. 661
+reproducibility, then to aim at a multi-modal analysis.
+An automated method that incorporates various diagnos￾tics can help evaluate treatments, assess how well
+patients are responding to them across time, also improve
+clinical trials and standardise them. In our opinion, the
+evolution of eye dryness can only be obtained through
+patient-specific diagnosis, that captures every fine
+change. It is evident that the severity of DED cannot be
+accurately detected by a single technique.
+Our review's main objective is to make the current
+strive for automation more evident. We believe it to be
+most beneficial to clinicians with an interest in AI and
+deep learning. The presented methods differ in what
+they quantify, the level of quantification they achieve,
+and the automation level incorporated. Yet, the com￾mon trend shown in this review is that both facilitated
+acquisition and increased accuracy were gained
+through automation. We also noted that meibomian
+gland dysfunction could be the method of quantifica￾tion that AI can drive forward. MGD examinations have
+data acquisition method that are easily acquired, just as
+ocular surface examinations. Slit-lamp videos and imag￾ing can be easily used in deep learning implementation
+for automation. A pivotal point in DED research is cur￾rently occurring, and vast improvements are yet to
+be seen.
+ACKNOWLEDGEMENTS
+This research was supported by funding from the Innova￾tive Medicines Initiative 2 Joint Undertaking (JU) under
+grant agreement No. 806975. The JU receives support
+from the European Union's Horizon 2020 research and
+innovation program and EFPIA. This work was also
+funded by the Brittany Region, through the ARED pro￾gram (DRAI-EYE project). The authors thank Pierre￾Henri Conze, Divi Cornec and Béatrice Cochener for
+their assistance with this paper.
+FUNDING INFORMATION
+This research was supported by funding from the Innova￾tive Medicines Initiative 2 Joint Undertaking (JU) under
+grant agreement No 806975. The JU receives support from
+the European Union's Horizon 2020 research and innova￾tion program and EFPIA. It is also funded in part by The
+Brittany Region through the ARED doctoral program.
+CONFLICT OF INTEREST
+The authors declare no conflicts of interest.
+ORCID
+Ikram Brahim https://orcid.org/0000-0001-6394-7179
+Mathieu Lamard https://orcid.org/0000-0002-6309-
+6156
+Anas-Alexis Benyoussef https://orcid.org/0000-0001-
+6829-9086
+Gwenolé Quellec https://orcid.org/0000-0003-1669-7140
+REFERENCES
+1. Konomi K, Chen LL, Tarko RS, et al. Preoperative charac￾teristics and a potential mechanism of chronic dry eye
+after LASIK. Invest Ophthalmol Vis Sci. 2008 Jan 1;49(1):
+168-174.
+2. Lemp MA, Baudouin C, Baum J, et al. The definition and clas￾sification of dry eye disease: report of the definition and classi￾fication subcommittee of the international dry eye workshop.
+Ocul Surf. 2007;5(2):75-92.
+3. Dumbleton K, Caffery B, Dogru M, et al. The TFOS interna￾tional workshop on contact lens discomfort: report of the sub￾committee on epidemiology. Invest Ophthalmol Vis Sci. 2013;
+54(11):TFOS20-TFOS36.
+4. Gulshan V, Peng L, Coram M, et al. Development and valida￾tion of a deep learning algorithm for detection of diabetic reti￾nopathy in retinal fundus photographs. JAMA. 2016;316(22):
+2402-2410.
+5. Lay B, Danno R, Quellec G, et al. Using artificial intelligence
+to detect glaucoma and age related macula degeneration.
+Invest Ophthalmol Vis Sci. 2020;61(7):1647.
+6. Quellec G, Charrière K, Boudi Y, Cochener B, Lamard M.
+Deep image mining for diabetic retinopathy screening.
+Med Image Anal. 2017;39:178-193.
+7. Ting D, Pasquale L, Peng L, et al. Artificial intelligence and
+deep learning in ophthalmology. Br J Ophthalmol. 2018;103:
+bjophthalmol-2018.
+8. Ting DSW, Peng L, Varadarajan AV, et al. Deep learning in
+ophthalmology: the technical and clinical considerations.
+Prog Retin Eye Res. 2019;1(72):100759.
+9. Craig J, Nelson JD, Azar D, et al. TFOS DEWS II report execu￾tive summary. Ocul Surf. 2017;15(4):802-812.
+10. Foulks GN, Bron AJ. Meibomian gland dysfunction: a clinical
+scheme for description, diagnosis, classification, and grading.
+Ocul Surf. 2003;1(3):107-126.
+11. Hodges RR, Dartt DA. Tear film mucins: front line defenders
+of the ocular surface; comparison with airway and gastrointes￾tinal tract mucins. Exp Eye Res. 2013;117:62-78.
+12. Fernandez Castro M, Sanchez-Piedra C, Andreu JL, et al.
+AB0524 how do we treat dryness in patients with primary
+Sjögren's syndrome? A nationwide study in Spain from the
+sjogrenser registry. SLE, Sjögren's and APS – Treatment [Inter￾net]. BMJ Publishing Group Ltd and European League
+Against Rheumatism; 2018:1420.1-1420.1420. doi:10.1136/
+annrheumdis-2018-eular.4455
+13. Begley C, Caffery B, Chalmers R, Situ P, Simpson T,
+Nelson JD. Review and analysis of grading scales for ocular
+surface staining. Ocul Surf. 2019;17(2):208-220.
+14. Garaszczuk IK, Montes Mico R, Iskander DR, Exposito AC. 
+The tear turnover and tear clearance tests – a review. Expert
+Rev Med Devices. 2018;15(3):219-229.
+15. Latkany R, Miller D, Zeev MSB. Diagnosis of dry eye disease
+and emerging technologies. Clin Ophthalmol. 2014;8:581-590.
+16. Savini G. The challenge of dry eye diagnosis. Clin Ophthalmol.
+2008;1:31-55.
+662 BRAHIM ET AL.
+17. Senchyna M, Wax MB. Quantitative assessment of tear pro￾duction: a review of methods and utility in dry eye drug dis￾covery. J Ocul Biol Dis Infor. 2008;1(1):1-6.
+18. Simpson TL, Situ P, Jones LW, Fonn D. Dry Eye Symptoms
+Assessed by Four Questionnaires. Optom Vis Sci. 2008;85(8):
+E692-E699.
+19. Sweeney DF, Millar TJ, Raju SR. Tear film stability: a review.
+Exp Eye Res. 2013;117:28-38.
+20. van Bijsterveld OP. Diagnostic tests in the Sicca syndrome.
+Arch Ophthalmol. 1969;82(1):10-14.
+21. Balyen L, Peto T. Promising artificial intelligence-machine
+learning-deep learning algorithms in ophthalmology. Asia￾Pac J Ophthalmol. 2019;8(3):264-272.
+22. Fenner BJ, Wong RLM, Lam WC, Tan GSW, Cheung GCM.
+Advances in retinal imaging and applications in diabetic retinop￾athy screening: a review. Ophthalmol Therapy. 2018;7(2):333-346.
+23. Grewal P, Oloumi F, Rubin U, Tennant M. Deep learning in
+ophthalmology: a review. Can J Ophthalmol. 2018;1:53-313.
+24. Li Z, He Y, Keel S, Meng W, Chang RT, He M. Efficacy of a
+deep learning system for detecting glaucomatous optic neu￾ropathy based on color fundus photographs. Ophthalmology.
+2018;125(8):1199-1206.
+25. Rahimy E. Deep learning applications in ophthalmology. Curr
+Opin Ophthalmol. 2018;29(3):254-260.
+26. Schlegl T, Waldstein SM, Bogunovic H, et al. Fully automated
+detection and quantification of macular fluid in OCT using
+deep learning. Ophthalmology. 2018;125(4):549-558.
+27. Sengupta S, Singh A, Leopold HA, Gulati T,
+Lakshminarayanan V. Application of deep learning in fundus
+image processing for ophthalmic diagnosis – a review. Artif
+Intell Med. 2020;102:101758.
+28. Georgiev GA, Eftimov P, Yokoi N. Contribution of mucins
+towards the physical properties of the tear film: a modern
+update. Int J Mol Sci. 2019;20(24):6132.
+29. Schirmer O. Studien zur Physiologie und Pathologie der
+Tränenabsonderung und Tränenabfuhr. Albrecht Von Græfes
+Arch Für Ophthalmol. 1903;56(2):197-291.
+30. Cho P, Yap M. Schirmer test I. A review. Optom Vis Sci. 1993;
+70(2):152-156.
+31. Clinch TE. Schirmer's test: a closer look. Arch Ophthalmol.
+1983;101(9):1383.
+32. Doughman DJ. Clinical tests. Int Ophthalmol Clin. 1973;13(1):
+199-220.
+33. Halberg GP, Berens C. Standardized Schirmer tear test kit.
+Am J Ophthalmol. 1961;51:840-842.
+34. Hanson J, Fikentscher R, Roseburg B. Schirmer test of lacri￾mation: its clinical importance. Arch Otolaryngol. 1975;101(5):
+293-295.
+35. Pandher KS, Mengher LS, Duerden JM, Bron AJ. Effect of
+meibomian oils on Schirmer tear test. Acta Ophthalmol. 1985;
+63(6):695-697.
+36. Patel S, Murray D, McKenzie A, Shearer DS, McGrath BD.
+Effects of fluorescein on tear breakup time and on tear thin￾ning time. Am J Optom Physiol Optic. 1985;62(3):188-190.
+37. Prause JU, Frost-Larsen K, Isager H, Manthorpe R. Tear
+absorption into the filter-paper strip used in the Schirmer-I￾test. Acta Ophthalmol. 1982;60(1):70-78.
+38. Shapiro A, Merin S. Schirmer test and break-up time of tear film
+in normal subjects. Am J Ophthalmol. 1979;88(4):752-757.
+39. Wright JC, Meger GE. A review of the Schirmer test for tear
+production. Arch Ophthalmol. 1962;67(5):564-565.
+40. Pflugfelder SC, Tseng SC, Sanabria O, et al. Evaluation of
+subjective assessments and objective diagnostic tests for diag￾nosing tear-film disorders known to cause ocular irritation.
+Cornea. 1998;17(1):38-56.
+41. Prabhasawat P, Tseng SCG. Frequent association of delayed
+tear clearance in ocular irritation. Br J Ophthalmol. 1998;
+82(6):666-675.
+42. Dogru M, Ishida K, Matsumoto Y, et al. Strip meniscometry: a
+new and simple method of tear meniscus evaluation. Investig
+Ophthalmol Vis Sci. 2006;47(5):1895-1901.
+43. Xu KP, Yagi Y, Toda I, Tsubota K. Tear function index: a new
+measure of dry eye. Arch Ophthalmol. 1995;113(1):84-88.
+44. Guillon JP. Non-invasive tearscope plus routine for contact
+lens fitting. Cont Lens Anterior Eye. 1998 Jan;1(21):S31-S40.
+45. Uchida A, Uchino M, Goto E, et al. Noninvasive interference
+tear meniscometry in dry eye patients with Sjögren syndrome.
+Am J Ophthalmol. 2007;144(2):232-237.e1.
+46. Fodor E, Hagyo K, Resch M, Somodi D, Németh J. Compari- 
+son of tearscope-plus versus slit lamp measurements of infe￾rior tear meniscus height in normal individuals. Eur J
+Ophthalmol. 2010;20(5):819-824.
+47. Johnson ME, Murphy PJ. The agreement and repeatability of
+tear meniscus height measurement methods. Optom Vis Sci.
+2005;82(12):1030-1037.
+48. Savini G, Barboni P, Zanini M. Tear meniscus evaluation by
+optical coherence tomography. Ophthalmic Surg Lasers Imag￾ing Retina. 2006;37(2):112-118.
+49. Raj A, Dhasmana R, Nagpal RC. Anterior segment optical
+coherence tomography for tear meniscus evaluation and its
+correlation with other tear variables in healthy individuals.
+J Clin Diagn Res. 2016;10(5):NC01.
+50. Baek J, Doh SH, Chung SK. Comparison of tear meniscus
+height measurements obtained with the keratograph and Fou￾rier domain optical coherence tomography in dry eye. Cornea.
+2015;34(10):1209-1213.
+51. Arriola-Villalobos P, Fernandez-Vigo JI, Díaz-Valle D, Peraza￾Nieves JE, Fernandez-Pérez C, Benítez-del-Castillo JM.
+Assessment of lower tear meniscus measurements obtained
+with keratograph and agreement with Fourier-domain
+optical-coherence tomography. Br J Ophthalmol. 2015;99(8):
+1120-1125.
+52. Courrier E, Renault D, Kaspi M, et al. Micro-instillation of
+fluorescein with an inoculation loop for ocular surface
+staining in dry eye syndrome. Acta Ophthalmol. 2018;96(2):
+e140-e146.
+53. Yedidya T, Hartley R, Guillon J, Kanagasingam Y. Detection
+of the tear meniscus shape using asymmetric graph-cuts.
+Proceedings of the 2010 IEEE International Conference on
+Biomedical Imaging: from Nano to Macro. IEEE Press; 2010:
+944-947.
+54. Che Azemin MZ, Ithnin Mohd H, Mohd Kamal K. Automated
+inferior tear meniscus height measurement in a sequence of
+video. 2012 IEEE-EMBS Conference on Biomedical Engineering
+and Sciences [Internet]. IEEE; 2012:664-667. Available from:.
+http://ieeexplore.ieee.org/document/6498078/
+55. Stegmann H, Aranha dos Santos V, Messner A, et al. Auto￾matic assessment of tear film and tear meniscus parameters in
+BRAHIM ET AL. 663
+healthy subjects using ultrahigh-resolution optical coherence
+tomography. Biomed. Opt Express. 2019;10(6):2744-2756.
+56. Rodriguez JD, Lane KJ, Ousler GW, Angjeli E, Smith LM,
+Abelson MB. Automated grading system for evaluation of
+superficial punctate keratitis associated with dry eye. Invest
+Ophthalmol Vis Sci. 2015;56(4):2340-2347.
+57. Thygeson P. Superficial Punctate Keratitis. JAMA. 1950;
+144(18):1544-1549.
+58. Pfluger. Zur Ernahrung der Cornea. Klin Monatsbl
+Augenheilkd. 1882;20:69-81.
+59. Bron AJ, Argüeso P, Irkec M, Bright FV. Clinical staining of
+the ocular surface: mechanisms and interpretations. Prog
+Retin Eye Res. 2015;44:36-61.
+60. Woods J, Varikooty J, Fonn D, Jones LW. A novel scale for
+describing corneal staining. Clin Ophthalmol. 2018 Nov;
+19(12):2369-2375.
+61. Ornberg RL, Williams G, Senchyna M. An image-based
+method for quantitative determination of corneal staining
+in dry eye patients. Invest Ophthalmol Vis Sci. 2008;49(13):
+2809.
+62. Amparo F, Wang H, Yin J, Marmalidou A, Dana R. Evaluat￾ing corneal fluorescein staining using a novel automated
+method. Invest Ophthalmol Vis Sci. 2017;58(6):BIO168-
+BIO173.
+63. Bunya VY, Chen M, Zheng Y, et al. Development and evalua￾tion of semiautomated quantification of lissamine green
+staining of the bulbar conjunctiva from digital images. JAMA
+Ophthalmol. 2017;135(10):1078-1085.
+64. Chun YS, Yoon WB, Kim KG, Park IK. Objective assessment
+of corneal staining using digital image analysis. Invest
+Ophthalmol Vis Sci. 2014;55(12):7896-7903.
+65. Bagbaba A, S¸en B, Delen D, Uysal BS. An automated grading
+and diagnosis system for evaluation of dry eye syndrome.
+J Med Syst. 2018;42(11):227.
+66. Pellegrini M, Bernabei F, Moscardelli F, et al. Assessment of
+corneal fluorescein staining in different dry eye subtypes
+using digital image analysis. Transl Vis Sci Technol. 2019;
+8(6):34.
+67. Su TY, Ting PJ, Chang SW, Chen DY. Superficial punctate
+keratitis grading for dry eye screening using deep con￾volutional neural networks. IEEE Sensors J. 2019;20:
+1672-1678.
+68. Norn MS. Desiccation of the Precorneal film. Acta
+Ophthalmol. 1969;47(4):865-880.
+69. Vanley GT, Leopold IH, Gregg TH. Interpretation of tear film
+breakup. Arch Ophthalmol. 1977;95(3):445-448.
+70. Craig JP, Singh I, Tomlinson A, Morgan PB, Efron N. The role
+of tear physiology in ocular surface temperature. Eye. 2000;
+14(4):635-641.
+71. Ding JE, Kim YH, Yi SM, Graham AD, Li W, Lin MC. Ocular
+surface cooling rate associated with tear film characteristics
+and the maximum interblink period. Sci Rep. 2021;11(1):
+15030.
+72. Morgan PB, Tullo AB, Efron N. Infrared thermography of the
+tear film in dry eye. Eye. 1995;9(5):615-618.
+73. Fujishima H, Toda I, Yamada M, Sato N, Tsubota K. Corneal
+temperature in patients with dry eye evaluated by infrared
+radiation thermometry. Br J Ophthalmol. 1996;80(1):29-32.
+74. Mengher LS, Bron AJ, Tonge SR, Gilbert DJ. A non-invasive
+instrument for clinical assessment of the pre-corneal tear film
+stability. Curr Eye Res. 1985;4(1):1-7.
+75. Hirji N, Patel S, Callander M. Human tear film pre-rupture
+phase time (TP-RPT)-a non-invasive technique for evaluating
+the pre-corneal tear film using a novel keratometer mire.
+Ophthalmic Physiol Opt. 1989;9(2):139-142.
+76. Loveridge R. Breaking up is hard to do? J Br Contact Lens
+Assoc. 1993;16(2):51-55.
+77. Wang MT, Murphy PJ, Blades KJ, Craig JP. Comparison of
+non-invasive tear film stability measurement techniques. Clin
+Exp Optom. 2018;101(1):13-17.
+78. Liu Z, Huang AJ, Pflugfelder SC. Evaluation of corneal thick￾ness and topography in normal eyes using the Orbscan cor￾neal topography system. Br J Ophthalmol. 1999;83(7):774-778.
+79. Goto T, Zheng X, Klyce SD, et al. A new method for tear film
+stability analysis using videokeratography. Am J Ophthalmol.
+2003;135(5):607-612.
+80. Goto E. Quantification of tear interference image: tear fluid
+surface nanotechnology. Cornea. 2004;23(Supplement 1):
+S20-S24.
+81. Efron N. Contact Lens Complications E-Book. Elsevier Health
+Sciences; 2018:395.
+82. Ruiz-Montenegro J, Mafra CH, Wilson SE, Jumper JM, Klyce SD,
+Mendelson EN. Corneal topographic alterations in normal contact
+lens wearers. Ophthalmology. 1993;100(1):128-134.
+83. Kojima T. A new noninvasive tear stability analysis system for
+the assessment of dry eyes. Invest Ophthalmol Vis Sci. 2004;
+45(5):1369-1374.
+84. Begley CG, Himebaugh N, Renner D, et al. Tear breakup
+dynamics: a technique for quantifying tear film instability.
+Optom Vis Sci. 2006;83(1):15-21.
+85. Chiang HK, Chen CY, Cheng HY, Chen KH, Chang DO.
+Development of infrared thermal imager for dry eye diagnosis.
+Proc SPIE. 2006;6294:629406.
+86. Rolando M, Valente C, Barabino S. New test to quantify lipid
+layer behavior in healthy subjects and patients with kerato￾conjunctivitis sicca. Cornea. 2008;27(8):866-870.
+87. Alonso-Caneiro D, Turuwhenua J, Iskander DR, Collins MJ.
+Diagnosing dry eye with dynamic-area high-speed video￾keratoscopy. J Biomed Opt. 2011;16(7):076012.
+88. Carpente A, Ramos L, Barreira N, Penedo MG, Pena￾Verdeal H, Giraldez MJ. On the automation of the tear film
+non-invasive break-up test. 2014 IEEE 27th International
+Symposium on Computer-Based Medical Systems [Internet].
+IEEE; 2014:185-188. Available from:. http://ieeexplore.ieee.
+org/document/6881873/
+89. Khan HA, Iqbal F. Comparison of invasive & non-invasive
+tear break up time measurement techniques in contact lens
+users. Trends Ophthalmol Open Access J. 2018;19(1):1-4.
+90. Vidas Pauk S, Petricˇek I, Jukic T, et al. Noninvasive tear film
+break-up time assessment using handheld lipid layer exami￾nation instrument. Acta Clin Croat. 2019;58(1):63-71.
+91. Yedidya T, Hartley R, Guillon JP, Kanagasingam Y. Automatic
+dry eye detection. In: Ayache N, Ourselin S, Maeder A, eds.
+Medical Image Computing and Computer-Assisted Intervention –
+MICCAI 2007. Springer Berlin Heidelberg; 2007:792-799. doi:
+10.1007/978-3-540-75757-3_96
+664 BRAHIM ET AL.
+92. Yedidya T, Hartley R, Guillon JP. Automatic detection of pre￾ocular tear film break-up sequence in dry eyes. 2008 Digital
+Image Computing: Techniques and Applications [Internet].
+IEEE; 2008:442-448. Available from:. http://ieeexplore.ieee.
+org/document/4700055/
+93. Cebreiro E, Ramos L, Mosquera A, Barreira N, Penedo MFG.
+Automation of the tear film break-up time test. Proceedings of
+the 4th International Symposium on Applied Sciences in Bio￾medical and Communication Technologies - ISABEL '11. ACM
+Press; 2011:1-5. Available from:. http://dl.acm.org/citation.
+cfm?doid=2093698.2093821
+94. Su TY, Hwa CK, Liu PH, et al. Noncontact detection of dry
+eye using a custom designed infrared thermal image system.
+J Biomed Opt. 2011;16(4):046009.
+95. Wu D, Boyer KL, Nichols JJ, King-Smith PE. Texture based
+prelens tear film segmentation in interferometry images.
+Mach Vis Appl. 2010;21(3):253-259.
+96. Ramos L, Penas M, Remeseiro B, Mosquera A, Barreira N,
+Yebra-Pimentel E. Texture and color analysis for the auto￾matic classification of the eye lipid layer. In: Cabestany J,
+Rojas I, Joya G, eds. Advances in Computational Intelligence.
+Springer; 2011:66-73 (Lecture Notes in Computer Science).
+97. Bolon-Canedo V, Peteiro-Barral D, Remeseiro B, et al. Inter￾ferential tear film lipid layer classification: an automatic dry
+eye test. 2012 IEEE 24th International Conference on Tools
+with Artificial Intelligence [Internet]. IEEE; 2012:359-366.
+Available from:. http://ieeexplore.ieee.org/document/
+6495068/
+98. Remeseiro B, Oliver KM, Tomlinson A, Martin E, Barreira N,
+Mosquera A. Automatic grading system for human tear films.
+Pattern Anal Applic. 2014;18(3):677-694.
+99. Biau G. Analysis of a Random Forests Model. J Mach Learn
+Res. 2012;13:33-1586.
+100. Breiman L. Random forests. Mach Learn. 2001;45(1):5-32.
+101. Burges CJC. A tutorial on support vector machines for pattern
+recognition. Data Min Knowl Disc. 1998;2(2):121-167.
+102. Acharya UR, Tan JH, Koh JEW, et al. Automated diagnosis of
+dry eye using infrared thermography images. Infrared Phys
+Technol. 2015;71:263-271.
+103. Méndez R, Remeseiro B, Peteiro-Barral D, Penedo MG. Evalua￾tion of class Binarization and feature selection in tear film clas￾sification using TOPSIS. In: Filipe J, Fred A, eds. Agents and
+Artificial Intelligence. Springer; 2014:179-193 (Communications
+in Computer and Information Science).
+104. Peteiro-Barral D, Remeseiro B, Méndez R, Penedo MG.
+Evaluation of an automatic dry eye test using MCDM
+methods and rank correlation. Med Biol Eng Comput. 2017;
+55(4):527-536.
+105. Remeseiro B, Penas M, Barreira N, Mosquera A, Novo J,
+García-Resúa C. Automatic classification of the interferential
+tear film lipid layer using colour texture analysis. Comput
+Methods Prog Biomed. 2013;111(1):93-103.
+106. Su TY, Liu ZY, Chen DY. Tear film break-up time measure￾ment using deep convolutional neural networks for screening
+dry eye disease. IEEE Sensors J. 2018;18(16):6857-6862.
+107. Nichols KK, Foulks GN, Bron AJ, et al. The international
+workshop on meibomian gland dysfunction: executive sum￾mary. Invest Ophthalmol Vis Sci. 2011;52(4):1922-1929.
+108. Barabino S. Pathological alterations in Meibomian gland dys￾function as an important factor in ocular surface disease. Acta
+Ophthalmol. 2009;87(s244):s224.
+109. Nicolaides N, Kaitaranta JK, Rawdah TN, Macy JI,
+Boswell FM, Smith RE. Meibomian gland studies: comparison
+of steer and human lipids. Invest Ophthalmol Vis Sci. 1981;
+20(4):522-536.
+110. Wang Y, Qin Q, Liu B, et al. Clinical analysis: aqueous￾deficient and Meibomian gland dysfunction in patients with
+primary Sjogren's syndrome. Front Med. 2019;6:291.
+111. Craig JP, Blades K, Patel S. Tear lipid layer structure and sta￾bility following expression of the meibomian glands. Ophthal￾mic Physiol Opt. 1995;15(6):569-574.
+112. Ong BL, Larke JR. Meibomian gland dysfunction: some clini￾cal, biochemical and physical observations. Ophthalmic Phy￾siol Opt. 1990;10(2):144-148.
+113. Arita R, Zavala M, Yee RW. MGD Diagnosis. Curr
+Ophthalmol Rep. 2014;2(2):49-57.
+114. Bron AJ, Benjamin L, Snibson GR. Meibomian gland disease.
+Classification and grading of lid changes. Eye (Lond). 1991;
+5(Pt 4):395-411.
+115. Arita R, Minoura I, Morishige N, Shirakawa R, Fukuoka S.
+Development of definitive and reliable grading scales for
+meibomian gland dysfunction. Am J Ophthalmol. 2016;1:169-137.
+116. Arita R, Itoh K, Inoue K, Amano S. Noncontact infrared
+meibography to document age-related changes of the
+meibomian glands in a normal population. Ophthalmology.
+2008;115(5):911-915.
+117. Tapie R. Biomicroscopic study of the glands of meibomius.
+Ann Ocul. 1977;210(210):637-648.
+118. Robin JB, Jester JV, Nobe J, Nicolaides N, Smith RE. In vivo
+transillumination biomicroscopy and photography of
+meibomian gland dysfunction: a clinical study. Ophthalmol￾ogy. 1985;92(10):1423-1426.
+119. Pult H, Riede-Pult BH. An Assement of subjective and objec￾tive grading of meibography images. Invest Ophthalmol Vis
+Sci. 2012;53(14):588.
+120. Lin X, Fu Y, Li L, et al. A novel quantitative index of
+meibomian gland dysfunction, the meibomian gland tortuos￾ity. Transl Vis Sci Technol. 2020;9(9):34.
+121. Shehieb WG, Assaad M, AESA T, Shehieb WG. Analysis and
+recovery monitoring of meibomian gland dysfunction disease
+using hyperspectral imaging. IEEE International Symposium
+on Signal Processing and Information Technology (ISSPIT).
+IEEE Available from:; 2019. https://research.ajman.ac.ae/
+publication/analysis-and-recovery-monitoring-of-meibomian￾gland-dysfunction
+122. Randon M, Liang H, Abbas R, et al. A new classification for
+meibomian gland diseases with in vivo confocal microscopy.
+J Fr Ophtalmol. 2016;39(3):239-247.
+123. Randon M, Aragno V, Abbas R, Liang H, Labbé A,
+Baudouin C. In vivo confocal microscopy classification in the
+diagnosis of meibomian gland dysfunction. Eye (Lond). 2019;
+33(5):754-760.
+124. Qazi Y, Kheirkhah A, Blackie C, et al. Clinically relevant
+immune-cellular metrics of inflammation in meibomian
+gland dysfunction. Invest Ophthalmol Vis Sci. 2018;59(15):
+6111-6123.
+BRAHIM ET AL. 665
+125. Zhou S, Robertson DM. Wide-field in vivo confocal micros￾copy of meibomian gland acini and rete ridges in the eyelid
+margin. Invest Ophthalmol Vis Sci. 2018;59(10):4249-4257.
+126. Benz P, Tichy A, Nell B. Review of the measuring precision of
+the new meibometer MB550 through repeated measurements
+in dogs. Vet Ophthalmol. 2008;11(6):368-374.
+127. Chew CKS, Jansweijer C, Tiffany JM, Dikstein S, Bron AJ.
+An instrument for quantifying meibomian lipid on the lid
+margin: the Meibometer. Curr Eye Res. 1993;12(3):247-254.
+128. Yokoi N, Mossa F, Tiffany JM, Bron AJ. Assessment of
+meibomian gland function in dry eye using meibometry. Arch
+Ophthalmol. 1999;117(6):723-729.
+129. Napoli PE, Coronella F, Satta GM, Iovino C, Sanna R,
+Fossarello M. A simple novel technique of infrared meibography
+by means of spectral-domain optical coherence tomography: a
+cross-sectional clinical study. PLoS One. 2016;11(10):e0165558.
+130. Shehzad D, Gorcuyeva S, Dag T, Bozkurt B. Novel application
+software for the semi-automated analysis of infrared
+meibography images. Cornea. 2019;1(38):1-1464.
+131. García-Marqués JV, García-Lazaro S, Martínez-Albert N,
+Cerviño A. Meibomian glands visibility assessment through a
+new quantitative method. Graefes Arch Clin Exp Ophthalmol.
+2021;259(5):1323-1331.
+132. Villani E, Marelli L, Dellavalle A, Serafino M, Nucci P. Latest
+evidences on meibomian gland dysfunction diagnosis and
+management. Ocul Surf. 2020;18(4):871-892.
+133. Celik T, Lee HK, Petznick A, Tong L. Bioimage informatics
+approach to automated meibomian gland analysis in infrared
+images of meibography. J Optom. 2013;6(4):194-204.
+134. Arita R, Suehiro J, Haraguchi T, Shirakawa R, Tokoro H,
+Amano S. Objective image analysis of the meibomian gland
+area. Br J Ophthalmol. 2014;98(6):746-755.
+135. Hwang H, Jeon HJ, Yow KC, Hwang HS, Chung E. Image-based
+quantitative analysis of tear film lipid layer thickness for
+meibomian gland evaluation. Biomed Eng Online. 2017;16(1):135.
+136. Wang J, Yeh TN, Chakraborty R, Yu SX, Lin MC. A deep
+learning approach for meibomian gland atrophy evaluation in
+meibography images. Transl Vis Sci Technol. 2019;8(6):37.
+137. Prabhu SM, Chakiat A, Shashank S, Vunnava KP, Shetty R.
+Deep learning segmentation and quantification of
+meibomian glands. Biomed Signal Process Control. 2020;
+1(57):101776.
+138. Xiao P, Luo Z, Deng Y, Wang G, Yuan J. An automated and
+multiparametric algorithm for objective analysis of
+meibography images. Quant Imaging Med Surg. 2021;11(4):
+1586-1599.
+139. Maruoka S, Tabuchi H, Nagasato D, et al. Deep neural
+network-based method for detecting obstructive Meibomian
+gland dysfunction with in vivo laser confocal microscopy.
+Cornea. 2020;39(6):720-725.
+140. Wang J, Li S, Yeh T, Chakraborty R, Yu S, Lin M. Meibomian
+gland morphology and ghost prediction with deep learning.
+Invest Ophthalmol Vis Sci. 2020;61(7):2634.
+141. Dai Q, Liu X, Lin X, et al. A novel Meibomian gland morphol￾ogy analytic system based on a convolutional neural network.
+IEEE Access. 2021;9:23083-23094.
+142. Khan ZK, Umar AI, Shirazi SH, Rasheed A, Qadir A, Gul S.
+Image based analysis of meibomian gland dysfunction using
+conditional generative adversarial neural network. BMJ Open
+Ophthalmol. 2021;6(1):e000436.
+How to cite this article: Brahim I, Lamard M,
+Benyoussef A-A, Quellec G. Automation of dry eye
+disease quantitative assessment: A review. Clin
+Experiment Ophthalmol. 2022;50(6):653‐666. doi:10.
+1111/ceo.14119
+666 BRAHIM ET AL.

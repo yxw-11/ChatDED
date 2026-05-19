@@ -1,0 +1,667 @@
+PRACTICE POINTER
+Dry eye disease management
+Margarita Safir, 1, 2 Gilad Twig, 3, 5 Michael Mimouni6
+What you need to know
+• Dry eye disease is a highly prevalent chronic ocular
+condition
+• The mainstays of dry eye disease management
+include lifestyle modification, eyelid hygiene, and
+lubrication
+• Novel therapeutic methods using intense pulse light
+or thermal pulsation may offer future benefit to
+patients with this condition
+Dry eye disease is common, with large cross sectional
+studies estimating a prevalence of 19-31% among the
+adult population1 -3 and 6-23% among children.4 This
+condition is often associated with ocular discomfort
+and visual symptoms, and severity can range from
+mild occasional discomfort to sight threatening
+disease.5 This article offers an approach to identifying
+and managing dry eye disease and discusses novel
+treatment modalities.
+What causes dry eye disease?
+Adequate lubrication of the ocular surface requires
+appropriate coverage of the ocular surface by the
+eyelids and sufficient production of tear film
+components, including both the aqueous component
+(produced by the lacrimal and accessory glands) and
+the lipid component (produced by the meibomian
+glands and the conjunctival mucin-producing
+glands).6 Damage to the ocular surface can induce
+an inflammatory response causing further ocular
+surface damage and propagating disease
+development.6 While meibomian gland dysfunction
+is the most common cause of dry eye disease, the
+aetiology of dry eyes is often multifactorial.
+Additional common causes of dry eye disease include
+blepharitis, rosacea, commonly prescribed drugs,
+and environmental factors (box 1).
+The symptoms of dry eye disease vary. Patients may
+describe a sensation of dry, sore, tired or, less
+commonly, itchy eyes. Fluctuations in visual acuity
+may also occur, especially in more advanced disease.
+These symptoms will often worsen in the evening,
+during exposure to screens, or in dry environments
+(either outdoors or due to air conditioning). Patients
+with concomitant meibomian gland dysfunction may
+have a history of chalazia formation. Symptoms of
+blepharitis may range from asymptomatic, detectable
+only via slit lamp examination, to visible irritation
+and swelling of the eyelids, with debris along the
+eyelash line and abnormal growth or loss of
+eyelashes. Patients with blepharitis are more likely
+to experience an itching sensation.
+Box 1: Medical conditions that are associated with or
+aggravate dry eye disease
+Demographic
+• Older age
+• Female
+Medications
+• Antihistamines
+• Antidepressants
+• β blockers
+• Retinoic acid
+• Hormone replacement therapy
+Environmental factors and lifestyle
+• Smoking
+• Low humidity
+• Air conditioning or heating systems
+• Exposure to dust, allergens, air pollution
+• Prolonged digital device use
+• Reduced sleep duration
+Ocular conditions
+• Contact lens use
+• Ocular surgery
+• Trauma to ocular surface
+• Blepharitis
+• Thyroid eye disease
+• Previous herpetic keratitis
+Systemic conditions
+• Rosacea
+• Sjogren's syndrome
+• Rheumatoid arthritis
+• Systemic lupus erythematosus
+• Graft versus host disease
+• Stevens-Johnson syndrome
+• Vitamin A deficiency
+• Diabetes
+• Parkinson's disease
+• Multiple sclerosis
+What is an initial approach to dry eye disease
+management?
+Treatment modalities address one or more of the
+pathophysiologic hallmarks of dry eye disease: ocular
+surface damage, inflammation, and tear film
+abnormalities. A combination approach to treatment
+according to aetiology, severity, and response to
+previous treatments is often appropriate. Treatment
+is typically not curative and should focus on symptom
+1 the bmj | BMJ 2024;384:e077344 | doi: 10.1136/bmj-2023-077344
+PRACTICE
+1 Ophthalmology Department, Yitzhak
+Shamir Medical Center, Zerifin, Israel
+2
+Faculty of Medicine, Tel Aviv
+University, Israel
+3 Department of Epidemiology and
+Preventive Medicine, School of Public
+Health, Tel Aviv University, Israel
+4
+Institute of Endocrinology, Diabetes
+and Metabolism (G.T.), Sheba
+Medical Center, Ramat Gan, Israel
+5
+The Gertner Institute for
+Epidemiology & Health Policy
+Research, Sheba Medical Center,
+Ramat Gan, Israel
+6 Ophthalmology Department,
+Rambam Health Care Campus, Haifa,
+Israel
+Correspondence to: M Mimouni
+Cite this as: BMJ 2024;384:e077344
+http://dx.doi.org/10.1136/bmj-2023-077344
+Protected by copyright.
+ on 15 April 2024 at Shanghai Jiao Tong University School of Medicine. http://www.bmj.com/ BMJ: first published as 10.1136/bmj-2023-077344 on 25 March 2024. Downloaded from 
+management and monitoring and adjustment of modifiable risk
+factors. Table 1 summarises the approach to patients with this
+condition for the general physician. While new treatment modalities
+are emerging, current research into effectiveness of treatment
+remains limited by non-standardised diagnostic criteria or key
+outcome measures.
+Table 1 | Current treatment modalities for dry eye disease
+Additional considerations Common dose Prescription Indication Treatment modality
+Lifestyle modification
+— N/A GP/ Oph. All DED patients Modifying contributing factors,
+20-20-20 rule
+Eyelid hygiene and compresses
+— Twice daily GP/ Oph. Blepharitis Eyelid hygiene
+— 10 minutes twice daily MGD Warm compresses
+Lubrication
+Preferably preservative-free 1-24 times daily GP/ Oph. All DED patients Artificial tears
+— 1-24 times daily Moderate-severe DED Gels, ointments
+— 4-6 times daily Oph. Moderate-severe DED; autoimmune
+induced, non-healing corneal defect
+Autologous serum
+Targeting causing organism
+— 2-3 times daily for 2-4 weeks GP/ Oph. Blepharitis Topical antibiotics
+Preferably topical Once daily Oph. Demodex, blepharitis, rosacea Ivermectin, metronidazole
+Reduction of ocular surface inflammation
+— Doxycycline 50-100 mg daily for ≥1
+month
+GP/ Oph. MGD, blepharitis Oral tetracyclines
+— Azithromycin 500 mg for 3 days per
+week for 3 weeks
+MGD, blepharitis Oral macrolides
+Avoid prolonged use (>1 month) Various regimens, all short term.
+Usually up to 4 times daily
+Oph. Moderate-severe DED Topical corticosteroids
+— Twice daily Moderate-severe DED Topical ciclosporin
+— Twice daily Moderate-severe DED Topical tacrolimus
+— Twice daily Moderate-severe DED Topical lifitegrast
+Technological solutions
+Contraindications: Tetracyclines,
+retinoic acid, malignant or
+premalignant lesions
+Four consecutive treatments at
+3-week intervals, repeat every 3-6
+months
+Oph. MGD, rosacea, Demodex, blepharitis Intense pulsed light (IPL)
+Contraindications: Active eyelid
+inflammation (blepharitis), <3 months
+after ocular surgery, silicone or nickel
+allergy
+Single treatment, repeat every 6-12
+months
+DED secondary to MGD Thermal pulsation devices
+Mechanical/surgical
+— Daily Oph Severe DED Scleral contact lenses
+Temporary or permanent N/A Aqueous deficiency DED Punctal occlusion
+— N/A Eyelid alignment pathology Eyelid reposition
+Temporary or permanent N/A Severe DED Suturing the eyelids closed
+(tarsorrhaphy)
+DED = dry eye disease; MGD = meibomian gland dysfunction, N/A = not applicable; GP = general physician; Oph = ophthalmologist.
+Patients with presumed dry eye disease should always undergo at
+least one evaluation by an ophthalmologist to assess corneal
+integrity, secondary causes, and disease severity (table 2). However,
+initial steps can be undertaken by the general physician while
+awaiting ophthalmological consultation (fig 1).
+the bmj | BMJ 2024;384:e077344 | doi: 10.1136/bmj-2023-077344 2
+PRACTICE
+Protected by copyright.
+ on 15 April 2024 at Shanghai Jiao Tong University School of Medicine. http://www.bmj.com/ BMJ: first published as 10.1136/bmj-2023-077344 on 25 March 2024. Downloaded from 
+Table 2 | The stepwise approach to the patient with dry eye disease
+Managing physician Available treatment modalities Dry eye disease severity
+Can be initiated by a general physician.
+Patients still require specialist evaluation
+Lifestyle modification and moderating risk factors, eyelid hygiene
+and compresses, lubrication (≤4 times a day), targeting causing
+organisms
+Mild (non-persistent symptoms, mild or no signs)
+Ophthalmologist
+As above plus
+Lubrication (>4 times a day), lubricating ointment at night, oral
+antibiotics, short term corticosteroids, topical anti-inflammatory
+treatment, punctal occlusion
+Moderate (increased severity and frequency of symptoms and
+visual disturbance. Persistent signs of dry eye disease)
+Ophthalmologist
+As above plus
+Consider punctal occlusion, blood derivates, scleral contact lens,
+tarsorrhaphy
+Severe (severe and persistent symptoms and signs limiting
+daily activity)
+Ophthalmologist. Consider hospitalisation if progressive or not
+readily responsive to treatment
+As above plus
+Consider systemic immunomodulation if systemic disease
+involved
+Sight threatening (progressive corneal thinning, perforation, and
+scarring)
+Fig 1 | Flowchart of a stepwise approach to dry eye disease management. The
+presence of dry eye disease should be suspected in patients with known predisposing
+factors exhibiting continuous ocular discomfort. While awaiting ophthalmological
+evaluation, several simple treatment modalities may be attempted by the general
+physician in order to reduce discomfort
+Lifestyle advice and optimising risk factors
+Several factors have been shown to aggravate or cause dry eye
+disease (table 2).6 -11 A thorough medical history should be obtained
+to identify known aggravating factors in the first instance, and these
+managed accordingly.
+All patients experiencing dry eye disease can try simple changes to
+improve their symptoms. Strategies include obtaining sufficient
+sleep, smoking cessation, and avoiding prolonged exposure to air
+conditioning. Advise patients to reduce excessive exposure to digital
+screens to reduce visual fatigue and improve tear film stability.12 13
+The 20-20-20 rule—taking a 20 second screen break every 20 minutes
+to look at an object at least 20 feet away—can be used to guide this
+change. Minimising and, in some recalcitrant cases, ceasing contact
+lens use completely may be necessary.6
+Eyelid hygiene and compresses
+Eyelid hygiene should be recommended for patients with evidence
+of blepharitis. The eyelashes should be cleaned with warm tap
+water, a baby shampoo, or commercial eyelid cleansers (which may
+contain tea-tree oil for Demodex eradication,14 15 which is safe in
+formulations intended specifically for periocular use).16 Eyelid wipes
+with or without tea-tree oil are also available for cleansing the
+anterior eyelid surface and eyelashes but may be less effective and
+pose a higher risk for self inflicted injury of the ocular surface when
+attempting to clean the lid margin area.
+Local heat application is the mainstay treatment for meibomian
+gland dysfunction due to its ability to induce meibum liquification,
+facilitating better meibum expression onto the ocular surface.6
+Patients should be advised to apply a warm compress to the eyelid
+area for between 90 seconds and 10 minutes daily.17
+Lubrication of ocular surface
+Regardless of the underlying mechanism of dry eye disease, the
+final common pathway is a dry, inflamed ocular surface. Lubricants
+can provide symptomatic relief on administration and improve
+ocular surface health for most patients.6 Several lubricant types are
+available, including artificial tears, gels, ointments, and lipid based
+formulations. Artificial tears are aqueous solutions designed to
+mimic the natural tear film. Gels and ointments have a more viscous
+consistency, providing longer lasting lubrication and enhanced
+retention on the ocular surface, but they can cause transient blurring
+of vision when used. Thicker formulations are particularly beneficial
+for individuals with more severe symptoms or nocturnal dryness.
+Lipid based formulations are designed to supplement the lipid layer
+of the tear film in patients with concurrent meibomian gland
+dysfunction.
+Regardless of lubricant type, preservative-free formulations are
+preferable, especially for those with sensitive or compromised ocular
+surfaces, as commonly used preservatives can cause ocular surface
+toxicity and paradoxically worsen symptoms.18 Selection oflubricant
+type and frequency of administration can be advised in a stepwise
+approach according to disease severity (artificial tears as a first step,
+followed by either gels or ointments). Advise patients to apply
+artificial tears four times daily initially and to increase the frequency
+as needed to achieve symptom improvement. If the patient's
+symptoms are not significantly alleviated despite these measures,
+primary care doctors should seek ophthalmological evaluation.
+Lipid based formulations (for meibomian gland dysfunction) and
+ointments or gels (required for more severe disease) may be
+prescribed by the general physician while awaiting
+ophthalmological evaluation.
+Specialist ophthalmologists may consider blood derived products
+for patients with severe, autoimmune-induced dry eye disease such
+as Sjögren’s syndrome and graft-versus-host disease or with
+non-healing corneal epithelial defects.6 19 20 These products include
+autologous serum or platelet-rich plasma derived from the patient's
+own blood containing growth factors, vitamins, and
+anti-inflammatory factors that promote healing of the ocular surface
+and provide lubrication.6 21 22 These drops are typically extremely
+well tolerated by patients, improving long term adherence to
+treatment.22 Contraindications include hepatitis B, hepatitis C, or
+HIV infection. High quality evidence of autologous serum efficacy
+in the short term exists, but further research is required to assess
+long term outcomes.23
+3 the bmj | BMJ 2024;384:e077344 | doi: 10.1136/bmj-2023-077344
+PRACTICE
+Protected by copyright.
+ on 15 April 2024 at Shanghai Jiao Tong University School of Medicine. http://www.bmj.com/ BMJ: first published as 10.1136/bmj-2023-077344 on 25 March 2024. Downloaded from 
+Treatment of specific causes
+Antimicrobial agents, including antibiotics and antiparasitic drugs,
+can target infective causes of symptoms and so reduce inflammation.
+Blepharitis
+Microorganisms can cause inflammation of the eyelid margin and
+ocular surface, which may cause meibomian gland obstruction and
+corneal vascularisation and scarring. For patients with evidence of
+blepharitis, a topical antibiotic ointment can be prescribed. The
+most common antibiotic agents are azithromycin, erythromycin,
+and bacitracin which are effective against Staphylococcus, a common
+cause of blepharitis.24 Oral antibiotics have been also used for
+addressing the inflammatory component of chronic blepharitis with
+inconsistent results.25
+Demodex infestation has been implicated in dry eye disease, causing
+both meibomian gland dysfunction and blepharitis.Demodex mites
+may be detected on the eyelashes by slit lamp examination or seen
+on an affected patient's face via magnification by a dermatologist.
+Some evidence exists that topical tea tree oil-based preparations
+for the eyelid area may reduceDemodex mite counts, alleviate ocular
+symptoms, and improve meibomian gland function.14 26
+Ophthalmologists may consider application of the antiparasitic
+topical ivermectin 1% to the eyelashes to reduce mite counts and
+improve symptoms, although randomised controlled trials
+evaluating its effect are still needed.27 28 Oral ivermectin has been
+shown to be effective in prospective non-randomised studies, as
+well as oral metronidazole, but these are reserved for recalcitrant
+cases because of their side effects.14 29
+Meibomian gland dysfunction
+Oral antibiotic therapy is an established treatment for meibomian
+gland dysfunction.25 30 31 The two major antibiotic classes in use
+are macrolides and tetracyclines, used for their immune and meibum
+modulating activities rather than their antibacterial properties.14
+Dose and treatment duration vary between studies. Commonly used
+antibiotics include doxycycline, azithromycin, minocycline, and
+tetracycline.14 32 In the macrolide group, azithromycin is prescribed
+for five days at a 250-500 mg/day dose or for one to three days a
+week of 500-1000 mg for three consecutive weeks.33 34 Erythromycin
+250 mg/day for eight days is an alternative.32 In a recent
+meta-analysis, our group found that oral antibiotic treatment with
+azithromycin was superior to doxycycline in effectiveness and safety
+for treating patients with meibomian gland dysfunction.34
+Immunosuppressants
+Ophthalmologists can offer a range of short and long term
+immunosuppressants to alleviate symptoms of dry eye disease.
+Short term topical, “soft” corticosteroids such as fluorometholone
+or loteprednol are preferred as they have less intraocular penetrance
+than other steroids and so have lower risk of secondary peaks of
+intraocular pressure.35 The risk of increasing intraocular pressure
+limits the treatment duration with topical steroids to several weeks
+at a time, repeated if necessary to treat flare-ups.6
+Patients with persistent inflammation of the ocular surface may
+require immune modulating agents such as ciclosporin6 36 37 or
+tacrolimus 38 -40 to avoid long term use of topical steroids. Both
+these treatments have been inconsistently reported to induce long
+lasting symptom improvement and may be safely used for prolonged
+periods.6 41 -43 A recent randomised controlled trial comparing the
+efficacy of topical ciclosporin versus tacrolimus for dry eye disease
+demonstrated equivalency between the two.44 Patients should be
+warned about a transient burning sensation after application of
+both treatments and advised that this will subside. If the burning
+persists treatment may need to be discontinued.
+Topical lifitegrast, a lymphocyte function-associated antigen 1
+antagonist, may offer patients benefits from 14 days after treatment
+initiation, although this benefit may take up to 84 days to manifest.45
+Prolonged treatment with lifitegrast has been shown to be safe, and
+a recent retrospective cohort study comparing lifitegrast with
+ciclosporin demonstrated similar effectiveness for dry eye disease
+treatment.46 47
+Which mechanical methods may aid patients with dry
+eye disease?
+Scleral contact lenses
+Several studies have demonstrated the effectiveness of scleral
+contact lenses in improving symptoms and visual function in
+patients with dry eye disease regardless of the underlying
+pathology.6 Unlike standard contact lenses, scleral lenses have a
+large diameter and vault over the cornea, creating a reservoir of
+fluid between the lens and the ocular surface. This unique design
+helps maintain a hydrated ocular surface while posing a physical
+barrier to the environment, thus minimising direct friction and tear
+evaporation. Scleral lenses require specific fitting, cleaning, and
+maintenance protocols, and their high cost can be a barrier to
+uptake.
+Punctal occlusion
+Tears are normally evacuated from the ocular surface via the upper
+and lower puncta, which are small openings located in the inner
+corners of the eyelids through which tears pass into the nasal cavity.
+Punctal occlusion is achieved by insertion of plugs into one of the
+puncta or by cauterisation. This allows for the tear film to remain
+longer on the ocular surface before finally evaporating or draining
+through the remaining non-occluded punctum. This treatment
+modality, shown to be effective in most but not all studies,48 49
+offers most benefit to patients with aqueous tear deficiency after
+medical treatment has failed.6 Common adverse effects include
+ocular surface irritation, plug dislocation, increased tearing, and
+inflammation of the punctal area.6 50
+What emerging technologies exist for dry eye disease?
+Several new technologies for safe, long lasting treatment have
+emerged in the last decade. These are primarily available through
+private services in high resource settings however, somewhat
+limiting their accessibility for the general population. They may be
+offered by ophthalmology specialists if other treatment modalities
+have failed or to reduce the frequency of artificial tears'
+administration.
+Intense pulsed light
+Intense pulsed light (IPL) therapy is a non-invasive treatment for
+dry eye disease secondary to meibomian gland dysfunction, rosacea,
+or blepharitis caused byDemodex infection.51 -54 High intensity light
+pulses to the skin surface induce obliteration of abnormal blood
+vessels and alter meibomian gland architecture and composition,
+reducing inflammation and eradicating Demodex mites.53 55 -57
+Several small case series have reported meibomian gland anatomical
+and functional changes following IPL treatment, the mechanism of
+which is currently unknown.55 56
+Treatment usually consists of four consecutive sessions at
+three-week intervals, followed by adjuvant maintenance treatment
+every three to six months.58 59 While a 2020 Cochrane review
+presented equivocal results,60 more recent clinical studies have
+the bmj | BMJ 2024;384:e077344 | doi: 10.1136/bmj-2023-077344 4
+PRACTICE
+Protected by copyright.
+ on 15 April 2024 at Shanghai Jiao Tong University School of Medicine. http://www.bmj.com/ BMJ: first published as 10.1136/bmj-2023-077344 on 25 March 2024. Downloaded from 
+demonstrated improvements in signs and symptoms of dry eye
+disease at one and three months after treatment completion,58 61
+with benefits lasting up to one year.52 54 IPL therapy is considered
+safe and well tolerated. Contraindications include skin irritation or
+malignant or premalignant lesions within the treatment area, or a
+history of keloid scars. Patients treated concomitantly with retinoids
+or tetracyclines are not candidates for IPL because of potential
+photosensitisation. IPL treatment may also trigger local reactivation
+of herpes simplex virus.
+Thermal pulsation devices
+Thermal pulsation devices may be of benefit to patients with
+meibomian gland dysfunction by applying controlled heat, usually
+combined with intermittent pressure, to the eyelids (fig 2). Clinical
+studies have shown the effectiveness of LipiFlow (Johnson and
+Johnson, Jacksonville FL, USA) in reducing dry eye symptoms and
+improving meibomian gland function62 up to six months after
+treatment.63 64 A recent randomised controlled trial involving
+patients with mild to moderate meibomian gland dysfunction found
+that LipiFlow treatment before cataract surgery resulted in
+significant reduction of postoperative dry eye disease.65
+Fig 2 | Emerging technological solutions for dry eye disease. A and B: Intense pulsed
+light (IPL) treatment is performed in-office with opaque protective goggles on the
+patient’s eyes and cold gel applied to the treatment area (mainly above the brows,
+zygomatic region, inferior eyelids, and nose). IPL treatment is often combined with
+in-office meibomian gland expression. Overall, the treatment takes up to 20 minutes
+to complete. C and D: The LipiFlow thermal pulsation system consists of a disposable
+eyepiece that covers the cornea (black star) and a console that delivers heat and
+pressure (blue arrows) to the eyelids, thus causing liquification and expression of
+the meibum from the meibomian gland orifice (white star)
+LipiFlow has a good safety profile, with minimal adverse effects
+such as transient discomfort, conjunctival injection, or mild eyelid
+swelling.62 It is contraindicated for patients with active eyelid
+inflammation, who have had ocular surgery within the past three
+months, or who have allergies to the materials used in the device.
+How patients were involved in the creation of this article
+No patients were involved in the creation of this article.
+Education into practice
+• Which common modifiable environmental and systemic conditions
+may worsen dry eye disease?
+• How can the general physician assist the patient with symptoms
+suggestive of dry eye disease while awaiting ophthalmological
+consultation?
+• What are the treatment modalities used for dry eye disease
+management, and how do they affect patients’ daily lives?
+Contributors: Conceptualisation by MS and MM; methodology, MS, GT, MM; investigation, MS; original
+draft preparation, MS; review and editing, MS, GT, MM; visualisation, MS, GT; supervision, MM; project
+administration, MS. All authors are guarantors for this paper.
+Competing interests: The BMJ has judged that the authors have no disqualifying financial ties to
+commercial companies that are relevant to this paper. The authors have read and understood BMJ
+policy on declaration of interests and have no relevant interests to declare.
+Provenance and peer review: Not commissioned; externally peer reviewed.
+1 Farrand KF, Fridman M, Stillman IÖ, Schaumberg DA. Prevalence of diagnosed dry eye disease
+in the United States among adults aged 18 years and older. Am J Ophthalmol 2017;182:-8.
+doi: 10.1016/j.ajo.2017.06.033 pmid: 28705660
+2 Song P, Xia W, Wang M, etal. Variations of dry eye disease prevalence by age, sex and geographic
+characteristics in China: a systematic review and meta-analysis. J Glob Health 2018;8:020503.
+doi: 10.7189/jogh.08.020503 pmid: 30206477
+3 Caffery B, Srinivasan S, Reaume CJ, etal. Prevalence of dry eye disease in Ontario, Canada: A
+population-based survey. Ocul Surf 2019;17:-31. doi: 10.1016/j.jtos.2019.02.011 pmid: 30825521
+4 Stapleton F, Velez FG, Lau C, Wolffsohn JS. Dry eye disease in the young: A narrative review.
+Ocul Surf 2024;31:-20. doi: 10.1016/j.jtos.2023.12.001 pmid: 38070708
+5 Cutrupi F, De Luca A, Di Zazzo A, Micera A, Coassin M, Bonini S. Real life impact of dry eye
+disease. Semin Ophthalmol 2023;38:-702.
+doi: 10.1080/08820538.2023.2204931 pmid: 37095685
+6 Akpek EK, Amescua G, Farid M, etalAmerican Academy of Ophthalmology Preferred Practice
+Pattern Cornea and External Disease Panel. Dry Eye Syndrome Preferred Practice Pattern®.
+Ophthalmology 2019;126:-P334. doi: 10.1016/j.ophtha.2018.10.023 pmid: 30366798
+7 Clayton JA. Dry Eye. N Engl J Med 2018;378:-23. doi: 10.1056/NEJMra1407936 pmid: 29874529
+8 Makrynioti D, Zagoriti Z, Koutsojannis C, Morgan PB, Lagoumintzis G. Ocular conditions and dry
+eye due to traditional and new forms of smoking: A review. Cont Lens Anterior Eye 2020;43:-84.
+doi: 10.1016/j.clae.2020.02.009 pmid: 32111452
+9 Gorimanipalli B, Khamar P, Sethu S, Shetty R. Hormones and dry eye disease. Indian J Ophthalmol
+2023;71:-84. doi: 10.4103/IJO.IJO_2887_22 pmid: 37026259
+10 Wolffsohn JS, Wang MTM, Vidal-Rohr M, etal. Demographic and lifestyle risk factors of dry eye
+disease subtypes: A cross-sectional study. Ocul Surf 2021;21:-63.
+doi: 10.1016/j.jtos.2021.05.001 pmid: 33965652
+11 Tavassoli S, Wong N, Chan E. Ocular manifestations of rosacea: A clinical review. Clin Exp
+Ophthalmol 2021;49:-17. doi: 10.1111/ceo.13900 pmid: 33403718
+12 Talens-Estarelles C, Cerviño A, García-Lázaro S, Fogelton A, Sheppard A, Wolffsohn JS. The
+effects of breaks on digital eye strain, dry eye and binocular vision: Testing the 20-20-20 rule.
+Cont Lens Anterior Eye 2023;46:101744. doi: 10.1016/j.clae.2022.101744 pmid: 35963776
+13 Talens-Estarelles C, García-Marqués JV, Cervino A, García-Lázaro S. Use of digital displays and
+ocular surface alterations: A review. Ocul Surf 2021;19:-65.
+doi: 10.1016/j.jtos.2020.10.001 pmid: 33053438
+14 Amescua G, Akpek EK, Farid M, etalAmerican Academy of Ophthalmology Preferred Practice
+Pattern Cornea and External Disease Panel. Blepharitis Preferred Practice Pattern®. Ophthalmology
+2019;126:-P93. doi: 10.1016/j.ophtha.2018.10.019 pmid: 30366800
+15 Murphy O, O’ Dwyer V, Lloyd-McKernan A. The effect of lid hygiene on the tear film and ocular
+surface, and the prevalence of Demodex blepharitis in university students. Cont Lens Anterior
+Eye 2020;43:-68. doi: 10.1016/j.clae.2019.09.003 pmid: 31548151
+16 Su CW, Tighe S, Sheha H, Cheng AMS, Tseng SCG. Safety and efficacy of 4-terpineol against
+microorganisms associated with blepharitis and common ocular diseases. BMJ Open Ophthalmol
+2018;3:e000094. doi: 10.1136/bmjophth-2017-000094 pmid: 30123842
+17 Yun ST, Woo DM, Chong CW, etal. Utilisation of a novel test to measure severity and treatment
+efficacy of posterior blepharitis. J Ophthalmol 2015;2015:617019.
+doi: 10.1155/2015/617019 pmid: 26347811
+18 Baudouin C, Labbé A, Liang H, Pauly A, Brignole-Baudouin F. Preservatives in eyedrops: the
+good, the bad and the ugly. Prog Retin Eye Res 2010;29:-34.
+doi: 10.1016/j.preteyeres.2010.03.001 pmid: 20302969
+19 Shtein RM, Shen JF, Kuo AN, Hammersmith KM, Li JY, Weikert MP. Autologous serum-based
+eye drops for treatment of ocular surface disease: a report by the American Academy of
+Ophthalmology.Ophthalmology 2020;127:-33. doi: 10.1016/j.ophtha.2019.08.018 pmid: 31561880
+20 Soni NG, Jeng BH. Blood-derived topical therapy for ocular surface diseases. Br J Ophthalmol
+2016;100:-7. doi: 10.1136/bjophthalmol-2015-306842 pmid: 26178904
+21 Kojima T, Higuchi A, Goto E, Matsumoto Y, Dogru M, Tsubota K. Autologous serum eye drops
+for the treatment of dry eye diseases. Cornea 2008;27(Suppl 1):-30.
+doi: 10.1097/ICO.0b013e31817f3a0e pmid: 18813071
+22 Wang L, Cao K, Wei Z, Baudouin C, Labbé A, Liang Q. Autologous serum eye drops versus
+artificial tear drops for dry eye disease: a systematic review and meta-analysis of randomized
+controlled trials. Ophthalmic Res 2020;63:-51. doi: 10.1159/000505630 pmid: 31884498
+23 Pan Q, Angelina A, Marrone M, Stark WJ, Akpek EK. Autologous serum eye drops for dry eye.
+Cochrane Database Syst Rev 2017;2:CD009327.
+doi: 10.1002/14651858.CD009327.pub3 pmid: 28245347
+24 Lindsley K, Matsumura S, Hatef E, Akpek EK. Interventions for chronic blepharitis. Cochrane
+Database Syst Rev 2012;2012:CD005556.pmid: 22592706
+5 the bmj | BMJ 2024;384:e077344 | doi: 10.1136/bmj-2023-077344
+PRACTICE
+Protected by copyright.
+ on 15 April 2024 at Shanghai Jiao Tong University School of Medicine. http://www.bmj.com/ BMJ: first published as 10.1136/bmj-2023-077344 on 25 March 2024. Downloaded from 
+25 Onghanseng N, Ng SM, Halim MS, Nguyen QD. Oral antibiotics for chronic blepharitis. Cochrane
+Database Syst Rev 2021;6:CD013697.pmid: 34107053
+26 Savla K, Le JT, Pucker AD. Tea tree oil for Demodex blepharitis. Cochrane Database Syst Rev
+2020;6:CD013333.pmid: 32589270
+27 Choi Y, Eom Y, Yoon EG, Song JS, Kim IH, Kim HM. Efficacy of topical ivermectin 1% in the
+treatment of Demodex blepharitis. Cornea 2022;41:-34.
+doi: 10.1097/ICO.0000000000002802 pmid: 34173370
+28 Helm CJ. Treatment of ocular Demodex infestation with topical ivermectin cream. Am J Ophthalmol
+Case Rep 2022;26:101551. doi: 10.1016/j.ajoc.2022.101551 pmid: 35509284
+29 Rhee MK, Yeu E, Barnett M, etal. Demodex blepharitis: a comprehensive review of the disease,
+current management, and emerging therapies. Eye Contact Lens 2023;49:-8.
+doi: 10.1097/ICL.0000000000001003 pmid: 37272680
+30 Chhadva P, Goldhardt R, Galor A. Meibomian gland disease: the role of gland dysfunction in dry
+eye disease.Ophthalmology 2017;124(11s):-6. doi: 10.1016/j.ophtha.2017.05.031 pmid: 29055358
+31 Cochener B, Cassan A, Omiel L. Prevalence of meibomian gland dysfunction at the time of cataract
+surgery. J Cataract Refract Surg 2018;44:-8. doi: 10.1016/j.jcrs.2017.10.050 pmid: 29587971
+32 Schaumberg DA, Nichols JJ, Papas EB, Tong L, Uchino M, Nichols KK. The international workshop
+on meibomian gland dysfunction: report of the subcommittee on the epidemiology of, and
+associated risk factors for, MGD. Invest Ophthalmol Vis Sci 2011;52:-2005.
+doi: 10.1167/iovs.10-6997e pmid: 21450917
+33 Upaphong P, Tangmonkongvoragul C, Phinyo P. Pulsed oral azithromycin vs 6-week oral
+doxycycline for moderate to severe meibomian gland dysfunction: a randomized clinical trial.
+JAMA Ophthalmol 2023;141:-9. doi: 10.1001/jamaophthalmol.2023.0302 pmid: 36951835
+34 Ben Ephraim Noyman D, Chan CC, Mimouni M, Safir M. Systemic antibiotic treatment for
+meibomian gland dysfunction-A systematic review and meta-analysis. Acta Ophthalmol
+2024;102:-10.pmid: 37139848
+35 Prinz J, Maffulli N, Fuest M, Walter P, Bell A, Migliorini F. Efficacy of topical administration of
+corticosteroids for the management of dry eye disease: systematic review and meta-analysis.
+Life (Basel) 2022;12:. doi: 10.3390/life12111932 pmid: 36431067
+36 Wan KH, Chen LJ, Young AL. Efficacy and safety of topical 0.05% cyclosporine eye drops in the
+treatment of dry eye syndrome: a systematic review and meta-analysis. Ocul Surf 2015;13:-25.
+doi: 10.1016/j.jtos.2014.12.006 pmid: 26045239
+37 Baudouin C, Figueiredo FC, Messmer EM, etal. A randomized study of the efficacy and safety of
+0.1% cyclosporine A cationic emulsion in treatment of moderate to severe dry eye. Eur J
+Ophthalmol 2017;27:-30. doi: 10.5301/ejo.5000952 pmid: 28362054
+38 Sakassegawa-Naves FE, Ricci HMM, Moscovici BK, etal. Tacrolimus ointment for refractory
+posterior blepharitis. Curr Eye Res 2017;42:-4.
+doi: 10.1080/02713683.2017.1339805 pmid: 28922018
+39 Moscovici BK, Holzchuh R, Sakassegawa-Naves FE, etal. Treatment of Sjögren’s syndrome dry
+eye using 0.03% tacrolimus eye drop: Prospective double-blind randomized study. Cont Lens
+Anterior Eye 2015;38:-8. doi: 10.1016/j.clae.2015.04.004 pmid: 25956572
+40 Moscovici BK, Holzchuh R, Chiacchio BB, Santo RM, Shimazaki J, Hida RY. Clinical treatment of
+dry eye using 0.03% tacrolimus eye drops. Cornea 2012;31:-9.
+doi: 10.1097/ICO.0b013e31823f8c9b pmid: 22511024
+41 Messmer EM, Ahmad S, Benitez Del Castillo JM, etala panel of European dry eye disease experts.
+Management of inflammation in dry eye disease: Recommendations from a European panel of
+experts. Eur J Ophthalmol 2023;33:-307. doi: 10.1177/11206721221141481 pmid: 36471573
+42 Perry HD, Solomon R, Donnenfeld ED, etal. Evaluation of topical cyclosporine for the treatment
+of dry eye disease. Arch Ophthalmol 2008;126:-50.
+doi: 10.1001/archopht.126.8.1046 pmid: 18695097
+43 de Paiva CS, Pflugfelder SC, Ng SM, Akpek EK. Topical cyclosporine A therapy for dry eye
+syndrome. Cochrane Database Syst Rev 2019;9:CD010051.
+doi: 10.1002/14651858.CD010051.pub2 pmid: 31517988
+44 Moawad P, Shamma R, Hassanein D, Ragab G, El Zawahry O. Evaluation of the effect of topical
+tacrolimus 0.03% versus cyclosporine 0.05% in the treatment of dry eye secondary to Sjogren
+syndrome. Eur J Ophthalmol 2022;32:-9. doi: 10.1177/1120672121992680 pmid: 33530719
+45 Holland EJ, Darvish M, Nichols KK, Jones L, Karpecki PM. Efficacy of topical ophthalmic drugs in
+the treatment of dry eye disease: A systematic literature review. Ocul Surf 2019;17:-23.
+doi: 10.1016/j.jtos.2019.02.012 pmid: 30844466
+46 Hovanesian JA, Nichols KK, Jackson M, etal. Real-world experience with lifitegrast ophthalmic
+solution (Xiidra®
+) in the US and Canada: retrospective study of patient characteristics, treatment
+patterns, and clinical effectiveness in 600 patients with dry eye disease. Clin Ophthalmol
+2021;15:-54. doi: 10.2147/OPTH.S296510 pmid: 33727786
+47 Locatelli EVT, Acuna KA, Betz J, Tovar AA, Galor A. Comparison of subjective responses to
+cyclosporine 0.05% versus lifitegrast 5.0% in individuals with dry eye disease. Cornea
+2024;43:-94pmid: 36853599
+48 Ervin AM, Law A, Pucker AD. Punctal occlusion for dry eye syndrome. Cochrane Database Syst
+Rev 2017;6:CD006775.pmid: 28649802
+49 Stahl U, Francis IC, Stapleton F. Prospective controlled study of vapor pressure tear osmolality
+and tear meniscus height in nasolacrimal duct obstruction. Am J Ophthalmol 2006;141:-6.
+doi: 10.1016/j.ajo.2005.12.051 pmid: 16765672
+50 Gouvea L, Mimouni M, Alshaker S, etal. Clinical features and management of keratoconjunctivitis
+associated with inadequate tear drainage. Can J Ophthalmol 2023;S0008-4182(23)00108-4.
+doi: 10.1016/j.jcjo.2023.03.020 pmid: 37088101
+51 Ruan F, Zang Y, Sella R, etal. Intense Pulsed light therapy with optimal pulse technology as an
+adjunct therapy for moderate to severe blepharitis-associated keratoconjunctivitis. J Ophthalmol
+2019;2019:3143469. doi: 10.1155/2019/3143469 pmid: 31637051
+52 Arita R, Fukuoka S, Morishige N. Therapeutic efficacy of intense pulsed light in patients with
+refractory meibomian gland dysfunction. Ocul Surf 2019;17:-10.
+doi: 10.1016/j.jtos.2018.11.004 pmid: 30445177
+53 Cheng SN, Jiang FG, Chen H, Gao H, Huang YK. Intense pulsed light therapy for patients with
+meibomian gland dysfunction and ocular Demodex infestation. Curr Med Sci 2019;39:-9.
+doi: 10.1007/s11596-019-2108-1 pmid: 31612399
+54 Seo KY, Kang SM, Ha DY, Chin HS, Jung JW. Long-term effects of intense pulsed light treatment
+on the ocular surface in patients with rosacea-associated meibomian gland dysfunction. Cont
+Lens Anterior Eye 2018;41:-5. doi: 10.1016/j.clae.2018.06.002 pmid: 29958778
+55 Yin Y, Liu N, Gong L, Song N. Changes in the meibomian gland after exposure to intense pulsed
+light in meibomian gland dysfunction (MGD) patients. Curr Eye Res 2018;43:-13.
+doi: 10.1080/02713683.2017.1406525 pmid: 29199865
+56 Li D, Lu J, Hu Z, Liang J, Lin S. Intense pulsed light therapy to inhibit meibomian gland inflammation:
+untargeted metabolomics analysis of meibomian gland secretions. Photobiomodul Photomed
+Laser Surg 2022;40:-27. doi: 10.1089/photob.2022.0058 pmid: 36286576
+57 Yu H, Zeng W, Zhao G, Hong J, Feng Y. Response of tear cytokines following intense pulsed light
+combined with meibomian gland expression for treating meibomian gland dysfunction-related
+dry eye. Front Endocrinol (Lausanne) 2022;13:973962.
+doi: 10.3389/fendo.2022.973962 pmid: 36187125
+58 Miao S, Yan R, Jia Y, Pan Z. Effect of intense pulsed light therapy in dry eye disease caused by
+meibomian gland dysfunction: a systematic review and meta-analysis. Eye Contact Lens
+2022;48:-9. doi: 10.1097/ICL.0000000000000934 pmid: 36044829
+59 Leng X, Shi M, Liu X, Cui J, Sun H, Lu X. Intense pulsed light for meibomian gland dysfunction:
+a systematic review and meta-analysis. Graefes Arch Clin Exp Ophthalmol 2021;259:-10.
+doi: 10.1007/s00417-020-04834-1 pmid: 32725403
+60 Cote S, Zhang AC, Ahmadzai V, etal. Intense pulsed light (IPL) therapy for the treatment of
+meibomian gland dysfunction. Cochrane Database Syst Rev 2020;3:CD013559.
+doi: 10.1002/14651858.CD013559 pmid: 32182637
+61 Liu C, Zhou Q, Gao ZQ. Efficacy of intense pulsed light and meibomian gland expression
+treatments in meibomian gland dysfunction: A meta-analysis of randomized controlled trials.
+Medicine(Baltimore) 2022;101:e32292. doi: 10.1097/MD.0000000000032292 pmid: 36595759
+62 Hu J, Zhu S, Liu X. Efficacy and safety of a vectored thermal pulsation system (Lipiflow®) in the
+treatment of meibomian gland dysfunction: a systematic review and meta-analysis. Graefes Arch
+Clin Exp Ophthalmol 2022;260:-39. doi: 10.1007/s00417-021-05363-1 pmid: 34374808
+63 Greiner JV. A single LipiFlow® Thermal Pulsation System treatment improves meibomian gland
+function and reduces dry eye symptoms for 9 months. Curr Eye Res 2012;37:-8.
+doi: 10.3109/02713683.2011.631721 pmid: 22324772
+64 Greiner JV. Long-term (12-month) improvement in meibomian gland function and reduced dry
+eye symptoms with a single thermal pulsation treatment. Clin Exp Ophthalmol 2013;41:-30.
+doi: 10.1111/ceo.12033 pmid: 23145471
+65 Mencucci R, Mercuri S, Cennamo M, Morelli A, Favuzza E. Efficacy of vector thermal pulsation
+treatment in reducing postcataract surgery dry eye disease in patients affected by meibomian
+gland dysfunction. J Cataract Refract Surg 2023;49:-9.
+doi: 10.1097/j.jcrs.0000000000001124 pmid: 36729441
+the bmj | BMJ 2024;384:e077344 | doi: 10.1136/bmj-2023-077344 6
+PRACTICE
+Protected by copyright.
+ on 15 April 2024 at Shanghai Jiao Tong University School of Medicine. http://www.bmj.com/ BMJ: first published as 10.1136/bmj-2023-077344 on 25 March 2024. Downloaded from 

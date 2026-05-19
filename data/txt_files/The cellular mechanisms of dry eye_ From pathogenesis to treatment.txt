@@ -1,0 +1,489 @@
+The Cellular Mechanisms of
+Dry Eye: From Pathogenesis to
+Treatment
+FLAVIO MANTELLI,1
+* MINA MASSARO-GIORDANO,2 ILARIA MACCHI,3
+ALESSANDRO LAMBIASE,3 AND STEFANO BONINI3
+1
+IRCCS Fondazione GB Bietti of Rome, Rome, Italy
+2
+Department of Ophthalmology, Scheie Eye Insitute University of Pennsylvania School of Medicine, Philadelphia, Pennsylvania
+3
+Department of Ophthalmology, Campus Bio-Medico University of Rome, Rome, Italy
+Dry eye is a complex disease characterized by changes in the ocular surface epithelia related to reduced quality and/or quantity of tears,
+inflammatory reaction, and impairment of ocular surface sensitivity. It has recently been proposed that increased tear osmolarity
+represents a main trigger to the altered cellular mechanisms leading to epithelial damage in dry eye. However, dry eye pathogenesis is
+multifactorial, with cytotoxic inflammatory mediators, altered lacrimal gland secretion and nerve function, squamous metaplasia of the
+conjunctival epithelium and decrease of goblet cells density, all playing a role in a detrimental loop that perpetuates and worsens damage to
+the corneal and conjunctival epithelia. Current topical treatments for dry eye patients include the use of lubricants and anti-inflammatory
+drugs. However, lubricants only improve symptoms temporarily, and chronic use of topical steroids is associated to severe ocular side
+effects such as cataract and glaucoma. The deeper understanding of the cellular mechanisms that are altered in dry eye is opening novel
+perspectives for patients and physicians, who are seeking treatments capable not only of improving symptoms but also of restoring
+the homeostasis of the ocular surface. In this review, we will focus on novel anti-inflammatory agents and on nerve growth factor, a
+neurotrophin that is altered in dry eye and has been suggested as a main player in the neuroimmune cross-talk of the ocular surface as well
+as in the stimulation of corneal sensitivity, epithelial proliferation and differentiation, and stimulation of mucin production by goblet cells.
+J. Cell. Physiol. 228: 2253–2256, 2013.  2013 Wiley Periodicals, Inc.
+The Lacrimal functional unit (LFU) is an integrated system
+comprising the lacrimal glands, ocular surface (cornea,
+conjunctiva, and meibomian glands) and lids, and the sensory
+and motor nerves that connect them. Disease or damage to
+any of these components can destabilize the tear film and lead
+to ocular surface disease that expresses itself as dry eye. As a
+consequence, dry eye is among the most common diseases to
+encounter for an ophthalmologist, as it is estimated to affect
+between 5% and more than 30% of the worldwide population
+at various ages, with very high socio-economic costs and
+substantial burden for the health system (Dry Eye Workshop,
+2007).
+The main characteristic of dry eye is an altered tear film,
+which can be compromised either by decreased tear secretion
+or altered tear composition. Ocular surface inflammation is a
+secondary consequence that triggers a detrimental loop
+leading to epithelial damage. In this loop, reflex tear secretion
+in response to ocular inflammation is envisioned as the initial
+compensatory mechanism, but, with time, inflammation
+accompanying chronic secretory dysfunction worsens and a
+decrease in corneal sensation enters the picture, eventually
+compromising the reflex response and resulting in even greater
+tear film impairment (Stevenson et al., 2012). Therefore,
+perturbation of the LFU caused by any reason (local, systemic,
+or environmental) is considered to play an important role in
+triggering the disease and in the evolution to different forms of
+dry eye, which are generally classified as autoimmune and non￾autoimmune aqueous-deficient, and evaporative. These dif￾ferent forms of dry eye may result from a wide-spectrum of
+systemic and ocular diseases, including Sjo¨gren’s syndrome,
+Rheumatoid Artritis, Lupus Eritematosus Systemicus, Stevens
+Johnson’s syndrome, thyroid disease, Bell’s palsy, meibomian
+gland disease, blepharitis, ocular rosacea, refractive surgery,
+blepharoplasty, lagophthalmos, entropion/ectropion, cranial
+surgeries, side effects of drugs (antihistamines, diuretics, beta￾blockers), ocular injuries and burns, chemotherapy and
+radiation, aging, menopause, and more. Therefore, it is now
+accepted that dry eye is by all means a multifactorial disease
+characterized by common clinical manifestations as described
+in detail below (Dry Eye Workshop, 2007).
+Pathogenesis
+A number of common mechanisms can be identified in the
+multifactorial pathogenesis of dry eye: (i) chronic inflammation
+of the conjunctiva, (ii) decreased ocular surface sensitivity; (iii)
+tear film impairment, including decreased tear production and
+stability; (iv) epithelial damage, associated with squamous
+metaplasia and decrease of conjunctival goblet cells density.
+Chronic inflammation of the conjunctiva
+The ocular surface inflammatory reaction of dry eye is not
+limited to the autoimmune form, which is characterized by
+immune cells’ infiltration of the lacrimal glands and conjunctiva.
+In fact, the core mechanisms of all dry eye types are driven by
+tear hyperosmolarity and tear film instability (Dry Eye
+Workshop, 2007). Tear hyperosmolarity causes damage to the
+*Correspondence to: Flavio Mantelli, IRCCS GB Bietti, Via Livenza,
+3, 00198 Rome, Italy. E-mail: f.mantelli@unicampus.it
+Manuscript Received 9 March 2013
+Manuscript Accepted 2 May 2013
+Accepted manuscript online in Wiley Online Library
+(wileyonlinelibrary.com): 21 May 2013.
+DOI: 10.1002/jcp.24398
+MINI REVIEW 2253
+Journal of Journal of
+Cellular
+Physiology
+Cellular
+Physiology
+
+2013 WILEY PERIODICALS, INC.
+surface epithelium by activating a cascade of inflammatory
+events at the ocular surface and a release of inflammatory
+mediators into tears. Among them, elevated levels of
+inflammatory cytokines, such as interleukin-1 (IL-1), IL-6, IL-8,
+and tumor necrosis factor-alpha (TNF-a) play a prominent
+role, especially in autoimmune dry eye. This inflammatory
+component contributes to the dry eye symptoms and the
+disease process itself (Moore et al., 2011). In line with this, it
+has been widely proven that the signs and symptoms of dry eye
+improve with anti-inflammatory agents such as corticosteroid
+and cyclosporin A (Pflugfelder et al., 2008), accompained by a
+reduction in local IL levels.
+Decreased ocular surface sensitivity
+The ocular surface is extensively supplied by sensory and
+autonomic nerve fibers that play a crucial role in maintaining
+healthy epithelia and are altered by chronic inflammation in
+dry eye (Kulka et al., 2008), leading to a decrease in corneal
+sensitivity and a consequent neurosecretory block that
+reduces reflex tear secretion (Lambiase et al., 2011). Another
+important mechanism behind the detrimental loop triggered by
+nerve fiber alterations in dry eyes is the so-called “neurogenic
+inflammation” (Beuerman and Stern, 2005; Mantelli
+et al., 2010). To understand its importance in dry eye it must be
+underlined that lacrimal gland function undergoes nervous
+system regulation (Micera et al., 2008), with autonomic and
+sensory nerves locally releasing neuropeptides that regulate
+acinar gland secretion and inflammatory reactions (Chung
+et al., 1996). The main factors of this neurogenic inflammation
+are two sensory neuropeptides that are increased in tear fluid
+of dry eye patients: substance P (SP) and calcitonine gene￾related peptide (CGRP). SP, released from sensitive nerves and
+inflammatory cells during inflammatory processes, participates
+in lacrimal gland and ocular surface inflammation by acting on
+epithelial and immune cells, including mast cells, macrophages,
+and T cells, leading to the release of cytokines and chemokines
+(Mosimann et al., 1993). CGRP, released from activated
+trigeminal sensory nerves and immune cells, plays a role in
+inflammatory responses by dilating blood vessels and stimu￾lating leukocyte extravasation (Springer et al., 2003). More
+recently, the involvement of automomic neuropetides in the
+neurogenic inflammation of the ocular surface has also been
+shown. Specifically, the anti-inflammatory role of neuropeptide
+Y (NPY), released by sympathetic nerves, has been demon￾strated (Dartt et al., 1996). NPY was shown to modulate
+potent immunological effects in vitro and in vivo (such as
+increasing adhesion, migration and phagocitic capacity of
+macrophages), to decrease NK cells activity, to inhibit T cells
+proliferation, and to shift cytokines production from a Th1 to a
+Th2 pattern (Kova`cs et al., 2005). Decreased circulating levels
+of NPY have been reported in autoimmune diseases, and
+reduction in NPY-containing nerve terminals was observed in
+salivary glands of patients with Sjo¨ gren’s syndrome (Tuisku
+et al., 2008), suggesting that it could also be reduced in lacrimal
+glands of dry eye patients.
+Tear film impairment
+Decreased tear production. Traditionally, the
+pathogenesis of dry eye has been ascribed to decreased tear
+production. The neurosecretory block of reflex tear
+production has been described above and other mechanisms
+include inflammatory cell infiltration of the lacrimal gland and
+reduced conjunctival goblet cell number (Dry Eye Workshop,
+2007). However, it is now known that a reduction in tear film
+quality (including reduced stability and increased osmolarity)
+is equally important for the disease’s pathogenesis (Uchino
+et al., 2012).
+Decreased tear stability. The tear film is the most
+dynamic structure of the LFU, and its production and turnover
+is essential to maintaining ocular surface homeostasis.
+Classically, the tear film is reported to be composed of three
+layers: the mucous, aqueous, and lipid layers (Mantelli
+et al., 2007). There are no actual boundaries between such
+layers and a dysfunction of any of them can result in dry eye.
+However, in this review, we will focus only on the mucous layer
+(Mantelli and Argeso, 2008) which is composed of secretory,
+gel-forming (MUC5AC, secreted by goblet cells) and trans￾membrane (MUC1, 4, 16) ocular surface mucins (Blalock
+et al., 2007) heavily glycosylated glycoproteins that interact to
+prevent adhesion of foreign debris, inflammatory cells or
+pathogens to the ocular surface, and to stabilize the tear film
+(Andrianifahanana et al., 2006). Mucins are also essential to
+maintaining proper epithelial protection by forming an
+epithelial barrier through the interaction with carbohydrate￾binding proteins called galectins (galactose binding lectins) that
+are highly expressed by the conjunctival epithelium (Argu¨eso
+et al., 2009; Mantelli et al., 2009). Early studies on dry eye
+patients found alterations in the glycosylation of gel-forming
+ocular surface mucins in dry eye that may be responsible for the
+loss of hydrophilicity and reduced lubrication. Further reports
+have confirmed an MUC5AC alteration in different dry eye
+types (McKenzie et al., 2000) and decreased levels of MUC19,
+another recently discovered gel-forming mucin, have also been
+described in conjunctival epithelium of patients with Sjo¨gren’s
+dry eye (Yu et al., 2008).
+More recent studies have shown that transmembrane
+mucins are also altered in dry eye. Specifically, an MUC1
+reduction was shown to impair tear film stability and an
+O-acetyl sialic acid component of MUC16 was also shown to
+be altered on the apical cell surface of non-Sjo¨gren’s dry eye
+patients, suggesting that an alteration of mucin O-glycosylation
+in dry eye compromises the ocular surface epithelial barrier
+making it more susceptible to epithelial damage (Sumiyoshi
+et al., 2008).
+Lastly, as mentioned before, one of the main features of dry
+eye syndrome is an increased tear film osmolarity. Recent
+studies in yeast on mucin-like proteins Hkr1 and Msb2
+(Tatebayashi et al., 2007) have shown that transmembrane
+mucins could also display features of osmosensors triggering
+signaling cascades. This possibility has yet to be confirmed in
+mammalian epithelia, however, it is possible to speculate that
+cell surface-associated mucins could function as osmosensors
+to induce signaling responses, and their alteration in dry eye
+could cause a reduced protection against hyperosmolar tears.
+Epithelial damage
+Epithelial cells at the ocular surface are continuously faced with
+the critical challenge of forming a protective apical barrier that
+prevents cellular damage and adhesion during blinking or
+sleeping, while allowing the exchange of molecules with the
+extracellular milieu (Sumiyoshi et al., 2008). Loss of such
+barrier function is ascribed to numerous mucosal pathologies,
+including dry eye.
+A recent paper by Argu¨eso et al. (2009) has provided direct
+evidence of the role of mucins in maintaining mucosal integrity
+through a carbohydrate-dependent interaction with a
+molecule known as galectin-3 on apical membranes, forming an
+epithelial barrier lined on top of the ocular surface epithelia.
+Both mucins and galectin-3 are among the most highly
+expressed molecules at the ocular surface, making the
+epithelial barrier a major component of the ocular surface
+(Mantelli et al., 2009). The aforementioned alterations in mucin
+expression and/or carbohydrate composition may result in a
+breach of this protective barrier, putting the dry eye patients at
+higher risk of epithelial damage, which leads to ocular surface
+JOURNAL OF CELLULAR PHYSIOLOGY
+2254 MANTELLI ET AL.
+inflammation and, in turn, triggers a detrimental loop that
+worsens signs and symptoms. However, epithelial barrier
+alterations are not the sole actors of the cellular changes
+observed in patients with dry eye, which lead to conjunctival
+and corneal epithelial metaplasia. In fact, progression into dry
+eye disease is commonly characterized by increased prolifer￾ation in the conjunctival epithelium, decrease in goblet cell
+number, and in severe cases, keratinization due to abnormal
+differentiation of the epithelia. Several mechanisms have been
+advocated to induce squamous metaplasia of the conjunctival
+epithelium in dry eye, including: desiccation with goblet cell
+loss, inflammation with release of cytokines such as IL-1 and
+interferon-gamma from activated T cells in the conjunctival
+epithelium. Moreover, a recent study by Mantelli et al. (2009)
+has shown a downregulation of the Notch signaling pathway in
+the conjunctival epithelium of dry eye patients. The authors
+suggested that downregulation of Notch —known to be
+involved in cell fate determination and differentiation in
+mucosal surfaces—could compromise the integrity of the
+ocular surface and move its wet-surfaced phenotype towards
+the dry, keratinized phenotype typical of advanced dry eye
+disease. In line with this, histological examination of the mouse
+cornea after inducible ablation of Notch1 showed extensive
+hyperplasia and keratinization of the epithelium.
+Treatment
+Due to its multifactorial nature and to its different forms,
+treatment of dry eye requires multiple approaches, including
+environmental preventive measures, tear substitutes, and
+pharmacological therapy. While tear substitutes are by far the
+most frequent approach to temporarily relieve symptoms,
+pharmacologic therapy remains the most useful in the long￾term and for controlling the acute phases (Dry Eye Workshop,
+2007). Specifically, since inflammation plays a prominent role in
+dry eye pathogenesis, anti-inflammatory and
+immunosuppressive drugs are universally considered the
+pharmacologic agents of choice for controlling the
+inflammatory cascade of this disease. Nevertheless, chronic
+corticosteroid treatment is well known to carry serious ocular
+side effects (including glaucoma and cataract), and other
+immunosuppressive drugs, such as cyclosporine-A (CsA) eye
+drops, have been developed to overcome the obstacle of not
+being able to provide patients with a safer alternative
+(Lemp, 2008).
+On the other hand, inflammation is not the sole mechanism
+responsible for the pathophysiologic triggers of dry eye. In fact,
+as discussed above, another important mechanism behind the
+dry eyes is an altered ocular surface sensitivity leading to a
+neurosecretory block. Specifically, the chronic surface damage
+of dry eyes leads to a fall in corneal sensitivity and a reduction
+of reflex tear secretion. Growing experimental and clinical
+evidence suggests that nerve growth factor (NGF) eye drops
+may become a novel treatment for dry eye, potentially capable
+to restore ocular surface homeostasis through a restoration of
+sensitivity and reflex tear secretion (Lambiase et al., 2011;
+Table 1).
+Cyclosporine-A
+CsA is a fungal antimetabolite used as an anti-inflammatory
+drug due to its capability to inhibit IL-2 activation of
+lymphocytes. In addition, CsA inhibits apoptosis by blocking
+the opening of the mitochondrial permeability transition pore
+(MPTP) (Matsuda and Koyasu, 2000) and by increasing the
+density of conjuctival goblet cells (Kunert et al., 2002). It is
+mainly used systemically to prevent rejection of various
+solid-tissue transplants. From the 1980s, several reports
+highlighted that topical CsA can be used to treat a variety of
+ocular inflammatory conditions including dry eye, high-risk
+corneal transplants, autoimmune uveitis, and vernal kerato￾conjunctivitis (Lemp, 2008). Recent studies have shown that
+topical CsA does not only control ocular surface inflammation,
+but it is also effective in increasing tear secretion and tear film
+stability (through an increase in goblet cell density), in restoring
+epithelial damage, and in reducing disease recurrences over
+the long term (Utine et al., 2010).
+Nevertheless, CsA has been approved only by US Food and
+Drug Administration, and only for use in moderate-to-severe
+dry eye.
+Nerve growth factor
+NGF and its receptors TrkA and p75 are highly expressed by
+the ocular surface and may play a role in several ocular surface
+diseases, including dry eye (Lambiase
+TABLE 1. Pathogenic mechanisms of dry eye and treatment targets
+Pathogenic trigger Cellular mechanisms Treatment agents and mechanisms
+The inflammatory
+cascade
+Increased levels of IL-1, IL-6, IL-8 Cyclosporine A: inhibits IL-2 activation of lymphocytes
+Increased levels of tumor necrosis factor-alpha (TNF-a) NGF: modulates inflammatory reactions by inhibiting the release of
+cytokines and chemokines and blood vessels dilation, preventing
+leukocyte extravasation
+Decreased corneal sensitivity; reduction of reflex tear
+secretion
+Reduced ocular
+surface sensitivity
+Neurosecretory block NGF: increases ocular surface sensitivity by promoting regeneration of
+sensory and autonomic nerve fibers
+Neurogenic inflammation
+(i) Increased levels of substance P (SP) and calcitonine
+gene-related peptide (CGRP)
+(ii) Decreased levels of neuropeptide Y (NPY)
+Altered tear secretion
+(quality and quantity)
+Neurosecretory block of reflex tear production Tear substitutes
+Decreased levels of MUC19 MUC5AC, MUC1, MUC16 Cyclosporine A: increases conjunctival goblet cell density and acqueous
+tear secretion
+NGF: regulates tear film production by lacrimal gland; modulates
+conjunctival epithelial differentiation into goblet cells (releasing
+MUC5AC in the tear film)
+Epithelial damage Lack of Galectin-3 in the apical epithelial barrier Cyclosporine A: inhibits epithelial cell apoptosis (blocks the
+mitochondrial permeability transition pore)
+Squamous metaplasia of the conjunctival epithelium, with
+goblet cell loss
+NGF: promotes ocular surface healing by stimulating corneal and
+conjunctival epithelial proliferation and differentiation; protects
+epithelia from hyperosmolar tear damage
+Downregulation of the Notch signaling pathway Galectin-3 or Notch substitutes (?)
+JOURNAL OF CELLULAR PHYSIOLOGY
+CELLULAR MECHANISMS OF DRY EYE 2255
+et al., 1998a, b, 2009a, b, 2012; Lee et al., 2005). In fact, NGF
+increases ocular surface sensitivity, inhibits inflammatory
+reactions, and regulates tear film production by lacrimal gland
+and goblet cells. (Lee et al., 2005) It is, therefore, possible that
+NGF may be used a novel therapeutic option in dry eye disease.
+In line with this hypothesis: (i) NGF eye drop treatment
+increased tear production and conjunctival goblet cell density
+in a dog experimental model of dry eye (Coassin et al., 2005);
+(ii) increased tear concentration of NGF has been suggested as
+a compensatory mechanism in patients affected by dry eye
+(Lambiase et al., 2011); and (iii) NGF has recently been
+shown to regulate conjunctival epithelial differentiation into
+MUC5AC-secreting goblet cells (Lambiase et al., 2009a, b).
+Moreover, Chang et al. (2008) have recently demonstrated an
+up-regulation of NGF in corneal epithelial cells under hyper￾osmolar stress. The authors suggest that NGF may contribute
+to reduce the apoptosis of corneal epithelial cells triggered
+by hyperosmolarity and that, therefore, exogenous NGF
+administration may be beneficial in recovering corneal damage
+due to chronic hyperosmolarity.
+Conclusions
+Over the past decade many physiological mechanisms altered
+in dry eye disease have emerged. Among them, in this review,
+we discussed a number of common mechanisms including
+chronic inflammation, impaired nerve function, altered tear
+production, and corneal and conjunctival epithelial damage
+with squamous metaplasia, epithelial barrier disruption and
+decrease in goblet cells density.
+However, while a better understanding of ocular surface
+physiology and of the cellular mechanisms that are altered in
+dry eye led to an improved comprehension of the complex and
+multifactorial pathogenesis of the disease, novel therapeutic
+options proven to be safe and effective such as CsA are facing
+more difficulties to be widely accepted, and topical steroids
+remain a treatment mainstay in spite of their long-term side
+effects. On the other hand, emerging drugs such as NGF eye
+drops may soon be coming to the market as an alternative
+option for dry eye patients.
+The understanding of which specific cellular responses
+are involved in the different forms of dry eye could also result in
+the development of other treatment strategies for a better
+management and lasting results. In fact, a better knowledge of
+the pathogenesis of the different types of dry eye would
+improve the treatment choice through to the development
+of compounds targeting specific components such as the
+epithelial barrier, corneal nerves, conjunctival goblet cells, or
+immune cells and cytokines involved in the ocular inflammatory
+reaction.
+Literature Cited
+Andrianifahanana M, Moniaux N, Batra SK. 2006. Regulation of mucin expression:
+Mechanistic aspects and implications for cancer and inflammatory diseases. Biochim
+Biophys Acta 1765:189–222.
+Argu¨eso P, Guzman-Aranguez A, Mantelli F, Cao Z, Ricciuto J, Panjwani N. 2009. Association
+of cell surface mucins with galectin-3 contributes to the ocular surface epithelial barrier. J
+Biol Chem 284:23037–23045.
+Beuerman RW, Stern ME. 2005. Neurogenic inflammation: A first line of defense for the
+ocular surface. Ocul Surf 3:S203–S206.
+Blalock TD, Spurr-Michaud SJ, Tisdale AS, Heimer SR, Gilmore MS, Ramesh V, Gipson IK.
+2007. Functions of MUC16 in corneal epithelial cells. Invest Ophthalmol Vis Sci 48:4509–
+4518.
+Chang EJ, Im YS, Kay EP, Kim JY, Lee JE, Lee HK. 2008. The role of nerve growth factor in
+hyperosmolar stress induced apoptosis. J Cell Physiol 216:69–77.
+Chung CW, Tigges M, Stone RA. 1996. Peptidergic innervation of the primate meibomian
+gland. Invest Ophthalmol Vis Sci 37:238–245.
+Coassin M, Lambiase A, Costa N, De Gregorio A, Sgrulletta R, Sacchetti M, Aloe L, Bonini S.
+2005. Efficacy of topical nerve growth factor treatment in dogs affected by dry eye.
+Graefes Arch Clin Exp Ophthalmol 243:151–155.
+Dartt DA, Kessler TL, Chung E-H, Zieske JD. 1996. Vasoactive intestinal peptide stimulated
+glycoconjugate secretion from conjunctival goblet cells. Exp Eye Res 63:27–34.
+Dry Eye Workshop. 2007a. The definition and classification of dry eye disease: Report of the
+Definition and Classification Subcommittee of the International Dry Eye Workshop. Ocul
+Surf 5:75–92.
+Dry Eye Workshop. 2007b. Methodologies to diagnose and monitor dry eye disease: Report
+of the Diagnostic Methodology Subcommittee of the International Dry Eye Workshop.
+Ocul Surf 5:108–152.
+Dry Eye Workshop. 2007c. Management and therapy of dry eye disease: Report of the
+Management and Therapy Subcommittee of the International Dry Eye Workshop. Ocul
+Surf 5:163–178.
+Kova´cs I, Luda´ny A, Koszegi T, Fehe´r J, Kova´cs B, Szolcsa´nyi J, Pinte´r E. 2005. Substance P
+released from sensory nerve endings influences tear secretion and goblet cell function in
+the rat. Neuropeptides 39:395–402.
+Kulka M, Sheen CH, Tancowny BP, Grammer LC, Schleimer RP. 2008. Neuropeptides
+activate human mast cell degranulation and chemokine production. Immunology 123:
+398–410.
+Kunert KS, Tisdale AS, Gipson IK. 2002. Goblet cell numbers and epithelial proliferation in
+the conjunctiva of patients with dry eye syndrome treated with cyclosporine. Arch
+Ophthalmol 120:330–337.
+Lambiase A, Bonini S, Micera A, Rama P, Bonini S, Aloe L. 1998a. Expression of nerve growth
+factor receptors on the ocular surface in healthy subjects and during manifestation of
+inflammatory diseases. Invest Ophthalmol Vis Sci 39:1272–1275.
+Lambiase A, Rama P, Bonini S, Caprioglio G, Aloe L. 1998b. Topical treatment with nerve
+growth factor for corneal neurotrophic ulcers. N Engl J Med 338:1174–1180.
+Lambiase A, Aloe L, Centofanti M, Parisi V, Mantelli F, Colafrancesco V, Manni GL, Bucci MG,
+Bonini S, Levi-Montalcini R. 2009a. Experimental and clinical evidence of neuroprotection
+by nerve growth factor eye drops: Implications for glaucoma. Proc Natl Acad Sci USA
+106:13469–13474.
+Lambiase A, Micera A, Pellegrini G, Merlo D, Rama P, De Luca M, Bonini S, Bonini S. 2009b. In
+vitro evidence of nerve growth factor effects on human conjunctival epithelial cell
+differentiation and mucin gene expression. Invest Ophthalmol Vis Sci 50:4622–4630.
+Lambiase A, Mantelli F, Sacchetti M, Rossi S, Aloe L, Bonini S. 2011. Clinical applications of
+NGF in ocular diseases. Arch Ital Biol 149:283–292.
+Lambiase A, Aloe L, Mantelli F, Sacchetti M, Perrella E, Bianchi P, Rocco ML, Bonini S. 2012.
+Capsaicin-induced corneal sensory denervation and healing impairment are reversed by
+NGF treatment. Invest Ophthalmol Vis Sci 53:8280–8287.
+Lee HK, Lee KS, Kim HC, Lee SH, Kim EK. 2005. Nerve growth factor concentration and
+implications in photorefractive keratectomy vs laser in situ keratomileusis. Am J Ophthal
+139:965–971.
+Lemp MA. 2008. Management of dry eye disease. Am J Manag Care 14:S88–S101.
+Mantelli F, Argu¨eso P. 2008. Functions of ocular surface mucins in health and disease.
+Curr Opin Allergy Clin Immunol 8:477–483.
+Mantelli F, Tiberi E, Micera A, Lambiase A, Visintini F, Bonini S. 2007. MUC5AC
+overexpression in tear film of neonates. Graefes Arch Clin Exp Ophthalmol 245:
+1377–1381.
+Mantelli F, Schaffer L, Dana R, Head SR, Argu¨eso P. 2009. Glycogene expression in
+conjunctiva of patients with dry eye: Downregulation of Notch signaling. Invest
+Ophthalmol Vis Sci 50:2666–2672.
+Mantelli F, Micera A, Sacchetti M, Bonini S. 2010. Neurogenic inflammation of the ocular
+surface. Curr Opin Allergy Clin Immunol 10:498–504.
+Matsuda S, Koyasu S. 2000. Mechanisms of action of cyclosporine. Immunopharmacology
+47:119–125.
+McKenzie RW, Jumblatt JE, Jumblatt MM. 2000. Quantification of MUC2 and MUC5AC
+transcripts in human conjunctiva. Invest Ophthalmol Vis Sci 41:703–708.
+Micera A, Lambiase A, Bonini S. 2008. The role of neuromediators in ocular allergy. Curr
+Opin Allergy Clin Immunol 8:466–471.
+Moore JE, Vasey GT, Dartt DA, McGilligan VE, Atkinson SD, Grills C, Lamey PJ, Leccisotti A,
+Frazer DG, Moore TC. 2011. Effect of tear hyperosmolarity and signs of clinical ocular
+surface pathology upon conjunctival goblet cell function in the human ocular surface.
+Invest Ophthalmol Vis Sci 52:6174–6180.
+Mosimann BL, White MV, Hohman RJ, Goldrich MS, Kaulbach HC, Kaliner MA. 1993.
+Substance P, calcitonin generelated peptide, and vasoactive intestinal peptide increase in
+nasal secretions after allergen challenge in atopic patients. J Allergy Clin Immunol 92:95–104.
+Pflugfelder SC, De Paiva CS, Villarreal AL, Stern ME. 2008. Effects of sequential artificial tear
+and cyclosporine emulsion therapy on conjunctival goblet cell density and transforming
+growth factor-beta2 production. Cornea 27:64–69.
+Springer J, Geppetti P, Fischer A, Groneberg DA. 2003. Calcitonin gene-related peptide as
+inflammatory mediator. Pulm Pharmacol Ther 16:121–130.
+Stevenson W, Chauhan SK, Dana R. 2012. Dry eye disease: An immune-mediated ocular
+surface disorder. Arch Ophthalmol 130:90–100.
+Sumiyoshi M, Ricciuto J, Tisdale A, Gipson IK, Mantelli F, Argu¨eso P. 2008. Antiadhesive
+character of mucin O-glycans at the apical surface of corneal epithelial cells. Invest
+Ophthalmol Vis Sci 49:197–203.
+Tatebayashi K, Tanaka K, Yang HY, Yamamoto K, Matsushita Y, Tomida T, Imai M, Saito H.
+2007. Transmembrane mucins Hkr1 and Msb2 are putative osmosensors in the SHO1
+branch of yeast HOG pathway. EMBO J 26:3521–3533.
+Tuisku IS, Konttinen YT, Konttinen LM, Tervo TM. 2008. Alterations in corneal sensitivity
+and nerve morphology in patients with primary Sjo¨gren’s syndrome. Exp Eye Res 86:
+879–885.
+Uchino Y, Kawakita T, Miyazawa M, Ishii T, Onouchi H, Yasuda K, Ogawa Y, Shimmura S, Ishii
+N, Tsubota K. 2012. Oxidative stress induced inflammation initiates functional decline of
+tear production. PLoS ONE 7:e45805.
+Utine CA, Stern M, Akpek EK. 2010. Clinical review: Topical ophthalmic use of cyclosporin
+A. Ocul Immunol Inflamm 18:352–361.
+Yu DF, Chen Y, Han JM, Zhang H, Chen XP, ZouWJ, Liang LY, Xu CC, Liu ZG. 2008. MUC19
+expression in human ocular surface and lacrimal gland and its alteration in Sjogren
+syndrome patients. Exp Eye Res 86:403–411.
+JOURNAL OF CELLULAR PHYSIOLOGY
+2256 MANTELLI ET AL.

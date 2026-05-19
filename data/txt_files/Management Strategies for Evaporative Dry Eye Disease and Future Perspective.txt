@@ -1,0 +1,974 @@
+Current Eye Research
+ISSN: 0271-3683 (Print) 1460-2202 (Online) Journal homepage: www.tandfonline.com/journals/icey20
+Management Strategies for Evaporative Dry Eye
+Disease and Future Perspective
+Maurizio Rolando & Jesús Merayo-Lloves
+To cite this article: Maurizio Rolando & Jesús Merayo-Lloves (2022) Management Strategies for
+Evaporative Dry Eye Disease and Future Perspective, Current Eye Research, 47:6, 813-823, DOI:
+10.1080/02713683.2022.2039205
+To link to this article: https://doi.org/10.1080/02713683.2022.2039205
+© 2022 The Author(s). Published with
+license by Taylor & Francis Group, LLC.
+Published online: 06 May 2022.
+Submit your article to this journal 
+Article views: 12300
+View related articles
+View Crossmark data
+Citing articles: 38 View citing articles
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=icey20
+REVIEW
+Management Strategies for Evaporative Dry Eye Disease and Future Perspective
+Maurizio Rolandoa and Jesus Merayo-Lloves b,c
+a
+Ocular Surface Center, ISPRE Ophthalmic SRL, Genoa, Italy; b
+Instituto Universitario Fernandez-Vega, Fundacion de Investigacion
+Oftalmologica & Universidad de Oviedo, Oviedo, Spain; c
+Instituto de Investigacion Sanitaria del Principado de Asturias, Oviedo, Spain
+ABSTRACT
+Dry eye disease (DED) is a common disorder that remains challenging from a clinical perspective.
+Unstable or deficient tear film is a major factor contributing to DED and the inability to resolve
+the loss of tear film homeostasis that accompanies DED can result in a vicious circle of inflamma￾tion and treatment-refractory disease. Recently recognized as a multifactorial disease, the main
+etiological subtypes of DED are aqueous-deficient and evaporative which exist on a continuum,
+although evaporative dry eye (EDE) is the more frequent classification. Although attaining greater
+recognition in recent years, there is currently no consensus and no clear recommendation on how
+to manage EDE. Clarity on the early diagnosis and treatment of EDE may facilitate the avoidance
+of progression to chronic inflammation, permanent damage to the ocular surface, and treatment￾refractory disease. The purpose of this review was to identify current best practice for manage￾ment of EDE in order to help clinicians in providing accurate diagnosis and optimized treatment.
+We summarize recent literature considering the role of the lipid layer on tear film stability, the
+importance of its composition and of its dynamic behavior, and the link between its malfunction
+and the insurgence and maintenance of tear film-related diseases. We have provided an assess￾ment of the best management of lipid-deficient EDE based upon an understanding of disease
+pathophysiology, while indicating the flow of current treatments and possible future evolution of
+treatment approaches. Lipid containing eye drops may be considered as a step closer to natural
+tears from artificial aqueous tears because they more closely mimic the aqueous and lipid layers
+and may be used in combination with other management approaches. As a next step, we recom￾mend working with a wider expert group to develop full guidelines to enable patient-centered
+management of EDE.
+KEY POINTS
+
+Dry eye is a multifactorial disease of variable presentation with the tendency to become a
+chronic disease for which it is essential to identify and treat the main pathogenic mechanisms
+involved and tailor the treatment to the individual patient.
+
+Early intervention is needed to prevent the vicious cycle of DED and may require a multi￾faceted management approach.
+
+EDE is not just a problem of MGD but can be the result of anything affecting blinking, mucin
+spreading, aqueous layer volume and content.
+
+Lipid-containing eye drops may provide significant relief of symptoms by improving the lipid
+layer and its spreading ability and, as such, are an appropriate component of the overall
+management of lipid-deficient EDE; natural lipid-containing eye drops should be the pre￾ferred treatment.
+ARTICLE HISTORY
+Received 22 November 2021
+Accepted 3 February 2022
+KEYWORDS
+Diagnosis; dry eye disease;
+evaporative dry eye;
+meibomian gland
+dysfunction; treatment
+Introduction
+Dry eye disease (DED) is among the most common ocular
+disorders affecting tens of millions of individuals worldwide
+with an estimated prevalence of 5% to 50% of the adult
+population, the wide range resulting from studies involving
+symptoms with or without signs.1 Prevalence rates may even
+be higher in certain populations, affecting up to 75% of
+adults aged over 40 years, most often women.1 The different
+clinical presentations of DED has led to some misunder￾standing of the condition and the need for a consensus on a
+clinical definition, which was recently provided by a global
+panel of DED experts: “Dry eye is a multifactorial disease
+characterized by a persistently unstable and/or deficient tear
+film causing discomfort and/or visual impairment, accompa￾nied by variable degrees of ocular surface epitheliopathy,
+inflammation and neurosensory abnormalities”.
+2 The loss of
+homeostasis of the tear film is accompanied by ocular symp￾toms of DED which may be transient and reversible and
+associated with subclinical inflammation; however, a reduced
+ability or inability to re-equilibrate the ocular surface with
+CONTACT Maurizio Rolando maurizio.rolando@gmail.com Centro Superficie Oculare, ISPRE OFTALMICA srl, Via Antiochia 29 rosso, Genova, 16129, Italy
+
+2022 The Author(s). Published with license by Taylor & Francis Group, LLC.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives License (http://creativecommons.org/licenses/by-nc-nd/4.0/),
+which permits non-commercial re-use, distribution, and reproduction in any medium, provided the original work is properly cited, and is not altered, transformed, or built upon in any way.
+CURRENT EYE RESEARCH
+2022, VOL. 47, NO. 6, 813–823
+https://doi.org/10.1080/02713683.2022.2039205
+clinically evident inflammation and epithelial alterations
+identifies more severe disease states leading to chronic
+inflammation, persistent epithelial alterations, and frequent
+alterations in quality of vision.3 If early disease remains
+untreated, DED may become an irreversible chronic inflam￾matory condition exacerbated by reduced aqueous tear flow,
+increased tear film evaporation, and repeated nerve stimula￾tion, and these processes result in a self-perpetuating vicious
+circle of inflammation leading to treatment-refractory dis￾ease and permanent damage to the ocular surface.4
+The heterogeneity of DED presentations and differences
+in the disease course remain challenging from a clinical per￾spective. While 10% of subjects will have aqueous-deficient
+DED, more than 80% have evaporative DED, or a combin￾ation of both.5 DED can substantially affect vision and qual￾ity of life, as symptoms often impact on daily activities,
+including reading, writing, or working with a visual display
+monitor5,6
+. The economic impact of DED may be substan￾tial, with an estimated annual average cost of $783 per
+patient, and at a $4 billion cost to the US economy
+accounted for by the high prevalence.7
+Evaporative dry eye (EDE) can occur as a result of any￾thing affecting the eyelid, e.g., meibomian gland dysfunction
+(MGD) and blink-abnormalities, or the ocular surface, e.g.,
+mucin deficiency, reduced aqueous layer volume and con￾tent, contact lens wear.8 While artificial tears have long been
+used in treatment of DED to supplement tears, lipid-con￾taining eye drops have been developed more recently to
+closely mimic the combination of aqueous and lipid layers
+of the tear film.9 Although EDE has become increasingly
+important in recent years, there is currently no consensus
+and no clear recommendation on how to manage the dis￾order. In this paper we review the current literature giving
+an assessment of the best management of lipid-deficient
+EDE based upon an understanding of the pathophysiology
+of disease. For a comprehensive review of medications and
+devices for treatment of all types of dry eye, the reader is
+directed to an earlier publication.10
+Pathophysiology
+The central mechanism of DED may be either evaporative
+tear loss or inadequate aqueous production, or a combin￾ation of both, which leads to hyperosmolarity, inflammation,
+and tissue damage.11 Evaporation is an important feature in
+both forms of dry eye and tear water evaporation plays a
+major role in tear film thinning, instability and break￾up.12,13. The tear film lipid layer (TFLL) acts as a barrier to
+water evaporation. Disruption of the lipid layer exposes the
+water/lipid interface directly to air which leads to high evap￾oration rates. Any variation in the regularity, spreading and
+thickness of the TFLL or in the water vapor barrier activity
+and in the physical properties of its composition can lead to
+elevated water evaporation.13,14 In theory, the three proc￾esses of evaporation, tangential flow, and inward flow of
+tears across the surface of the cornea may collectively con￾tribute to tear film thinning, break-up and dry spot forma￾tion (Figure 1).15 However, while fluid flow into/out of the
+cornea is shown to have little influence on tear film break￾up.15 evaporation is demonstrated to be an important factor
+controlling tear-film thinning.16
+Three pathogenic factors are always present in DED at
+different levels of expression: 1) tear film instability, 2) epi￾thelial malfunction and damage, and 3) clinically evident
+inflammation. These factors can be exacerbated by two other
+pathogenic findings: lid margin changes and nerve damage
+(Figure 2).17,18 Tear film instability is caused by changes in
+lipid layer function and in quantity, quality, and availability
+of tear fluid.17 It is an important source of symptoms and a
+starting point for inflammation.
+Figure 1. Three directions of tear flow that can cause tear film thinning. Arrow
+1: flow across the outer tear surface, or evaporation; Arrow 2: flow into (or out
+of) the underlying epithelium; Arrow 3: flow into the plane of the tear film. If
+the outward flow (top arrow) is greater than the inward flow (bottom arrow)
+the tear film tends to thin. Republished with permission of the Association for
+Research in Vision & Ophthalmology from: Thinning rate of the precorneal and
+prelens tear films. Nichols JJ, et al. IOVS. 2005;46(7):2353-2361. #2005, permis￾sion conveyed through Copyright Clearance Center, Inc.
+Figure 2. The five main pathogenic factors building the vicious circle in ocular
+surface diseases.
+814 M. ROLANDO AND J. MERAYO-LLOVES
+Characteristics of the tear film lipid layer
+The TFLL is composed primarily of an outer nonpolar lipid
+layer (wax esters, cholesterol esters, diesters, triglycerides,
+diglycerides, monoglycerides, free sterols, and free fatty
+acids) and inner polar layer (phospholipids and omega￾hydroxy fatty acids) (Figure 3).19–21 At the ocular surface,
+lipids of the TFLL prevent tear evaporation and are respon￾sible for maintenance of ocular homeostasis, optimization of
+tear spreading patterns, direction of aqueous flow and pre￾vention of film overflow during blinking.9 In addition, the
+nonpolar lipids are supposed to be the main factor respon￾sible for the control of tear water evaporation; they provide
+a clear optical surface, and present a barrier against foreign
+objects and organisms.22 Polar lipids (phospholipids) are
+present in a relatively small concentration in the tear film,
+but they play a critical role in determining its surface prop￾erties and stability; decreasing the phospholipid/neutral lipid
+ratio decreases the stability of the lipid film.23 Hence, as a
+treatment option, lipomimetic eyedrops containing phospho￾lipids may be preferred to minimize the evaporative loss of
+tears from the ocular surface.23 The polar tear lipids allow
+for an interface between the nonpolar lipid layer and the
+aqueous/mucin phase.24 This interface may create structural
+stability by lowering surface tension of the aqueous tears,
+increasing viscoelasticity, and promoting proper segregation
+of the tear film molecules, thus allowing normal spreading
+of the tears and preventing ocular surface dewetting.24
+Patients lacking a visible lipid layer have a 4-fold higher rate
+of tear film evaporation than those with a continuous lipid
+layer, regardless of lipid layer thickness. Alterations in tear
+fluid flow or lipid composition or downregulation of tear
+proteins are found in most types of DED.9
+The constitution of the tear film depends on three ele￾ments: the secretion of tears, the correct spreading of tears
+on the ocular surface and their resorption, partly by the tear
+ducts and partly by evaporation on the ocular surface.
+Organization of the tear film is dynamic, and the tear film
+permanently modifies its characteristics in response to
+mechanical factors such as eyelid movements but also the
+amount of lipid and aqueous secretions, evaporation and
+drainage.21 The tear film structure can be destabilized in dif￾ferent pathological conditions but also in the many situa￾tions of everyday life that are accompanied by a disruption
+of the balance between ocular surface and environment. The
+meibomian glands, found in the upper and lower eyelids,
+excrete lipids onto the ocular surface, lubricating the ocular
+surface during blinking and protecting against tear evapor￾ation. Through dysfunction of the meibomian glands,
+reduced lipid secretion may contribute to tear film instabil￾ity.25 Regulation of lipid secretion from the meibomian
+gland occurs via neuronal, hormonal, and vascular influen￾ces. Moreover, meibomian gland function may be under dir￾ect neuronal (predominantly parasympathetic but also
+sympathetic and sensory sources) or indirect vascular (vaso￾active intestinal polypeptide) influence to control lipid syn￾thesis and/or excretion.26,27
+Alteration of the lipid layer and role in ocular
+surface disease
+Thickness of the lipid layer is an indicator of the presence
+of lipids but does not completely reflect their efficiency and
+is not a guarantee of their ability to hinder evaporation.28
+Thinning of the lipid layer on the tear film can be the result
+not just of the lack of lipids but of their inability to spread
+correctly into an effective elastic bilayer. The importance of
+quick and even distribution of an equilibrated lipid film is
+confirmed in studies by Goto et al. showing the presence of
+Figure 3. Model of the human tear film showing organization and components of the lipid and aqueous layers from the air surface to the corneal epithelium.
+Reproduced (translated) with permission from: Creuzot-Garcher C. II. Anatomy and regulation of the tear film. Figure 1–14. In: Report of the French Society of
+Ophthalmology 2015, Surface Oculaire (em-consulte.com) Copyright #2015, Elsevier Masson SAS. All rights reserved.
+CURRENT EYE RESEARCH 815
+delayed irregular spreading of lipids in the outer layer of the
+tear film in dry eye patients.29
+Oxidative stress associated with direct contact with the
+environment, pollutants, and UV light exposure is a very
+potent and continuous stressor of the ocular surface and
+internal structures of the eye. The lipid-rich fraction of tears
+is particularly sensitive to oxidative damage that could alter
+tear film quality.20,30 Oxidation inevitably changes the phys￾ical and chemical properties of lipids leading to rigidity in
+the lipid layer and restricting the ability of lipids to spread
+across the ocular surface.14,31,32 Lipid peroxidation has been
+shown to perturb the bilayer structure and modify mem￾brane properties such as membrane fluidity, permeability to
+different substances, and bilayer thickness.31,32 The existence
+of a direct relationship between lipid peroxidation and
+membrane leakiness has been proposed. Furthermore,
+increased membrane permeability caused by oxidation of
+lipids and membrane proteins can disrupt ion gradients,
+therefore altering metabolic processes.33
+The performance of the lipid layer is strongly influenced
+by the underlying aqueous tear fluid and the spread of the
+lipid layer could be related to the volume of tear liquid in
+the aqueous compartments in the tear film.34 Some glyco￾proteins dissolved in the aqueous/mucin layer are funda￾mental for the lipid spreading. Impairment or malfunction
+of the lid-associated glands influences the quantity and
+quality of tear lipids and is a possible source of inflamma￾tion and infection. Additionally, the lipid layer spreads uni￾formly immediately after a blink in healthy eyes, while the
+distribution time of the lipid layer after a blink is signifi￾cantly prolonged in patients with aqueous-deficient DED.34
+This is confirmed by the finding of a significant negative
+correlation between short lipid layer stabilizing time and
+the Schirmer test: the shorter time of spreading and stabi￾lizing of the lipid layer correlates with the higher quantity
+of tear fluid available on the ocular surface.35
+Improvements in the ability to characterize the bio￾chemistry of the tear film may lead to the identification of
+new markers to diagnose and potentially treat DED. Tear
+film biomarkers are of increasing interest owing to their
+important role in the pathogenesis of ocular surface dam￾age, and their potential role in better diagnosis and moni￾toring, as well as facilitating personalized treatment
+strategies.36,37
+Epithelial malfunction caused by friction, adverse envir￾onmental factors, ocular surface irritation, and/or nerve
+impairment can lead to further injury. This plays a key role
+in the inflammatory reaction, initially involving innate
+immunological processes but after prolonged exposure lead￾ing to an adaptive reaction responsible for chronic disease.17
+Nerve function impairment and anatomical changes affect
+both epithelial viability and turnover in addition to tear film
+production and require further investigation.17
+The role of the ocular surface microbiome in mainten￾ance of the microenvironment homeostasis has been realized
+in recent years.38,39 However, colonizing bacteria may also
+play a role in disease states. The commensal eye bacteria
+produce enzymes, like lipases, and toxins that can provoke
+cellular damage at the ocular surface, inducing an alteration
+of the lipid layer of the tear film with instability, ocular sur￾face inflammation, and irritative symptoms.
+Propionibacterium sp., Corynebacterium sp. and S. aureus
+strains, from patients with chronic blepharitis produce lipo￾lytic exoenzymes that can hydrolyze cholesterol esters and
+degrade lipids of the tear film40–42. This activity provokes
+symptoms similar to those occurring in dry eye, without an
+evident infective status. The exact role of bacteria in chang￾ing tear film lipids has yet to be fully resolved.
+The lid margins are essential to maintain a healthy tear
+film and distribute it over the ocular surface to achieve an
+optimal refractive interface.43 Lid margin changes, includ￾ing thickening and rounding causing a reduced congruity
+with the eye bulb as well as the presence of eyelid notches
+can affect the shape and function of the menisci, such that
+tear film distribution and lipid layers spreading can be
+adversely affected.17 To achieve an effective lipid layer, the
+nonpolar component, which retards water evaporation, is
+dependent on a properly structured polar phase, and this
+composite lipid layer must maintain integrity during a
+blink.44,45 The central upper and lower lids overlap during
+spontaneous blinking, which prevents full lid margin
+apposition and provides the necessary space for tear film
+mixing. Incomplete blinks that may occur during some
+vision tasks, such as reading or while looking at a visual
+display screen, are thought to cause lipid layer deficien￾cies.43 Lid deformity, e.g., due to swelling, influences tear
+film spreading by affecting lid apposition and dynamics.
+Drying of the ocular surface due to poor lid apposition or
+to lid deformity, leading to exposure or poor tear film
+resurfacing, are accepted causes of ocular surface drying,
+but they have received little formal study. Dry eye prob￾lems may also be caused by problems of lid congruity
+after plastic surgery of the lids.46 Lid margin structures
+undergo some changes with increasing age, including
+increased lid margin thickness and increased laxity with or
+without ectropion, which may be directly responsible for
+poor tear film quality due to poor mixing of tear film
+components.43
+Meibomian gland dysfunction (MGD) is reported to be
+the most common cause of EDE. MGD is characterized by
+terminal duct obstruction and/or qualitative/quantitative
+changes in the glandular secretion of meibum, which con￾tributes to the lipid layer of the tear film.8,19 Meibomian
+gland dropout, blockage and/or inflammation leads to stasis
+of the meibum inside the gland, and proliferation of bacteria
+and mites including Staphylococcus sp. and Demodex follicu￾lorum. This ingrowth of bacteria enhances the production of
+lipid-degrading lipases and esterases that increase the viscos￾ity and melting temperature of the meibum, reducing its
+secretion onto the surface of the tear film and thus com￾pletes the self-sustaining MGD circle.25 It is the meibomian
+gland changes that connect the two vicious circles of MGD
+and DED. The absence of normal meibum reduces the lipid
+content of the tear film, allowing entry into the DED vicious
+circle, in which the lipid-deficient tear film promotes
+816 M. ROLANDO AND J. MERAYO-LLOVES
+increased tear evaporation, hyperosmolarity and
+inflammation.25
+Management
+Diagnosis
+A recent publication from a dry eye Experts Board defines a
+three-step method for accurate diagnosis of DED as: 1)
+administration of a patient symptoms questionnaire, 2)
+observation of the ocular surface at the slit lamp to study
+the tear film and staining of the ocular surface to identify
+epithelial damage and lid conditions, and 3) testing for tear
+clearance and corneal sensitivity.47 While multiple question￾naires exist for the diagnosis of DED, assessment of treat￾ment, and impact of DED on quality of life.6,48 the
+Symptom Assessment in Dry Eye (SANDE) questionnaire,
+which comprises only two questions that the patient answers
+on a 100 mm horizontal visual analog scale to quantify the
+patient-reported symptoms of ocular dryness and/or irrita￾tion, may be preferred to quantify the severity, frequency
+and change in symptoms over time, e.g., for repeat comfort
+assessment.49 The SANDE questionnaire is rapid, inexpen￾sive, reliable, easy to perform and easy for the patient to
+complete; it does not depend on language as the patient’s
+responses are recorded on a visual scale. In a direct com￾parison, the SANDE questionnaire performed well against
+the 12-item symptom-frequency based Ocular Surface
+Disease Index (OSDI) questionnaire.50 The OSDI measures
+frequency of symptoms, environmental triggers and vision
+related quality of life, and is widely used in DED clinical tri￾als.51 The OSDI and Dry Eye Questionnaire 5-question sur￾vey (DEQ-5) are recommended by the TFOS DEWS II
+committee as symptom screening tools for DED diagnosis.52
+DEQ-5 is a shortened version of the DEQ which includes
+questions about the severity and frequency of ocular discom￾fort and dryness and can discriminate between DED diagno￾ses.53 It is important to differentiate lipid-related symptoms
+from other causes so that the appropriate tear substitute
+may be prescribed. For example, the patient may describe
+itching which may indicate allergic disease; however, by
+determining the location of the itching at the lid margin
+rather than the ocular bulb this would identify lipid-related
+problems. A questionnaire that probes the time of day that
+the symptoms are most burdensome, such as the
+McMonnies questionnaire for dry eye classification, may
+help to distinguish symptoms that are more frequent in the
+morning and associated with lipid-related problems.54
+Several technology-related tests have been developed to
+help the clinician to identify lipid-layer problems, these
+include interferometry.55 meibography.56 dynamic interfer￾ence lipid pattern (DLIP) test.57 and the meibomian gland
+expressor.58 While seemingly attractive, some, such as mei￾bography, need expensive instruments and are only useful to
+detect extreme cases, i.e., normal and very severe meibomian
+dysfunction, leaving uncertainty in the intermediate presen￾tations. A morphologic test (such as infrared meibography)
+which allows observation of meibomian gland structure
+should be combined with a function test (e.g., meibomian
+gland expression or DLIP test) to obtain a useful evaluation
+of lipid layer performance. Tear break-up time (TBUT), the
+interval of time that elapses between a complete blink and
+the first break in the tear film, is frequently used to test tear
+film stability and is a good marker of lipid layer efficiency
+with short TBUT indicative of poor lipid layer quality.52
+Interferometry is also used to assess the stability of the tear
+film in a non-invasive manner and can also be used to
+measure the thickness of the lipid layer (TearScienceVR
+,
+LipiViewVR
+) which may be indicative of meibomian gland
+dysfunction.52,59 Interferometry of the normal eye provides
+repeatable pictures after blinking, while in the dry eye shape
+changes occur because the lipid layer cannot spread effi￾ciently. Dynamic interferometry may be evaluated with sev￾eral devices, including commercial devices and the slit lamp,
+and should be used more often. A shorthand approach to
+diagnosing lipid-deficient EDE through symptoms, signs and
+diagnostic tests is outlined in Table 1. Signs and symptoms
+indicative of lipid-deficient EDE include worse symptoms in
+the morning, inflammation of the meibomian gland or lid
+margin, and insufficient or partial blinking. Additional diag￾nostic criteria identified through tests include altered TBUT,
+interferometry, and random or no exposition areas as identi￾fied through examination of the staining pattern of the ocu￾lar surface.
+It is of critical importance that the diagnostic approach
+determines the relevance of each of the pathogenic factors
+in the patient’s clinical presentation such that an effective,
+long-lasting, and personalized treatment can be administered
+and modified if necessary. As a multifactorial disease with
+multiform presentation and course, discerning the different
+involvement of each component of the ocular surface struc￾ture is essential to identify the best treatment approach tail￾ored to the individual needs of the patient. A simple
+flowchart developed by an Experts Board provides guidance
+on achieving the right diagnosis and appropriate treatment
+based upon identification of the etiological factors involved
+(Figure 4).47
+Treatment
+Treatment of DED should be aimed at re-establishing and
+maintaining the ocular surface system homeostasis that was
+disrupted due to the vicious circle of the disease. All factors
+present which contribute to and maintain the vicious circle
+of the disease must be considered and potentially treated
+simultaneously (Figure 4). A management algorithm for
+patient-centered treatment based upon the predominant
+pathophysiology and severity of symptoms, while indicating
+Table 1. Diagnostic criteria to identify lipid-deficient evaporative dry
+eye disease.
+Signs & symptoms
+Symptoms worse in the morning
+Inflammation of the meibomian gland / lid margin
+Insufficient / partial blinking
+Alteration in diagnostic tests
+Tear film break-up time (TBUT)
+Interferometry (slit lamp, LipiViewVR
+, TearScopeVR
+)
+Staining pattern: random / no exposition areas
+CURRENT EYE RESEARCH 817
+the flow of treatments is provided in Figure 5. Preventive
+measures that include behavioral changes and the regular
+use of lipid-containing eye drops are outlined with relevance
+to screen over-users with DED symptoms who tend to have
+a lower blink rate and incomplete blinking which leads to
+longer evaporation time and reduced expression of lipids
+from meibomian glands (Figure 5). Tear substitutes are trad￾itionally used for the treatment of DED to improve tear vol￾ume. While ocular lubricants are a mainstay of therapy, they
+generally provide only temporary symptom relief and do not
+target the underlying pathophysiology. Artificial tears with
+higher viscosity (e.g., gels) may be preferred for their
+Figure 4. Multi-item flowchart to define the diagnosis and appropriate treatment of patients with dry eye disease. CMC: carboxymethylcellulose; Hp: hydroxypropyl
+guar; PRGF: plasma rich in growth factors; PVA: polyvinyl alcohol.
+Figure 5. Management algorithm for customized treatment based upon patient differentiation according to predominant pathophysiology and symptom severity.
+818 M. ROLANDO AND J. MERAYO-LLOVES
+extended efficacy due to enhanced ocular residence; how￾ever, they can be associated with decreased tear clearance
+and blurred vision.60
+For 24-hour DED management, daytime use of artificial
+tears to protect the eye from aggravating environmental fac￾tors in combination with night-time use of gels to relieve
+more severe symptomatology is recommended.61 To increase
+tear film stability, polymers containing hyaluronic acid are
+considered the gold standard.47,62,63 For epithelial protection,
+trehalose is demonstrated to have a bioprotective effect on
+ocular surface alterations resulting from preservation of the
+integrity of proteins and lipids, and protection against oxi￾dative stress, hypoxia, and apoptosis.47 If inflammation is
+clinically evident, initiation of treatment with a corticoster￾oid plus cyclosporine is advised to reduce production of
+proinflammatory substances to obtain a rapid response fol￾lowed by maintenance of response with cyclosporine alone.47
+Omega-3 fatty acids are useful to treat inflammation
+through the formation of potent anti-inflammatory and pro￾resolving lipid mediators..17Eye drops containing n-3 eicosa￾pentaenoic (EPA) and docosahexaenoic acids (DHA) have a
+positive effect on the ocular surface and may have neuropro￾tective properties.
+64,65 Dietary modification to treat DED
+with essential fatty acid supplementation has been the focus
+of some research65–67. However, a randomized controlled
+trial for oral daily doses of EPA and DHA versus olive oil
+(placebo) found no significant differences between treatment
+groups for both the signs and symptoms of DED over
+12 months.68 although, the polyphenols present in olive oil
+have demonstrated anti-inflammatory effects, which may
+have been a cofounder in this study69–71. A recent systematic
+review and meta-analysis concluded that long-chain omega-
+3 supplements may have little to no benefit on dry eye
+symptoms relative to placebo, although there was some
+improvement on clinical signs.72
+For patients with a significant component of EDE and
+MGD, procedures targeting clearance of meibomian gland
+obstructions can be employed using heat or mechanical
+energy (e.g., warm compresses, self-administered lid mas￾sages, eye-warming devices, thermal pulsation treatment or
+intraductal meibomian gland probing) to restore natural
+flow of meibum.10,73 In addition to interventional proce￾dures, the use of topical and systemic antibiotics (tetracy￾clines, macrolides, fluoroquinolones) can help to regulate
+bacterial flora, decreasing the secretion of bacterial lipases
+that act on altered lipid secretions and release fatty acids
+that are irritating to the glandular ducts.47 The interven￾tional procedures may also be supplemented with topical
+medicines including artificial tears and lipid-containing eye
+drops as and when required to break the cycle of chronic
+MGD (Figure 5).
+Lipid-based treatments
+Lipid-containing eye drops are proposed as a step closer to
+natural tears because they more closely mimic the aqueous
+and lipid layers. Lipid-containing eyedrops potentially have
+a longer-lasting lubricating effect while minimally interfering
+with patient’s vision.74 Such lipid-based agents would be
+expected to benefit patients with EDE as well as related ocu￾lar surface diseases. Topical lipid-based products are
+designed to restore the lipid layer of the tear film to reduce
+tear evaporation rate and restore tear film stability thereby
+improving signs and symptoms of MGD.74,75 Historically,
+lipid-containing lubricant eye drops have not been widely
+used as they tended to induce blurred vision; however, in
+recent years newer formulations have been better accepted.76
+Lipid-containing artificial tears may be superior to sodium
+hyaluronate-containing drops in terms of improving optical
+quality and ocular surface parameters in patients with sig￾nificant MGD.77 Agents used to control inflammation may
+be used in combination with lipid-containing artificial tears
+to increase tolerability, although the combination should be
+avoided in the presence of significant inflammation. There is
+a pro-inflammatory activity of phospholipids in an inflam￾matory environment whereby phospholipases produce poly￾unsaturated lisophopholipid molecules which are involved in
+the progression of inflammation.78
+Lipid-based eye drops are demonstrated to decrease tear
+film osmolarity and improve tear film stability more effect￾ively than water-based eye drops in patients with mild to
+moderate EDE.75 A systematic literature review found lipid￾containing lubricant eye drops to be effective on improving
+selected signs of dry eye and thus they could be recom￾mended for treatment.74 Lipids used in artificial lubricants
+include, mineral oil, castor oil, polar phospholipid surfac￾tant, glycerin, soy oil, phospholipid liposomes.9,76,79
+Liposomal lid sprays, emulsion eye drops, gels, and other
+lipid-based carriers have shown favorable tolerability and
+efficacy in improving symptoms of dry eye.9,80,81 Oil-in￾water emulsions reduce the signs and symptoms of all types
+of dry eye, but are particularly recommended for lipid-defi￾cient dry eye patients.82
+To counteract the effects of hyperosmolarity, components
+in the aqueous phase of the emulsions, such as polyols (gly￾cerol), disaccharides (trehalose), and some amino acids may
+provide additional effect on the ocular surface (e.g., lubrica￾tion, osmoprotection), and may be recommended to protect
+ocular epithelial cells.9,83 Cationic emulsions may provide
+optimal ocular spreading and residence time with ocular
+surface benefits to improve DED, especially in MGD
+patients.84,85 Anionic polar phospholipids in lubricant drops
+act as surfactants and provide a stable interface between
+neutral nonpolar lipids and the aqueous layer thereby
+replenishing and stabilizing the lipid layer, improving lipid
+layer thickness, and meibomian gland functionality.86
+Lipid-containing lubricant eye drops are shown to
+improve tear film breakup time, reduce ocular discomfort,
+and are well tolerated in patients with lipid-deficient DED.86
+More recently an eye drop formulated as a nanoemulsion
+(composed of particles that are generally 10-1000 nm in size
+and packed with both oil and aqueous components)
+increased average lipid layer thickness in subjects with low
+baseline levels and improved symptoms of DED.87 The
+nanoemulsion formulation allows for the components of the
+drop to be dispersed onto the surface of the eye similarly to
+CURRENT EYE RESEARCH 819
+that of an aqueous eye drop, theoretically adding oil to the
+tear film without the temporary effects that accompany
+highly viscous eye drops. While lipid-containing eye drops
+are effective, artificial lipids cannot completely replace the
+complexity of natural lipids, such as phospholipids, sterol
+esters, free fatty esters, medium-chain triglycerides, and the
+healthy lipid bilayer. This is an important limitation of lipid
+supplementation in practice. Besides, it has been observed
+that it is difficult to see a dry eye without lipids on the lid
+reservoir. The problem may not be the quantity of lipids on
+the surface rather the quality of the lipids and whether they
+spread properly on the ocular surface. Oxidative stress may
+have a huge part in this given it increases the rigidity of the
+tear film and then reduces the spreading and decreases its
+impermeability. A microemulsion eye drop formulation of
+phospholipids, triglycerides and unsaturated fatty acids con￾taining oil droplets in sub-micron size is demonstrated to
+improve tear lipid barrier function by restoring the lipid
+layer as well as a wettability similar to that of natural tears.
+Topical administration of the microemulsion to patients
+with dry eye is shown to improve both signs and symp￾toms.88,89 In a randomized trial, a similar microemulsion
+formulation containing natural triglycerides, a mixture of
+phospholipids and glycerol was shown to improve tear sta￾bility and decrease osmolarity and corneal staining, with
+results exceeding that of the active comparators sodium hya￾luronate and hydroxypropyl methylcellulose.75 These results
+are consistent with improvements in the lipid layer of the
+tear film resulting from prolonged use of emulsion
+drops.75,90 In a 6-month comparison of the long-term
+improvement in dry eye symptomatology with lipid and
+non-lipid-based artificial tears, participants with predomin￾antly EDE due to tear lipid insufficiency (with suboptimal
+lipid layer thickness at baseline; grade  3) preferentially
+benefited from lipid-based nanoemulsion eye drops.91
+Lipid peroxidase can change the water permeability
+through a bilayer of lipids and be one of the reasons for the
+increased EDE. Effective control of evaporation is not
+dependent just on the volume of lipids but also on their
+quality and on the correct environment of the ocular surface
+system (blinking efficiency, lipids, aqueous volume and com￾position, mucins spreading and quality) as well as the integ￾rity of the epithelium. Water permeability through the
+bilayer is increased in the presence of oxidized lipids, and
+water defects are observed frequently at high concentrations
+of oxidized lipids. Wong-Ekkabut and colleagues suggest
+that one mechanism of cell membrane damage is the
+increase in membrane permeability due to the presence of
+oxidized lipids.14 The best approach may be to tackle the
+causes by treating the condition and restoring the natural
+lipids of the tear film, and to use lipid eye drops morning
+and evening (in the right quantity) to supplement the lipid
+layer, while hydrating during the day with bioprotective eye
+drops, such as those containing sodium hyaluronate. An oil￾in-water emulsion containing soybean oil and egg yolk
+phospholipids administered in combination with aqueous
+sodium hyaluronate eyedrops was associated with significant
+improvement in tear volume compared with sodium
+hyaluronate eyedrops alone in a mouse model of DED.90
+Further, the combined administration of lipid tear substitute
+and hyaluronate decreased the lag time before the effect was
+measurable. Recent studies show that formulations of cross￾linked hyaluronic acid combined with liposomes and crocin,
+and uncrosslinked hyaluronic acid combined with other
+components, such as tamarind seed polysaccharide, and are
+effective for management symptoms of DED.92,93
+When selecting appropriate treatment for DED, the
+exclusion of preservatives from the eye drop formulation is
+an important consideration. Inclusion of the preservative
+benzalkonium chloride (BAC), the most commonly used
+preservative in ophthalmic solutions, is prevalent despite the
+noted potential for exacerbating DED. BAC is shown to
+induce some clinicopathological features of DED in animal
+models.94 BAC is shown to cause tear film instability, loss of
+goblet cells, conjunctival squamous metaplasia and apop￾tosis, disruption of the corneal epithelium barrier, and dam￾age to deeper ocular tissues.95 The mechanisms are not fully
+elucidated but may involve immuno-inflammatory reactions
+as well as direct impact on the lipid components of the tear
+film and cell membranes. To avoid BAC-related toxicity, eye
+drop solutions containing alternative ‘soft’ preservatives have
+been developed (e.g., polyquaternium-1 [PQ-1], stabilized
+oxychloro complex [SOC]); however, there is also evidence
+toxicity and damages to the ocular surface with extended
+exposure to ‘soft’ preservatives and cationic agents such as
+cetalkonium chloride in animal studies and human cell
+models.96,97 Therefore, preservative-free eye-drop formula￾tion must be used when available for the appropriate man￾agement of EDE, especially as lipid-based products have
+higher viscosity which leads to longer residence time on the
+ocular surface.47
+Conclusions
+A recent expert group has provided consensus on a clinical
+definition of DED as a multifactorial disease, a definition
+that has been lacking leading to some misunderstanding of
+this disease. Clarity on the clinical definition of DED will
+facilitate diagnosis and early treatment, and the avoidance of
+progression to chronic inflammation, loss of tear film
+homeostasis, permanent damage of the ocular surface and
+treatment-refractory disease. In this review, we have sum￾marized recent literature considering the role of the lipid
+layer on tear film stability, the importance of its compos￾ition and of its dynamic behavior, the link of its malfunction
+with the insurgence and maintenance of tear film-related
+diseases, and the possibility of restoring it. In addition, we
+have provided an assessment of the best management of
+lipid-deficient EDE based upon an understanding of disease
+pathophysiology, while indicating the flow of current treat￾ments and possible future evolution of treatment
+approaches. Although EDE has become increasingly import￾ant in recent years, there is currently no consensus and no
+clear recommendation on how to manage the disorder. As a
+next step, we recommend working with a wider expert
+820 M. ROLANDO AND J. MERAYO-LLOVES
+group to develop full guidelines to enable patient-centered
+management and facilitate personalized medicine.
+Acknowledgements
+Editorial assistance in preparation of this article was provided by Lisa
+Buttle, PhD, of ChillPill Media Ltd., which was funded by
+Laboratoires Thea.
+Disclosure statement
+Financial support and sponsorship: MR: Alcon, Alfa-Intes, Baif￾International, Bausch & Lomb, Bruschettini, Kala, Medivis, Off-Italia,
+Novartis, Santen, Sifi, Sooft-Fidia, Sun Pharma, Thea Pharma.JM-L:
+Brill Pharma, Santen, Sifi, Sophia, Thea Pharma. Funding was provided
+by Laboratoires Thea. Financial support: Provided by
+Laboratoires Thea.
+ORCID
+Maurizio Rolando http://orcid.org/0000-0002-4982-1462
+References
+1. Stapleton F, Alves M, Bunya VY, Jalbert I, Lekhanont K, Malet
+F, Na KS, Schaumberg D, Uchino M, Vehof J, et al. TFOS
+DEWS II epidemiology report. Ocul Surf. 2017;15(3):334–365.
+doi:10.1016/j.jtos.2017.05.003.
+2. Tsubota K, Pflugfelder SC, Liu Z, Baudouin C, Kim HM,
+Messmer EM, Kruse F, Liang L, Carreno-Galeano JT, Rolando
+M, et al. Defining dry eye from a clinical perspective. IJMS.
+2020;21(23):9271. doi:10.3390/ijms21239271.
+3. Barabino S, Aragona P, di Zazzo A, Rolando M, with the contri￾bution of selected ocular surface experts from the Societa
+Italiana di Dacriologia e Superficie Oculare Updated definition
+and classification of dry eye disease: Renewed proposals using
+the nominal group and Delphi techniques. Eur J Ophthalmol.
+2021;31(1):42–48. doi:10.1177/1120672120960586.
+4. Rolando M, Zierhut M, Barabino S. Should we reconsider the
+classification of patients with dry eye disease? Ocul Immunol
+Inflamm. 2021;29(3):521–523.
+5. Rouen PA, White ML. Dry eye disease: prevalence, assessment,
+and management. Home Healthc Now. 2018;36(2):74–83. doi:10.
+1097/NHH.0000000000000652.
+6. Barabino S, Labetoulle M, Rolando M, Messmer EM.
+Understanding symptoms and quality of life in Patients With
+Dry Eye Syndrome. Ocul Surf. 2016;14(3):365–376. doi:10.1016/j.
+jtos.2016.04.005.
+7. Yu J, Asche CV, Fairchild CJ. The economic burden of dry eye
+disease in the United States: a decision tree analysis. Cornea.
+2011;30(4):379–387. doi:10.1097/ICO.0b013e3181f7f363.
+8. Craig JP, Nichols KK, Akpek EK, Caffery B, Dua HS, Joo C-K,
+Liu Z, Nelson JD, Nichols JJ, Tsubota K, et al. TFOS DEWS II
+definition and classification report. Ocul Surf. 2017;15(3):
+276–283. doi:10.1016/j.jtos.2017.05.008.
+9. Garrigue JS, Amrane M, Faure MO, Holopainen JM, Tong L.
+Relevance of lipid-based products in the management of dry eye
+disease. J Ocul Pharmacol Ther. 2017;33(9):647–661. doi:10.1089/
+jop.2017.0052.
+10. O’Neil EC, Henderson M, Massaro-Giordano M, Bunya VY.
+Advances in dry eye disease treatment. Curr Opin Ophthalmol.
+2019;30(3):166–178. doi:10.1097/ICU.0000000000000569.
+11. Bron AJ, de Paiva CS, Chauhan SK, Bonini S, Gabison EE, Jain
+S, Knop E, Markoulli M, Ogawa Y, Perez V, et al. TFOS DEWS
+II pathophysiology report. Ocul Surf. 2017;15(3):438–510. doi:10.
+1016/j.jtos.2017.05.011.
+12. Rolando M, Refojo MF, Kenyon KR. Increased tear evaporation
+in eyes with keratoconjunctivitis sicca. Arch Ophthalmol. 1983;
+101(4):557–558. doi:10.1001/archopht.1983.01040010557003.
+13. Mishima S, Maurice DM. The oily layer of the tear film and
+evaporation from the corneal surface. Exp Eye Res. 1961;1:39–45.
+doi:10.1016/S0014-4835(61)80006-7.
+14. Wong-Ekkabut J, Xu Z, Triampo W, Tang IM, Tieleman DP,
+Monticelli L. Effect of lipid peroxidation on the properties of
+lipid bilayers: a molecular dynamics study. Biophys J. 2007;
+93(12):4225–4236. doi:10.1529/biophysj.107.112565.
+15. Nichols JJ, Mitchell GL, King-Smith PE. Thinning rate of the
+precorneal and prelens tear films. Invest Ophthalmol Vis Sci.
+2005;46(7):2353–2361. doi:10.1167/iovs.05-0094.
+16. Kimball SH, King-Smith PE, Nichols JJ. Evidence for the major
+contribution of evaporation to tear film thinning between blinks.
+Invest Ophthalmol Vis Sci. 2010;51(12):6294–6297. doi:10.1167/
+iovs.09-4772.
+17. Aragona P, Giannaccare G, Mencucci R, Rubino P, Cantera E,
+Rolando M. Modern approach to the treatment of dry eye, a
+complex multifactorial disease: a P.I.C.A.S.S.O. board review. Br
+J Ophthalmol. 2021;105(4):446–453. doi:10.1136/bjophthalmol-
+2019-315747.
+18. Aragona P, Rolando M. Towards a dynamic customised therapy
+for ocular surface dysfunctions. Br J Ophthalmol. 2013;97(8):
+955–960. doi:10.1136/bjophthalmol-2012-302568.
+19. Nichols KK, Foulks GN, Bron AJ, Glasgow BJ, Dogru M,
+Tsubota K, Lemp MA, Sullivan DA. The international workshop
+on meibomian gland dysfunction: executive summary. Invest
+Ophthalmol Vis Sci. 2011;52(4):1922–1929. doi:10.1167/iovs.10-
+6997a.
+20. Green-Church KB, Butovich I, Willcox M, Borchman D, Paulsen
+F, Barabino S, Glasgow BJ. The international workshop on mei￾bomian gland dysfunction: report of the subcommittee on tear
+film lipids and lipid-protein interactions in health and disease.
+Invest Ophthalmol Vis Sci. 2011;52(4):1979–1993. doi:10.1167/
+iovs.10-6997d.
+21. Creuzot-Garcher C. II. 2015. Anatomy and regulation of the tear
+film. In: Pisella PJ, Baudouin C and Hoang-Xuan T (eds) Surface
+oculaire. French society of ophthalmology. Paris: Elsevier￾Masson.
+22. Rantam€aki AH, Wiedmer SK, Holopainen JM. 2013. Melting
+points-the key to the anti-evaporative effect of the tear film wax
+esters . Invest Ophthalmol Vis Sci. 54(8):5211–5217. doi:10.1167/
+iovs.13-12408.
+23. Agarwal P, Craig JP, Rupenthal ID. Formulation considerations
+for the management of dry eye disease. Pharmaceutics. 2021;
+13(2):207. [Epub Feb 3]. doi:10.3390/pharmaceutics13020207.
+24. Pucker AD, Haworth KM. The presence and significance of
+polar meibum and tear lipids. Ocul Surf. 2015;13(1):26–42. doi:
+10.1016/j.jtos.2014.06.002.
+25. Baudouin C, Messmer EM, Aragona P, Geerling G, Akova YA,
+Benıtez-del-Castillo J, Boboridis KG, Merayo-Lloves J, Rolando
+M, Labetoulle M. Revisiting the vicious circle of dry eye disease:
+a focus on the pathophysiology of meibomian gland dysfunction.
+Br J Ophthalmol. 2016;100(3):300–306. doi:10.1136/bjophthal￾mol-2015-307415.
+26. Dartt DA, Willcox MDP. Complexity of the tear film:
+Importance in homeostasis and dysfunction during disease. Exp
+Eye Res. 2013;117:1–3. doi:10.1016/j.exer.2013.10.008.
+27. McCulley JP, Shine WE. The lipid layer of tears: dependent on
+meibomian gland function. Exp Eye Res. 2004;78(3):361–365.
+doi:10.1016/s0014-4835(03)00203-3.
+28. King-Smith PE, Hinel EA, Nichols JJ. Application of a novel
+interferometric method to investigate the relation between lipid
+layer thickness and tear film thinning. Invest Ophthalmol Vis
+Sci. 2010;51(5):2418–2423. doi:10.1167/iovs.09-4387.
+29. Goto E, Tseng SC. Differentiation of lipid tear deficiency dry
+eye by kinetic analysis of tear interference images. Arch
+Ophthalmol. 2003;121(2):173–180. doi:10.1001/archopht.121.2.
+173.
+CURRENT EYE RESEARCH 821
+30. Nezzar H, Mbekeani JN, Noblanc A, Chiambaretta F, Drevet JR,
+Kocer A. Investigation of antioxidant systems in human meibo￾mian gland and conjunctival tissues. Exp Eye Res. 2017;165:
+99–104. doi:10.1016/j.exer.2017.09.005.
+31. Leyko W, Ertel D, Bartosz G. Effect of hyperthermia and lipid
+peroxidation on the erythrocyte membrane structure. Int J
+Radiat Biol. 1991;59(5):1185–1193. doi:10.1080/
+09553009114551061.
+32. Bruch RC, Thayer WS. Differential effect of lipid peroxidation
+on membrane fluidity as determined by electron spin resonance
+probes. Biochim Biophys Acta Biomembr. 1983;733(2):216–222.
+doi:10.1016/0005-2736(83)90525-4.
+33. Dobretsov GE, Borschevskaya TA, Petrov VA, Vladimirov YA.
+The increase of phospholipid bilayer rigidity after lipid peroxida￾tion. FEBS Lett. 1977;84(1):125–128. doi:10.1016/0014-
+5793(77)81071-5.
+34. Goto E, Tseng SCG. Kinetic Analysis of tear interference images
+in aqueous tear deficiency dry eye before and after punctal
+occlusion. Invest Ophthalmol Vis Sci. 2003;44(5):1897–1905. doi:
+10.1167/iovs.02-0818.
+35. Ring MH, Rabensteiner DF, Horwath-Winter J, Boldin I,
+Horantner R, Haslwanter T. Introducing a new parameter for €
+the assessment of the tear film lipid layer. Invest Ophthalmol
+Vis Sci. 2012;53(10):6638–6644. doi:10.1167/iovs.12-10257.
+36. Craig JP, Nelson JD, Azar DT, Belmonte C, Bron AJ, Chauhan
+SK, de Paiva CS, Gomes JAP, Hammitt KM, Jones L, et al.
+TFOS DEWS II report executive summary. Ocul Surf. 2017;
+15(4):802–812. doi:10.1016/j.jtos.2017.08.003.
+37. Heidari M, Noorizadeh F, Wu K, Inomata T, Mashaghi A. Dry
+eye disease: emerging approaches to disease analysis and therapy.
+JCM. 2019;8(9):1439. doi:10.3390/jcm8091439.
+38. Petrillo F, Pignataro D, Lavano MA, Santella B, Folliero V,
+Zannella C, Astarita C, Gagliano C, Franci G, Avitabile T, et al.
+Current evidence on the ocular surface microbiota and related
+diseases. Microorganisms. 2020;8(7):1033. doi:10.3390/
+microorganisms8071033.
+39. Zhang X, M VJ, Qu Y, He X, Ou S, Bu J, Jia C, Wang J, Wu H,
+Liu Z, et al. Dry eye management: targeting the ocular surface
+microenvironment. IJMS. 2017;18(7):1398. doi:10.3390/
+ijms18071398.
+40. Perkins RE, Kundsin RB, Pratt MV, Abrahamsen I, Leibowitz
+HM. Bacteriology of normal and infected conjunctiva. J Clin
+Microbiol. 1975;1(2):147–149. doi:10.1128/jcm.1.2.147-149.1975.
+41. Dougherty JM, McCulley JP. Bacterial lipases and chronic
+blepharitis. Invest Ophthalmol Vis Sci. 1986;27(4):486–491.
+42. McCulley JP, Dougherty JM. Bacterial aspects of chronic bleph￾aritis. Trans Ophthalmol Soc UK. 1986;105(Pt 3):314–318.
+43. Karakus S, Dai X, Zhu X, Gottsch JD. The role of lid margin
+structures in the meibomian gland function and ocular surface
+health. Expert Rev Ophthalmol. 2021;16(1):11–18. doi:10.1080/
+17469899.2021.1826309.
+44. McCulley JP, Shine WE. The lipid layer: the outer surface of the
+ocular surface tear film. Biosci Rep. 2001;21(4):407–418. doi:10.
+1023/A:1017987608937.
+45. Bron AJ, Tiffany JM, Gouveia SM, Yokoi N, Voon LW.
+Functional aspects of the tear film lipid layer. Exp Eye Res. 2004;
+78(3):347–360. doi:10.1016/j.exer.2003.09.019.
+46. DEWS The definition and classification of dry eye disease:
+report of the definition and classification subcommittee of the
+international dry eye workshop (2007). Ocul Surf. 2007;5:75–92.
+47. Rolando M, Cantera E, Mencucci R, Rubino P, Aragona P. The
+correct diagnosis and therapeutic management of tear dysfunc￾tion: recommendations of the P.I.C.A.S.S.O. board. Int
+Ophthalmol. 2018;38(2):875–895. doi:10.1007/s10792-017-0524-4.
+48. Gomes JAP, Santo RM. The impact of dry eye disease treatment
+on patient satisfaction and quality of life: A review. Ocul Surf.
+2019;17(1):9–19. doi:10.1016/j.jtos.2018.11.003.
+49. Schaumberg DA, Gulati A, Mathers WD, Clinch T, Lemp MA,
+Nelson JD, Foulks GN, Dana R. Development and validation of
+a short global dry eye symptom index. Ocul Surf. 2007;5(1):
+50–57. doi:10.1016/S1542-0124(12)70053-8.
+50. Amparo F, Schaumberg DA, Dana R. Comparison of two ques￾tionnaires for dry eye symptom assessment. Ophthalmology.
+2015;122(7):1498–1503. doi:10.1016/j.ophtha.2015.02.037.
+51. Okumura Y, Inomata T, Iwata N, Sung J, Fujimoto K, Fujio K,
+et al. A review of dry eye questionnaires: measuring patient￾reported outcomes and health-related quality of life. Diagnostics.
+2020;10(8):559. doi:10.3390/diagnostics10080559.
+52. Wolffsohn JS, Arita R, Chalmers R, Djalilian A, Dogru M,
+Dumbleton K, et al. TFOS DEWS II diagnostic methodology
+report. Ocul Surf. 2017;15(3):539–574. doi:10.1016/j.jtos.2017.05.
+001.
+53. Chalmers RL, Begley CG, Caffery B. Validation of the 5-Item
+Dry Eye Questionnaire (DEQ-5): Discrimination across self￾assessed severity and aqueous tear deficient dry eye diagnoses.
+Contact Lens and Anterior Eye. 2010;33(2):55–60. doi:10.1016/j.
+clae.2009.12.010.
+54. McMonnies C, Ho A, Wakefield D. Optimum dry eye classifica￾tion using questionnaire responses. Adv Exp Med Biol. 1998;438:
+835–838. doi:10.1007/978-1-4615-5359-5_117.
+55. Arita R, Morishige N, Fujii T, Fukuoka S, Chung JL, Seo KY,
+Itoh K. Tear interferometric patterns reflect clinical tear dynam￾ics in dry eye patients. Invest Ophthalmol Vis Sci. 2016;57(8):
+3928–3934. doi:10.1167/iovs.16-19788.
+56. Arita R. Meibography: A Japanese Perspective. Invest
+Ophthalmol Vis Sci. 2018;59(14):DES48–DES55. doi:10.1167/
+iovs.17-23631.
+57. Rolando M, Valente C, Barabino S. New test to quantify lipid
+layer behavior in healthy subjects and patients with keratocon￾junctivitis sicca. Cornea. 2008;27(8):866–870. doi:10.1097/ICO.
+0b013e31816f630e.
+58. Korb DR, Blackie CA. Meibomian gland diagnostic expressibil￾ity: correlation with dry eye symptoms and gland location.
+Cornea. 2008;27(10):1142–1147. doi:10.1097/ICO.
+0b013e3181814cff.
+59. Finis D, Pischel N, Schrader S, Geerling G. Evaluation of lipid
+layer thickness measurement of the tear film as a diagnostic tool
+for Meibomian gland dysfunction. Cornea. 2013;32(12):
+1549–1553. doi:10.1097/ICO.0b013e3182a7f3e1.
+60. Lievens C, Berdy G, Douglass D, Montaquila S, Lin H, Simmons
+P, et al. Evaluation of an enhanced viscosity artificial tear for
+moderate to severe dry eye disease: A multicenter, double￾masked, randomized 30-day study. Cont Lens Anterior Eye.
+2019;42(4):443–449. doi:10.1016/j.clae.2018.12.003.
+61. Guillon M, Shah S. Rationale for 24-hour management of dry
+eye disease: A review. Cont Lens Anterior Eye. 2019;42(2):
+147–154. doi:10.1016/j.clae.2018.11.008.
+62. Posarelli C, Passani A, Del Re M, Fogli S, Toro MD, Ferreras A,
+Figus M. Cross-Linked Hyaluronic Acid as Tear Film Substitute.
+J Ocul Pharmacol Ther. 2019;35(7):381–387. doi:10.1089/jop.
+2018.0151.
+63. Eberle Heitzmann M, Thumm D, Baudouin C. A review of the
+efficacy, safety, and tolerability of LacryconVR eye drops for the
+treatment of dry eye syndrome. J Fr Ophtalmol. 2019;42(6):
+642–654. doi:10.1016/j.jfo.2018.08.008.
+64. Cortina MS, Bazan HE. Docosahexaenoic acid, protectins and
+dry eye. Curr Opin Clin Nutr Metab Care. 2011;14(2):132–137.
+65. Barabino S, Horwath-Winter J, Messmer EM, Rolando M,
+Aragona P, Kinoshita S. The role of systemic and topical fatty
+acids for dry eye treatment. Prog Retin Eye Res. 2017;61:23–34.
+doi:10.1016/j.preteyeres.2017.05.003.
+66. Giannaccare G, Pellegrini M, Sebastiani S, Bernabei F, Roda M,
+Taroni L, Versura P, Campos EC. Efficacy of omega-3 fatty acid
+supplementation for treatment of dry eye disease: a meta-analysis
+of randomized clinical trials. Cornea. 2019;38(5):565–573. doi:10.
+1097/ICO.0000000000001884.
+67. Pellegrini M, Senni C, Bernabei F, Cicero AFG, Vagge A,
+Maestri A, Scorcia V, Giannaccare G. The role of nutrition and
+822 M. ROLANDO AND J. MERAYO-LLOVES
+nutritional supplements in ocular surface diseases. Nutrients.
+2020;12(4):952. doi:10.3390/nu12040952.
+68. Asbell PA, Maguire MG, Pistilli M, Ying GS, Szczotka-Flynn LB,
+Hardten DR, Lin MC, Shtein RM, Dry Eye Assessment and
+Management Study Research Group n-3 Fatty acid supplemen￾tation for the treatment of dry eye disease. N Engl J Med. 2018;
+378(18):1681–1690. doi:10.1056/NEJMoa1709691.
+69. George ES, Marshall S, Mayr HL, Trakman GL, Tatucu-Babet
+OA, Lassemillante AM, et al. The effect of high-polyphenol
+extra virgin olive oil on cardiovascular risk factors: A systematic
+review and meta-analysis. Crit Rev Food Sci Nutr. 2019;59(17):
+2772–2795. doi:10.1080/10408398.2018.1470491.
+70. Aparicio-Soto M, Sanchez-Hidalgo M, Rosillo M, Castejon ML, 
+Alarcon-de-la-Lastra C. Extra virgin olive oil: a key functional
+food for prevention of immune-inflammatory diseases. Food
+Funct. 2016;7(11):4492–4505. doi:10.1039/c6fo01094f.
+71. Piroddi M, Albini A, Fabiani R, Giovannelli L, Luceri C, Natella
+F, et al. Nutrigenomics of extra-virgin olive oil: A review.
+Biofactors. 2017;43(1):17–41. doi:10.1002/biof.1318.
+72. Downie LE, Ng SM, Lindsley KB, Akpek EK. Omega-3 and
+omega-6 polyunsaturated fatty acids for dry eye disease.
+Cochrane Database Syst Rev. 2019;12:CD011016.
+73. Lam PY, Shih KC, Fong PY, Chan TCY, Ng AL, Jhanji V, Tong
+L. A review on evidence-based treatments for meibomian gland
+dysfunction. Eye Contact Lens. 2020;46(1):3–16. doi:10.1097/ICL.
+0000000000000680.
+74. Lee SY, Tong L. Lipid-containing lubricants for dry eye: a sys￾tematic review. Optom Vis Sci. 2012;89(11):1654–1661. doi:10.
+1097/OPX.0b013e31826f32e0.
+75. McCann LC, Tomlinson A, Pearce EI, Papa V. Effectiveness of
+artificial tears in the management of evaporative dry eye.
+Cornea. 2012;31(1):1–5. doi:10.1097/ICO.0b013e31821b71e6.
+76. Geerling G, Tauber J, Baudouin C, Goto E, Matsumoto Y, O’Brien
+T, et al. The international workshop on meibomian gland dysfunc￾tion: report of the subcommittee on management and treatment of
+meibomian gland dysfunction. Invest Ophthalmol Vis Sci. 2011;
+52(4):2050–2064. doi:10.1167/iovs.10-6997g.
+77. Mihaltz K, Faschinger EM, Vecsei-Marlovits PV. Effects of
+lipid- versus sodium hyaluronate-containing eye drops on optical
+quality and ocular surface parameters as a function of the mei￾bomian gland dropout rate. Cornea. 2018;37(7):886–892. doi:10.
+1097/ICO.0000000000001523.
+78. Oz-Arslan D, Ruscher W, Myrtek D, Ziemer M, Jin Y, Damaj €
+BB, et al. IL-6 and IL-8 release is mediated via multiple signal￾ing pathways after stimulating dendritic cells with lysophospholi￾pids. J Leukoc Biol. 2006;80(2):287–297. doi:10.1189/jlb.1205751.
+79. Geerling G, Baudouin C, Aragona P, Rolando M, Boboridis KG,
+Benıtez-Del-Castillo JM, et al. Emerging strategies for the diag￾nosis and treatment of meibomian gland dysfunction:
+Proceedings of the OCEAN group meeting. Ocul Surf. 2017;
+15(2):179–192. doi:10.1016/j.jtos.2017.01.006.
+80. Acar D, Molina-Martınez IT, Gomez-Ballesteros M, Guzman￾Navarro M, Benıtez-Del-Castillo JM, Herrero-Vanrell R. Novel
+liposome-based and in situ gelling artificial tear formulation for
+dry eye disease treatment. Cont Lens Anterior Eye. 2018;41(1):
+93–96. doi:10.1016/j.clae.2017.11.004.
+81. Vicario-de-la-Torre M, Benıtez-del-Castillo JM, Vico E, Guzman
+M, de-Las-Heras B, Herrero-Vanrell R, Molina-Martınez IT.
+Design and characterization of an ocular topical liposomal prepar￾ation to replenish the lipids of the tear film. Invest Ophthalmol Vis
+Sci. 2014;55(12):7839–7847. doi:10.1167/iovs.14-14700.
+82. Kaercher T, Thelen U, Brief G, Morgan-Warren RJ, Leaback R. A
+prospective, multicenter, noninterventional study of Optive Plus(VR )
+in the treatment of patients with dry eye: the prolipid study. Clin
+Ophthalmol. 2014;8:1147–1155. doi:10.2147/OPTH.S58464.
+83. Baudouin C, Aragona P, Messmer EM, Tomlinson A, Calonge
+M, Boboridis KG, Akova YA, Geerling G, Labetoulle M, Rolando
+M. Role of hyperosmolarity in the pathogenesis and manage￾ment of dry eye disease: proceedings of the OCEAN group meet￾ing. Ocul Surf. 2013;11(4):246–258. doi:10.1016/j.jtos.2013.07.003.
+84. Amrane M, Creuzot-Garcher C, Robert PY, Ismail D, Garrigue
+JS, Pisella PJ, Baudouin C. Ocular tolerability and efficacy of a
+cationic emulsion in patients with mild to moderate dry eye dis￾ease - a randomised comparative study. J Fr Ophtalmol. 2014;
+37(8):589–598. doi:10.1016/j.jfo.2014.05.001.
+85. Lallemand F, Daull P, Benita S, Buggage R, Garrigue JS.
+Successfully improving ocular drug delivery using the cationic
+nanoemulsion, Novasorb. J Drug Deliv. 2012;2012:604204. doi:
+10.1155/2012/604204.
+86. Jerkins G, Greiner JV, Tong L, Tan J, Tauber J, Mearza A,
+Srinivasan S. A comparison of efficacy and safety of two lipid￾based lubricant eye drops for the management of evaporative
+dry eye disease. OPTH. 2020;Volume 14:1665–1673. doi:10.2147/
+OPTH.S256351.
+87. Weisenberger K, Fogt N, Swingle Fogt J. Comparison of nanoe￾mulsion and non-emollient artificial tears on tear lipid layer
+thickness and symptoms. J Optom. 2021;14(1):20–27. doi:10.
+1016/j.optom.2020.03.002.
+88. Aragona P, Rolando M, Bonini S, Barozzi C, Falchetti R, De Gregorio
+F. 2006. Efficacy and safety of an ophthalmic phospholipid-based
+microemulsion (Lipofilm) in patients suffering from keratoconjuncti￾vitis sicca: single-masked randomised clinical trial. In: 6th
+International Symposium on Ocular Pharmacology and Therapeutics
+– ISOPT Berlin, Germany. Pianoro, Italy: Medimond srl.
+89. Caporossi A, Rolando M, Barozzi C, F R, De Gregorio F. 2006.
+Effects of an ophthalmic phospholipid-based microemulsion
+(Lipofilm) on re-epithelization processes in patients who underwent
+to photorefractive keratectomy (PRK). Preliminary results. In: 6th
+International Symposium on Ocular Pharmacology and Therapeutics
+– ISOPT Berlin, Germany. Pianoro, Italy: Medimond srl.
+90. Scifo C, Barabino S, De Pasquale G, Blanco AR, Mazzone MG,
+Rolando M. Effects of a new lipid tear substitute in a mouse
+model of dry eye. Cornea. 2010;29(7):802–806. doi:10.1097/ICO.
+0b013e3181ca327e.
+91. Craig JP, Muntz A, Wang MTM, Luensmann D, Tan J, Trave
+Huarte S, Xue AL, Jones L, Willcox MDP, Wolffsohn JS.
+Developing evidence-based guidance for the treatment of dry eye
+disease with artificial tear supplements: A six-month multicentre,
+double-masked randomised controlled trial. Ocul Surf. 2021;20:
+62–69. doi:10.1016/j.jtos.2020.12.006.
+92. Sanchez-Gonzalez JM, De-Hita-Cantalejo C, Sanchez-Gonzalez
+MC. Crosslinked hyaluronic acid with liposomes and crocin for
+management symptoms of dry eye disease caused by moderate
+meibomian gland dysfunction. Int J Ophthalmol. 2020;13(9):
+1368–1373. doi:10.18240/ijo.2020.09.05.
+93. Barabino S, Rolando M, Nardi M, Bonini S, Aragona P, Traverso
+CE. The effect of an artificial tear combining hyaluronic acid
+and tamarind seeds polysaccharide in patients with moderate dry
+eye syndrome: a new treatment for dry eye. Eur J Ophthalmol.
+2014;24(2):173–178. doi:10.5301/ejo.5000355.
+94. Zhang R, Park M, Richardson A, Tedla N, Pandzic E, de Paiva
+CS, Watson S, Wakefield D, Di Girolamo N. Dose-dependent
+benzalkonium chloride toxicity imparts ocular surface epithelial
+changes with features of dry eye disease. Ocul Surf. 2020;18(1):
+158–169. doi:10.1016/j.jtos.2019.11.006.
+95. Baudouin C, Labbe A, Liang H, Pauly A, Brignole-Baudouin F.
+Preservatives in eyedrops: the good, the bad and the ugly. Prog Retin
+Eye Res. 2010;29(4):312–334. doi:10.1016/j.preteyeres.2010.03.001.
+96. Meloni M, Balzaretti S, Ceriotti L. Medical devices biocompati￾bility assessment on HCE: Evidences of delayed cytotoxicity of
+preserved compared to preservative free eye drops. Regul Toxicol
+Pharmacol. 2019;106:81–89. doi:10.1016/j.yrtph.2019.04.022.
+97. Dutescu RM, Uthoff D, Panfil C, Schrage N. High-frequency
+application of cationic agents containing lubricant eye drops
+causes cumulative corneal toxicity in an ex vivo eye irritation
+test model. J Ocul Pharmacol Ther. 2020;36(10):725–731. doi:
+10.1089/jop.2020.0043.
+CURRENT EYE RESEARCH 823

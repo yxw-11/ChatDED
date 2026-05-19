@@ -1,0 +1,1241 @@
+International Journal of
+Molecular Sciences
+Review
+Defining Dry Eye from a Clinical Perspective
+Kazuo Tsubota 1,* , Stephen C. Pflugfelder 2
+, Zuguo Liu 3
+, Christophe Baudouin 4
+,
+Hyo Myung Kim 5
+, Elisabeth M. Messmer 6
+, Friedrich Kruse 7
+, Lingyi Liang 8
+,
+Jimena Tatiana Carreno-Galeano 9
+, Maurizio Rolando 10 , Norihiko Yokoi 11
+,
+Shigeru Kinoshita 12 and Reza Dana 9
+1 Department of Ophthalmology, Keio University School of Medicine, Tokyo 160-8582, Japan
+2 Department of Ophthalmology, Baylor College of Medicine, Houston, TX 77030, USA; stevenp@bcm.edu
+3 Eye Institute of Xiamen University, Xiamen 361102, China; zuguoliu@xmu.edu.cn
+4 Department of Ophthalmology, Quinze-Vingts Hospital, 75012 Paris, France; cbaudouin@15-20.fr
+5 Korea University Medical Center, Anam Hospital, Seoul 02841, Korea; hyomkim@hanmail.net
+6 Department of Ophthalmology, Ludwig Maximilian University, 80539 Munich, Germany;
+Elisabeth.Messmer@med.uni-muenchen.de
+7 Department of Ophthalmology, University of Erlangen-Nuremberg, 91054 Erlangen, Germany;
+Friedrich.Kruse@uk-erlangen.de
+8 Zhongshan Ophthalmic Center, Guangzhou 510060, China; lianglingyi@gzzoc.com
+9 Cornea & Refractive Surgery, Massachusetts Eye & Ear, Boston, MA 02114, USA;
+JimenaTatiana_CarrenoGaleano@MEEI.HARVARD.EDU (J.T.C.-G.); Reza_Dana@meei.harvard.edu (R.D.)
+10 ISPRE OPHTHALMICS (Instituto di Medicina Oftalmica), 16129 Genoa, Italy; maurizio.rolando@gmail.com
+11 Department of Ophthalmology, Kyoto Prefectural University of Medicine, Kyoto 602-8566, Japan;
+nyokoi@koto.kpu-m.ac.jp
+12 Department of Frontier Medical Science and Technology for Ophthalmology, Kyoto Prefectural University of
+Medicine, Kyoto 602-8566, Japan; shigeruk@koto.kpu-m.ac.jp
+* Correspondence: tsubota@z3.keio.jp; Tel.: +81-3-5363-3219
+Received: 27 October 2020; Accepted: 27 November 2020; Published: 4 December 2020
+
+
+Abstract: Over the past decades, the number of patients with dry eye disease (DED) has increased
+dramatically. The incidence of DED is higher in Asia than in Europe and North America, suggesting the
+involvement of cultural or racial factors in DED etiology. Although many definitions of DED have
+been used, discrepancies exist between the various definitions of dry eye disease (DED) used across
+the globe. This article presents a clinical consensus on the definition of DED, as formulated in
+four meetings with global DED experts. The proposed new definition is as follows: “Dry eye
+is a multifactorial disease characterized by a persistently unstable and/or deficient tear film (TF)
+causing discomfort and/or visual impairment, accompanied by variable degrees of ocular surface
+epitheliopathy, inflammation and neurosensory abnormalities.” The key criteria for the diagnosis of
+DED are unstable TF, inflammation, ocular discomfort and visual impairment. This definition also
+recommends the assessment of ocular surface epitheliopathy and neurosensory abnormalities in each
+patient with suspected DED. It is easily applicable in clinical practice and should help practitioners
+diagnose DED consistently. This consensus definition of DED should also help to guide research and
+clinical trials that, to date, have been hampered by the lack of an established surrogate endpoint.
+Keywords: dry eye; definition; inflammation; tear film breakup; dry eye symptoms; dry eye signs;
+corneal epitheliopathy; neuropathic pain
+Int. J. Mol. Sci. 2020, 21, 9271; doi:10.3390/ijms21239271 www.mdpi.com/journal/ijms
+Int. J. Mol. Sci. 2020, 21, 9271 2 of 24
+1. Introduction and Existing Definitions of Dry Eye Disease (DED)
+Dry eye disease (DED) is a common ocular disorder affecting tens of millions of people; its incidence
+and prevalence in Asia is higher than in Europe and North America, suggesting that cultural or racial
+factors are involved in DED etiology [1–6].
+The common perception of DED is one of a simple disease, primarily caused by decreased tear
+production—such as the aqueous tear deficiency (ATD) type of dry eye seen in Sjögren’s syndrome.
+However, evidence suggests that a number of conditions may contribute to an unstable tear film
+(TF) [7,8]. DED owing to decreased tear production and DED resulting from tear instability alone
+share some features but could also exist independently. Severe ATD also leads to a short tear breakup
+time (TBUT).
+The different clinical presentations of DED has led to some misunderstandings of the condition
+and the need for a consensus on a clinical definition. Over the years, various organizations have
+proposed different definitions and diagnostic criteria for DED.
+In 2017, the most comprehensive of these was the Tear Film & Ocular Surface Society Dry Eye
+Workshop (TFOS DEWS II®) Report, which was the result of a workshop involving DED specialists,
+academic researchers, optometrists and ophthalmologists [8]. The Asia Dry Eye Society also proposed a
+new definition in the same year [7], while the American Academy of Ophthalmology (AAO) proposed
+the new Dry Eye Syndrome Preferred Practice Patterns in 2018 [9]. All of these definitions emphasize
+that an unstable TF is a key feature of DED, but several discrepancies exist among the criteria.
+Several of the commonly used DED definitions are summarized in Table 1. Different criteria/parameters
+have been used in each definition, some of which are difficult to measure clinically. Several definitions
+have also used instability of TF as a primary or secondary criterion for DED.
+Table 1. Dry eye disease definitions proposed from 1995 onwards.
+Group Instability of Tear Film Global
+Consensus
+NEI/Industry Workshop on Clinical Trials in Dry Eye (1995) [10] − −
+Pflugfelder (2003) [11] P −
+TFOS DEWS I (2007) [12] S +
+TFOS DEWS II (2017) [8] S +
+AAO PPP (2018) [9] P −
+Japanese Dry Eye Research Group (2006) [13] − −
+Korean Corneal Disease Study Group [14] P −
+Chinese Medical Association Ophthalmic Branch Corneal Group [15,16] P −
+Asia Dry Eye Society 2017 [7] P +
+Japanese Dry Eye Research Group (2016) [17] P −
+New Global Consensus Definition P −
+P and S indicate if tear instability was a primary (P) or secondary (S) criterion in the definition, respectively. + and −
+in the Global Consensus column indicate if the definition was approved by consensus of an international group or
+organization. NEI: National Eye Institute; TFOS: Tear Film & Ocular Surface Society; DEWS: International Dry Eye
+Workshop; AAO PPP: American Academy of Ophthalmology Preferred Practice Patterns.
+DED symptoms and short TBUT (≤5 s) are the criteria most often used to diagnose DED in three
+Asian countries (China, Japan and South Korea). Recent studies have emphasized the importance
+of an unstable TF, which can present as decreased TBUT in DED [18–20]. Consequently, in 2017,
+representatives from China, Japan and South Korea proposed the Asia Dry Eye Society definition of
+DED as “a multifactorial disease characterized by unstable TF causing a variety of symptoms and/or
+visual impairment, potentially accompanied by ocular surface damage” [7]. DED can be diagnosed by
+the presence of both decreased TBUT and subjective symptoms. However, ocular surface staining was
+not included as an essential diagnostic criterion in this iteration.
+To achieve clinical consensus on the definition of DED, physician-scientists who specialized in
+DED met four times: in Chicago at the AAO Annual Meeting (2016), in New Orleans at the AAO
+Int. J. Mol. Sci. 2020, 21, 9271 3 of 24
+Annual Meeting (2017), in Barcelona at the World Ophthalmology Congress (2018) and in Chicago at
+the AAO Annual Meeting (2018). The documents produced were approved by all participants, a list of
+which is provided at the end of this article (Appendix A).
+Clinical Implications
+• The range of definitions has contributed to confusion and a lack of consistent diagnosis of DED
+across the globe.
+• Tear film stability is a sensitive measure of tear dysfunction that can be easily measured, making
+it a clinically practical and reproducible marker of DED/tear dysfunction. It should be the key
+criterion in a clinical definition of DED.
+2. A Proposed New Clinical Definition of Dry Eye Disease
+Despite the various proposed definitions of DED, a single global consensus does not exist.
+Our discussion about a global definition started in 2016, and active discussions were held on four
+occasions based on the TFOS DEWS II® Report, Asia Dry Eye Society, and the preferred practice
+patterns of AAO [7–9]. All discussions were conducted from a practical point of view. The primary
+question was how to make a proper diagnosis of DED in the clinic. The osmometer and noninvasive
+TBUT measurement were excluded, because these measurements are not available in all specialist
+eye clinics.
+The final new definition proposed is: “Dry eye is a multifactorial disease characterized by a persistently
+unstable and/or deficient tear film causing discomfort and/or visual impairment, accompanied by variable
+degrees of ocular surface epitheliopathy, inflammation and neurosensory abnormalities.”
+The definition emphasizes the importance of unstable TF, inflammation, discomfort and visual
+impairment. In addition, epitheliopathy and neurosensory abnormalities are included. According to
+the definition, a DED diagnosis can be made when patients have an unstable TF and ocular discomfort
+and or visual impairment. Since a patient with decreased TBUT and/or ocular discomfort and no
+ocular surface dye staining is easily misdiagnosed as having neurosis, TBUT should be measured
+using fluorescein dye for each patient with ocular discomfort. As we describe later, clinicians need to
+be cautious in order to not miss visual impairment due to DED, while ocular surface epitheliopathy,
+inflammation and neurosensory abnormalities should also be assessed in each patient. These important
+concepts will be discussed in detail in following sections.
+Clinical Implications
+• The proposed new definition of DED is based on a consensus of agreement between DED experts
+in different regions worldwide.
+• The new definition is aimed at providing practitioners with a practical tool that helps diagnose
+DED in the clinic.
+• Using this simple clinical definition, all practitioners can make a precise and consistent diagnosis
+of DED.
+• As the diagnosis can be made using the DED questionnaire and a slit lamp examination
+with fluorescein, all practitioners can easily apply this definition in their clinics following
+the recommendations outlined in this article.
+3. Unstable Tear Film: The Importance of Tear Film Breakup Patterns
+The current published data on tears, the TF and DED suggest that the primary mechanisms associating
+tear abnormalities to DED symptoms on opening the eye and, at the time of blinking, are tear film breakup
+(TFBU) and increased friction, respectively [21]. Ultimately, these mechanisms result in varying degrees of
+ocular surface epitheliopathy, inflammation and neurosensory response, each of which is responsible for
+specific DED symptoms [21,22].
+Int. J. Mol. Sci. 2020, 21, 9271 4 of 24
+3.1. Dynamic Process Involved in the Establishment of Tear Film to Understand Tear Film Breakup
+Tear film dynamics comprise two processes, during which the precorneal TF is established.
+One tprocess is the deposition of aqueous tears (ATs) to the corneal surface at eye opening [22–27],
+and the other is the redistribution of the TF after eye opening. During the deposition process, there are only
+polar lipids of the tear film lipid layer (TFLL), and in this process, polar lipids may contaminate the corneal
+surface when wettability is impaired. When the deposition process is terminated, the surface tension
+gradient of the TFLL causes the upward spread of the TFLL [22–25,27–29]. During this upward spread,
+a dimple (i.e., a transient thinning) is produced behind the leading edge of the spreading TFLL due to the
+upward drag of the aqueous TF exerted by the TFLL [28,30–32]. Thus, TF redistribution occurs, and when
+the upward spread of the TFLL and upward movement of the aqueous TF finishes, the redistribution is
+terminated. During the redistribution process, lower-tear meniscus-induced aqueous-TF thinning [33,34]
+occur simultaneously with the upward movement of the aqueous TF [22,24,25,27].
+3.2. Tear Film Breakup Patterns for Tear Film-Oriented Diagnosis and Their Interpretations
+A tear film-oriented diagnosis is a concept in which information is obtained on the integrity of the
+TFLL, the aqueous TF and the wettability of the corneal surface that is responsible for TFBU [24,25].
+Although presently not a quantitative assessment, this information allows for (1) identification of
+the insufficient component of the TF or of the corneal surface epithelium responsible for TFBU,
+(2) subclassification of DED and (3) selection of optimal topical therapy.
+In severe ATD, not enough ATs are available for deposition. The result can be observed as
+either “no” or “incomplete” upward movement of fluorescein-stained aqueous TF or spread of the
+TFLL [27,35] (we termed this breakup (BU) pattern “area break” [22,24,25,27]; see Figure 1). However,
+even if ATs are sufficient, BU of TF can occur even when aqueous tears are sufficient due to a lack of
+mucins, which reduce the wettability of the epithelium (i.e., “spot break” (SB) [22,24,25,27] in Figure 1).
+In mild-to-moderate ATD, BU is likely to occur in the inferior part of the cornea (i.e., “line break” (LB)
+[22,24,25, in Figure 1). In addition, when the dimple encounters a corneal surface with decreased
+wettability, BU occurs (i.e., “dimple break” (DB) [22,25,27] in Figure 1). After the establishment of the
+TF, BU occurs even in normal eyes (i.e., “random break” (RB) [22,24,25,27] in Figure 1), and this happens
+more frequently in cases of DED with facilitated evaporation. The expansion of a tear film breakup
+becomes more rapid, depending on the decrease of wettability of the corneal surface [22,27,36–38],
+and it is possible that “line break” and “random break” can accompany the rapid expansion of the
+dark spot (i.e., “line break with rapid expansion” (LB with RE) in Figure 1).
+Int. J. Mol. Sci. 2020, 21, x FOR PEER REVIEW 5 of 25
+Figure 1. Fluorescein breakup (BU) patterns seen immediately after eye opening and after the eye is 
+kept open. Related to the establishment of the tear film (TF) on the cornea, there are three phases for 
+each fluorescein breakup pattern that can be seen. In the first phase, an area break (AB) or a spot 
+break (SB), respectively, can be seen in cases of severe aqueous tear deficient dry eye (ATDDE) or 
+decreased wettability dry eye (DWDE). In the second phase, a line break (LB) or a dimple break (DB), 
+respectively, can be seen in cases with mild-to-moderate ATDDE or DWDE. In the third phase, a 
+random break (RB) can be seen in cases of evaporative dry eye (EDE). RB is also seen in normal eyes, 
+in which the BU time is within the normal range, i.e., generally, >10 s. In addition, a modification of 
+BU patterns suggesting the association with DWDE is the rapid expansion of BU spots sometimes 
+seen in LB and RB.
+3.3. Clinical Implications
+• Tear-film oriented diagnosis is practical and clinically useful for clinicians engaged in the 
+management of DED [22,24,27].
+• Further advancement of this approach is expected through a deeper understanding of the 
+function of each component of the ocular surface.
+• TF stability is maintained by the components of the TF and ocular surface epithelium, and 
+insufficiency of those components results in TFBU, a visible core manifestation of DED.
+• Classification of TFBU patterns may elucidate the pathophysiology of DED. 
+• Clinicians can assess tear film-oriented diagnosis to learn more about the insufficient 
+components responsible for TFBU, assess the specific DED subtype and, therefore, decide on 
+the most appropriate treatment.
+4. Ocular Discomfort: The Importance of Symptoms in Dry Eye Disease 
+DED can be a frustrating disease for patients and ophthalmologists. Ocular discomfort is the 
+most common complaint, and as a central feature of the disease, it is a fundamental component of 
+the definition of DED [7,8,12]. In most cases, ocular discomfort is displayed before DED is 
+diagnosed, and it is critical for monitoring the progression of the condition and response to 
+treatments. 
+Figure 1. Fluorescein breakup (BU) patterns seen immediately after eye opening and after the eye is
+Int. J. Mol. Sci. 2020, 21, 9271 5 of 24
+kept open. Related to the establishment of the tear film (TF) on the cornea, there are three phases for
+each fluorescein breakup pattern that can be seen. In the first phase, an area break (AB) or a spot break
+(SB), respectively, can be seen in cases of severe aqueous tear deficient dry eye (ATDDE) or decreased
+wettability dry eye (DWDE). In the second phase, a line break (LB) or a dimple break (DB), respectively,
+can be seen in cases with mild-to-moderate ATDDE or DWDE. In the third phase, a random break (RB)
+can be seen in cases of evaporative dry eye (EDE). RB is also seen in normal eyes, in which the BU time
+is within the normal range, i.e., generally, >10 s. In addition, a modification of BU patterns suggesting
+the association with DWDE is the rapid expansion of BU spots sometimes seen in LB and RB.
+3.3. Clinical Implications
+• Tear-film oriented diagnosis is practical and clinically useful for clinicians engaged in the
+management of DED [22,24,27].
+• Further advancement of this approach is expected through a deeper understanding of the function
+of each component of the ocular surface.
+• TF stability is maintained by the components of the TF and ocular surface epithelium,
+and insufficiency of those components results in TFBU, a visible core manifestation of DED.
+• Classification of TFBU patterns may elucidate the pathophysiology of DED.
+• Clinicians can assess tear film-oriented diagnosis to learn more about the insufficient components
+responsible for TFBU, assess the specific DED subtype and, therefore, decide on the most
+appropriate treatment.
+4. Ocular Discomfort: The Importance of Symptoms in Dry Eye Disease
+DED can be a frustrating disease for patients and ophthalmologists. Ocular discomfort is the
+most common complaint, and as a central feature of the disease, it is a fundamental component of
+the definition of DED [7,8,12]. In most cases, ocular discomfort is displayed before DED is diagnosed,
+and it is critical for monitoring the progression of the condition and response to treatments.
+Common ocular discomfort can be described as dryness, redness, foreign body sensation,
+heavy sensation, pain, light sensitivity, discharge, itching and eye fatigue. The type of ocular
+discomfort experienced by patients may be associated with particular DED subtypes, although there is
+considerable overlap between them. For example, in diurnal variation, DED symptoms tend to become
+more evident later in the day in patients with ATD dry eye [39]. In the classification proposed by the
+ADES, patients with short TBUT-type DED may experience more of the heavy sensation, and patients
+with staining-type DED may experience more of the foreign body-type sensation [7]. There is overlap
+among the symptoms of subtypes.
+4.1. Evaluation of Ocular Discomfort with Questionnaires
+Ocular discomfort can be evaluated using patient-reported questionnaires (Table 2). Each questionnaire
+has advantages in certain scenarios and reflects the impact of DED on everyday function and health-related
+quality of life [8]. It is recommended that a validated symptom questionnaire be administered at first
+patient presentation.
+Table 2. Questionnaires used to evaluate symptoms of dry eye disease (DED).
+Questionnaire Initial Launch No. of Questions Screening Criteria for DED Recommendations for Use
+McMonnies [40] 1987 12 >14.5
+Ocular Surface Disease
+Index (OSDI) [41]
+2000 12
+Mild: 13–22
+Moderate: 23–32
+Severe: ≥33
+Suitable for research and
+ATD
+National Eye Institute’s
+Visual Function
+Questionnaire (NEI-VFQ 25)
+[42]
+2001 25
+Adapted for
+moderate-to-severe dry eye
+Strongly correlated with
+OSDI
+Int. J. Mol. Sci. 2020, 21, 9271 6 of 24
+Table 2. Cont.
+Questionnaire Initial Launch No. of Questions Screening Criteria for DED Recommendations for Use
+Dry Eye Questionnaire
+(DEQ) [43]
+2002 23
+Ocular Comfort Index (OCI)
+[44]
+2007 12
+The only questionnaire that
+provides valid measurement
+based on Rasch analysis
+Symptom Assessment in
+Dry Eye (SANDE) [45]
+2009 2 Suitable for clinical
+assessment
+Standard Patient Evaluation
+of Eye Dryness (SPEED) [46]
+2009 12
+No symptoms: 0
+Mild-to-moderate: 1–9
+Severe: ≥10
+Suitable for Meibomian
+gland dysfunction
+Impact of Dry Eye on
+Everyday Living (IDEEL)
+[47]
+2011 57
+Mild 40–50
+Moderate 51–63
+Severe > 64
+Dry Eye-related
+Quality-of-life Score (DEQS)
+[48]
+2013 15
+5-Item Dry Eye
+Questionnaire (DEQ-5) [49]
+2013 5
+keratoconjunctivitis sicca: > 6
+Suspected Sjögren’s syndrome:
+>12
+Chinese Dry Eye
+Questionnaire [50]
+2015 12 Questionnaire validated in
+the Chinese population
+ATD = aqueous tear deficiency.
+4.2. The Pathophysiology of Ocular Discomfort
+In general, ocular discomfort is caused by an entity on the ocular surface activating the sensory
+nerve, and there are several reasons why this may occur. An unstable TF generates tear hyperosmolarity,
+inflammation and epithelial breakdown. This exposes and irritates nociceptive receptors on the ocular
+surface and leads to sensations of discomfort. Instability disturbs the optical property of the TF,
+becoming an additional source of discomfort. Sometimes, a patient may experience both problems.
+Mechanical abrasions from disorders of the lid margin, such as plugging of the meibomian gland
+orifice and conjunctivochalasis, can cause blink-related microtrauma to the ocular surface and affect
+tear dynamics. Insidious lid abnormalities, such as lagophthalmos, incomplete and decreased blinking
+or poor lid-to-globe apposition can prevent the formation of a stable TF and similar discomfort as DED.
+Inflammation is a result of a decreased or/and an unstable TF and epithelial defect and creates ocular
+irritation. Detailed note-taking to capture details of major symptoms and triggers helps to identify the
+origin of discomfort in DED.
+4.3. Ocular Discomfort and Incongruity with Signs
+There are often discrepancies between signs and symptoms; thorough evaluation of both is critical
+in diagnosing DED.
+When patients demonstrate severe epithelial breakdown and inflammation but have no related
+discomfort; the neurotrophic status should be considered. Neurotrophic keratopathy in the context of
+dry eye disease usually stems from long-standing DED such as severe Sjögren’s syndrome and diffusive
+ocular surface keratinization in end-stage Stevens-Johnson syndrome, ocular cicatricial pemphigoid
+or chemical burn [51]. When patients report obvious discomfort without visible ocular surface signs,
+a component of neuropathic pain, also known as ocular neuralgia, is suspected. The typical complaint
+of neuropathic pain is hypersensitivity to light and wind, which is not relieved by topical anesthesia [52].
+Depression and anxiety can cause chronic discomfort, which exceeds that predicted by clinical signs [53].
+Patients with preclinical DED, such as long-term visual display terminal users or contact lens wearers,
+might also present with intermittent discomfort but very mild signs. In these cases, individuals may
+proceed to typical DED if risk factors are left uncorrected.
+Int. J. Mol. Sci. 2020, 21, 9271 7 of 24
+4.4. Clinical Implications
+• Ocular discomfort is common and has a range of symptoms. A careful symptom consultation is
+recommended for diagnosis.
+• Ocular discomfort should be evaluated with a variety of patient-reported questionnaires.
+• A thorough evaluation of both signs and symptoms is critical for a correct diagnosis of DED and
+to determine treatment decisions.
+5. Visual Impairment Caused by Unstable Tear Film
+Patients with DED often have impaired visual function that affects functional activities and is
+caused by an unstable TF [54–56]. The TF is the first part of the eye traversed by light entering the eye,
+and a smooth stable TF is essential for good visual function [57–59]. A recent study showed that an
+unstable TF causes increased accommodative microfluctuations, placing a great burden on the ciliary
+muscle [60,61]. Once the TF has been stabilized, the symptoms are resolved when the fluctuations stop.
+In the context of DED, functional visual acuity assesses the visual functions related to the unstable
+TF [58,62]. As compared with the normal visual acuity measurement, functional visual acuity provides
+a measure of the real-life functional ability of visual perception. Impaired functional visual acuity can
+be recovered by treating DED with punctal occlusion [63] or diquafosol sodium [64–67], which stabilize
+the TF. Blue light, often used in computer and smartphone screens, has a short wavelength, which is
+easily scattered by an uneven surface, i.e., an unstable TF. Thus, DED patients have more difficulty
+seeing blue light, and the light environment can be improved by removing blue light components [68].
+The recent acceptance of blue light-reducing glasses for computer users should help with clinical or
+preclinical DED.
+Clinical Implications
+• Given that DED can impair visual function, practitioners should properly evaluate DED symptoms
+and visual impairment.
+• As simple visual acuity measurements cannot detect visual impairment associated with DED, it is
+possible that practitioners underestimate the extent of visual impairment.
+• Assessments such as functional visual acuity can be used to assess visual function related to
+unstable TF.
+• Simple measures such as reducing blue light emitted by devices can be used to improve visual
+function in those with unstable TF.
+6. Epitheliopathy
+Epitheliopathy commonly occurs in DED and contributes to the instability of TF. The distribution
+and severity of corneal disease and conjunctival epithelial disease differ among aqueous tear deficient
+and sufficient dry eye/tear dysfunction conditions and may not be clinically detectable [55,69–71].
+6.1. Corneal Disease
+Corneal epithelial disease is more prevalent and severe in ATD syndromes, particularly in Sjögren’s
+syndrome and inflammatory conditions such as Stevens–Johnson syndrome and graft versus host
+disease, than aqueous tear sufficient dry eye [55,71]. Fluorescein is most frequently used to identify
+and measure the severity of corneal epithelial disease [72], and several severity grading schemes have
+been proposed [71,73]. Staining develops due to corneal epithelial death, dysfunction or an altered
+permeability barrier that has been observed in DED patients and experimental mouse models [72,74–78].
+Corneal epithelial disease may also be detected by imaging techniques.
+Increased levels and activity of matrix metalloproteinases (MMPs) such as MMP-9 and its activator
+MMP-3 contribute to corneal barrier disruption [79,80]. MMP-9 knockout mice are resistant to corneal
+barrier disruption when exposed to desiccating stress, and MMP inhibitors such as corticosteroids
+Int. J. Mol. Sci. 2020, 21, 9271 8 of 24
+and doxycycline have shown potential in preventing desiccation-induced corneal epithelial barrier
+disruption in animal models [81]. This can lead to accelerated desquamation of the apical epithelium
+and, in some cases, full thickness epithelial sloughing, which can predispose one to sight-threatening
+stromal ulceration and opacification. Mice subjected to desiccating stress show increased expression of
+cornified envelope precursors in the corneal epithelium, and patients with Stevens–Johnson syndrome
+can show cornification of the corneal epithelium [80,82,83].
+6.2. Conjunctival Disease
+The conjunctiva has a stratified columnar epithelium with goblet cells that produce tear-stabilizing
+gel-forming mucins and immunomodulatory factors such as retinoic acid and transforming growth
+factor (TGF)-β2 [84–86]. Desiccation and lacrimal hyposecretion with a loss of tear trophic
+factors, activation of stress kinases and inflammatory cytokines, such as interferon gamma (IFN-γ),
+alter conjunctival differentiation [82,87]. The Th2 cytokine interleukin (IL)-13 stimulates proliferation
+and mucus production, while the Th1 cytokine IFN-γ induces goblet cell entrapment, the expression
+of cornified envelope precursors, decreased mucus production, unresponsiveness to cholinergic
+stimulation, endoplasmic reticulum stress and unfolded protein response and apoptosis [88–95].
+Conjunctival disease is detected by vital dye staining with lissamine green or Rose Bengal dyes.
+Goblet cell loss in the conjunctival epithelium is a well-recognized feature of ATD [96–102].
+The most severe ocular surface diseases, such as Stevens–Johnson syndrome, mucous membrane
+pemphigoid, graft versus host disease and severe alkali burns involving the conjunctiva, often have a
+complete loss of conjunctival goblet cells [69,103–105]. Goblet cell loss is accompanied by decreased
+concentration of the goblet cell mucin, MUC5AC, in tears [106] and correlates with increased conjunctival
+lissamine green and Rose Bengal dye staining and rapid TBUT [70,107–109]. Eyes with extensive
+goblet cell loss often have instantaneous TBU.
+6.3. Clinical Implications
+• Epitheliopathy is frequently observed in DED but may be clinically undetectable in some patients.
+• Epitheliopathy can contribute to instability of TF, blurred vision, altered permeability,
+nociceptor exposure and sensitization and pain in DED.
+7. Dry Eye Disease and Inflammation
+The surface epithelium and the TF contain dendritic cells, macrophages, mast cells, lymphocytes,
+fibroblasts, cytokines and additional immune mediators, which guard against pathogens and other
+environmental threats. DED may develop when this homeostasis is disrupted by aqueous tear
+deficiency, TF hyperosmolarity and inflammation of the ocular surface microenvironment [84]. Local,
+autoimmune-mediated ocular surface dysfunction may also play a role in DED pathogenesis [70,87].
+Other factors that may contribute to inflammation of the ocular surface include: microtrauma;
+hyperosmotic stress; aging; irritants such as microbial antigens and UV light and infection and
+systematic inflammatory diseases, conditions and disorders (i.e., auto- and allo-immune diseases,
+neuroinflammation and sterile inflammation). In early phase inflammatory DED, any of these factors
+can stimulate the production of inflammatory cytokines and their subsequent immune responses.
+7.1. Innate Immune Responses in Dry Eye Disease
+The immunopathogenic mechanisms in DED are complex and are summarized below and
+in Figure 2. In DED, multiple cell types of the innate immune system mediate inflammatory
+damage to the ocular surface. Innate immune responses include the upregulation of Toll-like
+receptors (TLRs) and nucleotide-binding domain, leucine-rich containing family and pyrin domain
+containing-3 (NLRP3) [110,111]. TLR signaling pathways stimulate the production of transcription
+Int. J. Mol. Sci. 2020, 21, 9271 9 of 24
+factors, including activator protein (AP)-1, nuclear factor kappa-light-chain-enhancer of activated B
+cells (NF￾Int. J. Mol. Sci. 
+κB) and interferon regulatory factor (IRF)-5 [
+2020, 21, x FOR PEER REVIEW
+112].
+10 of 25
+Figure 2. Inflammation in dry eye disease (DED). (I) The innate immune response in DED is 
+mediated by multiple cells. Natural killer (NK) cells secrete interferon gamma (IFN-γ), which, along 
+with other proinflammatory cytokines upregulated at the ocular surface, such as interleukin (IL)-1, 
+IL-6 and tumor necrosis factor alpha (TNF-α, promote the maturation of antigen-presenting cells 
+(APCs) through inducing the upregulated expression of major histocompatibility complex (MHC)-II, 
+CD40, CD80 and CD86. In addition, these proinflammatory cytokines lead to the production of 
+matrix metalloproteinases (MMPs) in epithelial cells, which further abrogate the corneal epithelial 
+barrier. (II) The adaptive immune response in DED is initiated by the activation and migration of 
+activated APCs toward the regional draining lymph nodes, where they prime naïve T cells (Th0) to 
+differentiate and expand into IL-17-secreting T-helper cell 17 (Th17) cells and IFN-γ-secreting Th1 
+cells. IL-17 inhibits the regulatory T cells (Treg) suppressive function. Effector T cells migrate to the 
+ocular surface, where they secrete an array of effector cytokines. Th1 cells secrete IFN-γ, which leads 
+to the upregulated production of chemokines such as IL-9 (CXCL9), CXCL10, CXCL11, CXCR3 and 
+cell adhesion molecules (CAMs), facilitating the ingress of more inflammatory cells to the ocular 
+surface. IL-17 stimulates the production MMP-3 and MMP-9, leading to epithelial cell damage. IL-17 
+also increases the expression of vascular endothelial growth factor (VEGF)-A, VEGF-C, VEGF-D, 
+VEGFR-2 and VEGFR-3. With the resolution of ocular inflammation, a small portion of Th17 cells 
+convert into long-lived memory Th17 cells mediating chronic inflammation in DED.
+The conjunctival epithelium and tears of patients with DED also contain elevated levels of 
+inflammatory mediators such as ILs-6 and -23, tumor necrosis factor (TNF)-α and TGF-β1. These 
+inflammatory mediators promote differentiation of CD4+ T-helper cell 17 (Th17), which secretes 
+IL-17 cytokines (IL-17A and IL-17F), the major pathogenic cells promoting DED (see below), which 
+will be described in the next section. Other proinflammatory cytokines produced by epithelial cells 
+and macrophages participating in the innate immune response include IL-1α, IL-1β, IL-2, IL-5 and 
+chemokines such as IL-8 (CXCL8) [113].
+Figure 2. Inflammation in dry eye disease (DED). (I) The innate immune response in DED is mediated
+by multiple cells. Natural killer (NK) cells secrete interferon gamma (IFN-γ), which, along with other
+proinflammatory cytokines upregulated at the ocular surface, such as interleukin (IL)-1, IL-6 and tumor
+necrosis factor alpha (TNF-α, promote the maturation of antigen-presenting cells (APCs) through
+inducing the upregulated expression of major histocompatibility complex (MHC)-II, CD40, CD80 and
+CD86. In addition, these proinflammatory cytokines lead to the production of matrix metalloproteinases
+(MMPs) in epithelial cells, which further abrogate the corneal epithelial barrier. (II) The adaptive
+immune response in DED is initiated by the activation and migration of activated APCs toward the
+regional draining lymph nodes, where they prime naïve T cells (Th0) to differentiate and expand into
+IL-17-secreting T-helper cell 17 (Th17) cells and IFN-γ-secreting Th1 cells. IL-17 inhibits the regulatory
+T cells (Treg) suppressive function. Effector T cells migrate to the ocular surface, where they secrete
+an array of effector cytokines. Th1 cells secrete IFN-γ, which leads to the upregulated production of
+chemokines such as IL-9 (CXCL9), CXCL10, CXCL11, CXCR3 and cell adhesion molecules (CAMs),
+facilitating the ingress of more inflammatory cells to the ocular surface. IL-17 stimulates the production
+MMP-3 and MMP-9, leading to epithelial cell damage. IL-17 also increases the expression of vascular
+endothelial growth factor (VEGF)-A, VEGF-C, VEGF-D, VEGFR-2 and VEGFR-3. With the resolution of
+ocular inflammation, a small portion of Th17 cells convert into long-lived memory Th17 cells mediating
+chronic inflammation in DED.
+The conjunctival epithelium and tears of patients with DED also contain elevated levels
+of inflammatory mediators such as ILs-6 and -23, tumor necrosis factor (TNF)-α and TGF-β1.
+These inflammatory mediators promote differentiation of CD4+ T-helper cell 17 (Th17), which secretes
+IL-17 cytokines (IL-17A and IL-17F), the major pathogenic cells promoting DED (see below), which will
+be described in the next section. Other proinflammatory cytokines produced by epithelial cells
+Int. J. Mol. Sci. 2020, 21, 9271 10 of 24
+and macrophages participating in the innate immune response include IL-1α, IL-1β, IL-2, IL-5 and
+chemokines such as IL-8 (CXCL8) [113].
+TNF-α and IL-1β promote the expression of intercellular adhesion molecule 1 (ICAM-1),
+as well as the expression of major histocompatibility complex (MHC) class II and co-stimulator
+B7 (CD80 and CD86) on antigen-presenting cells (APCs), which mediate APC-T-cell interactions.
+IL-1β stimulates the production of TNF-α and MMP-3 [95,114–116]. IL-1β and IFN-γ are associated
+with squamous metaplasia of epithelial cells [87,117]. IFN-γ decreases goblet cell differentiation and
+mucus production. In vitro, corneal epithelial cells express MHC class II with the stimulation of IFN-γ.
+Conjunctival epithelia overexpress MHC class II in a cytokine-rich environment, with a decrease of
+goblet cells. Some studies suggest that goblet cells play a critical role in maintaining ocular surface
+immune tolerance [85], and their disruption leads to dendritic cell maturation [118]. Fas and the Fas
+ligand are also elevated in DED [119–121] and regulate the apoptosis of ocular surface cells in the
+extrinsic pathway [122].
+7.2. Adaptive Immune Responses in Dry Eye Disease
+T cell infiltration in the ocular surface is a hallmark of chronic inflammation, and multiple studies
+show that autoreactive T cells play a central role in DED [91,121,123]. APCs activated by inflammatory
+mediators migrate to local lymph nodes, where they prime naïve T cells to polarize into effector
+CD4+ T-helper (Th1) and Th17 cells [123,124]. These effector cells then migrate to the conjunctiva,
+secreting IFN-γ and IL-17, and upregulate the production of a variety of chemokines [113,125,126] and
+cell adhesion molecules (CAMs), as well as vascular endothelial growth factor (VEGF)-C and VEGF-D.
+Th17 cell differentiation is promoted by the transcription factor RORγt, which is expressed
+in response to IL-6, TGF-β and IL-23 [127]. Th17 cells secrete IL-17 [128,129], which increases
+proinflammatory cytokines and MMP3/MMP9 expression in response to desiccating stress.
+IL-17-secreted by Th17 cells also increase the expression of VEGF-C and VEGF-D, and their
+receptors VEGFR-2 and VEGFR-3, promoting corneal lymphangiogenesis [113] without associated
+hemangiogenesis [130,131]. In DED, Th17 homing is mediated by CCL20 [128]. In addition, a unique
+Th17 population, secreting both IL-17 and IFN-γ (Th17/1), was identified that amplifies ocular surface
+inflammation in DED, and the generation of Th17/1 is facilitated by environmental IL-12 and IL-23 [132].
+Furthermore, chronic inflammation in DED is mediated in the long term principally by long-lived Th17
+effector cells, namely memory Th17 cells [133]. These pathogenic memory Th17 cells are maintained
+by environmental IL-7 and IL-15 [134]. When IL-17 is blocked, DED severity significantly decreases.
+The regulatory T cell (Treg; CD4+CD25+Foxp3+) attenuates the immune response by reining in
+the autoreactive T cells. Treg expresses integrin αEβ7 (CD103), which limits naïve T cell priming via
+the secretion of the anti-inflammatory cytokines (TGF-β and IL-10) and Treg/APC or Treg/T effector
+cell interactions [135]. There are two subsets of Tregs: one originating from the thymus (natural
+Treg, nTreg) and the other induced in the periphery in the presence of IL-2 and TGF-β (induced Treg,
+iTreg). Inadequate suppression by Tregs leads to disruption of immune tolerance and the generation of
+effector T cells. The Th17 cells in DED were found to be resistant and functionally antagonistic to Treg
+activity [123]. The dysfunction of Treg suppression exacerbates ocular surface inflammation in models
+of DED [123].
+7.3. Neurogenic Inflammation
+Mechanical and inflammatory damage to the ocular surface may lead to the synthesis of
+neurotrophic factors that stimulate nerve growth but can also alter the corneal nerve structure, as seen
+in the sub-basal corneal nerve plexus, and promote inflammation, which can lead to nerve degeneration.
+Epithelial damage induced by hyperosmolarity stimulates the release of vasoactive neuropeptides and
+the activation of immune cells, resulting in plasma extravasation and local inflammation [136].
+Neuropeptides and neurotrophins found at the ocular surface have also been associated with
+nonspecific corneal pain and other DED symptoms.
+Int. J. Mol. Sci. 2020, 21, 9271 11 of 24
+These neuropeptides maintain neurogenic inflammation and work together with the immune
+responses, not only protecting the ocular surface but, also, initiating the immune response in DED and
+regulating its chronicity. Thus, nerve-derived factors can both attenuate and amplify DED severity
+depending on the context in which they function.
+Hormonal variations may also affect the ocular surface in DED. Studies in animals have reported
+that estrogen may upregulate MMP-2 and MMP-9 and increase the expression of inflammatory genes
+such as IL-1β, IL-6 and IL-8 in human corneal epithelial cells. By contrast, androgens may reduce
+macrophage TNF-α and IL-1β expression. However, some studies have found that estrogen also may
+decrease DED severity [137].
+In summary, there is increasing evidence that a wide array of immune and nerve-derived factors
+can influence one another through complex mechanisms that result in damage to the ocular surface
+epithelium, changes in the sub-basal nerve plexus nerve density and function and development of
+DED symptoms. Much work remains to be done to better elucidate the interaction of these factors in
+chronic DED.
+7.4. Clinical Implications
+• Inflammation is a key aspect of DED pathogenesis and severity.
+• Methods for identification of DED include the RPS InflammaDry Detector, an immunoassay test
+for the detection of elevated levels of the MMP-9.
+• The control of inflammation, chronically or during clinical flares, is necessary for managing patient
+discomfort and ocular surface disease.
+• While there can be a lack of correlation between patient symptoms and signs of ocular surface
+disease, managing inflammation can help attenuate both the signs and symptoms of DED.
+8. Neurosensory Abnormalities
+In its new definition of DED [8], DEWS II introduced the concept of neurosensory abnormalities,
+emphasizing the central role of the corneal nerves and the neurosensory loop driven by the trigeminal
+pathway. The role played by corneal innervation has extensive consequences in terms of neurotrophic
+balance, the regulation of tear secretion and ocular surface inflammation, with the emerging concepts
+of neuroimmune synapse or neurogenic inflammation illustrating the interactions between the immune
+system and the trigeminal pathway.
+The human cornea is densely innervated by the sensory fibers of the trigeminal nerve,
+with relatively few nerve bundles penetrating the cornea, but, also, a very dense network of
+intraepithelial nerve endings with a variety of mechanical, chemical and thermal receptors [52].
+Corneal nerves also play a major role in controlling lacrimal gland secretion, thus regulating tear
+volume and composition through the trigeminal–facial nerve loop.
+Neurosensory abnormalities in the ocular surface may participate in three different but closely
+related mechanisms in DED, which may act as initiators or consequences of the disease—namely,
+neurogenic inflammation, neuropathic pain and neurotrophic keratopathy.
+Neurogenic inflammation is a key factor of the vicious cycle involved in DED [138];
+neuropathic pain and neurotrophic keratopathy may explain the frequent discrepancies between
+DED signs and symptoms, with corneal hypoesthesia leading to the paradoxical condition of a
+highly damaged cornea with few or no symptoms, whereas neuropathic pain corresponds to highly
+symptomatic patients despite no, or barely detectable, corneal damage.
+As a causative role in DED, alterations of the corneal innervation loop are primary mechanisms of
+a wide variety of conditions—among them, corneal refractive surgery, where DED has become the most
+frequent and disabling complication. Most causes are iatrogenic. However, structural and functional
+alterations of the sub-basal corneal nerves were identified in other types of DED, with reduced nerve
+density and branching, increased tortuosity, bead-like patterns, greater nerve width and aspects
+of neuromas, a pattern that would appear more closely associated with neuropathic pain [139,140].
+Int. J. Mol. Sci. 2020, 21, 9271 12 of 24
+The reduction in nerve density was highly correlated with an increased density of inflammatory cells
+and the ocular surface disease index, illustrating the close relationships between nerves, symptoms and
+corneal inflammation [141].
+A key role of sustained neural stimulation in response to increased osmolarity, epithelial alterations
+and mechanical stress is the release of proinflammatory neuropeptides by the nerve endings, leading to
+neurogenic inflammation, a prominent mechanism of DED.
+However, some patients do not show significant tissue damage that would explain their high
+levels of symptoms. This raises the concept of neuropathic pain, where the symptoms may resemble
+those of DED, and the signs are mostly limited or only associated with mild tear abnormalities or
+subclinical changes or are only detectable using confocal microscopy or impression cytology through the
+expression of tear or conjunctival biomarkers of inflammation [140,142,143]. DED and neuropathic pain
+often have similarities in their development [144], but the continuous firing of corneal nerve receptors
+may result in a lowered stimulatory threshold. This is typically experienced as persistent irritation or
+pain in response to a normally innocuous stimulation—namely, allodynia and/or increased impulse
+transmission following suprathreshold stimulation, with abnormally increased pain sensation—namely,
+hyperalgesia [52].
+When stimulation persists, patients may progressively develop mechanisms of central neuronal
+sensitization within the trigeminal complex in the brainstem and, in higher-order neurons in the brain,
+leading to neuropathic pain symptoms [52,145,146]. Chronic neuropathic pain persists irrespective
+of the ocular surface findings and initial mechanisms, thus resisting etiologic or symptomatic
+treatments [52,145]. Indeed, a significant part of these cases are associated with depression or
+anxiety and may also involve patients with a general pain syndrome. Small fiber neuropathy has been
+frequently associated with Sjögren’s syndrome, and a patient’s general condition should be addressed
+for holistic patient care [147].
+Conversely, an opposite condition may be observed in DED when chronic damage to corneal
+nerves may cause decreased sensitivity of the cornea, with low levels of symptoms despite a highly
+damaged ocular surface. This might explain one aspect of the well-known sign/symptom discrepancy in
+DED, but, additionally, the neurotrophic consequences of nerve abnormalities may participate in highly
+aggravating corneal damage. Indeed, even if nerve transection is mostly transient in DED induced
+by refractive surgery, sustained anatomical or functional nerve dysfunction deprive the cornea of
+neurotrophic factors and prevent the corneal epithelium from recovering and, in the most severe cases,
+leading to a neurotrophic keratopathy. Decreased corneal sensitivity has been observed in patients
+with high variability, but there is a significant correlation with disease severity, indicating progressive
+corneal nerve damage and/or dysfunction in a chronically damaged ocular surface [148].
+Three stages of neurotrophic keratopathy have been described [149], and the features observed in
+stage 1 are very similar to those of severe DED. Patients may present with painless sensations or few
+symptoms, despite damaged corneas. However, symptoms driven by conjunctival inflammation or
+hyperactive nerve fibers may mask localized areas where the cornea is anesthetized, which may lead to
+the delay or underestimation of the neuropathic mechanisms. In this case, inappropriate treatment can
+lead to more severe damage and the involvement of deeper layers of the cornea. Therefore, an assessment
+of corneal sensitivity is required for weakly symptomatic patients with corneal epitheliopathy or
+epithelial damage resisting adapted therapies [150].
+From the clinical point of view, neurosensory abnormalities play multiple roles in DED, as the
+primary source of disabling symptoms and sensations, as well as by disrupting the homeostasis of
+the ocular surface, blocking the secretion of neurotrophic factors or stimulating chronic inflammation.
+Their role, therefore, deserves much attention, and developments of new therapies can benefit from
+recognition of this core mechanism and from further research.
+Int. J. Mol. Sci. 2020, 21, 9271 13 of 24
+Clinical Implications
+• The human cornea is densely innervated and corneal nerves participate in the stability of the
+ocular surface. Their continuous stimulation by a disrupted TF may cause symptoms.
+• Neurosensory abnormalities may participate in three different but closely related mechanisms
+in DED: neurogenic inflammation, neuropathic pain and neurotrophic keratopathy. These may
+contribute to the lack of correlation often observed between DED signs and symptoms.
+• Neurosensory abnormalities in DED must be studied further but should be considered when
+assessing signs, symptoms and treatment responsiveness in the clinic.
+9. Implications for Regulatory Science
+Novel treatment pathways for DED are being explored with innovative pharmaceutical agents.
+Initial studies at the basic research level are followed by translational research, aimed at investigating
+efficacy using in vitro and animal experiments. At this stage, it is vital to determine if a newly
+discovered agent or molecule has been accepted for medical use in other fields by government
+regulatory agencies, so that the requirements for nonclinical studies, including toxicology studies,
+may not be necessary.
+There are important issues to be addressed when considering the introduction of medical products
+for the treatment of DED, including that only a few products specifically aimed at the treatment of DED
+have been officially approved by government regulatory agencies. It is likely the result of conceptual
+discrepancies between academic science, and regulatory science could account for the small number of
+products approved by regulatory agencies for DED. In many countries, approved medical products
+are categorized into three major groups: pharmaceutical agents (drugs), medical devices and products
+for regenerative medicine. Of those, most medical products designed for DED treatment fall into the
+categories of pharmaceutical agents and medical devices and, as such, are strictly regulated by the
+laws and/or guidelines set by each government.
+Academic research scientists tend to focus on efficacy, while regulatory agencies are primarily
+concerned with safety, which is a vital perspective of regulatory science. It is always possible that
+patients will unexpectedly have adverse events caused by pharmaceutical agents and/or contaminated
+pathologic microorganisms and viruses, illustrating why strict government regulation is important.
+In order to assess the safety and efficacy in clinical trials, the primary endpoint should be set not only
+from the perspective of clinicians and researchers but should also seek to assess the restoration of
+visual function.
+In the field of DED research, one of the difficulties is the absence of global consensus between
+regulatory agencies on the definitions of TF abnormalities, including the cut-off value for TBUT
+and the Schirmer 1 test. Each country has established its own cut-off value (Table 3). Moreover,
+regulations for the approval of DED products in clinical trials vary between the US, the EU and Japan
+(Table 4) [151–154]. Another difficulty is the lack of an established surrogate endpoint for global
+clinical trials.
+Table 3. Abnormal values of the tear breakup time and Schirmer I test in each country.
+Location Tear Breakup Time (Seconds) Schirmer I Test (mm)
+USA Not determined Not determined
+Germany Abnormal < 10
+Severe abnormal < 5
+Abnormal < 10
+Severe abnormal < 5
+France ≤5 ≤5
+Italy ≤7 ≤5
+Japan ≤5 ≤5
+China 5 < Dry eye disease suspected ≤ 10
+Dry eye ≤ 5
+5 < Dry eye disease suspected ≤ 10
+Dry eye ≤ 5
+South Korea 5 < Dry eye suspected ≤ 10
+Dry eye ≤ 5
+5 < Dry eye suspected ≤ 10
+Dry eye ≤ 5
+Int. J. Mol. Sci. 2020, 21, 9271 14 of 24
+Table 4. Current approval requirements in the US, EU and Japan.
+Location Sign Symptom Duration of Clinical
+Study (Months)
+US Primary Any * Primary Any * 3
+EU Primary Any * Primary Any * 6
+Japan Primary Staining Secondary Any * 1
+* These are not specified in the US and EU; however, they must be validated for the treatment of DED.
+Several important points differ slightly between the processes of research and development
+and those of product development, especially on the equal quality of products. These points
+might be essential for future internationally harmonized clinical trials for DED products—again,
+illustrating the importance of regulatory science with its requirement for an accumulation of
+well-controlled evidence-based data.
+In summary, the safety profile of study drugs should be the object of thorough attention.
+Real-world data analysis could be useful in such circumstances, following government approval of
+pharmaceutical agents, and a rational use of medicine has also been proposed [155,156].
+Clinical Implications
+• Academic science tends to focus on efficacy; however, safety—a critical consideration for drug
+research—is key for regulatory agencies.
+• The establishment of a well-organized surrogate endpoint is important for worldwide clinical
+research, as currently there is no global consensus on the measure of TF abnormalities in
+clinical trials.
+10. Conclusions
+Many common diseases, including ocular diseases, are caused by the interaction of human genes
+and the environment. The numbers of DED patients have increased dramatically in the past decades
+(up to 30–40% in some populations) [2–6], likely to be predominantly caused by environmental changes.
+The increase in visual tasks, an aging society, sleep deprivation, impairments in circadian rhythms,
+lack of exercise, increase in obesity and sedentary lifestyles could also contribute to the increase in
+DED incidence [157–161]. In one sense, DED can be considered a lifestyle disease. Although we have
+emphasized the importance of TFBU, the control of inflammation is also important by employing
+various therapeutics [84,162–164]. Since the consensus of the National Eye Institute/Industry Workshop
+on Clinical Trials in Dry Eye in 1995 [10], the definition and diagnostic criteria have been changing
+partially to reflect the changing nature of DED and the causes of DED, in our modern, visually oriented
+society where the prolonged use of computers or smartphones is common in daily life. The activities
+of society will continue to evolve over the next generations and will affect the characteristics of DED in
+the future.
+The purpose of this paper was to reach a global consensus among ophthalmologists who examine
+DED patients almost every day. There have been alternative definitions of DED in the past, but here,
+we proposed a simple definition, with emphasis on the importance of TBU and subjective symptoms or
+visual impairment. As stated in Section 2, the new definition proposed is: “Dry eye is a multifactorial
+disease characterized by a persistently unstable and/or deficient tear film causing discomfort and/or
+visual impairment, accompanied by variable degrees of ocular surface epitheliopathy, inflammation and
+neurosensory abnormalities”. We hope this consensus will contribute to the diagnosis of DED in clinics
+and aid progress in the DED research field.
+Author Contributions: Conceptualization, K.T., S.C.P. and R.D.; active discussion on the definition and supporting
+information, K.T., S.C.P., Z.L., C.B., H.M.K., E.M.M., F.K., M.R., N.Y., S.K. and R.D.; writing—original draft
+preparation, K.T.; writing—review and editing, K.T., S.C.P., Z.L., C.B., H.M.K., E.M.M., L.L., J.T.C.-G., F.K., M.R.,
+Int. J. Mol. Sci. 2020, 21, 9271 15 of 24
+N.Y., S.K. and R.D.; supervision, R.D., S.C.P. and Z.L. and funding acquisition, K.T., Z.L., H.M.K. and N.Y.
+All authors have read and agreed to the published version of the manuscript.
+Funding: This research was funded by Asia Dry Eye Society and, for N.Y., “Grants-in-Aid for scientific research
+from the Japanese Ministry of Education, Culture, Sports, Science and Technology (Grant number: 16K11269).
+Acknowledgments: N. Yokoi wishes to thank John Bush (Dept. of Foreign Affairs, Kyoto Prefectural University
+of Medicine, Kyoto, Japan) for reviewing part of the manuscript. Editorial support was provided by Synergy
+Vision (London, UK) and funded by the Asia Dry Eye Society. The authors wish to thank Catherine Oshima (Keio
+University) for providing administrative support.
+Conflicts of Interest: The funders had no role in the design of the study; in the collection, analyses or interpretation
+of data; in the writing of the manuscript or in the decision to publish the results. Lingyi Liang and Jimena Tatiana
+Carreno-Galeano have no conflicts of interest to report. Christophe Baudouin acts as a consultant for Alcon,
+Allergan, Dompe, Horus Pharma, Santen and Sifi, Thea Labs. Reza Dana reports research support from Allergan
+and Shire, consulting from Aldevra, Dompe, Novaliq, Kala and Santen and owns equity at Claris Bio. Hyo Myung
+Kim reports research funding from Santen Pharmaceutical Co., Ltd. Shigeru Kinoshita reports grant support from
+Santen Pharmaceutical Co., Otsuka Pharmaceutical Co., Senju Pharmaceutical Co., KOWA Co. Ltd., HOYA Co.,
+Oncolys Biopharma. Friedrich Kruse received financial support for traveling from TRB Chemedica and Santen
+and acts as a consultant for KOWA. Zuguo Liu reports research funding from Alcon, Santen, Senju, Yuejia, Xingqi,
+Zhuhaiyisheng and Dakai, as well as consultancies and travel grants from Allergen, Novartis, Johnson & Johnson
+Vision, Santen, Senju, Yuejia, Xingqi, Zhuhaiyisheng, Reilin and Dakai. Elisabeth M. Messmer acts as a speaker or
+consultant for: Alcon/Novartis, Dompé, Kala, Pharm-Allergan GmbH, Santen GmbH, Sun, Théa Pharma GmbH,
+TRB-Chemedica AG, Ursapharm and Visufarma. Stephen C. Pflugfelder reports research support from Allergan
+and Santen and consulting from Allergan, Shire and Senju. Maurizio Rolando reports consultancies received
+from Alcon, Kala, SIFI, Sun Pharma and Théa, as well as travel and speaker grants from Allergan, Bausch and
+Lomb, Alfa Intes, Bruschettini, Dompé, Medivis, Off, Santen. Kazuo Tsubota reports consultancies and research
+funding received from Santen Pharmaceutical Co., Ltd. and Otsuka Pharmaceutical Co., Ltd., consultancies for
+Théa Laboratories and Novaliq GmbH and research funding from Wakamoto Pharmaceutical Co., Ltd., Kowa
+Company, Echo Electricity Co., Kao, Rohto and Ophtecs. He holds the patent rights for the method and the
+apparatus used for the measurement of functional visual acuity (US patent no: 255 7470026). He holds a joint
+patent with Jins, Inc. for moisture glasses. Tsubota is the CEO of Tsubota Laboratory, a company in the dry eye
+field. Norihiko Yokoi has received personal fees from Santen Pharmaceutical Co., Ltd., Otsuka Pharmaceutical
+Co., Ltd. and consultancies from Rhoto Co., Ltd. and Alcon Japan Co., Ltd. and patents for the ophthalmologic
+apparatus with Kowa Co., Ltd.
+Abbreviations
+AAO American Academy of Ophthalmology
+AP activator protein
+APC antigen-presenting cell
+AT aqueous tear
+ATD aqueous tear deficiency
+ATDDE aqueous tear deficient dry eye
+BU breakup
+CAM cell adhesion molecules
+DB dimple break
+DED dry eye disease
+DWDE decreased wettability dry eye
+EDE evaporative dry eye
+ICAM-1 intercellular adhesion molecule
+IFN interferon
+IL interleukin
+LB line break
+MGD meibomian gland dysfunction
+MHC major histocompatibility complex
+MMP matrix metalloproteinase
+NF-κ B nuclear factor kappa-light chain-enhancer of activated B cells
+NLRP3 nucleotide-binding domain, leucine-rich containing family, pyrin domain containing-3
+RB random break
+RE rapid expression
+SB spot break
+Int. J. Mol. Sci. 2020, 21, 9271 16 of 24
+TBU tear breakup
+TBUT tear breakup time
+TF tear film
+TFBU tear film breakup
+TFLL tear film lipid layer
+TGF transforming growth factor
+TLR Toll-like receptor
+TNF tumor necrosis factor
+Treg regulatory T cell
+VEGF vascular endothelial growth factor
+Appendix A : Participant List
+Christophe Baudouin, Quinze-Vingts Hospital, Paris, France
+Reza Dana, Massachusetts Eye & Ear, Boston, MA, USA
+Hyo Myung Kim, Korea University Medical Center, Anam Hospital, Seoul, South Korea
+Shigeru Kinoshita, Kyoto Prefectural University of Medicine, Kyoto, Japan
+Friedrich Kruse, University of Erlangen-Nuremberg, Erlangen, Germany
+Zuguo Liu, Eye Institute of Xiamen University, Xiamen, China
+Elisabeth M. Messmer, Ludwig Maximilian University, Munich, Germany
+Stephen C. Pflugfelder, Baylor College of Medicine, Houston, TX, USA
+Maurizio Rolando, University of Genoa, Genoa, Italy
+Kazuo Tsubota, Keio University School of Medicine, Tokyo, Japan
+Norihiko Yokoi, Kyoto Prefectural University of Medicine, Kyoto, Japan
+References
+1. Schaumberg, D.A.; Sullivan, D.A.; Buring, J.E.; Dana, M. Prevalence of dry eye syndrome among US women.
+Am. J. Ophthalmol. 2003, 136, 318–326. [CrossRef]
+2. Schaumberg, D.A.; Dana, R.; Buring, J.E.; Sullivan, D.A. Prevalence of dry eye disease among US men:
+Estimates from the Physicians Health Studies. Arch. Ophthalmol. 2009, 127, 763–768. [CrossRef] [PubMed]
+3. Uchino, M.; Nishiwaki, Y.; Michikawa, T.; Shirakawa, K.; Kuwahara, E.; Yamada, M.; Dogru, M.;
+Schaumberg, D.A.; Kawakita, T.; Takebayashi, T.; et al. Prevalence and Risk Factors of Dry Eye Disease in
+Japan: Koumi Study. Ophthalmology 2011, 118, 2361–2367. [CrossRef] [PubMed]
+4. Jie, Y.; Xu, L.; Wu, Y.Y.; Jonas, J.B. Prevalence of dry eye among adult Chinese in the Beijing Eye Study. Eye
+2008, 23, 688–693. [CrossRef] [PubMed]
+5. Tong, L.; Saw, S.-M.; Lamoureux, E.L.; Wang, J.J.; Rosman, M.; Tan, D.T.H.; Wong, T.Y. A Questionnaire-Based
+Assessment of Symptoms Associated with Tear Film Dysfunction and Lid Margin Disease in an Asian
+Population. Ophthal. Epidemiol. 2009, 16, 31–37. [CrossRef]
+6. Tan, L.L.; Morgan, P.; Cai, Z.Q.; Straughan, R.A. Prevalence of and risk factors for symptomatic dry eye
+disease in Singapore. Clin. Exp. Optom. 2015, 98, 45–53. [CrossRef]
+7. Tsubota, K.; Yokoi, N.; Shimazaki, J.; Watanabe, H.; Dogru, M.; Yamada, M.; Kinoshita, S.; Kim, H.-M.;
+Tchah, H.-W.; Hyon, J.Y.; et al. New Perspectives on Dry Eye Definition and Diagnosis: A Consensus Report
+by the Asia Dry Eye Society. Ocul. Surf. 2017, 15, 65–76. [CrossRef]
+8. Craig, J.P.; Nichols, K.K.; Akpek, E.K.; Caffery, B.; Dua, H.S.; Joo, C.K.; Liu, Z.; Nelson, J.D.; Nichols, J.J.;
+Tsubota, K.; et al. TFOS DEWS II Definition and Classification Report. Ocul. Surf. 2017, 15, 276–283.
+[CrossRef]
+9. Akpek, E.K.; Amescua, G.; Farid, M.; Garcia-Ferrer, F.J.; Lin, A.; Rhee, M.K.; Varu, D.M.; Musch, D.C.;
+Dunn, S.P.; Mah, F.S. Dry Eye Syndrome Preferred Practice Pattern®. Ophthalmology 2018, 126. [CrossRef]
+10. Lemp, M.A. Report of the National Eye Institute/Industry Workshop on Clinical Trials in Dry Eyes. CLAO J.
+1995, 21, 221–232.
+11. Pflugfelder, S.C. Anti-inflammatory Therapy of Dry Eye. Ocul. Surf. 2003, 1, 31–36. [CrossRef]
+12. Lemp, M.A.; Foulks, G.N. The definition and classification of dry eye disease: Report of the Definition and
+Classification Subcommittee of the International Dry Eye WorkShop. Ocul. Surf. 2007, 5, 75–92.
+13. Shimazaki, J. Definition and diagnosis of dry eye 2006. Atarashii Ganka 2007, 24, 181–184.
+Int. J. Mol. Sci. 2020, 21, 9271 17 of 24
+14. Hyon, J.Y.; Kim, H.M.; Lee, D.; Chung, E.-S.; Song, J.-S.; Choi, C.Y.; Lee, J. Korean Corneal Disease Study
+Group Korean Guidelines for the Diagnosis and Management of Dry Eye: Development and Validation of
+Clinical Efficacy. Korean J. Ophthalmol. 2014, 28, 197–206. [CrossRef] [PubMed]
+15. Liu, Z. The preliminary recommendations on the name and classification of dry eye. Chin. J. Eye Otolaryngol.
+2004, 3, 4–5.
+16. The Chinese Corneal Society. The consensus on clinical diagnosis and treatment of dry eye. Chin. J.
+Ophthalmol. 2013, 49, 73–75.
+17. Shimazaki, J.; Yokoi, N.; Watanabe, H. Definition and diagnosis of dry eye in Japan, 2016. Atarashii Ganka
+2017, 34, 309–313.
+18. Uchino, M.; Yokoi, N.; Uchino, Y.; Dogru, M.; Kawashima, M.; Komuro, A.; Sonomura, Y.; Kato, H.;
+Kinoshita, S.; Schaumberg, D.A.; et al. Prevalence of Dry Eye Disease and its Risk Factors in Visual Display
+Terminal Users: The Osaka Study. Am. J. Ophthalmol. 2013, 156, 759–766.e1. [CrossRef]
+19. Yokoi, N.; Uchino, M.; Uchino, Y.; Dogru, M.; Kawashima, M.; Komuro, A.; Sonomura, Y.; Kato, H.;
+Tsubota, K.; Kinoshita, S. Importance of Tear Film Instability in Dry Eye Disease in Office Workers Using
+Visual Display Terminals: The Osaka Study. Am. J. Ophthalmol. 2015, 159, 748–754. [CrossRef]
+20. Tong, L.; Chaurasia, S.S.; Mehta, J.S.; Beuerman, R.W. Screening for Meibomian Gland Disease: Its Relation
+to Dry Eye Subtypes and Symptoms in a Tertiary Referral Clinic in Singapore. Investig. Opthalmol. Vis. Sci.
+2010, 51, 3449–3454. [CrossRef]
+21. Bron, A.J.; De Paiva, C.S.; Chauhan, S.K.; Bonini, S.; Gabison, E.E.; Jain, S.; Knop, E.; Markoulli, M.; Ogawa, Y.;
+Perez, V.; et al. TFOS DEWS II pathophysiology report. Ocul. Surf. 2017, 15, 438–510. [CrossRef] [PubMed]
+22. Yokoi, N. Tear Film Oriented Diagnosis and Tear Film Oriented Therapy for Dry Eye Based on Tear Dynamics.
+Investig. Ophthalmol. Vis. Sci. 2018, 59, DES13–DES22. [CrossRef] [PubMed]
+23. King-Smith, P.E.; Fink, B.A.; Hill, R.M.; Koelling, K.W.; Tiffany, J.M. The thickness of the tear film. Curr. Eye
+Res. 2004, 29, 357–368. [CrossRef] [PubMed]
+24. Yokoi, N.; Georgiev, G.A. Tear-Film-Oriented Diagnosis and Therapy for Dry Eye. In Dry Eye Syndrome:
+Basic and Clinical Perspectives; Future Medicine Ltd.: London, UK, 2013; pp. 96–108.
+25. Yokoi, N.; Georgiev, G.A.; Kato, H.; Komuro, A.; Sonomura, Y.; Sotozono, C.; Tsubota, K.; Kinoshita, S.
+Classification of Fluorescein Breakup Patterns: A Novel Method of Differential Diagnosis for Dry Eye. Am. J.
+Ophthalmol. 2017, 180, 72–85. [CrossRef] [PubMed]
+26. Creech, J.; Do, L.T.; Fatt, I.; Radke, C. In vivo tear-film thickness determination and implications for tear-film
+stability. Curr. Eye Res. 1998, 17, 1058–1066. [CrossRef]
+27. Yokoi, N.; Georgiev, G.A. Tear-film-oriented diagnosis for dry eye. Jpn. J. Ophthalmol. 2019, 63, 127–136.
+[CrossRef] [PubMed]
+28. Berger, R.E.; Corrsin, S. A surface tension gradient mechanism for driving the pre-corneal tear film after a
+blink. J. Biomech. 1974, 7, 225–238. [CrossRef]
+29. Yokoi, N.; Yamada, H.; Mizukusa, Y.; Bron, A.J.; Tiffany, J.M.; Kato, T.; Kinoshita, S. Rheology of Tear Film
+Lipid Layer Spread in Normal and Aqueous Tear-Deficient Dry Eyes. Investig. Opthalmol. Vis. Sci. 2008, 49,
+5319–5324. [CrossRef]
+30. King-Smith, P.E.; Reuter, K.S.; Braun, R.J.; Nichols, J.J.; Nichols, K.K. Tear Film Breakup and Structure Studied
+by Simultaneous Video Recording of Fluorescence and Tear Film Lipid Layer Images. Investig. Opthalmol.
+Vis. Sci. 2013, 54, 4900–4909. [CrossRef]
+31. Bull, J.; Grotberg, J. Surfactant spreading on thin viscous films: Film thickness evolution and periodic wall
+stretch. Exp. Fluids 2003, 34, 1–15. [CrossRef]
+32. Zhang, Y.L.; Matar, O.K.; Craster, R.V. Analysis of tear film rupture: Effect of non-Newtonian rheology.
+J. Colloid Interface Sci. 2003, 262, 130–148. [CrossRef]
+33. Sharma, A.; Tiwari, S.; Khanna, R.; Tiffany, J.M. Hydrodynamics of meniscus-induced thinning of the tear
+film. Atherosclerosis 1998, 438, 425–431. [CrossRef]
+34. McDonald, J.E.; Brubaker, S. Meniscus-Induced Thinning of Tear Films. Am. J. Ophthalmol. 1971, 72, 139–146.
+[CrossRef]
+35. Yokoi, N.; Komuro, A. Non-invasive methods of assessing the tear film. Exp. Eye Res. 2004, 78, 399–407.
+[CrossRef]
+Int. J. Mol. Sci. 2020, 21, 9271 18 of 24
+36. Shanker, R.M.; Ahmed, I.; Bourassa, P.A.; Carola, K.V. An in vitro technique for measuring contact angles on
+the corneal surface and its application to evaluate corneal wetting properties of water soluble polymers.
+Int. J. Pharm. 1995, 119, 149–163. [CrossRef]
+37. Sharma, A. Breakup and dewetting of the corneal mucus layer. An update. Single Mol. Single Cell Seq. 1998,
+438, 273–280.
+38. Sharma, A. Surface-chemical pathways of the tear film breakup—Does corneal mucus have a role?
+Lacrimal Gland Tear Film Dry Eye Syndr. 1998, 438, 361–370.
+39. Lee, S.-H.; Tseng, S.C. Rose bengal staining and cytologic characteristics associated with lipid tear deficiency.
+Am. J. Ophthalmol. 1997, 124, 736–750. [CrossRef]
+40. Mcmonnies, C.W.; Ho, A. Patient history in screening for dry eye conditions. J. Am. Optom. Assoc. 1987, 58,
+296–301.
+41. Schiffman, R.M.; Christianson, M.D.; Jacobsen, G.; Hirsch, J.D.; Reis, B.L. Reliability and Validity of the
+Ocular Surface Disease Index. Arch. Ophthalmol. 2000, 118, 615–621. [CrossRef]
+42. Mangione, C.M.; Lee, P.P.; Gutierrez, P.R.; Spritzer, K.; Berry, S.; Hays, R.D. National Eye Institute Visual
+Function Questionnaire Field Test, I., Development of the 25-item National Eye Institute Visual Function
+Questionnaire. Arch. Ophthalmol. 2001, 119, 1050–1058. [CrossRef] [PubMed]
+43. Begley, C.; Caffery, B.; Chalmers, R.L.; Mitchell, G.L. Use of the Dry Eye Questionnaire to Measure Symptoms
+of Ocular Irritation in Patients With Aqueous Tear Deficient Dry Eye. Cornea 2002, 21, 664–670. [CrossRef]
+[PubMed]
+44. Johnson, M.E.; Murphy, P.J. Measurement of Ocular Surface Irritation on a Linear Interval Scale with the
+Ocular Comfort Index. Investig. Opthalmol. Vis. Sci. 2007, 48, 4451–4458. [CrossRef] [PubMed]
+45. Schaumberg, D.A.; Gulati, A.; Mathers, W.D.; Clinch, T.; Lemp, M.A.; Nelson, J.D.; Foulks, G.N.; Dana, R.
+Development and Validation of a Short Global Dry Eye Symptom Index. Ocul. Surf. 2007, 5, 50–57. [CrossRef]
+46. Blackie, C.A.; Solomon, J.D.; Scaffidi, R.C.; Greiner, J.V.; Lemp, M.A.; Korb, D.R. The Relationship Between
+Dry Eye Symptoms and Lipid Layer Thickness. Cornea 2009, 28, 789–794. [CrossRef]
+47. Abetz-Webb, L.; Rajagopalan, K.; Mertzanis, P.; Begley, C.; Barnes, R.; Chalmers, R.L. Development and validation
+of the impact of dry eye on everyday life (IDEEL) questionnaire, a patient-reported outcomes (PRO) measure for
+the assessment of the burden of dry eye on patients. Health Qual. Life Outcomes 2011, 9, 111. [CrossRef]
+48. Sakane, Y.; Yamaguchi, M.; Yokoi, N.; Uchino, M.; Dogru, M.; Oishi, T.; Ohashi, Y.; Ohashi, Y. Development
+and Validation of the Dry Eye-Related Quality-of-Life Score Questionnaire. JAMA Ophthalmol. 2013, 131,
+1331–1338. [CrossRef]
+49. Chalmers, R.L.; Begley, C.G.; Caffery, B. Validation of the 5-Item Dry Eye Questionnaire (DEQ-5):
+Discrimination across self-assessed severity and aqueous tear deficient dry eye diagnoses. Contact Lens
+Anterior Eye 2010, 33, 55–60. [CrossRef]
+50. Zhao, H.; Liu, Z.; Yang, W.; Xiao, X.; Chen, J.; Li, Q.; Zhong, T. Development and assessment of a dry eye
+questionnaire applicable to the Chinese population. Chin. J. Ophthalmol. 2015, 51, 647–654.
+51. Seror, R.; Theander, E.; Bootsma, H.; Bowman, S.J.; Tzioufas, A.; Gottenberg, J.E.; Ramos-Casals, M.; Dorner, T.;
+Ravaud, P.; Mariette, X.; et al. Outcome measures for primary Sjogren’s syndrome: A comprehensive review.
+J. Autoimmun. 2014, 51, 51–56. [CrossRef]
+52. Belmonte, C.; Nichols, J.J.; Cox, S.M.; Brock, J.A.; Begley, C.G.; Bereiter, D.A.; Dartt, D.A.; Galor, A.; Hamrah, P.;
+Ivanusic, J.J.; et al. TFOS DEWS II pain and sensation report. Ocul. Surf. 2017, 15, 404–437. [CrossRef]
+[PubMed]
+53. Van Der Vaart, R.; Weaver, M.A.; Lefebvre, C.; Davis, R.M. The Association Between Dry Eye Disease
+and Depression and Anxiety in a Large Population-Based Study. Am. J. Ophthalmol. 2015, 159, 470–474.
+[CrossRef] [PubMed]
+54. Toda, I.; Shimazaki, J.; Tsubota, K. Dry Eye with Only Decreased Tear Break-up Time is Sometimes Associated
+with Allergic Conjunctivitis. Ophthalmology 1995, 102, 302–309. [CrossRef]
+55. Pflugfelder, S.C.; Tseng, S.C.G.; Sanabria, O.; Kell, H.; Garcia, C.G.; Felix, C.; Feuer, W.; Reis, B.L. Evaluation of
+Subjective Assessments and Objective Diagnostic Tests for Diagnosing Tear-Film Disorders Known to Cause
+Ocular Irritation. Cornea 1998, 17, 38–56. [CrossRef]
+56. Rolando, M.; Iester, M.; Macrí, A.; Calabria, G. Low Spatial-Contrast Sensitivity in Dry Eyes. Cornea 1998, 17,
+376–379. [CrossRef]
+Int. J. Mol. Sci. 2020, 21, 9271 19 of 24
+57. Goto, E.; Yagi, Y.; Matsumoto, Y.; Tsubota, K. Impaired functional visual acuity of dry eye patients. Am. J.
+Ophthalmol. 2002, 133, 181–186. [CrossRef]
+58. Kaido, M.; Dogru, M.; Ishida, R.; Tsubota, K. Concept of Functional Visual Acuity and its Applications.
+Cornea 2007, 26, S29–S35. [CrossRef]
+59. Koh, S.; Naoyuki, M.; Hirohara, Y.; Mihashi, T.; Bessho, K.; Hori, Y.; Inoue, T.; Watanabe, H.; Fujikado, T.;
+Tano, Y. Serial Measurements of Higher-Order Aberrations after Blinking in Patients with Dry Eye.
+Investig. Opthalmol. Vis. Sci. 2008, 49, 133–138. [CrossRef]
+60. Kaido, M.; Kawashima, M.; Shigeno, Y.; Yamada, Y.; Tsubota, K. Relation of accommodative microfluctuation
+with dry eye symptoms in short tear break-up time dry eye. PLoS ONE 2017, 12, e0184296. [CrossRef]
+61. Kaido, M.; Kawashima, M.; Ishida, R.; Tsubota, K. Severe symptoms of short tear break-up time dry eye are
+associated with accommodative microfluctuations. Clin. Ophthalmol. 2017, 11, 861–869. [CrossRef]
+62. Kaido, M. Functional visual acuity. Invest. Ophthalmol. Vis. Sci. 2018, 59, DES29–DES35. [CrossRef]
+[PubMed]
+63. Kaido, M.; Ishida, R.; Dogru, M.; Tsubota, K. Visual Function Changes After Punctal Occlusion with the
+Treatment of Short BUT Type of Dry Eye. Cornea 2012, 31, 1009–1013. [CrossRef] [PubMed]
+64. Mun, Y.; Kwon, J.W.; Oh, J.Y. Therapeutic effects of 3% diquafosol ophthalmic solution in patients with short
+tear film break-up time-type dry eye disease. BMC Ophthalmol. 2018, 18, 237. [CrossRef] [PubMed]
+65. Kaido, M.; Kawashima, M.; Shigeno, Y.; Yamada, Y.; Tsubota, K. Randomized Controlled Study to Investigate
+the Effect of Topical Diquafosol Tetrasodium on Corneal Sensitivity in Short Tear Break-Up Time Dry Eye.
+Adv. Ther. 2018, 35, 697–706. [CrossRef] [PubMed]
+66. Zhao, X.; Xia, S.; Chen, Y. Comparison of the efficacy between topical diquafosol and artificial tears in the
+treatment of dry eye following cataract surgery: A meta-analysis of randomized controlled trials. Medicine
+2017, 96, e8174. [CrossRef] [PubMed]
+67. Koh, S.; Ikeda, C.; Takai, Y.; Watanabe, H.; Maeda, N.; Nishida, K. Long-term results of treatment with
+diquafosol ophthalmic solution for aqueous-deficient dry eye. Jpn. J. Ophthalmol. 2013, 57, 440–446.
+[CrossRef]
+68. Kaido, M.; Toda, I.; Oobayashi, T.; Kawashima, M.; Katada, Y.; Tsubota, K. Reducing Short-Wavelength
+Blue Light in Dry Eye Patients with Unstable Tear Film Improves Performance on Tests of Visual Acuity.
+PLoS ONE 2016, 11, e0152936. [CrossRef]
+69. Pflugfelder, S.C.; Tseng, S.C.; Yoshino, K.; Monroy, D.; Felix, C.; Reis, B.L. Correlation of Goblet Cell Density
+and Mucosal Epithelial Membrane Mucin Expression with Rose Bengal Staining in Patients with Ocular
+Irritation. Ophthalmology 1997, 104, 223–235. [CrossRef]
+70. Pflugfelder, S.C.; De Paiva, C.S.; Moore, Q.L.; Volpe, E.A.; Li, D.Q.; Gumus, K.; Zaheer, M.L.; Corrales, R.M.
+Aqueous Tear Deficiency Increases Conjunctival Interferon-gamma (IFN-gamma) Expression and Goblet
+Cell Loss. Investig. Ophthalmol. Vis. Sci. 2015, 56, 7545–7550. [CrossRef]
+71. Tung, C.I.; Perin, A.F.; Gumus, K.; Pflugfelder, S.C. Tear Meniscus Dimensions in Tear Dysfunction and Their
+Correlation With Clinical Parameters. Am. J. Ophthalmol. 2014, 157, 301–310. [CrossRef]
+72. Göbbels, M.; Spitznas, M. Effects of artificial tears on corneal epithelial permeability in dry eyes. Graefe Arch.
+Clin. Exp. Ophthalmol. 1991, 229, 345–349. [CrossRef] [PubMed]
+73. Wolffsohn, J.S.; Arita, R.; Chalmers, R.; Djalilian, A.; Dogru, M.; Dumbleton, K.; Gupta, P.K.; Karpecki, P.;
+Lazreg, S.; Pult, H.; et al. TFOS DEWS II Diagnostic Methodology report. Ocul. Surf. 2017, 15, 539–574.
+[CrossRef] [PubMed]
+74. Bron, A.J.; Argüeso, P.; Irkec, M.; Bright, F. Clinical staining of the ocular surface: Mechanisms and
+interpretations. Prog. Retin. Eye Res. 2015, 44, 36–61. [CrossRef] [PubMed]
+75. Pflugfelder, S.C.; Song, X.J.; Farley, W.; Li, D.-Q.; Stern, M.E.; Pflugfelder, S.C. Apoptosis of ocular surface
+cells in experimentally induced dry eye. Investig. Opthalmol. Vis. Sci. 2003, 44, 124–129. [CrossRef]
+76. Bandamwar, K.L.; Garrett, Q.; Papas, E.B. Mechanisms of superficial micropunctate corneal staining with
+sodium fluorescein: The contribution of pooling. Contact Lens Anterior Eye 2012, 35, 81–84. [CrossRef]
+77. Pflugfelder, S.C.; Farley, W.; Luo, L.; Chen, L.Z.; De Paiva, C.S.; Olmos, L.C.; Li, D.-Q.; Fini, M.E.
+Matrix Metalloproteinase-9 Knockout Confers Resistance to Corneal Epithelial Barrier Disruption in
+Experimental Dry Eye. Am. J. Pathol. 2005, 166, 61–71. [CrossRef]
+78. Fini, M.E.; Bauskar, A.; Jeong, S.; Wilson, M.R. Clusterin in the eye: An old dog with new tricks at the ocular
+surface. Exp. Eye Res. 2016, 147, 57–71. [CrossRef]
+Int. J. Mol. Sci. 2020, 21, 9271 20 of 24
+79. Luo, L.; Li, D.-Q.; Doshi, A.; Farley, W.; Corrales, R.M.; Pflugfelder, S.C. Experimental Dry Eye Stimulates
+Production of Inflammatory Cytokines and MMP-9 and Activates MAPK Signaling Pathways on the Ocular
+Surface. Investig. Opthalmol. Vis. Sci. 2004, 45, 4293–4301. [CrossRef]
+80. De Paiva, C.S.; Corrales, R.M.; Villarreal, A.L.; Farley, W.; Li, D.-Q.; Stern, M.E.; Pflugfelder, S.C. Apical Corneal
+Barrier Disruption in Experimental Murine Dry Eye Is Abrogated by Methylprednisolone and Doxycycline.
+Investig. Opthalmol. Vis. Sci. 2006, 47, 2847–2856. [CrossRef]
+81. De Paiva, C.S.; Corrales, R.M.; Villarreal, A.L.; Farley, W.J.; Li, D.-Q.; Stern, M.E.; Pflugfelder, S.C.
+Corticosteroid and doxycycline suppress MMP-9 and inflammatory cytokine expression, MAPK activation
+in the corneal epithelium in experimental dry eye. Exp. Eye Res. 2006, 83, 526–535. [CrossRef]
+82. Pelegrino, F.; Pflugfelder, S.C.; De Paiva, C.S. Low humidity environmental challenge causes barrier
+disruption and cornification of the mouse corneal epithelium via a c-jun N-terminal kinase 2 (JNK2) pathway.
+Exp. Eye Res. 2012, 94, 150–156. [CrossRef] [PubMed]
+83. Kohanim, S.; Palioura, S.; Saeed, H.N.; Akpek, E.K.; Amescua, G.; Basu, S.; Blomquist, P.H.; Bouchard, C.S.;
+Dart, J.K.; Gai, X.; et al. Stevens-Johnson Syndrome/Toxic Epidermal Necrolysis—A Comprehensive Review
+and Guide to Therapy. I. Systemic Disease. Ocul. Surf. 2016, 14, 2–19. [CrossRef] [PubMed]
+84. Pflugfelder, S.C.; De Paiva, C.S.; Villarreal, A.L.; Stern, M.E. Effects of sequential artificial tear and cyclosporine
+emulsion therapy on conjunctival goblet cell density and transforming growth factor-beta2 production.
+Cornea 2008, 27, 64–69. [CrossRef] [PubMed]
+85. Contreras-Ruiz, L.; Masli, S. Immunomodulatory Cross-Talk between Conjunctival Goblet Cells and Dendritic
+Cells. PLoS ONE 2015, 10, e0120284. [CrossRef]
+86. Xiao, Y.; De Paiva, C.S.; Yu, Z.; De Souza, R.G.; Li, D.-Q.; Pflugfelder, S.C. Goblet cell-produced retinoic acid
+suppresses CD86 expression and IL-12 production in bone marrow-derived cells. Int. Immunol. 2018, 30,
+457–470. [CrossRef]
+87. De Paiva, C.S.; Villarreal, A.L.; Corrales, R.M.; Rahman, H.T.; Chang, V.Y.; Farley, W.J.; Stern, M.E.;
+Niederkorn, J.Y.; Li, D.Q.; Pflugfelder, S.C. Dry eye-induced conjunctival epithelial squamous metaplasia is
+modulated by interferon-gamma. Investig. Ophthalmol. Vis. Sci. 2007, 48, 2553–2560. [CrossRef] [PubMed]
+88. De Paiva, C.S.; Raince, J.K.; McClellan, A.J.; Shanmugam, K.P.; Pangelinan, S.B.; Volpe, E.A.; Corrales, R.M.;
+Farley, W.J.; Corry, D.B.; Li, D.-Q.; et al. Homeostatic control of conjunctival mucosal goblet cells by
+NKT-derived IL-13. Mucosal Immunol. 2011, 4, 397–408. [CrossRef]
+89. McClellan, A.J.; Volpe, E.A.; Zhang, X.; Darlington, G.J.; Li, D.-Q.; Pflugfelder, S.C.; De Paiva, C.S.
+Ocular Surface Disease and Dacryoadenitis in Aging C57BL/6 Mice. Am. J. Pathol. 2014, 184, 631–643.
+[CrossRef]
+90. Zhang, X.; Chen, W.; De Paiva, C.S.; Corrales, R.M.; Volpe, E.A.; McClellan, A.J.; Farley, W.J.; Li, D.Q.;
+Pflugfelder, S.C. Interferon-gamma exacerbates dry eye-induced apoptosis in conjunctiva through dual
+apoptotic pathways. Investig. Ophthalmol. Vis. Sci. 2011, 52, 6279–6285. [CrossRef]
+91. Zhang, X.; Chen, W.; De Paiva, C.S.; Volpe, E.A.; Gandhi, N.B.; Farley, W.J.; Li, D.Q.; Niederkorn, J.Y.;
+Stern, M.E.; Pflugfelder, S.C. Desiccating stress induces CD4+ T-cell-mediated Sjogren’s syndrome-like
+corneal epithelial apoptosis via activation of the extrinsic apoptotic pathway by interferon-gamma. Am. J.
+Pathol. 2011, 179, 1807–1814. [CrossRef]
+92. Zhang, X.; De Paiva, C.S.; Su, Z.; Volpe, E.A.; Li, D.-Q.; Pflugfelder, S.C. Topical interferon-gamma
+neutralization prevents conjunctival goblet cell loss in experimental murine dry eye. Exp. Eye Res. 2014, 118,
+117–124. [CrossRef] [PubMed]
+93. Corrales, R.M.; De Paiva, C.S.; Li, D.-Q.; Farley, W.J.; Henriksson, J.T.; Bergmanson, J.P.G.; Pflugfelder, S.C.
+Entrapment of Conjunctival Goblet Cells by Desiccation-Induced Cornification. Investig. Opthalmol. Vis. Sci.
+2011, 52, 3492–3499. [CrossRef] [PubMed]
+94. Henriksson, J.T.; Coursey, T.G.; Corry, D.B.; De Paiva, C.S.; Pflugfelder, S.C. IL-13 Stimulates Proliferation
+and Expression of Mucin and Immunomodulatory Genes in Cultured Conjunctival Goblet Cells.
+Investig. Opthalmol. Vis. Sci. 2015, 56, 4186–4197. [CrossRef] [PubMed]
+95. Contreras-Ruiz, L.; Ghosh-Mitra, A.; Shatos, M.A.; Dartt, D.A.; Masli, S. Modulation of Conjunctival Goblet
+Cell Function by Inflammatory Cytokines. Mediat. Inflamm. 2013, 2013, 1–11. [CrossRef]
+96. Tseng, S.C.; Hirst, L.W.; Maumenee, A.E.; Kenyon, K.R.; Sun, T.-T.; Green, W.R. Possible Mechanisms for the
+Loss of Goblet Cells in Mucin-deficient Disorders. Ophthalmology 1984, 91, 545–552. [CrossRef]
+Int. J. Mol. Sci. 2020, 21, 9271 21 of 24
+97. Huang, A.J.; Tseng, S.C.; Kenyon, K.R. Morphogenesis of rat conjunctival goblet cells. Investig. Ophthalmol.
+Vis. Sci. 1988, 29, 969–975.
+98. Roat, M.I.; Ohji, M.; Hunt, L.E.; Thoft, R.A. Conjunctival Epithelial Cell Hypermitosis and Goblet Cell
+Hyperplasia in Atopic Keratoconjunctivitis. Am. J. Ophthalmol. 1993, 116, 456–463. [CrossRef]
+99. Tseng, S.C. Staging of conjunctival squamous metaplasia by impression cytology. Ophthalmology 1985, 92,
+728–733. [CrossRef]
+100. Wittpenn, J.R.; Tseng, S.C.; Sommer, A. Detection of early xerophthalmia by impression cytology.
+Arch. Ophthalmol. 1986, 104, 237–239. [CrossRef]
+101. Lemp, M.A.; Dohlman, C.H.; Kuwabara, T.; Holly, F.J.; Carroll, J.M. Dry eye secondary to mucus deficiency.
+Trans. Am. Acad. Ophthalmol. Otolaryngol. 1971, 75, 1223–1227.
+102. Ralph, R.A. Conjunctival goblet cell density in normal subjects and in dry eye syndromes. Investig. Ophthalmol.
+1975, 14, 299–302.
+103. Nelson, J.D.; Wright, J.C. Conjunctival Goblet Cell Densities in Ocular Surface Disease. Arch. Ophthalmol.
+1984, 102, 1049–1051. [CrossRef] [PubMed]
+104. Pflugfelder, S.C.; Huang, A.J.; Feuer, W.; Chuchovski, P.T.; Pereira, I.C.; Tseng, S.C. Conjunctival cytologic
+features of primary Sjogren’s syndrome. Ophthalmology 1990, 97, 985–991. [CrossRef]
+105. Murube, J.; Rivas, L. Impression Cytology on Conjunctiva and Cornea in Dry Eye Patients Establishes a
+Correlation between Squamous Metaplasia and Dry Eye Clinical Severity. Eur. J. Ophthalmol. 2003, 13,
+115–127. [CrossRef] [PubMed]
+106. Uchino, Y.; Uchino, M.; Yokoi, N.; Dogru, M.; Kawashima, M.; Komuro, A.; Sonomura, Y.; Kato, H.;
+Argüeso, P.; Kinoshita, S.; et al. Impact of Cigarette Smoking on Tear Function and Correlation between
+Conjunctival Goblet Cells and Tear MUC5AC Concentration in Office Workers. Sci. Rep. 2016, 6, 27699.
+[CrossRef]
+107. Yeo, A.C.H.; Carkeet, A.; Carney, L.G.; Yap, M.K.H. Relationship between goblet cell density and tear function
+tests. Ophthalmic Physiol. Opt. 2003, 23, 87–94. [CrossRef] [PubMed]
+108. Kumar, P.; Bhargava, R.; Kumar, M.; Ranjan, S.; Kumar, M.; Verma, P. The Correlation of Routine Tear
+Function Tests and Conjunctival Impression Cytology in Dry Eye Syndrome. Korean J. Ophthalmol. 2014, 28,
+122–129. [CrossRef]
+109. Sapkota, K.; Franco, S.; Sampaio, P.; Lira, M. Goblet cell density association with tear function and ocular
+surface physiology. Contact Lens Anterior Eye 2015, 38, 240–244. [CrossRef]
+110. Chi, W.; Hua, X.; Chen, X.; Bian, F.; Yuan, X.; Zhang, L.; Wang, X.; Chen, D.; Deng, R.; Li, Z.; et al.
+Mitochondrial DNA oxidation induces imbalanced activity of NLRP3/NLRP6 inflammasomes by activation
+of caspase-8 and BRCC36 in dry eye. J. Autoimmun. 2017, 80, 65–76. [CrossRef]
+111. Deng, R.; Hua, X.; Li, J.; Chi, W.; Zhang, Z.; Lu, F.; Zhang, L.; Pflugfelder, S.C.; Li, D.-Q. Oxidative Stress
+Markers Induced by Hyperosmolarity in Primary Human Corneal Epithelial Cells. PLoS ONE 2015, 10,
+e0126561. [CrossRef]
+112. Kawai, T.; Akira, S. TLR signaling. Cell Death Differ. 2006, 13, 816–825. [CrossRef] [PubMed]
+113. Enríquez-De-Salamanca, A.; Castellanos, E.; Stern, M.E.; Fernández, I.; Carreño, E.; García-Vázquez, C.;
+Herreras, J.M.; Calonge, M. Tear cytokine and chemokine analysis and clinical correlations in evaporative-type
+dry eye disease. Mol. Vis. 2010, 16, 862–873. [PubMed]
+114. Li, D.-Q.; Chen, Z.; Song, X.J.; Luo, L.; Pflugfelder, S.C. Stimulation of Matrix Metalloproteinases by
+Hyperosmolarity via a JNK Pathway in Human Corneal Epithelial Cells. Investig. Opthalmol. Vis. Sci. 2004,
+45, 4302–4311. [CrossRef] [PubMed]
+115. Li, D.Q.; Chen, Z.; Song, X.J.; Farley, W.; Pflugfelder, S.C. Hyperosmolarity Stimulates Production of
+MMP-9, IL-1ß and TNF- by Human Corneal Epithelial Cells Via a c-Jun NH2-terminal Kinase Pathway.
+Investig. Ophthalmol. Vis. Sci. 2002, 43, 1981.
+116. Li, D.Q.; Shang, T.Y.; Kim, H.S.; Solomon, A.; Lokeshwar, B.L.; Pflugfelder, S.C. Regulated expression of
+collagenases MMP-1, -8, and -13 and stromelysins MMP-3, -10, and -11 by human corneal epithelial cells.
+Investig. Ophthalmol. Vis. Sci. 2003, 44, 2928–2936. [CrossRef]
+117. Chen, Y.T.; Nikulina, K.; Lazarev, S.; Bahrami, A.F.; Noble, L.B.; Gallup, M.; McNamara, N.A. Interleukin-1 as
+a phenotypic immunomodulator in keratinizing squamous metaplasia of the ocular surface in Sjogren’s
+syndrome. Am. J. Pathol. 2010, 177, 1333–1343. [CrossRef]
+Int. J. Mol. Sci. 2020, 21, 9271 22 of 24
+118. Epstein, S.P.; Gadaria-Rathod, N.; Wei, Y.; Maguire, M.G.; Asbell, P.A. HLA-DR expression as a biomarker
+of inflammation for multicenter clinical trials of ocular surface disease. Exp. Eye Res. 2013, 111, 95–104.
+[CrossRef]
+119. Barabino, S.; Montaldo, E.; Solignani, F.; Valente, C.; Mingari, M.C.; Rolando, M. Immune response in the
+conjunctival epithelium of patients with dry eye. Exp. Eye Res. 2010, 91, 524–529. [CrossRef]
+120. Baudouin, C.; Brignole, F.; Pisella, P.-J.; Jean, M.D.S.; Goguel, A. Flow Cytometric Analysis of the Inflammatory
+Marker HLA DR in Dry Eye Syndrome: Results from 12 Months of Randomized Treatment with Topical
+Cyclosporin A. In Advances in Experimental Medicine and Biology; Springer: Boston, MA, USA, 2002; Volume 506,
+pp. 761–769.
+121. Stern, M.E.; Gao, J.; Schwalb, T.A.; Ngo, M.; Tieu, D.D.; Chan, C.C.; Reis, B.L.; Whitcup, S.M.; Thompson, D.;
+Smith, J.A. Conjunctival T-cell subpopulations in Sjogren’s and non-Sjogren’s patients with dry eye.
+Investig. Ophthalmol. Vis. Sci. 2002, 43, 2609–2614.
+122. Tsubota, K.; Fujita, H.; Tsuzaka, K.; Takeuchi, T. Quantitative analysis of lacrimal gland function, apoptotic
+figures, Fas and Fas ligand expression of lacrimal glands in dry eye patients. Exp. Eye Res. 2003, 76, 233–240.
+[CrossRef]
+123. Chauhan, S.K.; El Annan, J.; Ecoiffier, T.; Goyal, S.; Zhang, Q.; Saban, D.R.; Dana, R. Autoimmunity in Dry
+Eye is due to Resistance of Th17 to Treg Suppression1. J. Immunol. 2009, 182, 1247–1252. [CrossRef] [PubMed]
+124. El Annan, J.; Chauhan, S.K.; Ecoiffier, T.; Zhang, Q.; Saban, D.R.; Dana, R. Characterization of Effector T Cells
+in Dry Eye Disease. Investig. Opthalmol. Vis. Sci. 2009, 50, 3802–3807. [CrossRef] [PubMed]
+125. Yoon, K.C.; Park, C.-S.; You, I.-C.; Choi, H.-J.; Lee, K.-H.; Im, S.-K.; Park, H.-Y.; Pflugfelder, S.C. Expression of
+CXCL9, -10, -11, and CXCR3 in the Tear Film and Ocular Surface of Patients with Dry Eye Syndrome. Investig.
+Opthalmol. Vis. Sci. 2010, 51, 643–650. [CrossRef] [PubMed]
+126. Gulati, A.; Sacchetti, M.; Bonini, S.; Dana, M.R. Chemokine Receptor CCR5 Expression in Conjunctival
+Epithelium of Patients With Dry Eye Syndrome. Arch. Ophthalmol. 2006, 124, 710–716. [CrossRef]
+127. Mills, K.H.G. Induction, function and regulation of IL-17-producing T cells. Eur. J. Immunol. 2008, 38,
+2636–2649. [CrossRef]
+128. De Paiva, C.S.; Chotikavanich, S.; Pangelinan, S.B.; Pitcher, J.D.; Fang, B.; Zheng, X.; Ma, P.; Farley, W.J.;
+Siemasko, K.F.; Niederkorn, J.Y.; et al. IL-17 disrupts corneal barrier following desiccating stress.
+Mucosal Immunol. 2009, 2, 243–253. [CrossRef]
+129. Kang, M.H.; Kim, M.K.; Lee, H.J.; Lee, H.I.; Wee, W.R.; Lee, J.H. Interleukin-17 in Various Ocular Surface
+Inflammatory Diseases. J. Korean Med. Sci. 2011, 26, 938–944. [CrossRef]
+130. Goyal, S.; Chauhan, S.K.; El Annan, J.; Nallasamy, N.; Zhang, Q.; Dana, R. Evidence of corneal
+lymphangiogenesis in dry eye disease: A potential link to adaptive immunity? Arch. Ophthalmol. 2010, 128,
+819–824. [CrossRef]
+131. Chauhan, S.K.; Jin, Y.; Goyal, S.; Lee, H.S.; Fuchsluger, T.A.; Lee, H.K.; Dana, R. A novel pro-lymphangiogenic
+function for Th17/IL-17. Blood 2011, 118, 4630–4634. [CrossRef]
+132. Chen, Y.; Chauhan, S.K.; Shao, C.; Omoto, M.; Inomata, T.; Dana, R. IFN-gamma-Expressing Th17 Cells
+Are Required for Development of Severe Ocular Surface Autoimmunity. J. Immunol. 2017, 199, 1163–1169.
+[CrossRef]
+133. Chen, Y.; Chauhan, S.K.; Lee, H.S.; Saban, D.R.; Dana, R. Chronic dry eye disease is principally mediated by
+effector memory Th17 cells. Mucosal Immunol. 2014, 7, 38–45. [CrossRef] [PubMed]
+134. Chen, Y.; Chauhan, S.K.; Tan, X.; Dana, R. Interleukin-7 and -15 maintain pathogenic memory Th17 cells in
+autoimmunity. J. Autoimmun. 2016, 77, 96–103. [CrossRef] [PubMed]
+135. Siemasko, K.F.; Gao, J.; Calder, V.L.; Hanna, R.; Calonge, M.; Pflugfelder, S.C.; Niederkorn, J.Y.; Stern, M.E.
+In Vitro Expanded CD4+CD25+Foxp3+Regulatory T Cells Maintain a Normal Phenotype and Suppress
+Immune-Mediated Ocular Surface Inflammation. Investig. Opthalmol. Vis. Sci. 2008, 49, 5434–5440.
+[CrossRef] [PubMed]
+136. McDermott, A.M.; Perez, V.; Huang, A.J.W.; Pflugfelder, S.C.; Stern, M.E.; Baudouin, C.; Beuerman, R.W.;
+Burns, A.R.; Calder, V.L.; Calonge, M.; et al. Pathways of corneal and ocular surface inflammation:
+A perspective from the cullen symposium. Ocul. Surf. 2005, 3, S131. [CrossRef]
+137. Barabino, S.; Chen, Y.; Chauhan, S.; Dana, R. Ocular surface immunity: Homeostatic mechanisms and their
+disruption in dry eye disease. Prog. Retin. Eye Res. 2012, 31, 271–285. [CrossRef]
+Int. J. Mol. Sci. 2020, 21, 9271 23 of 24
+138. Baudouin, C.; Aragona, P.; Messmer, E.M.; Tomlinson, A.; Calonge, M.; Boboridis, K.G.; Akova, Y.A.;
+Geerling, G.; Labetoulle, M.; Rolando, M. Role of Hyperosmolarity in the Pathogenesis and Management of
+Dry Eye Disease: Proceedings of the OCEAN Group Meeting. Ocul. Surf. 2013, 11, 246–258. [CrossRef]
+139. Labbé, A.; Liang, Q.; Wang, Z.; Zhang, Y.; Xu, L.; Baudouin, C.; Sun, X. Corneal Nerve Structure and Function
+in Patients With Non-Sjögren Dry Eye: Clinical Correlations. Investig. Opthalmol. Vis. Sci. 2013, 54, 5144–5150.
+[CrossRef]
+140. Hamrah, Y.Q.P.; Qazi, Y.; Shahatit, B.; Dastjerdi, M.H.; Pavan-Langston, D.; Jacobs, D.S.; Rosenthal, P.
+Corneal Nerve and Epithelial Cell Alterations in Corneal Allodynia: An In Vivo Confocal Microscopy Case
+Series. Ocul. Surf. 2017, 15, 139–151. [CrossRef]
+141. Tepelus, T.C.; Chiu, G.B.; Huang, J.; Huang, P.; Sadda, S.R.; Irvine, J.; Lee, O.L. Correlation between corneal
+innervation and inflammation evaluated with confocal microscopy and symptomatology in patients with dry
+eye syndromes: A preliminary study. Graefe Arch. Clin. Exp. Ophthalmol. 2017, 255, 1771–1778. [CrossRef]
+142. Wei, Y.; Gadaria-Rathod, N.; Epstein, S.; Asbell, P.A. Tear Cytokine Profile as a Noninvasive Biomarker of
+Inflammation for Ocular Surface Diseases: Standard Operating Procedures. Investig. Opthalmol. Vis. Sci.
+2013, 54, 8327–8336. [CrossRef]
+143. Brignole-Baudouin, F.; Riancho, L.; Ismail, D.; Deniaud, M.; Amrane, M.; Baudouin, C. Correlation Between
+the Inflammatory Marker HLA-DR and Signs and Symptoms in Moderate to Severe Dry Eye Disease.
+Investig. Opthalmol. Vis. Sci. 2017, 58, 2438–2448. [CrossRef] [PubMed]
+144. Galor, A.; Moein, H.-R.; Lee, C.; Rodriguez, A.; Felix, E.R.; Sarantopoulos, K.D.; Levitt, R.C. Neuropathic
+pain and dry eye. Ocul. Surf. 2018, 16, 31–44. [CrossRef]
+145. Galor, A.; Levitt, R.C.; Felix, E.R.; Martin, E.R.; Sarantopoulos, C. Neuropathic ocular pain: An important yet
+underevaluated feature of dry eye. Eye 2015, 29, 301–312. [CrossRef] [PubMed]
+146. Launay, P.-S.; Reboussin, E.; Liang, H.; Kessal, K.; Godefroy, D.; Rostene, W.; Sahel, J.-A.; Baudouin, C.;
+Parsadaniantz, S.M.; Goazigo, A.R.-L. Ocular inflammation induces trigeminal pain, peripheral and central
+neuroinflammatory mechanisms. Neurobiol. Dis. 2016, 88, 16–28. [CrossRef] [PubMed]
+147. Indart, S.; Hugon, J.; Guillausseau, P.J.; Gilbert, A.; Dumurgier, J.; Paquet, C.; Sene, D. Impact of pain on
+cognitive functions in primary Sjogren syndrome with small fiber neuropathy: 10 cases and a literature
+review. Medicine 2017, 96, e6384. [CrossRef]
+148. Nepp, J.; Wirth, M. Fluctuations of Corneal Sensitivity in Dry Eye Syndromes—A Longitudinal Pilot Study.
+Cornea 2015, 34, 1221–1226. [CrossRef]
+149. Mackie, I. Neuroparalytic Keratitis. In Current Ocular Therapy; W.B. Saunders: Philadelphia, PA, USA, 1995;
+pp. 452–454.
+150. Dua, H.S.; Said, D.G.; Messmer, E.M.; Rolando, M.; Del Castillo, J.M.B.; Hossain, P.; Shortt, A.J.; Geerling, G.;
+Nubile, M.; Figueiredo, F.C.; et al. Neurotrophic keratopathy. Prog. Retin. Eye Res. 2018, 66, 107–131.
+[CrossRef]
+151. EMA. EU Regulatory Workshop—Ophthalmology—Summary and Report. Clinical Development, Scientific Advice
+and Paediatric Investigation Plans; EMA/450332/2012; EMA: London, UK, 2012.
+152. PMDA. Diquas Eye Drops; PMDA: Tokyo, Japan, 2010.
+153. PMDA. Mucosta Eye Drops; PMDA: Tokyo, Japan, 2011.
+154. CDER. Summary Review Xiidra Eye Drops (Lifitegrast Ophthalmic Solution) 5%; Center for Drug Evaluation and
+Research: Silver Spring, MD, USA, 2016.
+155. Kondo, T. Rational Medicine Initiative; PMDA: Tokyo, Japan, 2017.
+156. WHO. The Pursuit of Responsible Use of Medicines: Sharing and Learning from Country Experiences;
+WHO/EMP/March/2012.3; World Health Organization: Geneva, Switzerland, 2012.
+157. Uchino, M.; Dogru, M.; Yagi, Y.; Goto, E.; Tomita, M.; Kon, T.; Saiki, M.; Matsumoto, Y.; Uchino, Y.; Yokoi, N.;
+et al. The Features of Dry Eye Disease in a Japanese Elderly Population. Optom. Vis. Sci. 2006, 83, 797–802.
+[CrossRef]
+158. Kawashima, M.; Sano, K.; Takechi, S.; Tsubota, K. Impact of lifestyle intervention on dry eye disease in office
+workers: A randomized controlled trial. J. Occup. Health 2018, 60, 281–288. [CrossRef]
+159. Kawashima, M.; Uchino, M.; Yokoi, N.; Uchino, Y.; Dogru, M.; Komuro, A.; Sonomura, Y.; Kato, H.;
+Nishiwaki, Y.; Kinoshita, S.; et al. The Association between Dry Eye Disease and Physical Activity as well as
+Sedentary Behavior: Results from the Osaka Study. J. Ophthalmol. 2014, 2014, 1–6. [CrossRef]
+Int. J. Mol. Sci. 2020, 21, 9271 24 of 24
+160. Kawashima, M.; Yamatsuji, M.; Yokoi, N.; Fukui, M.; Ichihashi, Y.; Kato, H.; Nishida, M.; Uchino, M.;
+Kinoshita, S.; Tsubota, K. Screening of dry eye disease in visual display terminal workers during occupational
+health examinations: The Moriguchi study. J. Occup. Health 2015, 57, 253–258. [CrossRef] [PubMed]
+161. Ayaki, M.; Kawashima, M.; Negishi, K.; Tsubota, K. High prevalence of sleep and mood disorders in dry eye
+patients: Survey of 1000 eye clinic visitors. Neuropsychiatr. Dis. Treat. 2015, 11, 889–894. [CrossRef] [PubMed]
+162. Coursey, T.G.; Henriksson, J.T.; Marcano, D.C.; Shin, C.S.; Isenhart, L.C.; Ahmed, F.; De Paiva, C.S.;
+Pflugfelder, S.C.; Acharya, G. Dexamethasone nanowafer as an effective therapy for dry eye disease.
+J. Control. Release 2015, 213, 168–174. [CrossRef] [PubMed]
+163. Bucolo, C.; Fidilio, A.; Fresta, C.G.; Lazzara, F.; Platania, C.B.M.; Cantarella, G.; Di Benedetto, G.; Burgaletto, C.;
+Bernardini, R.; Piazza, C.; et al. Ocular Pharmacological Profile of Hydrocortisone in Dry Eye Disease.
+Front. Pharmacol. 2019, 10, 1240. [CrossRef]
+164. Holland, E.J.; Luchs, J.; Karpecki, P.M.; Nichols, K.K.; Jackson, M.A.; Sall, K.; Tauber, J.; Roy, M.;
+Raychaudhuri, A.; Shojaei, A. Lifitegrast for the Treatment of Dry Eye Disease: Results of a Phase
+III, Randomized, Double-Masked, Placebo-Controlled Trial (OPUS-3). Ophthalmology 2017, 124, 53–60.
+[CrossRef]
+Publisher’s Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional
+affiliations.
+© 2020 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access
+article distributed under the terms and conditions of the Creative Commons Attribution
+(CC BY) license (http://creativecommons.org/licenses/by/4.0/).

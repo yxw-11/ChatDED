@@ -1,0 +1,598 @@
+REVIEW ARTICLE
+Current and Future Pharmacological Therapies for the
+Management of Dry Eye
+Preeya K. Gupta, M.D., Penny Asbell, M.D., and John Sheppard, M.D.
+Abstract: Dry eye disease (DED) is among the most common reasons for
+visiting eye care practitioners and represents a substantial health and cost
+burden. Disease prevalence ranges from 5% to 33% and is increasing in the
+younger population. The core mechanism of DED involves a vicious cycle
+where hyperosmolarity leads to an inflammatory cascade resulting in ocular
+surface damage. No cure is available for DED, and patients require ongoing
+disease management. Over-the-counter medications can provide temporary
+symptom relief but do not tackle the inflammatory pathophysiology of
+DED. A number of medications with anti-inflammatory activity are
+available, but there is a need for development of pharmacotherapies with
+novel delivery methods and targets to widen the variety of treatment
+options. This review discusses current anti-inflammatory pharmacothera￾pies approved in the United States and Europe for DED and highlights
+novel drugs that have been recently approved or are in development.
+Key Words: Keratoconjunctivitis sicca—Dry eye disease—Nanomicelles
+—OTX-101—Cyclosporine.
+(Eye & Contact Lens 2020;46: S64–S69)
+As defined by the Dry Eye Workshop II International Task
+Force, dry eye disease (DED) is a multifactorial disease of
+the ocular surface, characterized by loss of homeostasis of the tear
+film.1 Hyperosmolarity and instability of the tear film lead to
+inflammation and ocular surface damage, and may cause symptoms
+of ocular discomfort and visual disturbance.1 The health costs and
+reduced work productivity associated with DED represent a sub￾stantial cost burden, and the disease significantly increases utiliza￾tion of health care resources.2 Dry eye disease is among the most
+common reasons for seeking medical eye care, but estimates of
+prevalence vary widely, ranging from 5% to 33%, in part due to
+discrepancies in the disease definition used and studied popula￾tions.2,3
+Over-the-counter medications provide temporary relief of symp￾toms but prescription medications that address the underlying
+cause of DED may be needed. Several approved treatments target
+DED-associated inflammation, but given the heterogeneous nature
+of DED and limitations with current treatments, there is a need for
+development of formulations addressing these limitations and
+treatments with novel targets to expand the range of available
+treatment options. This review summarizes pharmacotherapies
+approved in the United States and Europe that target the
+inflammatory cycle of DED and highlights drugs in development
+that act on novel targets of this complex disorder. To provide an
+overview of novel molecules for which peer-reviewed publications
+were not available, we broadened our sources to include company
+websites, company press releases, conference presentations, and
+clinical trial registration databases.
+Dry Eye Disease as a Multifactorial
+Inflammatory Disorder
+The core of DED etiology is a vicious inflammatory cycle, where
+tear film instability and hyperosmolarity trigger an inflammatory
+cascade leading to ocular surface damage and further loss of tear-
+film homeostasis (Fig. 1).4 Hyperosmolarity of the tear film may
+have several causes. When hyperosmolarity results from reduced
+lacrimal secretions, this is referred to as aqueous-deficient dry eye.
+Dysfunction or damage to the acinar and ductal epithelium due to
+inflammation associated with Sjögren syndrome or non-Sjögren syn￾drome is the most common cause of aqueous-deficient dry eye.2
+Other potential causes include damage of the nerve component of
+the lacrimal functional unit, obstruction of the lacrimal ducts as
+a result of conjunctival disease, or age-related reduction in tear
+secretion.2 Some systemic medications—including antihistamines,
+From the Department of Ophthalmology (P.K.G.), Duke University Eye
+Center, Durham, NC; Hamilton Eye Institute (P.A.), University of Tennessee,
+Memphis, TN; and Virginia Eye Consultants (J.S.), Norfolk, VA.
+P. K. Gupta is consultant to Allergan, Alcon, Aurea, Novartis, Bausch +
+Lomb, Johnson & Johnson Vision, Ocular Science, ReGenTree, Shire,
+Sight Sciences, TearLab, Kala Pharmaceuticals, and Zeiss. P. Asbell re￾ceives grants from Bausch + Lomb, the National Eye Institute, the Office of
+Dietary Supplements (NIH), Novartis, MC2 Therapeutics, Rtech, and Mio￾tech; speaker fees from Medscape, Oculus, Santen, ScientiaCME, and Vin￾dico; advisory board/consultancy fees from Allergan, Bausch + Lomb,
+MC2 Therapeutics, Novartis, Rtech, Shire, and Miotech; and nonfinancial
+support from Bausch + Lomb, CLAO, Santen, and Shire. J. Sheppard
+reports personal fees from Allergan, Allysta, Alcon/Novartis, Avedro,
+Bausch + Lomb, Clementia Pharma, Clearside, EyeGate, EyePoint, Johnson
+& Johnson Vision, Ocular Therapeutix, Science Based Health, Senju, Shire,
+Sun Pharmaceutical Industries, Inc., Santen, TearLab, TearScience, Top￾con, Topivert, and ViewPoint; and other fees from Alcon/Novartis, Kala
+Pharmaceuticals, Lacrisciences, Medscape, Novaliq, Noveome, Ocular
+Therapeutix, Shire, Tear Solutions, and TearLab.
+Writing and editorial support for manuscript preparation were provided
+by Ginny Feltzin, PhD (AlphaBioCom, LLC, King of Prussia, PA), and
+funded by Sun Pharmaceutical Industries, Inc. (Princeton, NJ). All authors
+met the International Council of Medical Journal Editors criteria and
+received neither honoraria nor payment for authorship.
+Address correspondence to Preeya K. Gupta, M.D., Department of
+Ophthalmology, Duke University Eye Center, 4709 Creekstone Drive, Suite
+100, Durham, NC 27703; e-mail: preeya.gupta@duke.edu
+Accepted August 18, 2019.
+Copyright  2019 The Author(s). Published by Wolters Kluwer Health,
+Inc. on behalf of the Contact Lens Association of Opthalmologists. This is
+an open-access article distributed under the terms of the Creative Commons
+Attribution-Non Commercial-No Derivatives License 4.0 (CCBY-NC-ND),
+where it is permissible to download and share the work provided it is
+properly cited. The work cannot be changed in any way or used commer￾cially without permission from the journal.
+DOI: 10.1097/ICL.0000000000000666
+S64 Eye & Contact Lens  Volume 46, Supplement 2, March 2020
+b-blockers, antispasmodics, diuretics, and select psychotropics—can
+also reduce tear secretion.2
+Alternatively, when tear-film hyperosmolarity is caused by
+excessive evaporation in the presence of a normally functioning
+lacrimal unit, the resulting type of DED is known as evaporative
+dry eye,4 which is primarily due to deficiency of the tear-film lipid
+layer caused by meibomian gland disease (MGD).2,4 Potential
+causes for MGD include meibomian gland damage, decrease in
+androgen levels, and androgen receptor insensitivity or blockade.2
+Medications—including cis-retinoic acid, pilocarpine, and timolol
+—and exposure to polychlorinated biphenyls may disrupt the mei￾bomian glands.2 Meibomian gland disease can also be secondary to
+some skin disorders and conjunctival diseases.2
+Due to the cyclical, self-perpetuating nature of DED, many
+patients fall on a continuum and have features of both aqueous￾deficient and evaporative dry eye.
+When the cell’s adaptive responses fail to compensate for hyper￾osmolarity, it can result in cellular stress.5 Hyperosmolar stress can
+trigger a complex inflammatory network, whose major components
+include the activation of mitogen-activated protein kinases and the
+nuclear factor kappa-light-chain-enhancer of activated B cells (NF-
+ĸB) pathway, T-cell maturation, and the secretion of proinflamma￾tory cytokines and matrix metalloproteinases.4 Together, hyperos￾molarity and inflammation lead to conjunctival and corneal
+epithelial cell death, including mucin-producing goblet cells, fur￾ther increasing tissue damage and inflammation.4 Ocular targets
+damaged by hyperosmolarity and inflammation in DED include
+the lacrimal gland, meibomian glands, cornea, conjunctiva, and
+tear film.4
+Current Pharmacologic Options for Treatment
+Dry eye disease treatment progresses in a stepwise approach,
+starting with patient education, environmental modification, and lid
+hygiene,6 including gentle scrubs that limit the accumulation of
+lipid by-products and lipolytic bacteria and warm compresses that
+can soften the secretions in obstructed meibomian glands. How￾ever, compliance with lid hygiene is often poor.6 Ocular lubricants
+are a mainstay of early DED management, but they provide only
+a palliative solution and do not address the underlying disease
+mechanisms.6 If the initial steps are inadequate in treating DED,
+nonpharmacologic devices (e.g., punctal plugs, pulsed light ther￾apy, thermal pulsation, and moisture goggles) may be used in
+conjunction with prescription medications.6
+Several approved medications in the United States and Europe
+for the treatment of DED aim to deliver cyclosporine A (CsA) to
+affected ocular targets. CsA is a cyclic polypeptide that prevents
+T-cell maturation through binding to cyclophilin and inhibiting the
+phosphatase activity of calcineurin.7 This immunomodulatory
+activity has the potential to counteract the vicious inflammatory
+cycle in DED, but CsA’s high hydrophobicity and poor aqueous
+solubility pose a challenge in delivering the drug to target tis￾sues.8,9 Overall, CsA has been associated with an improved quality
+of life, improvement in at least some DED symptoms, and reduc￾tion in artificial tear use; however, studies of patient satisfaction
+and adherence show mixed results.10 Very few studies have eval￾uated efficacy and safety of CsA in the long term, and the optimal
+duration of treatment with CsA is unclear.10
+A preservative-free anionic oil-in-water 0.05% CsA nanoemul￾sion (Restasis; Allergan, Inc., Irvine, CA) is commercially avail￾able in the United States and indicated to increase tear production
+in patients whose tear production is presumed to be suppressed due
+to ocular inflammation associated with DED.11,12 This formulation
+uses castor oil as the CsA solvent, polysorbate 80 as an emulsifier,
+and carbomer copolymer as a stabilizer.12 In 2 pooled multicenter,
+randomized, double-masked, phase 3 studies, CsA 0.05% emulsion
+administered twice daily for 6 months improved mean corneal
+staining scores (P¼0.008) and mean categorized Schirmer’s test
+values (P#0.05) from baseline versus vehicle.13 Adverse events
+(AEs) were reported in 25.3% of patients receiving CsA 0.05%
+ophthalmic emulsion and 19.5% of patients receiving vehicle.13
+The most common AEs were eye burning and stinging, reported
+in 14.7% versus 6.5% and 3.4% versus 1.4% of patients receiving
+CsA 0.05% ophthalmic emulsion and vehicle group, respectively;
+1.7% of patients in each treatment group discontinued because of
+eye burning and stinging.13 In an open-label phase 4 study, mean
+tear film breakup time improved .50% (P,0.001) after 6 months
+FIG. 1. Vicious inflammatory cycle of dry eye dis￾ease. Hyperosmolarity initiates an inflammatory cas￾cade through MAPK and NF-kB activation, leading to
+helper T-cell maturation and secretion of inflamma￾tory mediators. Inflammation causes apoptosis of the
+corneal and conjunctival epithelium, further disrupting
+tear film homeostasis. MAPK, mitogen-activated protein
+kinase; MMP, matrix metalloproteinase; NF-ĸB, nuclear
+factor kappa-light-chain-enhancer of activated B cells.
+Eye & Contact Lens  Volume 46, Supplement 2, March 2020 Current and Future Treatments for Dry Eye
+Copyright  2019 The Author(s). Published by Wolters Kluwer Health, Inc. on behalf of the CLAO S65
+of treatment with CsA 0.05% ophthalmic emulsion. Adverse events
+were reported in 42.5% of patients, the most common AEs being
+instillation site burning (7.5%), instillation site pain (7.5%), and
+eye irritation (5%).14
+A cationic 0.1% CsA nanoemulsion (Ikervis; Santen SAS, Évry,
+France) is commercially available in Europe for treatment of severe
+keratitis in adult patients with DED that has not improved despite
+the use of artificial tears.15 Delivery of CsA using cationic nano￾emulsion is believed to improve residence time of CsA in target
+tissues compared with an anionic nanoemulsion; this is potentially
+due to the electrostatic interactions between positively charged
+droplets and negatively charged epithelial mucins.12 In a multicen￾ter, randomized, double-masked phase 3 study, treatment with cat￾ionic 0.1% CsA nanoemulsion for 6 months improved corneal
+staining versus vehicle (P¼0.037).16 Treatment-related AEs were
+reported by 37.0% of patients treated with cationic 0.1% CsA
+nanoemulsion and 21.1% of patients treated with vehicle, and
+almost all were ocular.16 The most common and only AE that
+demonstrated numerically increased occurrence in the active treat￾ment group was instillation site pain, which occurred in 29.2% of
+patients receiving cationic 0.1% CsA nanoemulsion versus 8.9% of
+patients receiving vehicle.16
+A 5% ophthalmic solution of the lymphocyte function￾associated antigen 1 (LFA-1) antagonist lifitegrast is approved
+for treatment of signs and symptoms of DED (Xiidra, Novartis,
+Basel, Switzerland).17 Lifitegrast interacts with LFA-1 and its bind￾ing partner, intracellular adhesion molecule-1, preventing the 2
+proteins from forming a complex and thereby inhibiting an inflam￾matory cascade resulting in T-cell activation and release of proin-
+flammatory cytokines.18 In 2 sequential randomized, double￾masked, placebo-controlled, parallel-arm, multicenter, phase 3
+studies, treatment with lifitegrast significantly improved corneal
+and conjunctival staining in the first study, as well as eye dryness
+as measured on a visual analog scale in the second study, compared
+with placebo.19,20 Reported AEs were mainly mild to moder￾ate.19,20 Serious AEs were nonocular and considered unrelated to
+the study.19,20 The most common AE in both studies was instilla￾tion site irritation, reported in 24% versus 4% in the first study and
+7.8% versus 1.4% in the second study for patients receiving lifite￾grast and placebo, respectively.19,20
+Despite the increasing availability of pharmacotherapies, there is
+currently no cure for DED, and ongoing management is needed.6
+Lipophilic drugs delivered using ophthalmic emulsions suffer from
+low penetration into the ocular tissues and may cause eye irritation
+and vision blurring.21 Current pharmacologic treatments may also
+have a slow onset of efficacy and overall patient dissatisfaction.
+Thus, there is an unmet need for DED pharmacotherapies with
+novel formulation or mechanism of action.
+Novel Pharmacotherapies and Ongoing
+Clinical Trials
+OTX-101 0.09% (CEQUA, Sun Pharmaceutical Industries, Inc.,
+Cranbury, NJ), a nanomicellar formulation of CsA, was approved in
+2018 to increase tear production in patients with keratoconjuncti￾vitis sicca.22 Nanomicelles are amphiphilic molecules that self￾assemble into a water-soluble outer shell and hydrophobic core that
+encapsulates lipophilic molecules such as CsA.23 Their small size
+(approximately 10 to 80 nm) allows for easy diffusion through
+scleral aqueous pores.8 In a head-to-head preclinical study in
+New Zealand white rabbits, OTX-101 showed increased concentra￾tion over time compared with 0.05% CsA ophthalmic emulsion in
+key ocular tissues, including an increase by a factor of 2.2 and 1.8
+in the cornea and superior bulbar conjunctiva, respectively.24 The
+efficacy and safety of OTX-101 were evaluated in a phase 2b/3 and
+a phase 3 randomized, double-masked, vehicle-controlled
+study.25,26 In the phase 2b/3 study, treatment with OTX-101
+0.09% for 84 days significantly improved total conjunctival staining
+versus vehicle as early as day 42 (P¼0.048) and through day 84
+(P¼0.008).25 Total corneal staining was improved in the OTX-101
+0.09% versus vehicle group at day 28 (P¼0.015) and day 84
+(P,0.001), and the percent of eyes with $10-mm increase from
+baseline in Schirmer’s scores at day 84 was significantly improved
+versus vehicle (P¼0.007). Adverse events were reported in 52
+(34.2%) patients in the OTX-101 0.09% group and 51 (33.6%)
+patients in the vehicle group, and most ocular AEs were mild or
+moderate in severity. The most common AE was instillation site
+pain in 23 (15.1%) patients receiving OTX-101 0.09% and 5 (3.3%)
+patients receiving vehicle. Additional AEs included eye irritation
+and increased lacrimation, each reported in 3 (2.0%) and 1 (0.7%)
+patients receiving OTX-101 0.09% and vehicle, respectively.25 In
+the phase 3 study, total conjunctival staining was significantly
+improved in the OTX-101 versus vehicle group as early as day
+56 (P,0.001) and through day 84 (P¼0.007), whereas the percent
+of eyes with complete corneal clearing was significantly improved
+versus vehicle as early as day 28 (P¼0.04) and through day 84
+(P¼0.02).26 The percent of eyes with increase in Schirmer’s score
+$10 mm from baseline at day 84 was significantly improved versus
+vehicle (P,0.001). A total of 151 (40.6%) patients in the OTX-101
+0.09% group and 91 (24.5%) patients in the vehicle group reported
+AEs, most of which were mild in severity.26 Most common AEs
+included instillation site pain—mostly mild in severity—in 90
+(24.2%) and 16 (4.3%) patients receiving OTX-101 0.09% and
+vehicle, respectively; as well as conjunctival hyperemia in 30
+(8.1%) and 19 (5.1%), and blepharitis in 5 (1.3%) and 0 patients
+receiving OTX-101 0.09% and vehicle, respectively.26
+A number of pharmacological therapies for DED are in
+development (Table 1). A CsA nonaqueous solution (CyclASol;
+Novaliq, Heidelberg, Germany) in development for the treatment
+of moderate to severe DED uses semifluorinated alkanes to elim￾inate the need for water, oils, surfactants, or preservatives.27,28 The
+efficacy and safety of 0.05% and 0.1% cyclosporine aqueous solu￾tion were evaluated in patients with moderate to severe DED ver￾sus vehicle and an open-label cyclosporine 0.05% ophthalmic
+emulsion arm in an exploratory phase 2 study.27 There was a sig￾nificant (P#0.05) improvement in total corneal staining versus
+cyclosporine 0.05% ophthalmic emulsion arm in patients receiving
+0.05% cyclosporine nonaqueous solution at 4 weeks of treatment
+but not at subsequent time points. Patients receiving 0.1% cyclo￾sporine nonaqueous solution showed significant (P#0.05)
+improvement in total corneal staining at 4 and 12 weeks but not
+at 16 weeks of treatment versus cyclosporine 0.05% ophthalmic
+emulsion. Adverse events were reported in 23.5% to 35.3% of
+patients, depending on treatment received and all were rated mild
+to moderate in intensity. Adverse events possibly related to study
+treatment led to discontinuation in 2 patients, of whom 1 was
+receiving cyclosporine nonaqueous solution 0.05% and experi￾enced mild or moderate eye pain. Most common AEs were visual
+acuity–related, reported in 3.9%, 7.8%, 1.9%, and 7.5% of patients
+P. K. Gupta et al. Eye & Contact Lens  Volume 46, Supplement 2, March 2020
+S66 Eye & Contact Lens  Volume 46, Supplement 2, March 2020
+receiving cyclosporine nonaqueous solution 0.05% and 0.1%,
+vehicle, and cyclosporine ophthalmic emulsion 0.05%, respec￾tively. Blurred vision, instillation site pain, and conjunctivitis were
+each reported in 1 (2.0%) patient receiving cyclosporine non￾aqueous solution 0.1%.
+TOP1630 (TopiVert, London, United Kingdom) is a narrow
+spectrum kinase inhibitor (NSKI) in development for the treatment
+of DED.29 Unlike inhibitors targeting a single kinase, NSKIs are
+designed to selectively target several kinases to overcome the redun￾dancy in inflammatory pathways.30,31 In a phase 2, randomized,
+double-masked, placebo-controlled, parallel-arm study, 4 weeks of
+treatment with TOP1630 led to significant improvement from baseline
+versus placebo in symptoms of grittiness (P¼0.0374), foreign body
+sensation (P¼0.0213), and eye pain (P¼0.0292).32 Significant
+improvement was also noted in the objective sign of total (conjunctival
+and corneal) lissamine green staining (P¼0.0349). There was no con￾sistent significant change in other objective signs, including corneal
+fluorescein staining, tear-film breakup time, the Schirmer’s test, and
+conjunctival and lid margin redness. A total of 5 AEs were reported in
+4 (12.9%) patients receiving TOP1630—reduced visual acuity, blurred
+vision, vitreous floaters, instillation site pain, and procedural pain. A
+total of 5 AEs were reported in 4 (13.3%) patients receiving placebo—
+reduced visual acuity, eye discharge, instillation site pain (in 2 pa￾tients), and instillation site discomfort. All reported AEs were mild to
+moderate in severity.32
+SYL1001 (Sylentis, Madrid, Spain) is a short interfering RNA
+(siRNA) in development for treating the signs and symptoms of
+DED.33 The siRNA targets the transient receptor potential cation
+channel subfamily V member 1 (TRPV1), involved in facilitating
+pain sensation and modulation of inflammation.34 By silencing
+expression of TRPV1, treatment with the siRNA aims to prevent
+eye discomfort resulting from stimulation of corneal nerve endings
+after corneal epithelial damage.34 In a randomized, double-masked,
+placebo-controlled phase 2 study, SYL1001 1.125% significantly
+decreased ocular pain compared with placebo (P,0.05) as mea￾sured on a visual analog scale.34 Adverse events were reported in
+10% of patients receiving SYL1001 1.125% and 15% of patients
+receiving placebo (n¼20 for each treatment group). The most
+common AE in the SYL1001 1.125% group was ocular pruritus
+in 10% of patients versus 0 patients receiving placebo.
+Thymosin b4 (Tb4), a peptide involved in wound and dermal
+repair through downregulation of NF-kB mediated inflammation,
+promotion of cell survival, and stem cell maturation and migration,
+is currently under development for the treatment of DED (RGN-
+259; RegeneRx, Rockville, MD).35 In a randomized, double￾masked, placebo-controlled phase 2 study, treatment with Tb4
+significantly improved ocular discomfort (P¼0.0141) and total
+corneal staining (P¼0.0108) versus vehicle.36 No AEs or discon￾tinuations were reported.36 A follow-up randomized, double￾masked, placebo-controlled phase 2 study evaluated patient
+response to the controlled adverse environment (CAE) challenge
+after 28 days of treatment with Tb4 0.1% or vehicle.35 The study
+did not meet its primary endpoints of significant improvement in
+ocular discomfort or inferior corneal staining after CAE exposure,
+but ocular discomfort on day 28 of treatment was significantly
+improved versus vehicle (P¼0.0244). Adverse events were re￾ported in 5.6% and 13.9% of patients randomized to Tb4 0.1%
+or vehicle, respectively. All AEs reported in the Tb4 group were
+mild and included eye pain in 2.8% each of patients receiving Tb4
+and vehicle, blurred vision in 2.8% versus 0 patients receiving Tb4
+versus vehicle, and hordeolum in 2.8% versus 0 patients receiving
+Tb4 versus vehicle.35
+KPI-121, in development for the temporary relief of signs and
+symptoms of DED, is a novel formulation of loteprednol etabonate
+designed to improve loteprednol delivery through the mucus layer
+of the tear film (INVELTYS, Kala Pharmaceuticals, Waltham,
+MA).37,38 Loteprednol etabonate is a corticosteroid whose molec￾ular structure allows for rapid degradation, retaining potent anti￾inflammatory activity while reducing the risk of known ocular side
+effects of corticosteroids, such as increased intraocular pressure
+and cataract formation, thus facilitating its use to treat a number
+of ocular inflammatory conditions.39,40 Efficacy and safety of KPI-
+121 for treating inflammation and pain after cataract surgery were
+demonstrated in 2 phase 3 randomized, double-masked, vehicle￾controlled studies.37 Preliminary results suggest that treatment with
+KPI-121 0.25% significantly improves the DED objective sign of
+TABLE 1. Pharmacologics in Development for Dry Eye Disease Treatment
+Treatment Developer Mechanism of Action
+Most Recent Trial
+Phase
+Clinical Trial Registration
+Number
+SYL1001; tivanisiran34,53,56 Sylentis TRPV1 siRNA inhibitor34 3 NCT03108664
+RGN-259; thymosin b435,36,57 ReGenTree Tissue repair35,36 3 NCT02974907
+KPI-12158 Kala Pharmaceuticals Corticosteroid40 3 NCT03616899
+SJP-0035; fonadelpar59 Senju Pharmaceutical Tissue repair59 3 NCT03527212
+MIM-D3; Tavilermide60,61 Mimetogen
+Pharmaceuticals
+TrkA receptor antagonist mucin
+secretagogue61
+3 NCT02665234
+SkQ162,63 Mitotech Mitochondria-targeted antioxidant63 3 NCT03764735
+OCU-310; brimonidine64 Ocugen Selective a2-adrenergic receptor
+agonist65
+3 NCT03785340
+Cyclosporine A nonaqueous solution;
+CyclASol27,66
+Novaliq Calcineurin inhibitor7 2b/3 NCT03292809
+TOP163067 TopiVert NSKI32 2b/3 NCT03833388
+Voclosporin ophthalmic solution68 Aurinia
+Pharmaceuticals
+Calcineurin inhibitor69 2 NCT03597139
+HL03670 HanAll BioPharma TNF inhibitor71 2 NCT03334539
+ADX-102; Reproxalap72 Aldeyra Therapeutics Aldehyde trap42 2 NCT03162783
+Lacritin; Lacripep52 TearSolutions Tear secretagogue48 2 NCT03226444
+OC-02 nasal spray73 Oyster point Pharma nAChR agonist74 2 NCT03633461
+nAChR, nicotinic acetylcholine receptor; NSKI, narrow spectrum kinase inhibitor; siRNA, small interfering RNA; TNF, tumor necrosis factor;
+TrkA, tropomyosin receptor kinase A; TRPV, transient receptor potential cation channel subfamily V.
+Eye & Contact Lens  Volume 46, Supplement 2, March 2020 Current and Future Treatments for Dry Eye
+Copyright  2019 The Author(s). Published by Wolters Kluwer Health, Inc. on behalf of the CLAO S67
+conjunctival hyperemia at day 15 versus vehicle (P,0.0001 for
+both studies).41 Improvement in the DED symptom of ocular dis￾comfort at day 15 versus vehicle was statistically significant in the
+first study (P,0.0001) but not the second (P¼0.1298). Most com￾mon AEs in the first study included instillation site pain in 28
+(6.1%) patients each in the KPI-121 and vehicle groups, as well
+as eye irritation in 5 (1.1%) and 7 (1.5%) patients receiving KPI-
+121 and vehicle, respectively. In the second study, most common
+AEs were instillation site pain in 26 (5.7%) and 20 (4.4%) patients
+receiving KPI-121 and vehicle, respectively, as well as blurred
+vision in 1 (0.2%) and 6 (1.3%) patients receiving KPI-121 and
+vehicle, respectively. A third phase 3 study is currently ongoing
+with preliminary results to be reported in late 2019.38
+ADX-102 (Reproxalap; Aldeyra Therapeutics, Lexington, MA),
+in development for the treatment of dry eye, is believed to act by
+sequestering reactive aldehyde species, small molecules with
+cytotoxic and proinflammatory activity generated from membrane
+lipid modification by reactive oxygen species in a process known as
+lipid peroxidation.42–44 Preliminary results from a phase 2b random￾ized, double-masked, vehicle-controlled study suggest that 12 weeks
+of treatment with ADX-102 0.25% results in significant improve￾ment from baseline versus vehicle in symptoms of ocular dryness,
+overall ocular discomfort, and stinging (P,0.05 for all assessments),
+but without statistically significant improvement in ocular nasal zone
+fluorescein staining (P,0.1).45 Conversely, ADX-102 0.1% signif￾icantly improved ocular nasal fluorescein staining from baseline at
+week 12 versus vehicle (P,0.05) but did not significantly improve
+ocular symptoms (P-value not reported). No safety concerns and
+only predominantly mild instillation site irritation were observed.
+Discontinuations were reported in 3%, 12%, and 1% of patients
+receiving ADX-102 0.1%, 0.25%, and vehicle, respectively.
+Lacritin is a protein component of tears secreted by acinar cells
+in the lacrimal gland.46,47 In New Zealand white rabbits, lacritin
+promotes basal tear secretion shortly after administration and after
+2 weeks of treatment as measured by the anesthetized Schirmer’s
+test.48 In cell culture, lacritin promotes human corneal epithelial
+cell proliferation.49 Proteomics approaches have also detected lac￾ritin in meibomian gland secretions, and suggest that levels of the
+protein are depleted in tears from patients with DED compared to
+control individuals.50,51 A phase 2 randomized, double-masked,
+placebo-controlled study is evaluating the efficacy and safety of
+a lacritin formulation (Lacripep; TearSolutions, Charlottesville,
+VA) in patients with dry eye due to primary Sjögren syndrome
+with an estimated completion in June 2019.52
+Challenges of Pharmacotherapy Development
+for Dry Eye Disease
+Despite numerous promising candidates in the pipeline, drug
+development for DED has been characterized by low success rate
+and relatively few compounds reaching the approval stage.53,54
+This could be due to challenges unique to DED, including the
+heterogeneity of the patient population in terms of causes and
+clinical presentation, and the lack of correlation between symptoms
+and objective signs of the disease.53–55 When designing clinical
+trials, monitoring several objective signs of the disease is recom￾mended because it may most accurately represent the disease
+state.53 Clinical trial inclusion and exclusion criteria should be
+carefully selected, with a clear delineation of whether aqueous￾deficient dry eye, evaporative dry eye, or both are included.54
+CONCLUSIONS
+Several approved treatments deliver drugs to ocular targets to treat
+the underlying inflammatory pathophysiology of DED. In the United
+States, there are three Food and Drug Administration–approved
+pharmacologic options for treating DED. CsA has been shown to
+be effective in the treatment of DED, and the most recently approved
+nanomicellar CsA formulation of OTX-101 is designed to improve
+CsA bioavailability in target ocular tissues, potentially improving
+efficacy and tolerability of treatment. Future pharmacotherapies for
+DED with novel targets are the focus of ongoing research, and
+a number of promising treatment options are in the pipeline.
+REFERENCES
+1. Craig JP, Nichols KK, Akpek EK, et al. TFOS DEWS II definition and
+classification report. Ocul Surf 2017;15:276–283.
+2. Craig JP, Nelson JD, Azar DT, et al. TFOS DEWS II report executive
+summary. Ocul Surf 2017;15:802–812.
+3. Stapleton F, Alves M, Bunya VY, et al. TFOS DEWS II epidemiology
+report. Ocul Surf 2017;15:334–365.
+4. Bron AJ, de Paiva CS, Chauhan SK, et al. TFOS DEWS II pathophysiology
+report. Ocul Surf 2017;15:438–510.
+5. Brocker C, Thompson DC, Vasiliou V. The role of hyperosmotic stress in
+inflammation and disease. Biomol Concepts 2012;3:345–364.
+6. Jones L, Downie LE, Korb D, et al. TFOS DEWS II management and
+therapy report. Ocul Surf 2017;15:575–628.
+7. Matsuda S, Koyasu S. Mechanisms of action of cyclosporine. Immunophar￾macology 2000;47:119–125.
+8. Cholkar K, Gilger BC, Mitra AK. Topical, aqueous, clear cyclosporine
+formulation design for anterior and posterior ocular delivery. Translational
+Vis Sci Technol 2015;4:1.
+9. Coursey TG, Wassel RA, Quiambao AB, et al. Once-daily cyclosporine-A￾MiDROPS for treatment of dry eye disease. Translational Vis Sci Technol
+2018;7:24.
+10. Deveney T, Asbell PA. Patient and physician perspectives on the use of
+cyclosporine ophthalmic emulsion 0.05% for the management of chronic
+dry eye. Clin Ophthalmol 2018;12:569–576.
+11. RESTASIS (Cyclosporine Ophthalmic Emulsion) 0.05% for Topical Oph￾thalmic Use. Irvine, CA, Full prescribing information. Allergan, 2017.
+12. Lallemand F, Schmitt M, Bourges JL, et al. Cyclosporine a delivery to the
+eye: A comprehensive review of academic and industrial efforts. Eur J
+Pharm Biopharm 2017;117:14–28.
+13. Sall K, Stevenson OD, Mundorf TK, et al. Two multicenter, randomized
+studies of the efficacy and safety of cyclosporine ophthalmic emulsion in
+moderate to severe dry eye disease. CsA Phase 3 Study Group. Ophthal￾mology 2000;107:631–639.
+14. Stonecipher KG, Torkildsen GL, Ousler GW, 3rd, et al. The IMPACT
+study: A prospective evaluation of the effects of cyclosporine ophthalmic
+emulsion 0.05% on ocular surface staining and visual performance in pa￾tients with dry eye. Clin Ophthalmol 2016;10:887–895.
+15. IKERVIS (Ciclosporin Ophthalmic Emulsion) 1 mg/mL, for Topical Oph￾thalmic Use. Evry, France, Full prescribing information. Santen SAS, 2015.
+16. Leonardi A, Van Setten G, Amrane M, et al. Efficacy and safety of 0.1%
+cyclosporine A cationic emulsion in the treatment of severe dry eye disease:
+A multicenter randomized trial. Eur J Ophthalmol 2016;26:287–296.
+17. Xiidra (Lifitegrast Ophthalmic Solution) 5%, for Topical Ophthalmic Use.
+Lexington, MA, Full prescribing information. Shire, 2016.
+18. Abidi A, Shukla P, Ahmad A. Lifitegrast: A novel drug for treatment of dry
+eye disease. J Pharmacol Pharmacother 2016;7:194–198.
+19. Sheppard JD, Torkildsen GL, Lonsdale JD, et al. Lifitegrast ophthalmic
+solution 5.0% for treatment of dry eye disease: Results of the OPUS-1 phase
+3 study. Ophthalmology 2014;121:475–483.
+20. Tauber J, Karpecki P, Latkany R, et al. Lifitegrast ophthalmic solution 5.0%
+versus placebo for treatment of dry eye disease: Results of the randomized
+phase III OPUS-2 study. Ophthalmology 2015;122:2423–2431.
+21. Kuwano M, Ibuki H, Morikawa N, et al. Cyclosporine A formulation affects
+its ocular distribution in rabbits. Pharm Res 2002;19:108–111.
+22. CEQUATM (Cyclosporine Opthalmic Solution 0.09%) Full Prescribing
+Information. Cranbury, NJ, Sun Pharmaceutical Industries, Inc., 2018.
+P. K. Gupta et al. Eye & Contact Lens  Volume 46, Supplement 2, March 2020
+S68 Eye & Contact Lens  Volume 46, Supplement 2, March 2020
+23. Vaishya RD, Khurana V, Patel S, et al. Controlled ocular drug delivery with
+nanomicelles. Wiley Interdiscip Rev Nanomed Nanobiotechnol 2014;6:
+422–437.
+24. Weiss SL, Kramer WG. Ocular distribution of cyclosporine following top￾ical administration of OTX-101 in New Zealand white rabbits. J Ocul
+Pharmacol Ther 2019;35:395–402.
+25. Tauber J SB, Bacharach J, Toyos MM, et al. A Phase II/III, randomized,
+double-masked, vehicle-controlled, dose-ranging study of the safety and
+efficacy of OTX-101 in the treatment of dry eye disease. Clin Ophthalmol
+2018;12:1921–1929.
+26. Goldberg DF, Malhotra RP, Schechter BA, et al. A phase 3, randomized,
+double-masked study of OTX-101 ophthalmic solution 0.09% in the treat￾ment of dry eye disease. Ophthalmology 2019;126:1230–1237.
+27. Wirta DL, Torkildsen GL, Moreira HR, et al. A clinical phase 2 study to
+assess efficacy, safety and tolerability of CyclASol((R)) for treatment of dry
+eye disease (DED). Ophthalmology 2019;126:792–800.
+28. CyclASol . Available at: https://www.novaliq.com/products/cyclasol/. Ac￾cessed April 2019.
+29. TOP1630 for DED, Available at: http://www.topivert.com/top1630-for-ded. Ac￾cessed April 2019.
+30. To WS, Aungier SR, Cartwright AJ, et al. Potent anti-inflammatory effects
+of the narrow spectrum kinase inhibitor RV1088 on rheumatoid arthritis
+synovial membrane cells. Br J Pharmacol 2015;172:3805–3816.
+31. Hagan S, Fyfe MCT, Ofori-Frimpong B, et al. Narrow spectrum kinase inhib￾itors demonstrate promise for the treatment of dry eye disease and other ocular
+inflammatory disorders. Invest Ophthalmol Vis Sci 2018;59:1443–1453.
+32. Taylor M, Ousler G, Torkildsen G, et al. A phase 2 randomized, double-masked,
+placebo-controlled study of novel nonsystemic kinase inhibitor TOP1630 for the
+treatment of dry eye disease. Clin Ophthalmol 2019;13:261–275.
+33. Tivanisiran (SYL1001). Available at: https://www.sylentis.com/index.php/
+en/pipeline/syl1001-en. Accessed April 2019.
+34. Benitez-Del-Castillo JM, Moreno-Montanes J, Jimenez-Alfaro I, et al.
+Safety and efficacy clinical trials for SYL1001, a novel short interfering
+RNA for the treatment of dry eye disease. Invest Ophthalmol Vis Sci 2016;
+57:6447–6454.
+35. Sosne G, Ousler GW. Thymosin beta 4 ophthalmic solution for dry eye: A
+randomized, placebo-controlled, phase II clinical trial conducted using the
+controlled adverse environment (CAE) model. Clin Ophthalmol 2015;9:
+877–884.
+36. Sosne G, Dunn SP, Kim C. Thymosin beta4 significantly improves signs
+and symptoms of severe dry eye in a phase 2 randomized trial. Cornea
+2015;34:491–496.
+37. Kim T, Sall K, Holland EJ, et al. Safety and efficacy of twice daily admin￾istration of KPI-121 1% for ocular inflammation and pain following cataract
+surgery. Clin Ophthalmol 2019;13:69–86.
+38. Pipeline - Kala Pharmaceuticals, Available at: https://kalarx.com/pipeline/.
+Accessed April 2019.
+39. Bodor N, Loftsson T, Wu WM. Metabolism, distribution, and transdermal
+permeation of a soft corticosteroid, loteprednol etabonate. Pharm Res 1992;
+9:1275–1278.
+40. Comstock TL, Sheppard JD. Loteprednol etabonate for inflammatory con￾ditions of the anterior segment of the eye: Twenty years of clinical experi￾ence with a retrometabolically designed corticosteroid. Expert Opin
+Pharmacother 2018;19:337–353.
+41. Kala Pharmaceuticals. Corporate overview. Oral presentation at: Wedbush
+PacGrow Healthcare Conference; August, 2018; New York, NY.
+42. Aldeyra Therapeutics Novel Platform. Available at: https://www.aldeyra.
+com/our-novel-platform/. Accessed April 2019.
+43. Fritz KS, Petersen DR. An overview of the chemistry and biology of reac￾tive aldehydes. Free Radic Biol Med 2013;59:85–91.
+44. Papac-Milicevic N, Busch CJ, Binder CJ. Malondialdehyde epitopes as
+targets of immunity and the implications for atherosclerosis. Adv Immunol
+2016;131:1–59.
+45. Reproxalap Phase 2B Dry Eye Disease Results. Lexington, MA, Aldeyra
+Therapeutics, 2018. 2019.
+46. Natural Therapy for Dry Eye. Available at: https://tearsolutions.com/. Ac￾cessed April 2019.
+47. Sanghi S, Kumar R, Lumsden A, et al. cDNA and genomic cloning of
+lacritin, a novel secretion enhancing factor from the human lacrimal gland.
+J Mol Biol 2001;310:127–139.
+48. Samudre S, Lattanzio FA Jr, Lossen V, et al. Lacritin, a novel human tear
+glycoprotein, promotes sustained basal tearing and is well tolerated. Invest
+Ophthalmol Vis Sci 2011;52:6265–6270.
+49. Wang J, Wang N, Xie J, et al. Restricted epithelial proliferation by lacritin via
+PKCalpha-dependent NFAT and mTOR pathways. J Cel Biol 2006;174:689–700.
+50. Tsai PS, Evans JE, Green KM, et al. Proteomic analysis of human meibo￾mian gland secretions. Br J Ophthalmol 2006;90:372–377.
+51. Srinivasan S, Thangavelu M, Zhang L, et al. iTRAQ quantitative proteomics
+in the analysis of tears in dry eye patients. Invest Ophthalmol Vis Sci 2012;
+53:5052–5059.
+52. Lacripep™ in Subjects with Dry Eye Associated with Primary Sjögren’s
+Syndrome. Available at: https://clinicaltrials.gov/ct2/show/record/
+NCT03226444. Accessed April 2019.
+53. Chao W, Belmonte C, Benitez Del Castillo JM, et al. Report of the inau￾gural meeting of the TFOS i(2) ¼ initiating innovation series: Targeting the
+unmet need for dry eye treatment. Ocul Surf 2016;14:264–316.
+54. Novack GD, Asbell P, Barabino S, et al. TFOS DEWS II clinical trial design
+report. Ocul Surf 2017;15:629–649.
+55. Wolffsohn JS, Arita R, Chalmers R, et al. TFOS DEWS II diagnostic
+methodology report. Ocul Surf 2017;15:539–574.
+56. HELIX, a Double-Masked Study of SYL1001 in Patients With Moderate to
+Severe Dry Eye Disease (DED). Available at: https://clinicaltrials.gov/ct2/
+show/NCT03108664. Accessed April 2019.
+57. Assessment of the Safety and Efficacy of RGN-259 Ophthalmic Solutions for
+Dry Eye Syndrome: ARISE-2. Available at: https://clinicaltrials.gov/ct2/
+show/NCT02974907. Accessed April 2019.
+58. Safety and Efficacy of KPI-121 in Subjects with DED (STRIDE 3). 2019.
+59. A Study to Assess the Safety and Effectiveness of SJP-0035 for the Treat￾ment of Patients with Dry Eye Disease. Available at: https://clinicaltrials.
+gov/ct2/show/NCT03527212. Accessed April 2019.
+60. A Safety and Efficacy Study of Tavilermide (MIM-D3) Ophthalmic Solution
+for the Treatment of Dry Eye Disease, Available at: https://clinicaltrials.gov/
+ct2/show/NCT02665234. Accessed April 2019.
+61. Meerovitch K, Torkildsen G, Lonsdale J, et al. Safety and efficacy of MIM-D3
+ophthalmic solutions in a randomized, placebo-controlled Phase 2 clinical trial
+in patients with dry eye. Clin Ophthalmol 2013;7:1275–1285.
+62. Study of SkQ1 as Treatment for Dry-Eye Syndrome (VISTA-1). Available at:
+https://clinicaltrials.gov/ct2/show/NCT03764735. Accessed April 2019.
+63. Petrov A, Perekhvatova N, Skulachev M, et al. SkQ1 ophthalmic solution
+for dry eye treatment: Results of a phase 2 safety and efficacy clinical study
+in the environment and during challenge in the controlled adverse environ￾ment model. Adv Ther 2016;33:96–115.
+64. Study of Brimonidine Tartrate Nanoemulsion Eye Drop Solution in the
+Treatment of Dry Eye Disease (DED). Available at: https://clinicaltrials.
+gov/ct2/show/NCT03785340. Accessed April 2019.
+65. Greenfield DS, Liebmann JM, Ritch R. Brimonidine: A new alpha2-
+adrenoreceptor agonist for glaucoma treatment. J Glaucoma 1997;6:250–258.
+66. CyclASol for the Treatment of Signs and Symptoms of Dry Eye Disease
+(DED). Available at: https://clinicaltrials.gov/ct2/show/NCT03292809. Ac￾cessed April 2019.
+67. Study of TOP1630 for Dry Eye Syndrome (THEIA-1). Available at: https://
+clinicaltrials.gov/ct2/show/NCT03833388. Accessed April 2019.
+68. Ocular Tolerability of Voclosporin Ophthalmic Solution versus Restasis
+in Subjects with Dry Eye Disease, Available at: https://clinicaltrials.gov/ct2/
+show/NCT03597139. Accessed April 2019.
+69. Kuglstatter A, Mueller F, Kusznir E, et al. Structural basis for the cyclophilin A
+binding affinity and immunosuppressive potency of E-ISA247 (voclosporin).
+Acta Crystallogr D Biol Crystallogr 2011;67:119–123.
+70. A Study to Assess Efficacy of HL036 in Subjects With Dry Eyes (VELOS-1).
+Available at: https://clinicaltrials.gov/ct2/show/NCT03334539. Accessed
+April 2019.
+71. Ji YW, Byun YJ, Choi W, et al. Neutralization of ocular surface TNF-alpha
+reduces ocular surface and lacrimal gland inflammation induced by in vivo
+dry eye. Invest Ophthalmol Vis Sci 2013;54:7557–7566.
+72. A Randomized, Double Masked, Clinical Study of Subjects With Dry Eye
+Syndrome. Available at: https://clinicaltrials.gov/ct2/show/NCT03162783.
+Accessed April 2019.
+73. Clinical Trial to Evaluate the Efficacy of OC-02 Nasal Spray on Signs and
+Symptoms of Dry Eye Disease (The RAINIER Study). Available at: https://
+clinicaltrials.gov/ct2/show/NCT03633461. Accessed April 2019.
+74. Research and Development Pipeline. Available at: https://oysterpointrx.
+com/pipeline/. Accessed April 2019.
+Eye & Contact Lens  Volume 46, Supplement 2, March 2020 Current and Future Treatments for Dry Eye
+Copyright  2019 The Author(s). Published by Wolters Kluwer Health, Inc. on behalf of the CLAO S69

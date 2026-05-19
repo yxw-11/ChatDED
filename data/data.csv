@@ -1,0 +1,6 @@
+ID,Meibomian gland image quality,Average Length,Average Width,Average Area,Average Curvature,Number of glands,Total Glands Ratio,Glandular deletion ratio,score,Age,Sex,Schirmer_mm_5min,NIBUT_first_sec,NIBUT_avg_sec,TMH_mm,OSDI,History of systemic autoimmune disease,History of long-term medication use,Dry eye treatment record
+P1,normal,2.94555519145781,0.298864000771612,0.884098192244591,2.07231199395141,11,15.25%,84.75%,1,65,Female,6,6.8,9.5,0.18,36,none,none,none
+P2,normal,4.25572620616737,0.306392651452446,1.38245909934222,2.37052462318731,20,33.91%,66.09%,0,12,Male,2,11,15,0.1,33,none,none,none
+P3,normal,4.02053479042797,0.280556038781619,1.16434474616293,8.40790601468671,20,30.33%,69.67%,0,13,Male,15,23.32,23.43,0.36,10,none,none,none
+P4,normal,2.31624290152866,0.376274468979116,0.866756620003373,4.83847226581202,12,15.22%,84.78%,3,75,Male,3,9.37,16.71,0.12,45,none,none,none
+P5,normal,1.37008543975264,0.312792696352812,0.418013155675493,1.97522582823505,5,2.36%,97.64%,3,64,Female,11,2.87,4.04,0.25,43,none,none,none

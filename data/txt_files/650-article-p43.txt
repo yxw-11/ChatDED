@@ -1,0 +1,643 @@
+2021 ■ 162. évfolyam, 2. szám ■ 43–51. 43
+ÖSSZEFOGLALÓ KÖZLEMÉNY
+Meibom-mirigy-diszfunkció 
+és a száraz szem 
+Diagnosztikai és kezelési lehetőségek 
+Kovács Balázs dr.1 ■ Láng Boglárka2 ■ Takácsi-Nagy Anna dr.2
+Horváth Györgyi dr.3 ■ Czakó Cecília dr.4 ■ Csorba Anita dr.4
+Kiss Huba dr.4 ■ Szalai Irén dr.4 ■ Nagy Zoltán Zsolt dr.4, 5 ■ Kovács Illés dr.4, 5
+1Kaposi Mór Megyei Kórház, Szemészeti Osztály, Kaposvár
+2Pécsi Tudományegyetem, Gyógyszerésztudományi Kar, Gyógyszertechnológiai és Biofarmáciai Intézet, Pécs
+3Pécsi Tudományegyetem, Gyógyszerésztudományi Kar, Farmakognóziai Intézet, Pécs
+4Semmelweis Egyetem, Általános Orvostudományi Kar, Szemészeti Klinika, Budapest
+5Semmelweis Egyetem, Egészségtudományi Kar, Budapest
+A szárazszem-panaszok hátterében gyakran áll Meibom-mirigy-diszfunkció, melynek felismerése kiemelten fontos a 
+hatékony kezelés érdekében. A Meibom-mirigyek kóros működése miatt a termelt lipid nem oszlik el megfelelően a 
+szemfelszínen, így a könnyfilm párolgása fokozódik. A könnytermelési zavar következtében szárazszem-panaszok ala￾kulnak ki, melyek a hagyományos könnypótló kezelésre rendszerint csak átmenetileg javulnak. A Meibom-mirigy-disz￾funkciót gyakran kíséri a szemhéjszél Demodex-atka-fertőzése – az atka eradikálása szükséges a mirigyek működésének 
+helyreállításához és ezáltal a panaszok megszüntetéséhez. A Meibom-mirigy-diszfunkció a leggyakrabban enyhe formá-
+ban jelentkezik; a terápia ilyenkor a beteg által is elvégezhető szemhéjtisztításból áll, míg a gyógyszeres kezelés csak az 
+előrehaladottabb, kifejezett gyulladással járó formákban szükséges. Az összefoglaló áttekinti a Meibom-mirigy-disz￾funkció klinikai jeleivel és kezelésével kapcsolatos legfontosabb tudnivalókat, különös tekintettel a Demodex-fertőzés 
+felismerésére és kezelésére vonatkozóan.
+Orv Hetil. 2021; 162(2): 43–51.
+Kulcsszavak: Meibom-mirigy-diszfunkció, száraz szem, Demodex atka
+Meibomian gland dysfunction and dry eye
+Diagnosis and treatment
+The onset of dry eye complaints is often a result of Meibomian gland dysfunction and its diagnosis is essential for ef￾fective treatment. In the case of Meibomian gland dysfunction, there is an increased evaporation of the tear film due 
+to the abnormal secretion of lipids that cannot spread on the ocular surface. The treatment of dry eye complaints as￾sociated with Meibomian gland dysfunction with tear supplementation is usually ineffective and only results in an in￾termittent relief of complaints. Meibomian gland dysfunction is often associated with Demodex infestation of the eye￾lids, and eradicating the mites is essential to re-establish normal meibum production and thus, decreasing ocular 
+complaints. In most cases, Meibomian gland dysfunction is mild, and the treatment of these forms is based on ocular 
+hygiene performed by the patient, while only more advanced forms with inflammatory processes require pharmaco￾logic treatment. This review summarizes the most important knowledge on the clinical signs and treatment of Meibo￾mian gland dysfunction with particular attention to the diagnosis and treatment of ocular Demodex infection.
+Keywords: Meibomian gland dysfunction, dry eye, Demodex mites
+Kovács B, Láng B, Takácsi-Nagy A, Horváth Gy, Czakó C, Csorba A, Kiss H, Szalai I, Nagy ZZs, Kovács I. [Meibo￾mian gland dysfunction and dry eye. Diagnosis and treatment]. Orv Hetil. 2021; 162(2): 43–51.
+(Beérkezett: 2020. június 22.; elfogadva: 2020. július 25.)
+DOI: 10.1556/650.2021.31958 ■ © Szerző(k)
+ÖSSZEFOGLALÓ KÖZLEMÉNY
+Unauthenticated | Downloaded 08/29/25 02:11 PM UTC
+2021 ■ 162. évfolyam, 2. szám ORVOSI HETILAP 44
+ÖSSZEFOGLALÓ KÖZLEMÉNY
+Rövidítések
+DEWS = Dry Eye Workshop; MGD = (Meibomian gland dys￾function) Meibom-mirigy-diszfunkció; OSDI = (Ocular Sur￾face Disease Index) a szemfelszíni betegséget jellemző index
+Az egészséges könnytermelés
+A szaruhártya védelméhez és táplálásához, valamint a 
+sima optikai felszín biztosításához, ezáltal a jó látáshoz 
+elengedhetetlenül szükséges az egészséges könnyfilm. 
+A  könnyfilm összetett, többrétegű folyadék, melyet az 
+orbita felső-külső részén elhelyezkedő fő könnymirigy 
+és  a szem körüli járulékos könnymirigyek termelnek. 
+A könnyfilm legkülső, lipidrétegét a szemhéjakban elhe￾lyezkedő Meibom-mirigyek termelik, és ennek a fázisnak 
+a fő feladata a könny párolgásának csökkentése. A közép￾ső vizes fázis a fő könnymirigy szekrétuma, míg a legbel￾ső mucinosus fázist, mely a könny megtapadását biztosít￾ja, a kötőhártyában levő kehelysejtek termelik. A felső 
+szemhéj le-fel mozgása minden egyes pislantással új, friss 
+könnyréteget oszlat el a szaruhártya felszínén, így bizto￾sítva a szemfelszín védelmét. A Meibom-mirigyek által 
+termelt lipidet (meibum) is a rendszeres pislantás oszlat￾ja el a szemfelszínen, de idősebb korban és ritkább pis￾lantással járó koncentrált munkavégzés (például monitor 
+előtti munkavégzés) esetén a meibum a szemhéjszélen 
+összegyűlik. A meibum mennyiségét és minőségét az 
+életkor és a környezeti faktorok mellett számos egyéb 
+tényező befolyásolja, mint például hormonális, neuralis 
+hatások, fertőzéses, valamint gyulladásos folyamatok. 
+A Meibom-mirigy-diszfunkció
+A Meibom-mirigy-diszfunkció az egyik leginkább alul￾diagnosztizált és alulkezelt szemészeti betegség; előfor￾dulása a népességben 30,5–68,3% közötti [1–3], és az 
+ún. evaporatív száraz szem kialakulásához vezethet. 
+2011-ben a száraz szem patofiziológiájának és kezelésé-
+nek jobb megértése iránti igény hívta életre az Internati￾onal Workshop on Meibomian Gland Dysfunction – egy, 
+a Meibom-mirigy-diszfunkcióval foglalkozó szakértői 
+bizottság – létrehozását. Az MGD Workshop által meg￾határozott definíció szerint a Meibom-mirigy-diszfunk￾ció „a Meibom-mirigyek krónikus diffúz működészavara, 
+mely általában a kivezetőcsövek elzáródásával és/vagy a 
+mirigyműködés minőségi/mennyiségi zavarával jár. Ezek 
+aztán a könnyfilm eltéréseihez, továbbá szemfelszíni irri￾táció, klinikailag is látható gyulladás és szemfelszíni beteg￾ség kialakulásához vezethetnek”. Meibom-mirigy-disz￾funkció kialakulását okozhatják szemészeti okok, mint a 
+szemhéjak gyulladása, kontaktlencse-viselés, szemszáraz￾ság, Demodex folliculorum okozta fertőzés, glaukóma 
+elleni szemcseppek tartós alkalmazása; továbbá általános 
+állapotok, mint az öregedés, a menopausa, bizonyos 
+autoimmun betegségek (Sjögren-szindróma, szisztémás 
+lupus erythematosus, rheumatoid arthritis, psoriasis), 
+atópiás állapot és rosacea jelenléte; illetve bizonyos 
+gyógyszerek (postmenopausalis hormonterápia, anti￾hisztaminok, antidepresszánsok, retinoidok) szedése 
+[2]. A Meibom-mirigyek működésének zavara megnyil￾vánulhat túlműködésben és alulműködésben, ezen túl￾menően megkülönböztetünk primer és szekunder for￾mákat is (1. ábra). Ugyanakkor mindegyik forma a ter￾melt meibum összetételének megváltozásához vezet, 
+ami a könnyfilm párolgásának fokozódásán keresztül 
+szárazszem-tünetek kialakulását okozza.
+Meibom-mirigy-diszfunkció esetén a kivezetőcsövek 
+beszűkülnek, ami miatt a termelődő lipidek összetétele 
+megváltozik, és a besűrűsödött, viaszos lipid a szemhéj￾szélen összegyűlve a kivezetőcsövecskék elzáródását 
+okozza (2. ábra). A besűrűsödött lipid az összetételéből 
+1. ábra A Meibom-mirigy-diszfunkció klasszifikációja
+Unauthenticated | Downloaded 08/29/25 02:11 PM UTC
+45 ORVOSI HETILAP 2021 ■ 162. évfolyam, 2. szám
+ÖSSZEFOGLALÓ KÖZLEMÉNY
+adódóan gyulladáskeltő hatású, és elősegíti a baktériu￾mok elszaporodását is [4]. Szemfelszíni diszkomfortot 
+jelző személyek közel kétharmadában a Meibom-mirigy 
+kivezetőnyílásainak elzáródását, a könnyfilm instabilitá-
+sát és fokozott könnypárolgást, valamint a szaruhártya 
+és  a kötőhártya hámsejtjeinek károsodását írták le [5]. 
+Meibom-mirigy-diszfunkció esetén gyakori a szemhéj￾szélek krónikus gyulladása is, melynek hátterében sok￾szor bakteriális (például Staphylococcus aureus) [6] vagy a 
+Demodex szőrtüszőatka okozta fertőzés áll [7–9]. Az 
+ilyen, szemhéjszéli és szemfelszíni gyulladással társuló 
+krónikus formák kezelése nehéz, mert a hagyományos 
+könnypótló kezeléssel a szárazszem-panaszok csak átme￾netileg javulnak [10]. 
+A szemhéjszéli Demodex-fertőzés
+Az arc- és szemhéjak bőrén és a szempillák tövében 
+egészséges személyekben is megtalálhatók Demodex 
+atkák, ugyanakkor előfordulásuk az életkorral nő [11], 
+illetve magasabb arányban fordul elő kontaktlencsét vise￾lőkben [12] és rosaceában is [13]. Bizonyos esetekben 
+ezek a mikroszkopikus paraziták patogénné válhatnak, és 
+Meibom-mirigy-diszfunkció, illetve szemhéjszéli gyulla￾dás (blepharitis) alakulhat ki [14]. A Demodex atkák 
+sebummal táplálkoznak, ezért jellemzően a szőrtüszők 
+és a faggyúmirigyek környékén élősködnek, illetve lipá-
+zokat termelnek, melyek a meibumot bontják, egyrészt a 
+könnyfilm lipidrétegének károsodását okozva, másrészt a 
+lebontási termékek a szaruhártya-epithelsejtekre toxiku￾sak, és szemfelszíni irritációs panaszokat okoznak [15]. 
+A Demodex atkák kimutatása történhet a bőrből biopszi-
+ával vagy in vivo konfokális mikroszkópiával, illetve az 
+eltávolított szempillák fénymikroszkópos vizsgálatával 
+[16, 17] (3. ábra). 
+Tünetek
+A Meibom-mirigy-diszfunkció okozta jellegzetes pana￾szok a károsodott könnytermelés miatt jelentkező irritá-
+ció, égő és idegentest-érzés, valamint szárazszem-érzés, 
+melyek műkönny alkalmazásakor is csak időlegesen eny￾hülnek. A kontaklencse-viselők gyakran panaszkodnak 
+arra, hogy nem tudják már olyan hosszú ideig hordani a 
+lencsét, és hogy jobban irritálja őket. A szemhéjak széle 
+hyperaemiás, teleangiectasiák jelennek meg, és a szem￾pillák tövében gyakran pörk, illetve sárgás váladék gyűlik 
+össze. Szintén a Demodex-fertőzés jele a szempillák tövét 
+gyűrű alakban körbevevő lerakódás, az ún. ’collarette’ 
+megjelenése (4. ábra). A súlyosabb formákban a beteg 
+számára a legfontosabb panaszok a krónikus, hagyomá-
+nyos kezelésre nem gyógyuló vörös, égő, irritált szem, a 
+fokozott könnyezés, váladékozás okozta homályos látás, 
+illetve a szemhéjszél kivörösödése (5. ábra).
+Diagnózis
+Tünetmentes személyekben a Meibom-mirigy-diszfunk￾ció kimutatására a meibumürülés próbája javasolt az alsó 
+szemhéj középső részének megnyomásával, valamint az 
+2. ábra Ép Meibom-mirigy-működés esetén a kivezetőnyílásokból (nyíl) olajos lipid ürül (A), míg Meibom-mirigy-diszfunkció esetén a kivezetőcsövek nyílá-
+sát viaszos, sűrű meibum zárja el (B). Kóros esetben teleangiectasiák is megjelennek a szemhéjszélen
+3. ábra Demodex atka mikroszkópos képe egy eltávolított szőrtüsző 
+mellett
+Unauthenticated | Downloaded 08/29/25 02:11 PM UTC
+2021 ■ 162. évfolyam, 2. szám ORVOSI HETILAP 46
+ÖSSZEFOGLALÓ KÖZLEMÉNY
+esetleges szemfelszíni károsodások vizsgálata. Száraz￾szem-tünetekkel rendelkező betegekben a diagnózishoz 
+kérdőívek alkalmazása, valamint a pislantási gyakoriság, a 
+könnymeniscus, a könnyozmolaritás, a szemfelszíni fes￾tődés, a könnyfilmfelszakadási idő és a könnytermelés 
+mérése javasolt. A szemhéjszél morfológiájának vizsgála￾ta, a meibum expresszálhatósága és minőségének meg-
+ítélése is fontos (6. ábra). Az említett vizsgálatok alapján 
+a Meibom-mirigy-diszfunkció a súlyossága alapján négy 
+stádiumra osztható, amit úgynevezett „plusztünetek” 
+egészíthetnek ki (6. ábra). A Meibom-mirigyek mor￾fológiája és a működő mirigyek eloszlása meibográfiával 
+vizsgálható [18], melynek során az ép és a károsodott 
+Meibom-mirigyek kimutathatók, a kiesés mértéke szám￾szerűsíthető (7. ábra).
+Kezelés
+A Meibom-mirigy-diszfunkció kezelése alapvető a szá-
+razszem-panaszok csökkentésében [19, 20]. Az MGD 
+Workshop ajánlásai [14] alapján a betegség különböző 
+stádiumaiban javasolt kezelési módokat a 8. ábra foglalja 
+össze. A következőkben a terápiás lehetőségek közül a 
+legfontosabbakat részletezzük.
+A szemhéjszél tisztítása
+Meibom-mirigy-diszfunkció esetén a rendellenes mei￾bum magasabb olvadáspontú és sűrűbb állagú, a termelt 
+meibum stagnálását és a kivezetőnyílások obstrukcióját 
+okozva. A kivezetőnyílásokon lerakódott viaszsapka eltá-
+volítására és így a meibumürülés elősegítésére korábban 
+babasamponnal átitatott vattapálcás tisztítást ajánlottak, 
+de ezt az utóbbi időben felváltotta a speciálisan erre a 
+célra kifejlesztett, szemhéjszéli tisztítókendőkkel végzett 
+kezelés. Klinikai tanulmányokban a betegek hatéko￾nyabbnak és könnyebbnek ítélték meg a szemtörlő ken￾dők használatát, mint a szappan, hígított sampon alkal￾mazását [21, 22]. Számos vizsgálat igazolta, hogy több 
+héten át tartó, napi kétszeri alkalmazásuk eredménye￾képpen szignifikánsan javulnak a klinikai tünetek (a szem￾héjszél állapota, gyulladásos jelek, a meibum minősége), 
+illetve a szubjektív panaszok [23–27]. Továbbá már öt￾napos kezelést követően is 60%-kal csökken a kötőhártya 
+baktériumflórája [28] és a posztoperatív endophthalmi￾tis előfordulása. A különböző törlőkendők egységes tu￾lajdonsága, hogy detergens hatású vegyületek mellett 
+növényi eredetű hatóanyagokat és/vagy dezinficienseket 
+tartalmaznak. A detergensek feladata a szemhéjszélen 
+összegyűlt olajos-viaszos réteg eltávolítása, a Meibom￾mirigy kivezetőcsöveinek szabaddá tétele (4. ábra). A 
+terület tisztítása már önmagában jótékony hatású a fertő-
+zések kezelésében, továbbá az antimikrobiális növényi 
+hatóanyagok és dezinficiensek segítenek a bakteriális és a 
+Demodex-fertőzések eliminálásában, a gyulladásos folya￾matok enyhítésében. A tisztítás, fertőzés- és gyulladás￾csökkentés eredményeképpen a Meibom-mirigyekből az 
+olajos szekrétum könnyebben távozik, így a könnyfilm 
+párolgása csökken, stabilitása nő. 
+A Demodex-fertőzés kezelése
+A szemhéjszéli Demodex-fertőzés csökkentésére a fizikai 
+tisztításon kívül tartós, több hétig tartó antimikrobiális 
+kezelésre is szükség van. A Demodex-fertőzés kezelésére 
+4. ábra Demodex-atka-fertőzést jelez a szempillák tövében megjelenő, azokat gyűrűszerűen körülölelő ’collarette’
+5. ábra Krónikus szemhéjszéli gyulladás képe
+Unauthenticated | Downloaded 08/29/25 02:11 PM UTC
+47 ORVOSI HETILAP 2021 ■ 162. évfolyam, 2. szám
+ÖSSZEFOGLALÓ KÖZLEMÉNY
+4%-os pilokarpingél, ivermektin (0,1%) – metronidazo￾los (1%) kenőcs, valamint az ezeknél hatékonyabb 
+1–10%-os teafaolaj szolgálhat [29–31]. A teafaolaj a 
+Melaleuca alternifolia növényből nyerhető, antimikrobi-
+ális hatású illóolaj, mely ismerten vírus-, baktérium- és 
+gombaellenes hatású. A teafaolaj hatékonyan gátolja a 
+Demodex-fertőzést, csökkenti a szemfelszíni panaszokat 
+in vitro és in vivo [32–35]. A teafaolaj antimikrobiális 
+hatása függ annak koncentrációjától (9. ábra): míg ala￾csony koncentrációban nem kellően hatékony, addig túl 
+magas koncentrációban irritálja a szemfelszínt, csípő ér￾zést okoz. A szemkörnyék tisztítása teafaolaj-tartalmú 
+szemhéjszéli tisztítókendővel hatékony otthoni kezelés a 
+szemhéjak Demodex-fertőzésére, 1 hónapig tartó napi 
+egyszeri alkalmazás eredményeképpen a betegek pana￾szai és a szemhéjszél Demodex-fertőzése szignifikánsan 
+csökken [36]. A természetes teafaolaj 40–56%-át kitevő 
+terpinén-4-ol monokomponensként alkalmazva hatéko￾nyabb és kevésbé irritál, mint az azonos koncentrációjú 
+teafaolaj; ilyen összetételű szemhéjszéli tisztítókendő 
+már Magyarországon is elérhető Ocuvane® Plus és 
+Cliradex® néven. A teafaolajat vagy terpinén-4-ol vegyü-
+letet tartalmazó szemhéjszéli tisztítókendők alkalmazása 
+során a betegek a diszkomfortérzést nem jelentősnek és 
+gyorsan múlónak jellemezték [37].
+A szemhéjak melegítése
+A meibumürülés elősegítésére a fizikai tisztítás a szemhé-
+jak melegítésével is kiegészíthető. A szemhéjak melegíté-
+sének hatására a Meibom-mirigyek kivezetőcsöveiben 
+6. ábra Klinikai kép a Meibom-mirigy-diszfunkció különböző stádiumaiban (az MGD Workshop ajánlása alapján)
+DEWS = Dry Eye Workshop; MGD = Meibom-mirigy-diszfunkció
+7. ábra Infravörös fénnyel készült meibográfiás felvétel során jól látha￾tók az ép Meibom-mirigyek (nyilak) (A), melyek aránya kóros 
+esetben jelentősen lecsökken (nyíl) (B)
+Panaszok
+Stádium
+Klinikai
+jelek
+Nincs
+szemfelszíni
+diszkomfort
+Minimálisan
+károsodott
+szekréció
+(2–4)
+Meibum￾expresszió: 1
+Nincs
+szemfelszíni
+epithel￾károsodás
+(festődés)
+Enyhe
+viszketés
+fényérzé-
+kenység
+Közepes fokú
+viszketés,
+fényérzé-
+kenység.
+Aktivitást
+kissé gátolja
+Kifejezett
+viszketés és
+fényérzé-
+kenység.
+Aktivitást
+jelentősen
+gátolja
+Bármely
+stádiumban
+megjelenő
+állapotok,
+melyek
+kezelést
+igényel￾hetnek:
+1. gyulladás
+2. kötőhártya-
+ keratinizáció
+3. keratitis
+ phlyctenulosa
+4. trichiasis
+5. chalaseon
+6. blepharitis
+7. Demodex-
+ fertőzés
+Enyhe
+szemhéjszéli
+tünetek
+Kissé
+károsodott
+szekréció
+(4–8)
+Meibum￾expresszió: 1
+Enyhe
+szemfelszíni
+festődés:
+DEWS: 0–7
+Oxford: 0–3
+Közepes
+szemhéjszéli
+tünetek:
+elzáródás,
+hyperaemia
+Károsodott
+szekréció
+(8–13)
+Meibum￾expresszió: 2
+Közepes
+szemfelszíni
+festődés:
+DEWS: 8–13
+Oxford: 4–10
+Kifejezett
+szemhéjszéli
+tünetek:
+elzáródások,
+kiesések
+Kifejezetten
+károsodott
+szekréció
+(13–)
+Meibum￾expresszió: 3
+Kifejezett
+szemfelszíni
+festődés:
+DEWS: 14–23
+Oxford: 11–15
+Meibom-mirigy-diszfunkció
+I. II. III. IV. Plusz jelek
+Unauthenticated | Downloaded 08/29/25 02:11 PM UTC
+2021 ■ 162. évfolyam, 2. szám ORVOSI HETILAP 48
+ÖSSZEFOGLALÓ KÖZLEMÉNY
+felgyülemlett olajos szekrétum elfolyósodik, könnyeb￾ben kiürül, aminek eredményeképpen a könnyfilm lipid￾rétegének vastagsága javul. A szemhéjak egy hónapon át 
+tartó napi kétszeri melegítése Meibom-mirigy-diszfunk￾cióban szenvedő betegekben szignifikánsan javította 
+a  könnyfilmfelszakadási időt és a morfológiailag ép 
+Meibom-mirigyek arányát [38]. Melegítő szemmaszk 
+már Magyarországon is elérhető Relaxem® néven, 
+ugyanakkor megjegyzendő, hogy a kezelés eredményes￾sége változó, önállóan alkalmazva ritkán elégséges a pa￾naszok megszüntetésére. Egy újabb kezelési lehetőség 
+a  LipiFlow® készülék alkalmazása. A 12 perces, orvos 
+által végzett eljárás során a felső és alsó szemhéjakra fel￾helyezett melegítőeszköz egyidejűleg fokozatosan pul￾záló nyomást gyakorol a szemhéjakra, azok széle felé 
+irányulva, így a meibum a kivezetőcsövekből expresszá-
+lódik, és hosszú távon javítja a könnyfilm stabilitását. 
+Egyszeri kezelést követően 1 hónappal a meibumterme￾lés és a könnyfilmfelszakadási idő szignifikáns javulását, 
+valamint a szubjektív panaszok szignifikáns csökkenését 
+írták le [39].
+Intenzív fénystimulációs kezelés
+Az intenzív fénystimulációs kezelés (E-Eye) során erős, 
+széles spektrumú (500–1200 nm), nem koherens villa￾nófénnyel kezelik a szemhéjak környékén az arcbőrt 3–5 
+percig, a kezelést többször megismételve. Az alkalma￾zott fény a hemoglobinban elnyelődve a teleangiectasiák 
+elzáródását, továbbá a gyulladás csökkenését eredménye￾zi. Nyolc alkalommal végzett kezelést követően 32 héttel 
+a szemhéjszél gyulladásos jeleinek és a szárazszem-pana￾szoknak a csökkenését, továbbá a könnyfilmfelszakadási 
+idő növekedését (átlagosan 4,5 mp) írták le [40]. Ugyan￾akkor az eddig publikált randomizált vizsgálatok ered￾ményei nem egységesek, további vizsgálatok szükségesek 
+a beavatkozás eredményességének megítéléséhez [41].
+Kezelés
+Stádium
+Beteg￾felvilágosítás
+a lehtséges
+okokról
+(diéta,
+környezeti
+tényezők,
+gyógyszerek)
++
+szemhéjszéli
+higiénia
+±
+szemhéjak
+melegítése
+I. stádium
+terápiás
+lépései
++
+javaslat
+párásításra,
+ómega-3
+zsírsav
+szedésére
++
+orvos által
+végzett
+meibum￾expresszió
+±
+műkönnyek,
+lokális/
+általános
+antibiotikum
+I–II. stádium
+összes lépése
++
+per os
+tetraciklin
++
+éjszakára
+lubrikáló
+szemgél
+±
+lokális
+gyulladás￾csökkentő
+kezelés
+I–II–III.
+stádium
+összes lépése
++
+lokális
+gyulladás￾csökkentő
+kezelés
+1. lokális 
+ szteroid
+2. terápiás
+ kontaktlencse
+3. szteroid
+4. epiláció
+5. krioterápia
+6. lokális
+ szteroid
+7. teafaolajos
+ tisztítás
+Meibom-mirigy-diszfunkció
+I. II. III. IV. Plusz jelek
+8. ábra Az MGD Workshop ajánlása a Meibom-mirigy-diszfunkció kezelésére
+MGD = Meibom-mirigy-diszfunkció
+9. ábra Emelkedő koncentrációjú (A<D) teafaolaj gátló hatása Staphylo￾coccus aureus növekedésére 48 órás inkubációt követően
+Unauthenticated | Downloaded 08/29/25 02:11 PM UTC
+49 ORVOSI HETILAP 2021 ■ 162. évfolyam, 2. szám
+ÖSSZEFOGLALÓ KÖZLEMÉNY
+Lipidkomponensű műkönnyek
+A könnypótlás önmagában is előnyös hatású, ugyanis a 
+Meibom-mirigy-diszfunkció az esetek 50–75%-ában 
+csökkent könnytermeléssel is társul, és a könnypótlás 
+elősegíti a lipidréteg szétterülését, továbbá csökkenti a 
+könnyfilmben levő gyulladásos citokinek mennyiségét. 
+A Meibom-mirigy-diszfunkció okozta száraz szem tüne￾teinek enyhítésére az egyik gyakori terápiás lehetőség a 
+könny pótlása különböző, lipidet is tartalmazó, „olaj a 
+vízben” emulziós műkönnykészítményekkel. Nem lipid￾tartalmú műkönnyekkel összehasonlítva, lipidemulziós 
+készítmények alkalmazásával 4 hetes kezelést követően a 
+cseppentési gyakoriság kismértékben csökkent, amit a 
+szaruhártya-festődés szignifikáns csökkenése és a könny￾filmfelszakadási idő javulása kísért [42].
+Lipidtartalmú liposzómás spray-k
+A könnyfilm lipidrétegének javulása a zárt szemhéjakra 
+fújt liposzómás spray alkalmazásával is lehetséges, mely￾nek foszfolipidtartalma egyesül a szemhéjszélen levő 
+meibummal. Hat hétig történő kezelést követően a 
+könnyfilmfelszakadási idő és a szemhéjszéli gyulladás 
+szignifikáns javulását írták le [43].
+Gyógyszeres kezelés
+A szemhéjszél tisztításán és melegítésén kívül a Meibom￾mirigy-diszfunkció előrehaladottabb formáinak kezelé-
+sére gyógyszeres terápia is szóba jöhet, elsősorban anti￾biotikumok, szteroid, immunmodulátorok, valamint 
+hormonterápia formájában.
+Antibiotikumok
+A szemhéjakon és a kötőhártyán számos baktérium meg￾található, beleértve bizonyos Staphylococcus, Streptococ￾cus, Corynebacterium és Propioni baktériumfajokat. Míg 
+egyes fajok viszonylag jóindulatúak, a Staphylococus aure￾us vagy a Staphylococcus epidermidis megváltoztathatja a 
+könnyfilm összetételét, miután az általuk termelt kolesz￾terin- vagy viaszészterázok lebontják a könnyben levő 
+lipideket. A tetraciklin jótékony hatásainak többsége a 
+mikrobiális lipázok gátlásának, nem pedig közvetlen an￾timikrobiális hatásuknak tulajdonítható. A helyileg alkal￾mazott oxitetraciklin gátolja a bakteriális lipázokat, és 
+megakadályozza a meibum lebomlását; ilyen készítmény 
+Magyarországon Tetran szemkenőcs néven elérhető. 
+A lokális kezelésre nem reagáló esetekben per os doxicik￾lin alkalmazása is szóba jöhet, mely lipofil tulajdonsága 
+révén már 50–100 mg adag mellett bakteriosztatikus 
+koncentrációt ér el a Meibom-mirigyekben. Egy hónapig 
+tartó, napi 2 × 200 mg alkalmazását követően a szem￾héjszéli gyulladásos jelek és a könnyfilmstabilitás szignifi￾káns javulását írták le, ugyanakkor a tartós antibiotikum￾kezelés mellett kialakuló szisztémás mellékhatások miatt 
+(gastrointestinalis panaszok, urticaria, pruritus) a keze￾lési mód alkalmazhatósága korlátozott [44].
+N-acetil-cisztein
+Meibom-mirigy-diszfunkció esetén 5%-os N-acetil-ciszte￾in-tartalmú szemcsepp 1 hónapos alkalmazását követően a 
+könnyfilmfelszakadási idő és a könnytermelés szignifikáns 
+javulását, továbbá az idegentest- és égő érzés szignifikáns 
+csökkenését írták le [45]. A kezelés előnyös hatásai felte￾hetően a vegyület antikollagenolitikus, antioxidáns és 
+gyulladáscsökkentő tulajdonságainak köszönhetők.
+Ómega-3 zsírsavak
+Több, randomizált vizsgálat metaanalízise alapján a táp￾lálékkal bevitt ómega-3 esszenciális zsírsavak javítják a 
+könnyfilmfelszakadási időt, a könnytermelést, és csök￾kentik a Meibom-mirigy-diszfunkció tüneteit [46]. Az 
+ómega-3 zsírsavak hatásmechanizmusa nem tisztázott: 
+feltehetően javítják a meibum összetételét, illetve növelik 
+az antiinflammatorikus ómega-3 zsírsavak és csökkentik 
+a proinflammatorikus ómega-6 zsírsavak arányát [47]. 
+Szteroidok
+A helyileg alkalmazott szteroidok rövid távú alkalmazása 
+előnyös lehet a gyulladással társuló formák kezelésében. 
+Két hónapig tartó, a szemhéjak napi kétszeri melegítésé-
+vel kiegészített 0,5%-os loteprednol szemcsepp kezelés 
+kapcsán a könnyfilmfelszakadási idő javulását, csökkenő 
+kötőhártya- és szemhéjvörösséget, a könnyben mért 
+gyulladásos citokinek csökkenését és a szubjektív pana￾szok javulását írták le [48]. Ugyanakkor, figyelembe véve 
+a szteroidok lehetséges mellékhatásait (másodlagos zöld 
+hályog és szürke hályog kialakulása), ez a kezelési mód 
+csak a súlyosabb gyulladással járó folyamatok esetén, át￾menetileg javasolt.
+Ciklosporin-A
+A 0,05%-os ciklosporin-A tartalmú emulzió (Ikervis®) 
+gyulladás- és T-sejt-proliferáció-gátló hatása révén haté-
+konyan csökkenti a Meibom-mirigy-diszfunkció tünete￾it. Három hónapig tartó alkalmazását követően a szem￾héjszéli teleangiectasiák csökkenését, az OSDI-pontszám 
+és a könnyfilmfelszakadási idő növekedését, a Meibom￾mirigyek morfológiájának javulását írták le [49].
+Hormontartalmú gyógyszerek
+Hormontartalmú gyógyszerekkel feltételezhetően befo￾lyásolható a könnyfilm lipidjeinek termelése, ugyanis a 
+Meibom-mirigyek androgén receptorokat expresszálnak 
+Unauthenticated | Downloaded 08/29/25 02:11 PM UTC
+2021 ■ 162. évfolyam, 2. szám ORVOSI HETILAP 50
+ÖSSZEFOGLALÓ KÖZLEMÉNY
+[50]. Ugyanakkor az eddigi eredmények nem konzisz￾tensek, ugyanis a könnytermelés kismértékű javulása 
+mellett a szubjektív panaszok romlását találták transder￾malis tesztoszteron- és ösztrogénterápiában részesülő, 
+menopausa után lévő nőkben. További vizsgálatokra van 
+szükség a hormonterápia hatékonyságának értékelésére a 
+Meibom-mirigy-diszfunkció kezelésében.
+Következtetések
+A Meibom-mirigy-diszfunkció és az annak következté-
+ben kialakult könnytermelési zavarok és szárazszem￾panaszok előfordulása a várható életkor növekedésével, 
+valamint a megváltozott életmóddal (kontaktlencse vise￾lése, képernyő előtti munkavégzés) kapcsolatosan nö-
+vekszik. A jellegzetes panaszok a leggyakrabban enyhék, 
+és hatékonyan csökkenthetők a szemhéjszéli higiénia 
+fenntartásával. A szemhéjak tisztítása megfelelő összeté-
+telű detergens és dezinficiens oldatokkal csökkenti a szá-
+raz szem okozta szemfelszíni panaszokat. A Meibom-mi￾rigy-diszfunkcióhoz gyakran társuló Demodex-atka-fer￾tőzés teafaolaj-tartalmú vagy annak monokomponensé-
+vel impregnált szemhéjszéli tisztítókendőkkel kezelhető. 
+A klinikai tapasztalatok alapján a kezelés eredményekép￾pen a Meibom-mirigyek kivezetőcsatornái átjárhatók 
+lesznek, továbbá a bakteriális és Demodex-fertőzés a 
+megfelelő lipidkiürülés és a fertőtlenítő kezelés együttes 
+hatásaként megszűnik. A könnyfilm olajos rétegének 
+rendeződésével a könnyfilm zavarai, valamint az ezekből 
+adódó szemfelszíni gyulladásos tünetek enyhülnek, a be￾tegek panaszai csökkennek. A súlyosabb, kifejezett gyul￾ladással társuló formákban átmenetileg antibiotikum- és 
+gyulladásgátló kezelésre is szükség lehet, de hosszú tá-
+von a relapsus megelőzése a szemhéjszéli higiénia fenn￾tartásán alapul.
+Anyagi támogatás: A közlemény megírása, illetve a 
+kapcsolódó kutatómunka nem részesült támogatásban.
+Szerzői munkamegosztás: A vizsgálat tervezése: K. I., 
+K. B. A vizsgálatok elvégzése: L. B., T.-N. A., H. Gy., 
+Cs. A., K. H., Sz. I. A közlemény megírása: K. B., K. I., 
+C. C., Sz. I. A közlemény kritikai revíziója: T.-N. A., 
+H. Gy., N. Z. Zs. A cikk végleges változatát valamennyi 
+szerző elolvasta és jóváhagyta.
+Érdekeltségek: K. I. a SolMed Pharma Kft. alkalmazásá-
+ban áll.
+Köszönetnyilvánítás
+Ezúton köszönjük dr. Kocsis Béla és dr. Lendvai Botond (Pécsi Tudo￾mányegyetem, Orvosi Mikrobiológiai és Immunitástani Intézet; 
+Gyógyszertechnológiai és Biofarmáciai Intézet) szíves közreműkö-
+dését.
+Irodalom
+[1] Knop E, Knop N, Millar T, et al. The International Workshop on 
+Meibomian Gland Dysfunction: report of the Subcommittee on 
+Anatomy, Physiology, and Pathophysiology of the Meibomian 
+Gland. Invest Ophthalmol Vis Sci. 2011; 52: 1938–1978.
+[2] Berta A, Tóth-Molnár E, Csutak A. New international consensus 
+statement about the definition, classification, ethiology, diagnos￾tics and therapy of dry eye (TFOS DEWS II). [Új nemzetközi 
+konszenzusnyilatkozat a száraz szem definíciójáról, felosztásáról, 
+etiológiájáról, diagnosztikájáról és terápiájáról.] Orv Hetil. 2018; 
+159: 775–785. [Hungarian]
+[3] Schaumberg DA, Nichols JJ, Papas EB, et al. The International 
+Workshop on Meibomian Gland Dysfunction: report of the sub￾committee on the epidemiology of, and associated risk factors 
+for, MGD. Invest Ophthalmol Vis Sci. 2011; 52: 1994–2005.
+[4] Borchman D, Foulks GN, Yappert MC, et al. Human meibum 
+lipid conformation and thermodynamic changes with meibomi￾an-gland dysfunction. Invest Ophthalmol Vis Sci. 2011; 52: 
+3805–3817.
+[5] Shimazaki J, Sakata M, Tsubota K. Ocular surface changes and 
+discomfort in patients with meibomian gland dysfunction. Arch 
+Ophthalmol. 1995; 113: 1266–1270.
+[6] Dougherty JM, McCulley JP. Comparative bacteriology of 
+chronic blepharitis. Br J Ophthalmol. 1984; 68: 524–528.
+[7] Liu J, Sheha H, Tseng SC. Pathogenic role of Demodex mites in 
+blepharitis. Curr Opin Allergy Clin Immunol. 2010; 10: 505–
+510.
+[8] Lee SH, Chun YS, Kim JH, et al. The relationship between 
+Demodex and ocular discomfort. Invest Ophthalmol Vis Sci. 
+2010; 51: 2906–2911.
+[9] Kim JH, Chun YS, Kim JC. Clinical and immunological respons￾es in ocular demodecosis. J Korean Med Sci. 2011; 26: 1231–
+1237.
+[10] Management and therapy of dry eye disease: report of the Man￾agement and Therapy Subcommittee of the International Dry 
+Eye WorkShop (2007). Ocul Surf. 2007; 5: 163–178.
+[11] Post CF, Juhlin E. Demodex folliculorum and blepharitis. Arch 
+Dermatol. 1963; 88: 298–302.
+[12] Jalbert I, Rejab S. Increased numbers of Demodex in contact lens 
+wearers. Optom Vis Sci. 2015; 92: 671–678.
+[13] Preisz K, Kárpáti S. Rosacea: pathogenesis, clinical forms and 
+therapy. [A rosacea patogenezise, klinikai formái és kezelése.] 
+Orv Hetil. 2010; 151: 1209–1214. [Hungarian]
+[14] Geerling G, Tauber J, Baudouin C, et al. The International 
+Workshop on Meibomian Gland Dysfunction: report of the Sub￾committee on Management and Treatment of Meibomian Gland 
+Dysfunction. Invest Ophthalmol Vis Sci. 2011; 52: 2050–2064.
+[15] Dougherty JM, McCulley JP. Bacterial lipases and chronic 
+blepharitis. Invest Ophthalmol Vis Sci. 1986; 27: 486–491.
+[16] Mastrota KM. Method to identify Demodex in the eyelash follicle 
+without epilation. Optom Vis Sci. 2013; 90: e172–e174.
+[17] Coston TO. Demodex folliculorum blepharitis. Trans Am Oph￾thalmol Soc. 1967; 65: 361–392.
+[18] Methodologies to diagnose and monitor dry eye disease: report 
+of the Diagnostic Methodology Subcommittee of the Interna￾tional Dry Eye WorkShop. Ocul Surf. 2007; 5: 108–152.
+[19] Tóth-Molnár E. Treatment of dry eye disease. Present and fu￾ture. [A száraz szem kezelésének stratégiája: jelenlegi ajánlások, 
+jövőbeni lehetőségek.] Szemészet 2020; 157: 1–10. [Hungari￾an]
+[20] Módis L. Therapy of the dry eye disease. In: Süveges I. (ed.) 
+Ocular surface and cornea diseases. [A száraz szem terápiája. In: 
+Süveges I. (szerk.) A szemfelszín és cornea betegségei.] Medicina 
+Könyvkiadó, Budapest, 2020; pp. 45–63. [Hungarian]
+Unauthenticated | Downloaded 08/29/25 02:11 PM UTC
+51 ORVOSI HETILAP 2021 ■ 162. évfolyam, 2. szám
+ÖSSZEFOGLALÓ KÖZLEMÉNY
+[21] Key JE. A comparative study of eyelid cleaning regimens in 
+chronic blepharitis. CLAO J. 1996; 22: 209–212.
+[22] Guillon M, Maissa C, Wong S. Eyelid margin modification asso￾ciated with eyelid hygiene in anterior blepharitis and meibomian 
+gland dysfunction. Eye Contact Lens 2012; 38: 319–325.
+[23] Korb DR, Blackie CA, Finnemore VM, et al. Effect of using a 
+combination of lid wipes, eye drops, and omega-3 supplements 
+on meibomian gland functionality in patients with lipid defi￾cient/evaporative dry eye. Cornea 2015; 34: 407–412.
+[24] Jackson WB. Blepharitis: current strategies for diagnosis and 
+management. Can J Ophthalmol. 2008; 43: 170–179.
+[25] Wong K, Flanagan J, Jalbert I, et al. The effect of BlephadexTM
+eyelid wipes on Demodex mites, ocular microbiota, bacterial li￾pase and comfort: a pilot study. Cont Lens Anterior Eye 2019; 
+42: 652–657.
+[26] Greiner JV, Leahy CD, Glonek T, et al. Effects of eyelid scrub￾bing on the lid margin. CLAO J. 1999; 25: 109–113.
+[27] Hueso Abancens JR, Mengual Verdú E, Schargel Palacios K, et 
+al. Modification of the conjuntival flora with cleaning palpebral 
+solutions. [Modificación de la flora conjuntival por el empleo de 
+soluciones de higiene palpebral.] Arch Soc Esp Oftalmol. 2004; 
+79: 617–621. [Spanish]
+[28] Peral A, Alonso J, García-García C, et al. Importance of lid hy￾giene before ocular surgery: qualitative and quantitative analysis 
+of eyelid and conjunctiva microbiota. Eye Contact Lens 2016; 
+42: 366–370.
+[29] Ávila MY, Martínez-Pulgarín DF, Rizo Madrid C. Topical iver￾mectin-metronidazole gel therapy in the treatment of blepharitis 
+caused by Demodex spp.: a randomized clinical trial. Cont Lens 
+Anterior Eye 2020 May 24. Doi: 10.1016/j.clae.2020.04.011. 
+[Online ahead of print]
+[30] Fulk GW, Murphy B, Robins MD. Pilocarpine gel for the treat￾ment of demodicosis – a case series. Optom Vis Sci. 1996; 73: 
+742–745.
+[31] Jones L, Downie LE, Korb D, et al. TFOS DEWS II manage￾ment and therapy report. Ocul Surf. 2017; 15: 575–628.
+[32] Hammer K, Carson, Riley CT. Antifungal activity of the compo￾nents of Melaleuca alternifolia (tea tree) oil. J Appl Microbiol. 
+2003; 95: 853–860.
+[33] Gao YY, DiPascuale MA, Li W, et al. In vitro and in vivo killing 
+of ocular Demodex by tea tree oil. Br J Ophthalmol. 2005; 89: 
+1468–1473.
+[34] Gao YY, Xu D, Huang lJ, et al. Treatment of ocular itching as￾sociated with ocular demodicosis by 5% tea tree oil ointment. 
+Cornea 2012; 31: 14–17.
+[35] Kabat AG. In vitro demodicidal activity of commercial lid hy￾giene products. Clin Ophthalmol. 2019; 13: 1493–1497.
+[36] Gao YY, Di Pascuale MA, Elizondo A, et al. Clinical treatment of 
+ocular demodecosis by lid scrub with tea tree oil. Cornea 2007; 
+26: 136–143.
+[37] Ngo W, Jones L, Bitton E. Short-term comfort responses associ￾ated with the use of eyelid cleansing products to manage Demo￾dex folliculorum. Eye Contact Lens 2018; 44(Suppl 2): S87–
+S92.
+[38] Arita R, Morishige N, Shirakawa R, et al. Effects of eyelid warm￾ing devices on tear film parameters in normal subjects and pa￾tients with meibomian gland dysfunction. Ocul Surf. 2015; 13: 
+321–330.
+[39] Greiner JV. Long-term (12-month) improvement in meibomian 
+gland function and reduced dry eye symptoms with a single ther￾mal pulsation treatment. Clin Exp Ophthalmol. 2013; 41: 524–
+530.
+[40] Arita R, Fukuoka S, Morishige N. Therapeutic efficacy of intense 
+pulsed light in patients with refractory meibomian gland dys￾function. Ocul Surf. 2019; 17: 104–110.
+[41] Cote S, Zhang AC, Ahmadzai V, et al. Intense pulsed light (IPL) 
+therapy for the treatment of meibomian gland dysfunction. 
+Cochrane Database Syst Rev. 2020; 3: CD013559.
+[42] Sindt CW, Foulks GN. Efficacy of an artificial tear emulsion in 
+patients with dry eye associated with meibomian gland dysfunc￾tion. Clin Ophthalmol. 2013; 7: 1713–1722.
+[43] Dausch D, Lee S, Dausch S, et al. Comparative study of treat￾ment of the dry eye syndrome due to disturbances of the tear 
+film lipid layer with lipid-containing tear substitutes. [Ver￾gleichende Studie zur Therapie des trockenen Auges bedingt 
+durch Lipidphasenstörungen mit lipidhaltigen Tränenprä-
+paraten.] Klin Monbl Augenheilkd. 2006; 223: 974–983. [Ger￾man]
+[44] Wladis EJ, Bradley EA, Bilyk JR, et al. Oral antibiotics for meibo￾mian gland-related ocular surface disease: a report by the Ameri￾can Academy of Ophthalmology. Ophthalmology 2016; 123: 
+492–496.
+[45] Akyol-Salman I, Azizi S, Mumcu U, et al. Efficacy of topical N￾acetylcysteine in the treatment of meibomian gland dysfunction. 
+J Ocul Pharmacol Ther. 2010; 26: 329–333.
+[46] Liu A, Ji J. Omega-3 essential fatty acids therapy for dry eye 
+syndrome: a meta-analysis of randomized controlled studies. 
+Med Sci Monit. 2014; 20: 1583–1589.
+[47] Calder PC. Polyunsaturated fatty acids, inflammation, and im￾munity. Lipids 2001; 36: 1007–1024.
+[48] Lee H, Chung B, Kim KS, et al. Effects of topical loteprednol 
+etabonate on tear cytokines and clinical outcomes in moderate 
+and severe meibomian gland dysfunction: randomized clinical 
+trial. Am J Ophthalmol. 2014; 158: 1172–1183.e1.
+[49] Perry HD, Doshi-Carnevale S, Donnenfeld ED, et al. Efficacy of 
+commercially available topical cyclosporine A 0.05% in the treat￾ment of meibomian gland dysfunction. Cornea 2006; 25: 171–
+175.
+[50] Sullivan DA, Sullivan BD, Ullman MD, et al. Androgen influ￾ence on the meibomian gland. Invest Ophthalmol Vis Sci. 2000; 
+41: 3732–3742.
+(Kovács Illés dr.,
+Budapest, Üllői út 26., 1085
+e-mail: kovacs.illes@med.semmelweis-univ.hu)
+A cikk a Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0/) feltételei szerint publikált Open Access közlemény, 
+melynek szellemében a cikk bármilyen médiumban szabadon felhasználható, megosztható és újraközölhető, feltéve, hogy az eredeti szerző és a közlés helye, 
+illetve a CC License linkje és az esetlegesen végrehajtott módosítások feltüntetésre kerülnek. (SID_1)
+Unauthenticated | Downloaded 08/29/25 02:11 PM UTC

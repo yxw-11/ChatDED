@@ -1,0 +1,951 @@
+Advances in Dry Eye Disease Treatment
+Erin C. O’Neil, MD1, Matthew Henderson, BA1, Mina Massaro-Giordano, MD1, Vatinee Y. 
+Bunya, MD1
+1Scheie Eye Institute, University of Pennsylvania, Philadelphia, PA
+Abstract
+Purpose of review: The prevalence and burden of dry eye disease continues to grow at a rapid 
+pace, creating an increased need for new therapies. In a sector once limited to only a handful of 
+treatments, clinicians now have multiple options available for patients who fail traditional 
+therapies. This review summarizes the various treatment options available to clinicians treating 
+complex dry eye disease patients.
+Recent findings: As we better-understand the multifactorial mechanisms leading to dry eye 
+disease, treatments increasingly focus on the amelioration of the underlying deficiencies and 
+inflammation, rather than on transient symptomatic relief alone. Most topical medications seek to 
+replace deficient growth factors and/or decrease inflammation on the ocular surface. The majority 
+of new devices and procedures seek to treat meibomian gland dysfunction, with one new device 
+stimulating tear production through utilizing the nasolacrimal reflex pathway.
+Summary:
+Clinicians have more options at their disposal in the treatment of dry eye disease than ever before, 
+including topical medications and devices.
+Keywords
+dry eye disease; evaporative dry eye; meibomian gland dysfunction; dry eye treatment
+Introduction
+Current studies estimate that approximately 16.4 million Americans (6.8% of the adult US 
+population) have been diagnosed with dry eye disease (DED).1
+ An additional 6 million 
+(2.5% of adult Americans) may experience dry eye symptoms but have not been diagnosed 
+with DED, placing the total estimated burden of disease at 9.3% of adult Americans. The 
+prevalence of DED is higher among women as compared to men and increases with age.1,2 
+One recent population based study found a prevalence of 11.3% among all adults greater 
+than 50 years of age and as high as 22.8% among women greater than 75 years of age.1 
+Corresponding Author: Vatinee Bunya, MD, 51 N. 39th Street, Philadelphia, PA 19104, Phone: (215) 662-9791, Fax: (215) 243-4695, 
+vatinee.bunya@uphs.upenn.edu. 
+Conflicts of interest
+MMG: Celularity (consultant); Glaxo-Smith Kline (consultant); PRN Omega (personal financial interest)
+ECO, MH: None
+HHS Public Access
+Author manuscript
+Curr Opin Ophthalmol. Author manuscript; available in PMC 2020 May 01.
+Published in final edited form as:
+Curr Opin Ophthalmol. 2019 May ; 30(3): 166–178. doi:10.1097/ICU.0000000000000569.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Based on this, we can anticipate that the prevalence of DED will continue to increase as the 
+population ages. The burden of DED on affected patients is significant, with effects on 
+visual function, activities of daily living, professional work, and quality of life.1,2
+ Direct 
+costs from doctor’s visits, medications, and procedures and indirect costs from decreased 
+productivity, reduced quality of life, and general impairment in functioning make DED a 
+substantial economic burden, as well.1–4
+ A recent economic analysis estimated that the 
+average annual direct cost of managing an American dry-eye patient was $783, which when 
+adjusted for the prevalence of dry eye, amounted to $3.84 billion across the U.S. healthcare 
+system.5
+Systematic diagnosis and monitoring of dry eye disease can be achieved through the use of 
+various validated measures of both signs and symptoms of disease. Commonly utilized 
+subjective scales include the Ocular Surface Disease Index (OSDI) and the Symptom 
+Assessment iN Dry Eye (SANDE). The OSDI is a 12-item questionnaire that evaluates 
+symptoms over the preceding week. Scores range from 0–100 with higher scores indicating 
+more severe disease. The SANDE utilizes a visual analog scale and asks patients to rate both 
+severity and frequency of dry eye symptoms.6
+ These may be used in conjunction with 
+clinical exam findings such as corneal and conjunctival staining with fluorescein and/or 
+lissamine green, tear film break up time, and Schirmer testing. Point-of-care in-office testing 
+can be helpful in supplementing the evaluation and may include the measurement of tear 
+film osmolarity and MMP-9 testing. Meibography, or infrared imaging of the meibomian 
+glands, can be helpful in evaluating the severity of meibomian gland dysfunction. Patients 
+with moderate-to-severe disease will often require a combination of treatments aimed at 
+targeting the inflammatory, evaporative, and aqueous deficient components of their disease. 
+Individualized treatment regimens should focus on the underlying pathophysiology in order 
+to optimize results.
+Traditional dry eye treatments include over-the-counter artificial tears, warm compresses, 
+and lid hygiene with baby shampoo.7
+ Topical cyclosporine A (CsA) 0.05%, a fungal 
+antimetabolite that has found use as an anti-inflammatory drug due to its ability to decrease 
+IL-2 mediated T-cell activation, received FDA approval for dry eye disease in 2003 and has 
+been in regular clinical use for the past 15 years. It is a common next line dry eye therapy for 
+those who have failed the conservative measures above. An estimated 48.2% of chronic dry 
+eye disease patients have filled a prescription for CsA, despite mixed physician opinion on 
+the drug’s efficacy.8
+ Multiple studies have found patients treated with CsA experience 
+symptomatic improvement, lower Ocular Surface Disease Index (OSDI) scores, and 
+improved Schirmer testing and tear film breakup time (TBUT) results. However, despite its 
+long track record and frequent use, active questions still surround the use of topical CsA, 
+including optimal concentration/dose, necessary length of treatment, and which patients are 
+most likely to benefit from its use.8–10 Furthermore, ocular burning is a common side effect 
+of topical CsA (occurring in up to 17% of patients) and is the most common reason for 
+discontinuing treatment by patients.11–14 Additional side effects include conjunctival 
+hyperemia, discharge, epiphora, eye pain, foreign body sensation, pruritis, and visual 
+disturbance such as blurry vision.11 In addition, the estimated cost of a 30-day supply of 
+topical cyclosporine is $293.45, making it the most expensive of the commonly prescribed 
+ophthalmic medications, presenting a barrier to use by some patients.15
+O’Neil et al. Page 2
+Curr Opin Ophthalmol. Author manuscript; available in PMC 2020 May 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Therapeutics
+Medications
+Topical prescription medications discussed here aim to decrease inflammatory mediators and 
+are therefore likely to be most effective in patients with evidence of a significant 
+inflammatory component to their disease, such as patients with moderate-to-severe aqueous 
+tear deficiency (with or without Sjogren’s syndrome), or graft-vs-host-disease.
+Lifitegrast—In July 2016, lifitegrast 5% became the second FDA approved topical ocular 
+anti-inflammatory medication for the treatment of DED. The drug mimics the intercellular 
+adhesion molecule-1 (ICAM-1), blocking interactions between ICAM-1 and lymphocyte 
+functional associated antigen-1 (LFA-1), which are instrumental in T-cell activation and 
+migration.16,17 Results of three phase III clinical trials (OPUS 1–3) demonstrated 
+improvement in both signs and symptoms of dry eye disease. Notably, in a pooled analysis 
+of the OPUS-2 and OPUS-3 studies, lifitegrast significantly improved the primary symptom 
+outcome of change from baseline eye dryness score (EDS) (0 to 100 visual analogue scale 
+[VAS]) score within 14 days and sustained this effect in a pooled analysis at the study’s 
+endpoints of 84 days (treatment effect 9.92 point decrease in EDS (VAS) score; 95% CI 
+7.01–12.83; p < 0.0001).17 By comparison, topical cyclosporine typically takes 3 months to 
+demonstrate clinical efficacy.17–19 The safety of lifitegrast was well demonstrated in the 
+SONATA study, which followed 331 patients (220 lifitegrast vs 111 placebo) for one year 
+and found no significant adverse events. In addition, plasma concentrations of lifitegrast 
+remained low and no systemic immunosuppression or local opportunistic infections 
+occurred.20
+Advantages of topical lifitegrast suggested by the above studies include relatively rapid 
+effect, long-term safety, and improvement in both the signs and symptoms of dry eye 
+disease. However, there are possible side effects including instillation-site irritation, 
+instillation-site pain, instillation-site reaction, reduced visual acuity, and dysgeusia.17,20,21 In 
+addition, further study is needed to determine which patients respond best to lifitegrast, such 
+as patients with known higher levels of inflammation such as patients with Sjogren’s 
+syndrome or graft-vs-host disease. It is also unknown whether concomitant use of lifitegrast 
+with topical corticosteroids can result in faster symptomatic relief, as has been found in prior 
+research on CsA use in combination with corticosteroids.17,22 Future studies regarding the 
+effectiveness of the concomitant use of lifitegrast and cyclosporine are also needed.
+Blood products
+In recent years, platelet-derived products have found widespread use in wound healing and 
+tissue regeneration.23 Application of these products in DED makes use of the numerous 
+similarities between natural tears and serum, including lipid, proteins, antimicrobial 
+elements, and growth factors.23,24 Autologous and/or allogenic serum drops have been 
+shown across multiple studies to improve both symptoms and objective signs of dry eye 
+disease.25–28 Most recently, interest has grown in the use of other blood-derived products, 
+specifically eye-platelet rich plasma (E-PRP) and plasma rich in growth factors (PGRF). 
+These newer products contain three to five times the platelet concentration compared to 
+O’Neil et al. Page 3
+Curr Opin Ophthalmol. Author manuscript; available in PMC 2020 May 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+serum drops and aim to maximize the concentration of growth factors, cell adhesion 
+molecules and alpha-granule released cytokines.23 E-PRP and PGRF also do not contain 
+leukocytes, which are present in serum drops and may increase levels of pro-inflammatory 
+cytokines that are detrimental to the ocular surface.24 These higher concentrations of growth 
+factors and other beneficial factors may result in substantial therapeutic effects on the ocular 
+surface.
+For example, Alio et al. studied 368 patients with moderate to severe dry eye treated with E￾PRP six times daily in a series of one to five consecutive rounds, each lasting six weeks 
+(64.4% of patients required only one round). After one round, 87.5% of patients reported 
+subjective improvement, while 76.1% had improvement in corneal fluorescein staining and 
+28.8% had at least one line of gain in vision.29 In this study, some patients received up to 
+five rounds of treatment with rare adverse events, suggesting long term use is likely safe, 
+though formal studies are pending. However, despite some evidence of efficacy as treatments 
+for DED, blood products are not FDA approved, so their access is limited and often costs are 
+not covered by most insurances.30
+Procedures
+Available in-office procedures primarily target inspissated meibomian glands, using heat or 
+mechanical energy to express glands and restore natural flow of meibum. As such, they are 
+best suited for patients with a significant component of evaporative dry eye disease and 
+meibomian gland dysfunction.
+Intense pulsed light—Intense pulsed light (IPL) involves targeting pigmented or vascular 
+lesions with visible and infrared light, which, upon absorption, is converted to destructive 
+heat. Though used primarily in dermatology for its FDA-approved indication of treating 
+telangiectasias, IPL has more recently been used as an off-label treatment for evaporative 
+dry eye mediated by MGD, often in patients who also suffer from rosacea.31 IPL therapy 
+involves direct application of 500 nm light to the skin, coagulating underlying blood vessels. 
+Proposed mechanisms of efficacy include reduced inflammatory mediators and bacterial 
+overgrowth by destruction of eyelid telangiectasias as well as melting of viscous meibum, 
+allowing improved flow.31
+In recent years, there has been increasing interest in the study of IPL for the treatment of 
+DED. Toyos et al first described a treatment protocol for the use of IPL in dry eye disease in 
+2005. In their protocol, an IPL shield is placed over a patient’s cleaned face. Cold ultrasound 
+gel is applied to the treatment area, from tragus to tragus. Treatment settings range from 8 
+J/cm2
+ to 20 J/cm2
+, depending on disease severity. Two passes are performed. The gel is then 
+removed and manual meibomian gland expression is performed using a cotton-tipped 
+applicator on the palpebral conjunctiva and the physician’s finger on the external lid 
+skin31,32 (Figure 1).
+In 2015, Toyos and colleagues published a retrospective review of 91 patients presenting 
+with dry eye symptoms who were treated with IPL. They found that 93% of patients had 
+improvement in symptoms and 87% improvement in TBUT over a median of four follow-up 
+visits. Thirteen percent of patients reported adverse events, mostly related to localized 
+O’Neil et al. Page 4
+Curr Opin Ophthalmol. Author manuscript; available in PMC 2020 May 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+redness and swelling, but there were no significant adverse events.31 In addition, several 
+other retrospective studies published have also indicated improvement in signs and 
+symptoms of dry eye disease following IPL therapy.33,34
+Craig et al. published the first prospective results of IPL use for the treatment of MGD.35 In 
+this double-masked, paired-eye, placebo-controlled study, 28 patients with mild to moderate 
+MGD received three IPL treatment sessions to a randomly selected eye, while the other eye 
+was assigned to serve as a sham-treated control. Treatment sessions were conducted at 1, 15, 
+and 45 days from baseline and consisted of IPL treatment application to four periocular 
+zones inferior to the eye. Lipid layer grade and noninvasive tear break-up time both 
+improved significantly from baseline to day 45 in the treatment eye, but not in the control 
+eye (both p<0.001). Subjective self-reported dry eye symptoms using the VAS also 
+significantly improved in the treated eye but not in the control eye (p=0.015). Tear 
+evaporation rate and meniscus height, however, were not significantly different in the treated 
+eye compared to the control eye.35
+More recently, Dell et al. published prospective results that further demonstrated the 
+therapeutic potential of IPL for MGD-mediated evaporative dry eye.36 They studied 80 eyes 
+of 40 patients across two sites, providing four treatments three weeks apart, each of which 
+included 10–15 pulses of IPL over the cheeks and nose, followed by manual meibomian 
+gland expression of both upper and lower lids. Outcomes analyzed by change from baseline 
+to final follow-up 15 weeks after initial treatment session. The number and severity of dry 
+eye signs and symptoms including tear breakup time, meibomian gland score, corneal 
+fluorescein staining, and SPEED questionnaire scores, all improved significantly (P<0.001 
+for all outcomes) from baseline to final follow-up. Tear film osmolarity improved by −7% 
+(p<0.005) in the 20 patients with abnormal results at baseline, but lipid layer thickness did 
+not improve significantly.36
+While these results are encouraging for the role of IPL in the treatment of dry eye disease, 
+there are limitations to its use. For example, only lightly pigmented skin (Fitzpatrick Skin 
+Types 1–4) is eligible for IPL treatment, since side effects such as hypopigmentation are 
+more common in darker skin types.37 Upper eyelids are also not considered a safe target due 
+to the risk of light absorption by pigmented intraocular structures, such as the iris.38 Other 
+limitations include cost, as treatments are not covered by most insurances and maintenance 
+treatments are often need annually or bi-annually.33
+Vectored Thermal Pulsation (LipiFlow™)—LipiFlow™ (TearScience, Morrisville, 
+NC) is a device that combines meibomian gland expression with heat, in a technique 
+referred to as vector thermal pulse therapy, for the in-office treatment of MGD. During this 
+procedure the device applies heat over the palpebral conjunctiva of the upper and lower 
+eyelids, while providing pulsatile external pressure (Figure 2).
+Since Lane et al. first published positive results of LipiFlow™ use as compared to warm 
+compresses in improving both signs and symptoms of DED in 2012,39 other studies have 
+confirmed the benefits of LipiFlow™. Some studies have reported that a single treatment’s 
+effects lasting six to nine months or longer.40–43 However, an independent, randomized, 
+O’Neil et al. Page 5
+Curr Opin Ophthalmol. Author manuscript; available in PMC 2020 May 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+masked, placebo-controlled clinical has not been conducted to provide strong evidence long￾term benefits from a single treatment. Kim et al. published a retrospective review of 189 
+eyes that underwent thermal pulsation treatment.44 They reported that in 39 eyes with 
+abnormal tear film osmolarity (defined as > 307 mOsms/L), thermal pulsation treatment 
+significantly improved values from an average of 317.1 to 306.6 mOsms/L (p=0.002). In the 
+same study, MMP-9 assays were positive in 50% of 114 eyes pretreatment but only 26% of 
+eyes post-treatment (p<0.0001).44 More recently, Hagen et al. published a prospective, 
+randomized, parallel-group study comparing a single LipiFlow™ treatment to a 3-month 
+course of doxycycline for the treatment of in 28 patients with MGD.45 Following treatment, 
+SPEED scores improved in both groups but were significantly better in the LipiFlow™ 
+group as compared to the doxycycline group (5.42 vs 9.42, p=0.030). The two groups were 
+comparable in post-treatment meibomian gland function scores, TBUT, and corneal and 
+conjunctival fluorescein staining.45 These results suggest that Lipiflow™ may be a preferred 
+treatment for patients with meibomian gland dysfunction while avoiding the potential side 
+effects and complications of long-term macrolide therapy.
+Side effects for Lipiflow™ are minimal and include eye and eyelid discomfort that resolve 
+soon after treatment, but there are limitations of this modality.46 The single-use, disposable 
+applicators that comprise the ocular component of this device are expensive and not covered 
+by most insurances, making Lipiflow™ potentially cost prohibitive.7
+ Despite evidence of its 
+potential effectiveness in treating MGD, a randomized, double masked, placebo-controlled 
+clinical trial is needed to further evaluate treatment duration.
+Meibomian Gland Probing—In 2010, Maskin reported a novel probing technique for 
+treating MGD using a beveled, 2mm solid stainless steel probe directly into meibomian 
+gland orifices.47 He reported that 24 out of 25 patients had immediate relief in tenderness 
+and all patients had persistent relief 4 weeks later. Repeat treatments were only required in 5 
+of the patients with an average follow-up of 11.5 months.47 In 2018, Maskin et al reported 
+post-probing meibography results of 50 eyelids from 28 patients. The authors reported that 
+36% of lids appeared to have signs of individual gland growth with a mean follow-up time 
+of 10 months, while detailed analysis of 13 lids demonstrated a 6.23% increase in mean 
+individual gland area. The authors recognized not only lengthening of shortened glands but 
+also partial restoration of faded glands and speculated that there was possible new gland 
+growth.48 Also published in the last year, Incekalan et al. evaluated both effectiveness and 
+speed of relief among 80 eyes of 20 patients treated with either conventional meibomian 
+gland disease treatments (consisting of warm compresses, eyelid massage and cleansing, 
+artificial tears, topical antibiotics, oral omega-3 supplementation, and oral azithromycin) or a 
+combination of conventional treatments above with a single session of intraductal 
+meibomian gland probing performed at first visit.49 Patients were followed for three months 
+after the initial visit or procedure. OSDI, Schirmer testing, tear film breakup time, Oxford 
+grading of ocular surface, and both meibum expressibility and quality improved in both 
+groups, though the subgroup treated with probing had significantly faster improvement in all 
+measurements.49
+Several other authors have previously published on the efficacy of meibomian gland probing 
+with encouraging results.50–54 Wladis reported on a series of 40 patients with average OSDI 
+O’Neil et al. Page 6
+Curr Opin Ophthalmol. Author manuscript; available in PMC 2020 May 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+of 78.11, all with ocular and facial rosacea, treated with a single session of intraductal 
+meibomian gland probing. Mean OSDI decreased to 37.54 (p < 0.05) at one-month follow￾up and 43.00 at six-month follow-up (p < 0.05). Nine out of the ten patients previously on 
+oral doxycycline were able to discontinue use.54 In a similar study by Sik Sarman et al. in 
+2016 of 58 eyes, which allowed for multiple treatments, mean OSDI score decreased from a 
+mean of 79.7 at baseline to 22.9 at three months with an average of 1.7 sessions of probing. 
+However, patients in this study were prescribed corticosteroids after the procedure and 
+instructed to perform warm compresses and lid massage, which may have contributed to 
+their superior results.53 Ma and Lu compared intraductal meibomian gland probing with 
+topical corticosteroids (0.1% fluorometholone) to use of fluorometholone alone in 49 
+patients. Patients who received intraductal meibomian gland probing had faster symptomatic 
+relief (76% at one day post-operative) as well as significantly greater improvement in ocular 
+symptom scores and meibum scoring at one week and one month follow-up as compared to 
+the steroid-only group. The group that underwent probing also experienced a significantly 
+greater increase in TBUT than the steroids-only group (8.2 +/− 2.1vs 7.0 +/− 3.0, p=0.029). 
+Both groups continued prior conservative treatments. Other measured parameters such as 
+Schirmer I score were not significantly different between the two groups.51
+In 2017, Syed and Sutula reported a new method of meibomian gland probing in which an 
+operating microscope is used, von Grafe forceps are placed at the base of the tarsal plate and 
+used to express meibum while a 2mm followed by a 4mm probe are used to break through 
+obstructions and dilate the glands. 91.4% of treatments in their series of 70 eyelids resulted 
+in symptomatic improvement, though more than half had relapse of symptoms during 
+follow-up (range 1 to 64 weeks, mean 12.9 weeks).55
+None of the papers we reviewed commented on patient discomfort as a disadvantage of this 
+treatment method, but this remains a possible drawback to intraductal probing. The 
+effectiveness of this procedure likely also depends on the skill and experience of the 
+performing surgeon. Overall, more large-scale studies with long-term follow-up are needed 
+to better assess the effectiveness of this treatment.
+MiBoThermoflo—The Mibo Thermoflo (MiBo Medical Group, Dallas, TX) is an in-office 
+therapeutic device for the treatment of MGD related DED, which aims to maximize meibum 
+liquefaction and secretion, thus improving tear film quality (Figure 3). During the procedure, 
+ultrasound gel is applied to the heated handheld probe, which is then used to gently massage 
+the external lids for 8 to 12 minutes.56 The manufacturer recommends three treatments, each 
+two weeks apart, and evaluating patients after to determine if they require future treatments. 
+While no studies on its efficacy have been published yet, preliminary data from a trial 
+sponsored by the manufacturer showed significant improvement in TBUT, osmolarity, 
+SPEED, and OSDI four months after treatment in 51 patients.56 However, Kendrick & Alloo 
+reported in a case study, that the treatment was ineffective in raising the average palpebral 
+conjunctiva temperature above 40°C, the temperature required for effective meibum 
+liquidification.57,58 A randomized, masked, placebo-control clinical trial still needs to be 
+conducted to further investigate the treatments efficacy and safety.
+O’Neil et al. Page 7
+Curr Opin Ophthalmol. Author manuscript; available in PMC 2020 May 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+BlephEx™—BlephEx™ (Scope Ophthalmics, London, UK) is an in-office treatment for 
+blepharitis to supplement at-home lid scrubs. This handheld device spins a disposable, 
+single-use medical grade micro-sponge to remove debris from lashes and lids. In a 
+preliminary prospective study, Connor et al. demonstrated the positive effects of BlephEx™ 
+in treating dry eye symptoms; in the small study of 20 patients, the authors found that MGD 
+and blepharitis grading (using Efron Grading Scale), TBUT, and OSDI improved 
+significantly four weeks after BlephEx™ treatment compared to baseline.59 The group 
+separately reported on a group 10 patients who tested positive for MMP-9 who were 
+subsequently treated with Blephex™ and all found to be negative for MMP-9 after 
+treatment.60 A randomized, masked, placebo-control clinical trial is still needed to further 
+investigate the treatments safety and efficacy compared to other blepharitis treatments.
+TearCare® System—The TearCare® System (Sight Sciences, Menlo Park, CA) is an in￾office treatment slated to become available in 2019, which aims to combine the therapeutic 
+effect of warm compress therapy with manual meibomian gland evacuation to treat MGD. 
+The procedure involves placement of single-use, flexible iLid™ published clinical trial 
+applicators over each tarsal plate which deliver constant, regulated heat at 41°C–45°C over a 
+12 minute treatment time, during which the patient is encouraged to blink normally to allow 
+natural meibum expression (Figure 4). This is then followed by manual meibum expression 
+by the physician immediately following removal of the iLid applicators.61 The 
+manufacturer-sponsored, sole published clinical trial of the TearCare® System, in which 24 
+patients were randomized to receive a single treatment session with the TearCare® System 
+followed by meibomian gland expression or daily warm compresses for five minutes over 
+four weeks. At the four-week follow-up visit, mean TBUT increased by 11.7 +/− 2.6 
+seconds in the TearCare group as opposed to a decrease of 0.3+/− 1.1 seconds in the warm 
+compress group (p<0.001) with statistically significant results maintained over the six month 
+follow-up period. TearCare® group patients also experienced statistically significant 
+improvement in corneal and conjunctival staining as well as subjective symptoms as 
+measured by the SPEED, OSDI, and SANDE questionnaires over the entire six-month 
+follow-up period.61 The treatment was well tolerated and no adverse events were reported 
+during the trial. Larger, randomized, masked, placebo-control clinical trials need to be 
+conducted in the future to further evaluate the efficacy and safety of the TearCare® System. 
+Data on patient comfort, treatment cost, duration of effect, and reliability of the heating of 
+lids to the required 40°C temperature all remain to be published.
+Devices
+There are a variety of device options for the treatment of dry eye, each with unique 
+indications. For example, lacrimal intranasal neurostimulation may be most useful in 
+patients with aqueous tear deficiency whereas scleral lenses are of particular benefit in 
+patients with an irregular corneal surface, neurotrophic disease, or graft-versus-host disease. 
+These should be considered on an individualized basis for patients unresponsive to 
+alternative therapeutic options.
+Intranasal tear neurostimulation (TrueTear®)—A new device that was FDA￾approved for the treatment of DED is the Intranasal Tear Neurostimulator (ITN, TrueTear®, 
+O’Neil et al. Page 8
+Curr Opin Ophthalmol. Author manuscript; available in PMC 2020 May 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Allergan, plc) (Figure 5). The ITN was designed to stimulate the mucosal nerves via small 
+electrical currents to increase natural tear production via the nasolacrimal reflex pathway of 
+the lacrimal function unit. Briefly, the lacrimal function unit includes the lacrimal glands and 
+the ocular surface, including the conjunctiva, cornea, and goblet cells, as well as the sensory 
+and motor nerves that connect these structures to maintain tear production and quality. The 
+afferent pathway of this system includes the ophthalmic and maxillary branches of the 
+trigeminal nerve, with abundant nerve fiber endings in the nasal mucosa.62 Stimulation of 
+these nerve fibers has been shown to increase tear production. Conversely, lack of 
+stimulation of these nasal mucosal fibers of the trigeminal nerve, for instance in patients 
+with trigeminal nerve ablation, reduced air flow due to allergy, or with tracheostomy, has 
+been shown to result in decreased tear production.63 The device consists of two small 
+probes, designed for one to be placed in each nostril, with five levels of stimulation intensity 
+to be selected by the user.
+In 2016, Friedman et al. published the results of a pilot study sponsored by Allergan-owned 
+Oculeve of 40 subjects who were instructed to use the ITN device four times daily for 180 
+days. They found that mean Schirmer scores were significantly higher following nasal 
+stimulation with the device than prior to stimulation and that corneal, conjunctival staining 
+and ocular symptom scores (as measured by OSDI) were significantly reduced from baseline 
+at day 180.64 Gumus et al. demonstrated that a single intranasal application of the ITN 
+device increased tear meniscus height (measured via AS-OCT) by 28.8% in dry eye patients.
+65 Degranulated to non-degranulated goblet cell density (GCD) ratios in dry eye patients 
+increased to 4.71±4.48 when compared to baseline (0.74±0.62) and to extranasal 
+(0.57±0.54) application (p-values <0.001).65 In 2018, Sheppard et al. published results of 
+two clinical trials of the ITN, both sponsored by Allergan; In the first, a single-day crossover 
+study, patients underwent Schirmer testing before and after three test applications of the 
+device: active intranasal, inactive intranasal (sham), and extranasal. Mean Schirmer scores 
+were significantly greater with active intranasal (25.3 ± 1.5 mm) vs extranasal (9.5 ± 1.2 mm) 
+and sham (9.2 ± 1.1 mm) applications (p <0.001).66 In the second study, patients used the 
+device 2–10 times daily for 180 days. At follow-up, stimulated Schirmer scores were 
+significantly as compared to un-stimulated scores (17.3 ± 1.3 mm vs 7.9 ± 0.7 mm, p<0.0001).66
+The most common side effects of the ITN device include nasal discomfort, burning, and 
+pain, nosebleeds, transient electrical discomfort, nasal congestion, facial pain, and 
+headaches.64–66 The device cannot be used in patients with cardiac pacemakers, implanted 
+or wearable defibrillator, or other implanted metallic or electronic deice in the head or neck, 
+a hypersensitivity to the hydrogel that coats the device probes, or chronic nosebleeds or 
+other conditions that can cause increased bleeding. The cost of the device can also be 
+limiting, as the device is roughly $1000 and a month supply of disposable tips is 
+approximately $50, neither of which are covered by most insurance plans.
+Scleral Lenses—Scleral lenses were previously used primarily for the treatment of 
+corneal ectasias but more recently have been studied for use in ocular surface disorders. 
+These lenses rest on the sclera, creating with a fluid-filled reservoir over the more sensitive 
+cornea. There are several scleral lenses that are currently available that can be helpful in 
+treating dry eye.
+O’Neil et al. Page 9
+Curr Opin Ophthalmol. Author manuscript; available in PMC 2020 May 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Perhaps the most well known scleral lens used to treat ocular surface disease is the 
+BostonSight® PROSE (Prosthetic Replacement of the Ocular Surface Ecosystem) lens 
+(Boston Foundation for Sight, Needham, MA). The PROSE lens is custom designed using 
+patient eye measurements so that the lens is not touching the apical or peripheral cornea but 
+still maintaining minimal movement and optimizing fluid ventilation. An early retrospective 
+review of 49 consecutive patients (76 eyes) with ocular surface disease treated with this lens 
+found a 92% improvement in quality of life as a result of reduction in photophobia and pain. 
+53% of patients in this study achieved 2 or more Snellen lines of improvement in visual 
+acuity.67 Agranat et al. reported long-term follow-up data and found that 64% of patients 
+using PROSE for ocular surface disease reported continued wear at five years. In patients 
+with OSD and continued wear at give years, National Eye Institute Visual Function 
+Questionnaire (NEI VFQ-25) scores increased initially and after five years of wear (mean 
+increase +27.17 and +18.80, respectively).68 A number of other retrospective studies have 
+further demonstrated the ability of PROSE to significantly improve dry eye signs and 
+symptoms in OSD, including various cases that result from Stevens Johnson Sydrome, 
+chronic GVHD, and even neurotrophic keratopathy following skull base tumor resection.
+69–75 In a prospective, interventional case series of 38 patients with ocular surface disease, 
+Stason et al. reported that PROSE significantly improved visual acuity and visual 
+functioning, according to the NEI VFQ-25.76
+However, one major limitation to the use of scleral lenses for dry eye disease is the lengthy 
+and costly fitting process that may not be covered by insurance. In addition, there are 
+currently only 12 eye care institutions that offer PROSE treatment, which can further limit 
+accessibility to patients due to proximity or the cost of travel. In light of these limitations, 
+the Boston Foundation for Sight launched a new scleral lens fitting system in January 2017 
+called BostonSight® SCLERAL. This web-based, data-driven fitting system allows patients 
+to be fitted with far fewer modifications and by their regular, local eye care practitioner, thus 
+providing a less costly and more convenient alternative to the PROSE system, though less 
+customized.
+Another option for scleral lenses became available in 2013 to patients with unique anterior 
+ocular surface anatomy in whom standard scleral lens fitting is unsuccessful. The 
+EyePrintPro™ lens uses an imprint of the ocular surface and converts it into a 3D digital 
+model, which is then printed as a lens.77 The resulting lens offers central and peripheral 
+corneal clearance while landing tangential to the scleral surface while avoiding vasculature, 
+even in the setting of abnormalities such as blebs, pterygia, pingueculae, and mucosal grafts. 
+Nguyen et al. published a small retrospective review of 14 eyes of 10 patients fitted with 
+EyePrint Prosthetics lenses and reported that all patients experienced improvement in dry 
+eye symptoms redness, and pain. Six out of seven patients who previously wore other lenses 
+reported significantly greater comfort with the EyePrintPro™ lens.77 However, this was a 
+single small study and further larger studies are needed that include the assessment of ocular 
+signs before and after use of lens. In addition, the cost of the lens may be prohibitively 
+expensive for some patients.
+Amniotic Membrane—Amniotic membranes have been used for the treatment of various 
+ocular surface disorders, including limbal stem cell deficiency, infectious keratitis, corneal 
+O’Neil et al. Page 10
+Curr Opin Ophthalmol. Author manuscript; available in PMC 2020 May 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+burns, persistent epithelial defects, and conjunctival reconstruction after symblepharon 
+removal. Not only do they provide coverage of the epithelium to allow healing, but also 
+impart anti-inflammatory properties. There are currently two commercially available 
+varieties, either cryopreserved at −80°C, such as the ProKera™ (Bio-Tissue, Inc, Miami, 
+FL), or sterilized dehydrated and stored at room temperature, such as the AmbioDisk™ 
+(Katena Products, Inc, Denville, NJ).
+ProKera™ is available as a device that can be placed on a patient’s eye in the office and has 
+a ring that holds the amniotic membrane transplant (AMT) in place. The original ProKera™ 
+is indicated for moderate to severe indications, including neurotrophic PED, severe 
+infectious keratitis, post-PRK haze, and Salzmann nodular degeneration; however, Bio-tissue 
+recently started offering the ProKera™ SLIM and ProKera™ PLUS. The ProKera™ SLIM 
+is indicated for mild to moderate conditions, while the ProKera™ PLUS is recommended for 
+severe indications that require longer treatment.
+In 2016, Cheng et al. published a small retrospective review of 10 patients with dry eye 
+disease treated with the ProKera™ Slim amniotic membrane. The patients achieved a 
+statistically significant decrease in symptoms, use of topical medications, corneal staining, 
+and conjunctival hyperemia.78 More recently, McDonald et al. reported on 97 eyes of 84 
+patients with severe dry eye disease despite maximum conventional therapies that underwent 
+treatment with the ProKera™ Slim. Following treatment duration of 5.4 days, 88% had 
+improved ocular surface. DEWS scores decreased from 3.25±0.5 at baseline to 1.44±0.6 at 1 
+week (p<0.001) with sustained result of 1.47±0.6 at 3 months (p<0.001) without any serious 
+adverse events.79 With promising early results as above, further study is warranted to 
+determine the duration of effect from membrane placement as well as comparison of the two 
+currently available products.
+Pipeline
+Despite the considerable number of treatment options for dry eye disease, many patients fail 
+to improve sufficiently with currently available treatments. Thus, the development of 
+additional therapeutics is critical. We will briefly cover a few medications that have 
+demonstrated promise in early clinical trials and could potentially be added to dry eye 
+treatment regimens in the future.
+Lacritin—Lacritin is an ocular specific glycoprotein secreted primarily by acinar cells of 
+the lacrimal gland. Its primary role seems to be increasing basal tear secretion.80,81 Studies 
+have shown that lacritin levels are significantly decreased in patients with Sjogren’s 
+syndrome as compared to healthy controls.81 In a murine model of SS dry eye disease, 
+topical lacritin has been found to increase tear secretion, decrease lissamine green staining, 
+and reduce signs of epithelial damage.80 Phase I/II clinical trials of lacritin in patients with 
+Primary Sjogren’s disease are currently underway with estimated completion date of 2019.
+Lubricin—Lubricin (PRG4) is a mucin-like glycoprotein that is expressed by the normal 
+ocular surface and suppressed by inflammatory cytokines, including those implicated in dry 
+eye disease. Lubricin’s function is to decrease friction between the cornea and the 
+conjunctiva and eyelid and it likely comprises an essential part of the ocular surface 
+O’Neil et al. Page 11
+Curr Opin Ophthalmol. Author manuscript; available in PMC 2020 May 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+glycocalyx, preventing epithelial dysfunction and degradation.82,83 In 2017, Lambiase et al 
+reported results of a two-week randomized, double blinded study comparing topical lubricin 
+to topical sodium hyaluronate 0.18% in patients with moderate dry eye disease. Lubricin 
+significantly outperformed sodium hyaluronate in ameliorating both signs and symptoms 
+including foreign body sensation, blurry vision, photophobia, corneal staining, and tear film 
+breakup time among others.83
+Thymosin ß4—Thymosin ß4 is a G-actin binding protein found in nearly all cells and in 
+ocular surface fluid, which has been found to improve epithelial healing and down-regulate 
+pro-inflammatory cytokines84,85. Early studies demonstrated its efficacy in neurotrophic 
+keratitis and corneal wound healing.84,86,87 In 2015, Sosne et al. first reported the use of 
+topical thymosin beta4 (RGN-259) for the treatment of dry eye disease. In this phase 2, 
+randomized, blinded, placebo-controlled trial, patients treated with RGN-259 for 28 days 
+reported a 35.1% improvement in OSDI scores vs controls (p=0.0141) and 59.1% reduction 
+in corneal staining as compared to controls (p=0.0108), though both groups did experience 
+improvement.84 This study was followed in 2018 by a head-to-head comparison of 
+RGN-259 vs. prescription agents including cyclosporine, lifitegrast, and diquafosol in a 
+murine model. RGN-259 drops performed comparably or better than all prescription options 
+in all parameters measured, which included increased tear production, improved corneal 
+smoothness, decreased fluorescein staining, decreased epithelial detachment, and increased 
+conjunctival goblet cell and mucin production.88
+Amniotic membrane extract eye drops—Much like cryopreserved amniotic 
+membrane, amniotic membrane extract eye drops (AMEED) are proposed to impart a 
+myriad of beneficial substances including growth factors, cytokines, and collagens to 
+promote corneal wound healing, inhibit fibroblast activity, and decrease inflammation on 
+and within the ocular surface.89 Amniotic membrane extract and AMEED have primarily 
+been studied for use in patients with chemical burns or ocular injury rather than DED 
+specifically. However, a variety of products are available without FDA regulation that are 
+marketed for the treatment of DED and clinical trials are ongoing for use in patients with 
+graft-vs-host disease and post-PRK dry eye.89 These drops are not covered by insurance so 
+cost is expected to be prohibitive in many cases. The widespread use of AMEED may be 
+limited by production, as manufacturing processes remain varied and challenging; 
+processing and preserving may affect ultimate function.89
+New Cyclosporine Formulations—With Restasis® going off-patent, a number of 
+pharmaceutical companies are in the process of developing novel cyclosporine A 
+formulations. Eye drops with a higher concentration of CsA than Restasis® have been 
+approved in Europe, Japan, and other countries.90–93 A Phase III clinical trial is currently 
+underway for a Seciera™ (Sun Pharma, Mumbai, India), which has a CsA concentration 
+almost twice that of Restasis® (0.09% vs. 0.05%). Phase II/III results, reported by Tauber et 
+al. demonstrate an earlier onset of action in the 0.09% formulation compared to 0.05% and 
+similar safety and tolerability profiles.94 Recently, Novaliq (Heidelberg, Germany) published 
+Phase II results for CyclASol® (0.1% CsA in EyeSol®, water-free drug delivery solution) 
+O’Neil et al. Page 12
+Curr Opin Ophthalmol. Author manuscript; available in PMC 2020 May 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+that suggested their formulation has an earlier onset of action than Restasis® and is safe and 
+tolerable.95
+In addition, compounded cyclosporine-based formulations are available for clinical use. For 
+example, Klarity-C (Imprimis Pharmaceuticals, San Diego, California) is 0.1% CsA in a 
+chondroitin sulfate emulsion. Chondroitin sulfate has been shown to be an effective 
+lubricant, have anti-inflammatory properties of its own, and reduce corneal edema.96 
+However, large clinical trials are needed to evaluate the efficacy and safety of Klarity-C.
+Conclusions
+In recent years, there has been an enormous increase in research into new therapeutics for 
+dry eye disease. There has been an increase in the development of therapies that target 
+meibomian gland dysfunction and evaporative dry eye. The most notable shift appears to be 
+a focus on identifying treatments that may reverse the underlying etiology, such as 
+inflammation, rather than simply addressing symptoms by hydrating and lubricating the 
+ocular surface. In particular, we note the use of biologic and biologically derived products 
+such as blood serum and plasma, amniotic membranes and naturally occurring 
+glycoproteins. Scleral lenses, such as the BostonSight SCLERAL lens and the 
+EyePrintPro™ lens, have also emerged as viable treatment options for ocular surface 
+disease. Finally, the introduction of the intranasal neurostimulator represents a new approach 
+to treatment of dry eye and may offer an alternative or supplement to traditional eye drop 
+therapeutics. However, despite the increase in newly available treatments, there is a 
+continued need for novel and effective treatment options. Fortunately, there is increased 
+interest in the development of new therapeutics with several promising drugs currently 
+undergoing clinical trials.
+Acknowledgments
+Financial support and sponsorship:
+VYB: National Eye Institute R01 EY026972; Research to Prevent Blindness
+ECO, MH, MMG: None
+VYB: Celularity (consultant); Bausch & Lomb/Immco Diagnostics (grant support)
+References:
+1. Farrand KF, Fridman M, Stillman IO, Schaumberg DA. Prevalence of Diagnosed Dry Eye Disease 
+in the United States Among Adults Aged 18 Years and Older. Am J Ophthalmol 2017;182:90–98. 
+[PubMed: 28705660] 
+2. Pflugfelder SC. Prevalence, burden, and pharmacoeconomics of dry eye disease. Am J Manag Care. 
+2008;14(3 Suppl):S102–106. [PubMed: 18452369] 
+3. Dalzell MD. Dry eye: prevalence, utilization, and economic implications. Manag Care. 2003;12(12 
+Suppl):9–13.
+4. Patel VD, Watanabe JH, Strauss JA, Dubey AT. Work productivity loss in patients with dry eye 
+disease: an online survey. Curr Med Res Opin 2011;27(5):1041–1048. [PubMed: 21417803] 
+5. Yu J, Asche CV, Fairchild CJ. The economic burden of dry eye disease in the United States: a 
+decision tree analysis. Cornea 2011;30(4):379–387. [PubMed: 21045640] 
+O’Neil et al. Page 13
+Curr Opin Ophthalmol. Author manuscript; available in PMC 2020 May 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+6. Amparo F, Schaumberg DA, Dana R. Comparison of Two Questionnaires for Dry Eye Symptom 
+Assessment: The Ocular Surface Disease Index and the Symptom Assessment in Dry Eye. 
+Ophthalmology 2015;122(7):1498–503. [PubMed: 25863420] 
+7. Thode AR, Latkany RA. Current and Emerging Therapeutic Strategies for the Treatment of 
+Meibomian Gland Dysfunction (MGD). Drugs. 2015;75(11):1177–1185. [PubMed: 26130187] 
+8. Deveney T, Asbell PA. Patient and physician perspectives on the use of cyclosporine ophthalmic 
+emulsion 0.05% for the management of chronic dry eye. Clin Ophthalmol 2018;12:569–576. 
+[PubMed: 29615833] 
+9. Sacchetti M, Mantelli F, Lambiase A, Mastropasqua A, Merlo D, Bonini S. Systematic review of 
+randomised clinical trials on topical ciclosporin A for the treatment of dry eye disease. Br J 
+Ophthalmol 2014;98(8):1016–1022. [PubMed: 24344232] 
+* 10. Rhee MK, Mah FS. Clinical utility of cyclosporine (CsA) ophthalmic emulsion 0.05% for 
+symptomatic relief in people with chronic dry eye: a review of the literature. Clin Ophthalmol 
+2017;11:1157–1166. [PubMed: 28790800] This review of literature summarizes conflicting 
+results regarding the efficacy of cyclosporine, particularly highlighting the challenges associated 
+with correlating clinical signs with reported symptoms.
+11. Allergan I. Restasis (cyclosporine ophthalmic emulsion) 0.05% full prescribing information. In:
+2018.
+12. Barber LD, Pflugfelder SC, Tauber J, Foulks GN. Phase III safety evaluation of cyclosporine 0.1% 
+ophthalmic emulsion administered twice daily to dry eye disease patients for up to 3 years. 
+Ophthalmology. 2005;112(10):1790–1794. [PubMed: 16102833] 
+13. Mah F, Milner M, Yiu S, Donnenfeld E, Conway TM, Hollander DA. PERSIST: Physician’s 
+Evaluation of Restasis((R)) Satisfaction in Second Trial of topical cyclosporine ophthalmic 
+emulsion 0.05% for dry eye: a retrospective review. Clin Ophthalmol 2012;6:1971–1976. 
+[PubMed: 23226002] 
+14. Perry HD, Solomon R, Donnenfeld ED, et al. Evaluation of topical cyclosporine for the treatment 
+of dry eye disease. Arch Ophthalmol 2008;126(8):1046–1050. [PubMed: 18695097] 
+* 15. Newman-Casey PA, Woodward MA, Niziol LM, Lee PP, De Lott LB. Brand Medications and 
+Medicare Part D: How Eye Care Providers’ Prescribing Patterns Influence Costs. Ophthalmology. 
+2018;125(3):332–339. [PubMed: 28625684] Cross-sectional study of Medicare Part D 2013 
+prescriber public use files, reporting that eye care providers generate the highest percentage of 
+brand name medication claims compared to all other specialties. Glaucoma medications account 
+for 54% of total cost, the largest subspeciality. Dry eye disease is the second costliest category, 
+driven primarily by cyclosporine, which accounts for $371 million, or 17% of total cost among 
+eye care providers.
+* 16. Lollett IV, Galor A. Dry eye syndrome: developments and lifitegrast in perspective. Clin 
+Ophthalmol 2018;12:125–139. [PubMed: 29391773] In this review article, the authors highlight 
+the inflammatory cascades that contribute to dry eye disease while reviewing available treatments 
+that target inflammation specifically: corticosteroids, cyclosporine, and lifitegrast.
+** 17. Donnenfeld ED, Perry HD, Nattis AS, Rosenberg ED. Lifitegrast for the treatment of dry eye 
+disease in adults. Expert Opin Pharmacother. 2017;18(14):1517–1524. [PubMed: 28841079] A 
+review of the mechanism of action and pharmacokinetics of lifitegrast along with a summary of 
+major clinical trials that led to FDA approval.
+18. Sall K, Stevenson OD, Mundorf TK, Reis BL. Two multicenter, randomized studies of the efficacy 
+and safety of cyclosporine ophthalmic emulsion in moderate to severe dry eye disease. CsA Phase 
+3 Study Group. Ophthalmology. 2000;107(4):631–639. [PubMed: 10768324] 
+19. Stevenson D, Tauber J, Reis BL. Efficacy and safety of cyclosporin A ophthalmic emulsion in the 
+treatment of moderate-to-severe dry eye disease: a dose-ranging, randomized trial. The 
+Cyclosporin A Phase 2 Study Group. Ophthalmology. 2000;107(5):967–974. [PubMed: 10811092] 
+20. Donnenfeld ED, Karpecki PM, Majmudar PA, et al. Safety of Lifitegrast Ophthalmic Solution 
+5.0% in Patients With Dry Eye Disease: A 1-Year, Multicenter, Randomized, Placebo-Controlled 
+Study. Cornea 2016;35(6):741–748. [PubMed: 27055211] 
+* 21. Holland EJ, Luchs J, Karpecki PM, et al. Lifitegrast for the Treatment of Dry Eye Disease: 
+Results of a Phase III, Randomized, Double-Masked, Placebo-Controlled Trial (OPUS-3). 
+Ophthalmology. 2017;124(1):53–60. [PubMed: 28079022] This phase III trail demonstrated 
+O’Neil et al. Page 14
+Curr Opin Ophthalmol. Author manuscript; available in PMC 2020 May 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+significant symptomatic relief of dry eye disease in patients treated with lifitegrast as compared 
+to placebo, as early as 14 days into treatment and sustained at 12 weeks.
+22. Sheppard JD, Donnenfeld ED, Holland EJ, et al. Effect of loteprednol etabonate 0.5% on initiation 
+of dry eye treatment with topical cyclosporine 0.05%. Eye Contact Lens 2014;40(5):289–296. 
+[PubMed: 25083776] 
+23. Drew VJ, Tseng CL, Seghatchian J, Burnouf T. Reflections on Dry Eye Syndrome Treatment: 
+Therapeutic Role of Blood Products. Front Med (Lausanne). 2018;5:33. [PubMed: 29527528] 
+* 24. Anitua E, Muruzabal F, Tayebba A, et al. Autologous serum and plasma rich in growth factors in 
+ophthalmology: preclinical and clinical studies. Acta Ophthalmol 2015;93(8):e605–614. 
+[PubMed: 25832910] Review of factors within serum associated with wound healing and a 
+summary of early data regarding the efficacy of serum derived medications in the treatment of 
+ocular surface disease.
+25. Celebi AR, Ulusoy C, Mirza GE. The efficacy of autologous serum eye drops for severe dry eye 
+syndrome: a randomized double-blind crossover study. Graefes Arch Clin Exp Ophthalmol 
+2014;252(4):619–626. [PubMed: 24566903] 
+26. Hussain M, Shtein RM, Sugar A, et al. Long-term use of autologous serum 50% eye drops for the 
+treatment of dry eye disease. Cornea 2014;33(12):1245–1251. [PubMed: 25299423] 
+27. Kojima T, Ishida R, Dogru M, et al. The effect of autologous serum eyedrops in the treatment of 
+severe dry eye disease: a prospective randomized case-control study. Am J Ophthalmol 
+2005;139(2):242–246. [PubMed: 15733983] 
+28. Noble BA, Loh RS, MacLennan S, et al. Comparison of autologous serum eye drops with 
+conventional therapy in a randomised controlled crossover trial for ocular surface disease. Br J 
+Ophthalmol 2004;88(5):647–652. [PubMed: 15090417] 
+** 29. Alio JL, Rodriguez AE, Ferreira-Oliveira R, Wrobel-Dudzinska D, Abdelghany AA. Treatment 
+of Dry Eye Disease with Autologous Platelet-Rich Plasma: A Prospective, Interventional, Non￾Randomized Study. Ophthalmol Ther 2017;6(2):285–293. [PubMed: 28791607] Large 
+consecutive case series of 368 patients with moderate to severe dry eye disease treated with 
+autologous platelet-rich plasma drops as monotherapy. The majority of patients experienced 
+improvement in dry eye symptoms and corneal flourescein staining with significant improvement 
+in both OSDI and corneal fluorescein staining.
+30. Partal A, Scott E. Low-cost protocol for the production of autologous serum eye drops by blood 
+collection and processing centres for the treatment of ocular surface diseases. Transfus Med 
+2011;21(4):271–277. [PubMed: 21371142] 
+* 31. Toyos R, McGill W, Briscoe D. Intense pulsed light treatment for dry eye disease due to 
+meibomian gland dysfunction; a 3-year retrospective study. Photomed Laser Surg 2015;33(1):41–
+46. [PubMed: 25594770] Described the technique for IPL application with gland expression for 
+treatment of dry eye disease secondary to meibomian gland dysfunction. Retrospective study of 
+91 patients found that the majority experienced satisfaction and majority had improved tear 
+breakup time as judged by physician
+32. Toyos R, Buffa C, Youngerman S. Dry-eye symptoms improve with intense pulsed light treatment. 
+In. EyeWorld News Magazine2005.
+33. Gupta PK, Vora GK, Matossian C, Kim M, Stinnett S. Outcomes of intense pulsed light therapy for 
+treatment of evaporative dry eye disease. Can J Ophthalmol 2016;51(4):249–253. [PubMed: 
+27521662] 
+34. Vegunta S, Patel D, Shen JF. Combination Therapy of Intense Pulsed Light Therapy and 
+Meibomian Gland Expression (IPL/MGX) Can Improve Dry Eye Symptoms and Meibomian 
+Gland Function in Patients With Refractory Dry Eye: A Retrospective Analysis. Cornea 
+2016;35(3):318–322. [PubMed: 26785301] 
+35. Craig JP, Chen YH, Turnbull PR. Prospective trial of intense pulsed light for the treatment of 
+meibomian gland dysfunction. Invest Ophthalmol Vis Sci 2015;56(3):1965–1970. [PubMed: 
+25678687] 
+* 36. Dell SJ, Gaster RN, Barbarino SC, Cunningham DN. Prospective evaluation of intense pulsed 
+light and meibomian gland expression efficacy on relieving signs and symptoms of dry eye 
+disease due to meibomian gland dysfunction. Clin Ophthalmol 2017;11:817–827. [PubMed: 
+28496300] Prospective study of patients who underewent four sequential sessions of IPL/MGX 
+O’Neil et al. Page 15
+Curr Opin Ophthalmol. Author manuscript; available in PMC 2020 May 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+which demonstrated signficant improvement in tear film breakup time, SPEED scores, 
+meibomian gland scores, and corneal fluorescein staining scores as well as tear film osmolarity.
+37. Fitzpatrick TB. The validity and practicality of sun-reactive skin types I through VI. Arch 
+Dermatol 1988;124(6):869–871. [PubMed: 3377516] 
+38. Vora GK, Gupta PK. Intense pulsed light therapy for the treatment of evaporative dry eye disease. 
+Curr Opin Ophthalmol 2015;26(4):314–318. [PubMed: 26058031] 
+39. Lane SS, DuBiner HB, Epstein RJ, et al. A new system, the LipiFlow, for the treatment of 
+meibomian gland dysfunction. Cornea 2012;31(4):396–404. [PubMed: 22222996] 
+40. Finis D, Hayajneh J, Konig C, Borrelli M, Schrader S, Geerling G. Evaluation of an automated 
+thermodynamic treatment (LipiFlow(R)) system for meibomian gland dysfunction: a prospective, 
+randomized, observer-masked trial. Ocul Surf 2014;12(2):146–154. [PubMed: 24725326] 
+41. Finis D, Konig C, Hayajneh J, Borrelli M, Schrader S, Geerling G. Six-month effects of a 
+thermodynamic treatment for MGD and implications of meibomian gland atrophy. Cornea 
+2014;33(12):1265–1270. [PubMed: 25321941] 
+42. Greiner JV. A single LipiFlow(R) Thermal Pulsation System treatment improves meibomian gland 
+function and reduces dry eye symptoms for 9 months. Curr Eye Res 2012;37(4):272–278. 
+[PubMed: 22324772] 
+* 43. Greiner JV. Long-Term (3 Year) Effects of a Single Thermal Pulsation System Treatment on 
+Meibomian Gland Function and Dry Eye Symptoms. Eye Contact Lens 2016;42(2):99–107. 
+[PubMed: 26222095] Prospective cohort study reporting outcomes over three years following a 
+single thermal pulsation system treatment. Significant improvements in meibomian gland 
+secretion scores and SPEED scores were sustained over this long-term follow-up period
+44. Kim MJ, Stinnett SS, Gupta PK. Effect of thermal pulsation treatment on tear film parameters in 
+dry eye disease patients. Clin Ophthalmol 2017;11:883–886. [PubMed: 28533678] 
+** 45. Hagen KB, Bedi R, Blackie CA, Christenson-Akagi KJ. Comparison of a single-dose vectored 
+thermal pulsation procedure with a 3-month course of daily oral doxycycline for moderate-to￾severe meibomian gland dysfunction. Clin Ophthalmol 2018;12:161–168. [PubMed: 29398903] 
+Prospective, randomized parallel-group study of patients receiving either a single VTP treatment 
+or three months of oral doxycycline for treatment of severe MGD. VTP was significantly more 
+effective in improving dry eye symptoms and at least as effective at improving signs of MGD 
+while avoiding side effects of long term doxycycline use
+** 46. Blackie CA, Coleman CA, Holland EJ. The sustained effect (12 months) of a single-dose 
+vectored thermal pulsation procedure for meibomian gland dysfunction and evaporative dry eye. 
+Clin Ophthalmol 2016;10:1385–1396. [PubMed: 27555745] Prospective, cross-over study 
+demonstrating that a single VTP treatment may provide significantly greater improvement in 
+meibomian gland function and dry eye symptoms as compared to conventional treatments
+47. Maskin SL. Intraductal meibomian gland probing relieves symptoms of obstructive meibomian 
+gland dysfunction. Cornea 2010;29(10):1145–1152. [PubMed: 20622668] 
+48. Maskin SL, Testa WR. Growth of meibomian gland tissue after intraductal meibomian gland 
+probing in patients with obstructive meibomian gland dysfunction. Br J Ophthalmol 2018;102(1):
+59–68. [PubMed: 28592418] 
+49. Incekalan TK, Harbiyeli II, Yagmur M, Erdem E. Effectiveness of Intraductal Meibomian Gland 
+Probing in Addition to the Conventional Treatment in Patients with Obstructive Meibomian Gland 
+Dysfunction. Ocul Immunol Inflamm 2018:1–7.
+50. Fermon S, Zaga IH, Alvarez Melloni D. [Intraductal meibomian gland probing for the treatment of 
+blepharitis]. Arch Soc Esp Oftalmol 2015;90(2):76–80. [PubMed: 25001110] 
+51. Ma X, Lu Y. Efficacy of Intraductal Meibomian Gland Probing on Tear Function in Patients With 
+Obstructive Meibomian Gland Dysfunction. Cornea 2016;35(6):725–730. [PubMed: 26967110] 
+52. Nakayama N, Kawashima M, Kaido M, Arita R, Tsubota K. Analysis of Meibum Before and After 
+Intraductal Meibomian Gland Probing in Eyes With Obstructive Meibomian Gland Dysfunction. 
+Cornea 2015;34(10):1206–1208. [PubMed: 26226474] 
+53. Sik Sarman Z, Cucen B, Yuksel N, Cengiz A, Caglar Y. Effectiveness of Intraductal Meibomian 
+Gland Probing for Obstructive Meibomian Gland Dysfunction. Cornea 2016;35(6):721–724. 
+[PubMed: 27032021] 
+O’Neil et al. Page 16
+Curr Opin Ophthalmol. Author manuscript; available in PMC 2020 May 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+54. Wladis EJ. Intraductal meibomian gland probing in the management of ocular rosacea. Ophthalmic 
+Plast Reconstr Surg 2012;28(6):416–418. [PubMed: 22836802] 
+* 55. Syed ZA, Sutula FC. Dynamic Intraductal Meibomian Probing: A Modified Approach to the 
+Treatment of Obstructive Meibomian Gland Dysfunction. Ophthalmic Plast Reconstr Surg 
+2017;33(4):307–309. [PubMed: 28221295] Description of a novel technique for intraductal 
+meibomian gland probing utilizing an operating microscope and von Grafe fixation forceps to 
+assist in expression of meibum during probing. The authors report 91.4% of patients experience 
+immediate symptomatic improvement in this retrospective study of 70 patients who underwent 
+the procedure
+56. Kislan T. Mibo Medical Group. 2018; http://mibomedicalgroup.com/articles.html. Accessed 
+January 8, 2019.
+57. Kenrick CJ, Alloo SS. The Limitation of Applying Heat to the External Lid Surface: A Case of 
+Recalcitrant Meibomian Gland Dysfunction. Case Rep Ophthalmol 2017;8(1):7–12. [PubMed: 
+28203190] 
+58. Borchman D, Foulks GN, Yappert MC, et al. Human meibum lipid conformation and 
+thermodynamic changes with meibomian-gland dysfunction. Invest Ophthalmol Vis Sci 
+2011;52(6):3805–3817. [PubMed: 21398284] 
+59. Connor CG, Choat C, Narayanan S, Kyser K, Rosenberg B, Mulder D. Clinical Effectiveness of 
+Lid Debridement with BlephEx Treatment. Investigative Ophthalmology & Visual Science. 
+2015;56(7):4440–4440.
+60. Connor CG, Narayanan S, Miller W. Reduction in inflammatory marker matrix 
+metalloproteinase-9 following lid debridement with BlephEx. Investigative Ophthalmology & 
+Visual Science. 2017;58(8):498–498.
+61. Badawi D. A novel system, TearCare((R)), for the treatment of the signs and symptoms of dry eye 
+disease. Clin Ophthalmol 2018;12:683–694. [PubMed: 29692600] 
+** 62. Dieckmann G, Fregni F, Hamrah P. Neurostimulation in dry eye disease-past, present, and 
+future. Ocul Surf 2018.Review of neuromodulatory therapies in ocular and non-ocular diseases 
+that includes description of the lacrimal function unit; also includes review of recent studies on 
+intranasal tear neurostimulation for dry eye disease
+63. Gumus K, Pflugfelder SC. Intranasal Tear Neurostimulation: An Emerging Concept in the 
+Treatment of Dry Eye. Int Ophthalmol Clin 2017;57(2):101–108. [PubMed: 28282317] 
+64. Friedman NJ, Butron K, Robledo N, Loudin J, Baba SN, Chayet A. A nonrandomized, open-label 
+study to evaluate the effect of nasal stimulation on tear production in subjects with dry eye disease. 
+Clin Ophthalmol 2016;10:795–804. [PubMed: 27217719] 
+65. Gumus K, Schuetzle KL, Pflugfelder SC. Randomized Controlled Crossover Trial Comparing the 
+Impact of Sham or Intranasal Tear Neurostimulation on Conjunctival Goblet Cell Degranulation. 
+Am J Ophthalmol 2017;177:159–168. [PubMed: 28302532] 
+* 66. Sheppard JD, Torkildsen GL, Geffin JA, et al. Characterization of tear production in subjects 
+with dry eye disease during intranasal tear neurostimulation: Results from two pivotal clinical 
+trials. Ocul Surf 2018.Report of 1-day crossover and 180 day prospective cohort studies of 
+intranasal tear neurostimulation demonstrating significantly higher Schirmer scores both 
+immediately following a single use and after 180 days of consistent use of the device.
+67. Romero-Rangel T, Stavrou P, Cotter J, Rosenthal P, Baltatzis S, Foster CS. Gas-permeable scleral 
+contact lens therapy in ocular surface disease. Am J Ophthalmol 2000;130(1):25–32. [PubMed: 
+11004256] 
+68. Agranat JS, Kitos NR, Jacobs DS. Prosthetic replacement of the ocular surface ecosystem: impact 
+at 5 years. Br J Ophthalmol 2016;100(9):1171–1175. [PubMed: 26644423] 
+69. Cressey A, Jacobs DS, Remington C, Carrasquillo KG. Improvement of chronic corneal opacity in 
+ocular surface disease with prosthetic replacement of the ocular surface ecosystem (PROSE) 
+treatment. Am J Ophthalmol Case Rep 2018;10:108–113. [PubMed: 29552666] 
+70. Dimit R, Gire A, Pflugfelder SC, Bergmanson JP. Patient ocular conditions and clinical outcomes 
+using a PROSE scleral device. Cont Lens Anterior Eye. 2013;36(4):159–163. [PubMed: 
+23499361] 
+O’Neil et al. Page 17
+Curr Opin Ophthalmol. Author manuscript; available in PMC 2020 May 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+71. Lim P, Ridges R, Jacobs DS, Rosenthal P. Treatment of persistent corneal epithelial defect with 
+overnight wear of a prosthetic device for the ocular surface. Am J Ophthalmol 2013;156(6):1095–
+1101. [PubMed: 24075432] 
+72. Theophanous C, Irvine JA, Parker P, Chiu GB. Use of Prosthetic Replacement of the Ocular 
+Surface Ecosystem Scleral Lenses in Patients with Ocular Chronic Graft-versus-Host Disease. Biol 
+Blood Marrow Transplant. 2015;21(12):2180–2184. [PubMed: 26234721] 
+* 73. DeLoss KS, Le HG, Gire A, Chiu GB, Jacobs DS, Carrasquillo KG. PROSE Treatment for 
+Ocular Chronic Graft-Versus-Host Disease as a Clinical Network Expands. Eye Contact Lens 
+2016;42(4):262–266. [PubMed: 26448446] Report of a large cohort of patients treated with 
+PROSE for ocular cGVHD, demonstraing significant improvemetn in NEI VFQ scores following 
+treatment
+74. Kloek CE, Jeng-Miller KW, Jacobs DS, Dunn IF. Prosthetic Replacement of the Ocular Surface 
+Ecosystem Treatment of Ocular Surface Disease After Skull Base Tumor Resection. World 
+NeuroSurg 2018;110:e124–e128. [PubMed: 29107724] 
+* 75. Papakostas TD, Le HG, Chodosh J, Jacobs DS. Prosthetic replacement of the ocular surface 
+ecosystem as treatment for ocular surface disease in patients with a history of Stevens-Johnson 
+syndrome/toxic epidermal necrolysis. Ophthalmology. 2015;122(2):248–253. [PubMed: 
+25282251] Median visual acuity and visual function of patients treated with PROSE for ocular 
+surface disease due to SJS/TEN both improved significantly in this large cohort of 86 patients
+76. Stason WB, Razavi M, Jacobs DS, et al. Clinical benefits of the Boston Ocular Surface Prosthesis. 
+Am J Ophthalmol 2010;149(1):54–61. [PubMed: 19878920] 
+* 77. Nguyen MTB, Thakrar V, Chan CC. EyePrintPRO therapeutic scleral contact lens: indications 
+and outcomes. Can J Ophthalmol 2018;53(1):66–70. [PubMed: 29426444] 
+* 78. Cheng AM, Zhao D, Chen R, et al. Accelerated Restoration of Ocular Surface Health in Dry Eye 
+Disease by Self-Retained Cryopreserved Amniotic Membrane. Ocul Surf 2016;14(1):56–63. 
+[PubMed: 26387870] 
+* 79. McDonald MB, Sheha H, Tighe S, et al. Treatment outcomes in the DRy Eye Amniotic 
+Membrane (DREAM) study. Clin Ophthalmol 2018;12:677–681. [PubMed: 29670328] 
+Cryopreserved amniotic membrane treatment for 5 days improved the ocular surface and overall 
+DEWS score for 88% of patients with with severe, refractory dry eye disease
+80. Vijmasi T, Chen FY, Balasubbu S, et al. Topical administration of lacritin is a novel therapy for 
+aqueous-deficient dry eye disease. Invest Ophthalmol Vis Sci 2014;55(8):5401–5409. [PubMed: 
+25034600] 
+81. McNamara NA, Ge S, Lee SM, et al. Reduced Levels of Tear Lacritin Are Associated With 
+Corneal Neuropathy in Patients With the Ocular Component of Sjogren’s Syndrome. Invest 
+Ophthalmol Vis Sci 2016;57(13):5237–5243. [PubMed: 27711909] 
+82. Schmidt TA, Sullivan DA, Knop E, et al. Transcription, translation, and function of lubricin, a 
+boundary lubricant, at the ocular surface. JAMA Ophthalmol 2013;131(6):766–776. [PubMed: 
+23599181] 
+* 83. Lambiase A, Sullivan BD, Schmidt TA, et al. A Two-Week, Randomized, Double-masked Study 
+to Evaluate Safety and Efficacy of Lubricin (150 mug/mL) Eye Drops Versus Sodium 
+Hyaluronate (HA) 0.18% Eye Drops (Vismed(R)) in Patients with Moderate Dry Eye Disease. 
+Ocul Surf 2017;15(1):77–87. [PubMed: 27614318] This trial compared outcomes following two 
+weeks of Lubricin use as compared to sodium hyaluronate and found that Lubricin significantly 
+outperformed HA across multiple endpoints for both ocular symptoms and signs of disease
+84. Sosne G, Dunn SP, Kim C. Thymosin beta4 significantly improves signs and symptoms of severe 
+dry eye in a phase 2 randomized trial. Cornea 2015;34(5):491–496. [PubMed: 25826322] 
+* 85. Sosne G, Kleinman HK. Primary Mechanisms of Thymosin β4 Repair Activity in Dry Eye 
+Disorders and Other Tissue Injuries. Investigative Ophthalmology & Visual Science. 2015;56(9):
+5110–5117. [PubMed: 26241398] Comprehensive review of the mechanism of action of 
+Thymosin β4 in treating ocular surface disease, as well as preclinical and early clinical trial 
+results.
+* 86. Dunn SP, Heidemann DG, Chow CY, et al. Treatment of chronic nonhealing neurotrophic corneal 
+epithelial defects with thymosin beta 4. Arch Ophthalmol 2010;128(5):636–638. [PubMed: 
+20457990] 
+O’Neil et al. Page 18
+Curr Opin Ophthalmol. Author manuscript; available in PMC 2020 May 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+87. Sosne G, Szliter EA, Barrett R, Kernacki KA, Kleinman H, Hazlett LD. Thymosin beta 4 promotes 
+corneal wound healing and decreases inflammation in vivo following alkali injury. Exp Eye Res 
+2002;74(2):293–299. [PubMed: 11950239] 
+88. Kim CE, Kleinman HK, Sosne G, et al. RGN-259 (thymosin beta4) improves clinically important 
+dry eye efficacies in comparison with prescription drugs in a dry eye model. Sci Rep 2018;8(1):
+10500. [PubMed: 30002412] 
+* 89. Murri MS, Moshirfar M, Birdsong OC, Ronquillo YC, Ding Y, Hoopes PC. Amniotic membrane 
+extract and eye drops: a review of literature and clinical application. Clin Ophthalmol 
+2018;12:1105–1112. [PubMed: 29950805] Comprehensive review of the production, clinical 
+applications, ongoing studies, benefits and challenges of amniotic membrane extract eye drops.
+90. Baudouin C, Figueiredo FC, Messmer EM, et al. A randomized study of the efficacy and safety of 
+0.1% cyclosporine A cationic emulsion in treatment of moderate to severe dry eye. Eur J 
+Ophthalmol 2017;27(5):520–530. [PubMed: 28362054] 
+91. Ebihara N, Ohashi Y, Uchio E, et al. A large prospective observational study of novel cyclosporine 
+0.1% aqueous ophthalmic solution in the treatment of severe allergic conjunctivitis. J Ocul 
+Pharmacol Ther 2009;25(4):365–372. [PubMed: 19441889] 
+92. Leonardi A, Van Setten G, Amrane M, et al. Efficacy and safety of 0.1% cyclosporine A cationic 
+emulsion in the treatment of severe dry eye disease: a multicenter randomized trial. Eur J 
+Ophthalmol 2016;26(4):287–296. [PubMed: 27055414] 
+93. Quintana-Hau JD, Garcia-Gallegos VM, López-Sánchez I, Mondragón-Flores R, Hernández￾Santoyo A, Cuevas-Pacheco G. Ultra Structural Characterization of a New Cyclosporin-A 
+Aqueous Solution for Ophthalmic Application (MODUSIK-A OftenoTM). Investigative 
+Ophthalmology & Visual Science. 2003;44(13):3461–3461.
+94. Tauber J, Schechter BA, Bacharach J, et al. A Phase II/III, randomized, double-masked, vehicle￾controlled, dose-ranging study of the safety and efficacy of OTX-101 in the treatment of dry eye 
+disease. Clin Ophthalmol 2018;12:1921–1929. [PubMed: 30323548] 
+95. Torkildsen G, Wirta D, Lonsdale J, et al. A Clinical Phase 2 Study to Assess Safety, Efficacy, and 
+Tolerability of CyclASol® for the Treatment of Dry Eye Disease. 2017.
+96. Lindstrom RL, Kaufman HE, Skelnik DL, et al. Optisol corneal storage medium. Am J Ophthalmol 
+1992;114(3):345–356. [PubMed: 1524127] 
+O’Neil et al. Page 19
+Curr Opin Ophthalmol. Author manuscript; available in PMC 2020 May 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Key Points
+• Recently approved topical lifitegrast shows promise in improving dry eye 
+symptoms at least as well as topical cyclosporine, with a faster timeline for 
+efficacy
+• Blood products and amniotic membranes replace beneficial growth factors 
+and cytokines, speeding corneal healing while decreasing inflammation on the 
+ocular surface
+• A variety of in-office procedures may improve meibomian gland function, 
+primarily by heating and encouraging expression of viscous meibum, though 
+many lack large-scale prospective studies
+• The intranasal tear neurostimulator represents the first approved device to 
+increase tear production in patients with dry eye disease
+• Ongoing studies for a number of medications that contain naturally occurring 
+glycoproteins hold promise for future treatments, while other medications 
+seek to optimize the success of topical cyclosporine via reformulations at 
+higher concentrations or in compound with chondroitin sulfate
+Synopsis
+In this article, we review advances in the treatment of dry eye disease. We will discuss 
+new therapeutic agents including topical lifitegrast and platelet rich plasma drops. In 
+addition, we will review advances in treatments for meibomian gland dysfunction (MGD) 
+and blepharitis such as intense pulsed light (IPL), the LipiFlowTM system, meibomian 
+gland probing, MiBo Thermoflo™, Blephex™, and the TearCare® System. A new 
+device, the intranasal tear neurostimulator, will also be discussed, as well as specialty 
+contact lenses that can be used for the treatment of ocular surface disease such as 
+Prokera™, the PROSE lens, and EyePrintPRO™. Finally we will discuss new 
+medications that are in development.
+O’Neil et al. Page 20
+Curr Opin Ophthalmol. Author manuscript; available in PMC 2020 May 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Figure 1: 
+Application of Intense pulsed light (IPL)
+O’Neil et al. Page 21
+Curr Opin Ophthalmol. Author manuscript; available in PMC 2020 May 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Figure 2: 
+Thermal pulsation system
+O’Neil et al. Page 22
+Curr Opin Ophthalmol. Author manuscript; available in PMC 2020 May 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Figure 3: 
+MiBo ThermoFlo application device
+O’Neil et al. Page 23
+Curr Opin Ophthalmol. Author manuscript; available in PMC 2020 May 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Figure 4: 
+TearCare iLid device
+O’Neil et al. Page 24
+Curr Opin Ophthalmol. Author manuscript; available in PMC 2020 May 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Figure 5: 
+Intranasal Tear Neurostimulator
+O’Neil et al. Page 25
+Curr Opin Ophthalmol. Author manuscript; available in PMC 2020 May 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript

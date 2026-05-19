@@ -1,0 +1,736 @@
+© 2022 Indian Journal of Ophthalmology | Published by Wolters Kluwer - Medknow
+Review Article
+Evaluation of ocular surface and tear function ‑ A review of current 
+approaches for dry eye
+Shizuka Koh, Srinivas K Rao1
+, Sanjeev P Srinivas1
+, Louis Tong2
+, Alvin L Young3
+Access this article online
+Website:
+www.ijo.in
+DOI:
+10.4103/ijo.IJO_1804_21
+PMID:
+*****
+Quick Response Code:
+An increasing prevalence of dry eye disease in the past decade has resulted in a greater focus on diagnostic
+methods for this condition. There has been a proliferation of technologies that attempt to quantify
+various aspects of tear function and ocular surface health. However, a cost‑effective, simple, and efficient
+method remains elusive. In the Indian context, the majority of these patients present to the general
+ophthalmologist, and a clinical approach that is quick and easy to perform would allow widespread usage
+for accurate diagnosis. This article reviews currently available methods and their relevance to the general
+ophthalmologist.
+Key words: Dry eye disease, ocular surface, tear film
+Departments of Innovative Visual Science and Ophthalmology, Osaka
+University Graduate School of Medicine, Osaka, Japan, 1
+Department 
+of Ophthalmology, Darshan Eye Care and Surgical Centre, Chennai,
+India, 2
+Department of Ophthalmology, Yong Loo Lin School of
+Medicine, NUS, Singapore, 3
+Department of Ophthalmology and Visual 
+Sciences, The Chinese University of Hong Kong, Hong Kong, PRC
+Correspondence to: Dr. Srinivas K Rao, Darshan Eye Care and Surgical
+Centre, T 80, Fifth Main Road, Anna Nagar, Chennai ‑ 600 040,
+Tamil Nadu, India. E‑mail: srinikrao@gmail.com
+Received: 05-Jul-2021 Revision: 22-Aug-2021
+Accepted: 10-Jan-2022	 Published: 31-May-2022
+The precorneal tear film was first described by Wolff in
+1946 as a three‑layered structure composed of a superficial
+lipid layer, a middle aqueous layer, and an deeper mucin
+layer.[1] A more recently proposed model suggests a
+two‑layered structure forthe tear film with the superficial lipid
+layer protecting a hydrated mucogel. Membrane‑associated
+mucins (MUC1, 4, 16) on the epithelial cell microvilli constitute
+the glycocalyx, while gel‑forming soluble mucins (MUC5AC)
+are dispersed throughout the aqueous layer.[2] The volume of 
+the tear film is 6–10 µL with a turnover of approximately 16%
+per minute, and a thickness of 3–5 µm.[3] This small volume of 
+tears is constantly regulated by a complex system involving
+neural, humoral, endocrine, immune, and tactile feedback
+mechanisms to ensure the stability of the tear film between
+blinks. A stable precorneal tear film is essential for comfort
+and clear vision.A variety of insults can affect the homeostasis
+of the tear film, resulting in changes in volume, composition,
+and turnover, causing discomfort and dysfunction of the
+ocular surface.
+All epithelia on the ocular surface are continuous, although
+the type of epithelium can vary in the lid margins,the palpebral,
+forniceal and bulbar conjunctiva, the limbus, and the cornea.
+This epithelial lining is also in continuity with the glandular
+epithelia of the lacrimal gland, accessory lacrimal glands, and
+the meibomian glands. While this structure represents the
+anatomical ocular surface, it is functionally integrated with
+the tear film, the lids and lashes, and the nasolacrimal duct,
+and together with the neural and immune system represent 
+the ocular surface system, also termed the lacrimal functional
+unit.[4] These components work togetherin synergy to provide,
+protect, and maintain a smooth corneal refractive surface, and
+disturbance in any one of these components can result in the
+deranged function of the otherlinked elements as well. Thus, to
+evaluate the ocular surface and tear film in health and disease,
+it may be necessary to consider the ocular surface system as
+a whole. However, each component is distinct in anatomy
+and function, and a thorough understanding of their roles is
+necessary to help plan the evaluation.
+The tear film lipid layer is derived from meibomian
+gland secretions, which are expressed from the lid margins
+and spread across the tear film during each blink. It is
+approximately 100‑nm thick and is composed of phospholipids,
+free fatty acids, and cholesterol.[5] The surfactant action helps
+lower the surface tension at the air–surface interface of the
+precorneal tear film, thereby retarding tear evaporation and
+maintaining stability between blinks. Excess lipid contaminates
+the glycocalyx, rendering it hydrophobic, while too little lipid
+promotes rapid evaporation and both conditions result in tear
+film instability.
+Cite this article as: Koh S, Rao SK, Srinivas SP, Tong L, Young AL. Evaluation 
+of ocular surface and tear function - A review of current approaches for dry 
+eye. Indian J Ophthalmol 2022;70:1883-91.
+This is an open access journal, and articles are distributed under the terms of 
+the Creative Commons Attribution‑NonCommercial‑ShareAlike 4.0 License, 
+which allows others to remix, tweak, and build upon the work non‑commercially, 
+as long as appropriate credit is given and the new creations are licensed under 
+the identical terms.
+For reprints contact: WKHLRPMedknow_reprints@wolterskluwer.com
+1884 Indian Journal of Ophthalmology	 Volume 70 Issue 6
+The aqueous layer is a mucogel that constitutes more than
+90% of the tear film and is primarily composed of water(98%),
+with salts, proteins, and growth factors. It is secreted by the
+lacrimal and accessory lacrimal glands and subserves the
+functions of hydration, lubrication, refraction, and protection
+from infection. Tear turnover and drainage during blinks
+serve to flush the ocular surface and remove debris and other
+noxious substances. Thus, while a lack of tears can cause
+hyperosmolarity and interfere with its various functions,
+an excess of tears due to impaired drainage can promote
+inflammation of the surface due to the retention of noxious
+substances on the surface.[6]
+The membrane‑associated mucins are responsible for
+maintaining the wettability of the ocular surface by constituting
+the glycocalyx. Their attachment to the microplicae of the
+corneal epithelial cells increases the adhesion tension for water,
+facilitating the spread of tears across the ocular surface. They
+also offer a physical barrierfor epithelial cells against injury and
+infection. The thickness of the mucin layer varies between 0.02
+and 0.05 µm.[3] Soluble mucins are secreted by the conjunctival
+goblet cells and are dispersed throughout the tear film, and
+help in hydration and lubrication.[7]
+It is widely accepted that the bulk of the tear fluid
+comprising the aqueous portion of tears is supplied by the
+lacrimal gland. It is secreted into the superior fornix, and
+under normal circumstances, reaches the exposed surface
+of the eye by entering the tear meniscus. The tear meniscus
+is the distance the tear film extends along the ocular surface
+perpendicular to the lid margin. The normal tear meniscus
+height ranges between 250 and 600 µm.[8] Eyelid movement 
+during blinking spreads the tear film uniformly across the
+ocular surface. Negative pressure flow then causes the tear fluid
+to move toward the nasal puncta, where it is drained into the
+nasolacrimal system, aided by the contraction of the orbicularis
+muscle. This maintains a balance between tear secretion and
+removal and is important for an uninflamed ocular surface.
+The tears also protect against infection and help maintain the
+ocular microbiome.
+Many intrinsic and extrinsic factors can affect the stability of
+the tear film. As mentioned earlier, the ocular surface system
+comprises other components as well; thus, apartfrom measures
+of tearfunction such as volume, quality, and turnover, changes
+in the anatomy and function (blink reflex) of the other adnexal
+structures must also be looked for. These changes result in
+inflammation, which is responsible for much ofthe damage that
+is seen clinically, and the evaluation process must detect the
+presence and extent of ocular surface inflammation. Thus, an
+understanding of the healthy tear film and its relationship with
+the ocular surface system is important to facilitate a thorough
+evaluation, which allows better treatment.
+The Dry Eye Patient
+Symptoms of dry eye disease (DED) include constant ocular
+irritation, foreign body sensation, and blurred vision, which
+lead to a negative impact on the patients’ daily life and
+social functioning, making DED an important public health
+problem.[9,10] However, there is a discrepancy between the
+ocular signs and symptoms of DED,[11] and the symptoms are 
+often more aligned to non‑ocular conditions than to the tear
+film parameters.[12] DED has recently been associated with other
+chronic pain conditions and may share genetic susceptibility
+with depression.[13‑16] Depression and anxiety are more 
+prevalent in DED patients than in controls. Among patients
+with DED, those suffering from primary Sjögren’s syndrome
+have a higher prevalence and severity of depression.[17]
+Patients who complain of symptoms yet have minimal
+clinical signs encompass two subcategories: those in a
+preclinical dry eye state and those with neuropathic pain.
+Preclinicaldry eye patients have intermittent symptoms andcan
+be managed by education, monitoring, and prevention. Patients
+with neuropathic pain may have a lesion in the somatosensory
+system, where the ocular pain symptoms disproportionately
+outweigh the clinical signs. Such patients require management
+by a pain specialist. Conversely, there are patients with signs
+of DED on testing but who are asymptomatic. These can either
+be patients with a predisposition to DED who are found to
+have ocular surface changes without symptoms, for example,
+during a preoperative examination, or those with reduced
+corneal sensitivity. In the latter, they may have a concomitant
+corneal disease with reduced corneal sensation or corneal
+damage secondary to long‑standing DED which can mask
+any discomfort.
+Patients with aqueous deficiency dry eye (ADDE) may
+complain of grittiness, discomfort, stinging, burning, tired eyes,
+photophobia, visual fluctuations, and paradoxical tearing in
+the early stages. ADDE patients may have worse symptoms
+in the morning, postulated to be because of tear hyposecretion
+during sleep, which improves when the patient is awakened,
+and the blink reflex stimulates tear secretion and amelioration
+of symptoms. A high index of suspicion for an underlying
+autoimmune disease should be present when a young patient
+presents with severeADDE. Patients with evaporative dry eye
+typically complain of a burning sensation that is poorly relieved
+by tear substitutes. This may be related to evaporation causing
+a concentration of salts and proteins as well as inflammation
+from meibomian gland dysfunction (MGD). Patients with
+severe disease have worse symptoms in the morning, whereas
+those with mild disease have increased symptoms in the
+evening due to meibum contamination of the tear film. Patients
+who have mucus deficiency may present with an increased
+blink rate to maintain visual clarity as the impaired tear film
+breakup (TBUT) time can lead to fluctuations in vision.
+To aid in the diagnosis of the symptoms and measure the 
+impact of DED on quality of life, multiple questionnaires
+have been created and tested. Two of the commonly used
+indices are the Ocular Surface Disease Index and the Dry Eye
+Questionnaire‑5. These are used to quantify the extent of patient
+discomfort and complaints.
+Various factors can impactthe production, flow, and removal
+of tears resulting in DED, and MGD is known to impact tear
+function. However, many other related conditions can also
+adversely influence the homeostasis of the tear film and ocular
+surface. These include contactlens wear, allergies and infections
+ofthe ocular surface,theuse oftopical andsystemicmedications,
+hormonal imbalances, ocular surgery, neurotrophy, underlying
+primary and secondary immune disorders, conjunctivochalasis,
+superior limbic keratoconjunctivitis, conditions that impair a
+normal lid blink reflex such as Parkinson’s disease, thyroid eye
+disease and facial nerve palsy, incomplete blink secondary to
+structural changes in the lid, increased friction‑related damage
+June 2022	 1885 Koh, et al.: Ocular Surface Evaluation
+due to changes in the lid wiper, conditions promoting tear stasis,
+and extreme environmental conditions affecting temperature,
+humidity, and airflow. These must also be considered in the
+evaluation of such patients.
+Assessing the tear film and ocular surface
+A proper assessment of the ocular surface, tear film, and
+patient symptom questionnaire is essential and should be
+conducted based on the protocols suggested by both the
+Dry Eye Workshop (DEWS) II report and the Asia Dry Eye
+Society (ADES) consensus report.[18,19] According to DEWS II,
+dry eye is characterized by multiple potential pathogeneses,
+whereas ADES relies on tear film instability based on defects
+in one or more components of the tear film or epithelial surface
+abnormalities. The postulated mechanism of the vicious cycle
+DED is different in DEWS II and ADES. While the DEWS II
+report implicates inflammation and hyperosmolarity as key
+triggers, inADES, more attention is paid to tear film instability
+ortear film breakup. Therefore, current methods used to assess
+tear film anatomy and function should focus on these key
+factors. Ideally, these methods should be simple and easy to
+use in every ophthalmic clinic.
+The recommended criteria for dry eye diagnosis by DEWS
+II are the presence of symptoms and at least one positive result
+for homeostasis markers (decreased non‑invasive tear breakup
+time (NIBUT), increased osmolarity, or a certain amount of
+ocular surface damage).[18] In ADES, however, dry eye can be
+diagnosed by a combination of symptoms and an unstable tear
+film (decreased TBUT), with greater dependence on tear film
+stability[19] [Fig. 1].
+For reliable TBUT measurement, observation of the entire
+cornea to detect the breakup area should be performed. The
+time to appearance of the first random black spot, indicating
+an absence of the fluorescein‑stained tear film, is noted. The
+spot must not involve an area of altered corneal surface, and
+three readings are averaged. It is ideal to use a metronome
+to measure time. The suggested cut‑off value is 5 s, and eyes
+with deficient tear function have a value less than the cut‑off.
+Detecting the time to distortion of a grid reflected from the
+tear film requires an instrument is considered non‑invasive
+and more physiological and is termed NIBUT.
+The tear volume ismeasuredby estimating the tearmeniscus
+heights or by performing a Schirmer test by measuring
+wetting at 5 min. In the clinic, tear meniscus assessment at
+the slit‑lamp is subjectively assessed as normal, reduced, or
+excessive. Automated instruments measure height by using
+a photograph or the volume by using meniscometry.[20]
+The Schirmer test in its various iterations provides useful
+information if performed in a consistent manner. The original
+Schirmertest (SchirmerI) is performed without anesthetic, and
+the Jones test is performed with anesthetic to minimize reflex
+tearing. The Schirmer II test is performed with conjunctival
+anesthesia and nasal stimulation when fatigue of the ocular
+surface receptors is suspected. Normal values forthe first two
+are >15 mm and >10 mm, and ADDE is confirmed if the last
+test value is <5 mm.
+Measuring the lipid layer requires an instrument and uses
+tear film interferometry. The meibomian glands are assessed
+clinically by lid eversion orthe use of infrared meibographers.
+The secretions can be expressed using a spring‑loaded
+device (Korb evaluator) or by using the thumb to exert firm
+pressure on the middle third of the lower lid. The number of
+glands expressing secretions and the quantum and the quality
+of the secretions are assessed subjectively.[21]
+Hyperosmolarity of the tear film is considered an important
+trigger for inflammation and can be measured using a
+point‑of‑care device such as TearLab®, with a normal value of
+302 + 6  mOsmol/kg.[22] Some of the other aspects of tearfunction
+include tear evaporation, turnover, viscosity, surface tension,
+pH, ferning as a measure of tear quality, and estimation of
+the type and amount of proteins and electrolytes in the tears.
+These are generally reserved for research settings. Although
+it is clinically useful to assess delays in tear clearance from the
+surface, by estimating the retention time of fluorescein in the
+tear meniscus, this is more subjective than the tear clearance
+tests. Prolonged retention of fluorescein in the meniscus
+indicates a pro‑inflammatory state.
+Although detailed quantitative assessments of these
+metrics require advanced devices, a practical diagnosis of dry
+eye is also possible with the use of only fluorescein, which is
+routinely used in combination with slit‑lamp biomicroscopy
+in every ophthalmology clinic. Fluorescein staining is a basic
+technique in clinical practice, which assesses the integrity of
+the corneal and conjunctival epithelium, aids in visualizing
+the volume of the tear film in the meniscus, and estimates
+stability by measuring the TBUT. The use of fluorescein
+involves three steps, which are best performed using a
+standardized, repeatable technique. Step 1: Apply a minimal
+amount of fluorescein with saline. The use of dry eye drops
+should be avoided because it may affect the results owing to
+the demulcent in these drops. Ideally, normal saline should
+be used to wet the strip. Step 2: Shake the strip vigorously to
+remove excess diluent from the strip. Step 3: The fluorescein
+strip is gently applied to the inferior palpebral conjunctiva,
+with the patient looking up [Fig. 2].
+Epithelial damage in the cornea and conjunctiva can be
+observed with fluorescein. Generally, epithelial damage is
+greater in the conjunctiva than in the cornea. In dry eyes,
+corneal staining is usually observed in the inferior or central
+part of the cornea as the upper 2 mm is usually covered by the
+upper lid and is protected from desiccation, except in extreme
+dry eye states and accompanying associated conditions such as
+superiorlimbic keratoconjunctivitis,trichiasis, and eyelid wiper
+variants. Using a cobalt blue filter (transmission spectrum:
+410–500 nm) allows better excitation of the fluorescein in the
+tear film over the cornea but interferes with the visualization
+of conjunctival staining due to the intense reflection of the blue
+light from the underlying sclera. The use of a blue‑free, yellow
+barrier filter(transmission > 510 nm) can enhance the visibility
+of fluorescein staining in the conjunctiva by blocking the blue
+light[23] [Fig. 3]. Thus, using a yellow barrier filter facilitates
+the assessment of both corneal and conjunctival staining with
+fluorescein, obviating the need for rose bengal or lissamine
+green, which are not commonly available in general clinics.
+TheADES classification scheme, which uses only fluorescein
+staining, is valuable as it also suggests the optimal management
+of the dry eye state, and this is termed tear film‑oriented
+therapy (TFOT).[24] Depending on the component of the tear
+film that is defective, selective topical therapy is suggested to
+stabilize the tear film. For optimal TFOT, a diagnostic method
+1886 Indian Journal of Ophthalmology	 Volume 70 Issue 6
+Figure 1: The criteria used by the Dry Eye Workshop II (DEWS II) and Asia Dry Eye Society (ADES) to diagnose dry eye disease. 
+(Reprinted with permission from references 18 and 19)
+is needed to suggest the insufficient component(s) of the
+tear film. This is called tear film‑oriented diagnosis (TFOD).
+A practical diagnosis based on the fluorescein breakup pattern
+is recommended.[25]ADES categorizes dry eye into three types:
+aqueous deficient dry eye (ADDE), increased evaporation
+dry eye, and decreased wettability dry eye, based on tear
+film abnormalities or epithelial surface abnormalities. The
+classification of dry eye based on the tear film break‑up pattern
+is shown in Fig. 4.
+[26]
+ADDE is the classical type of dry eye, including Sjögren’s
+syndrome, which is associated with an unstable tear film
+due to aqueous tear deficiency, and is diagnosed by noting
+an area or line pattern. Area break is diagnosed when the
+upward movement of fluorescein is not observed or is limited
+to the lower part of the cornea. Line break is diagnosed as
+a vertical line–like shape during the upward movement of
+fluorescein in the lower part of the cornea, within which
+fluorescein intensity decreases with time until the cessation
+of the upward movement of fluorescein. The deficiency of
+membrane‑associated mucin decreases the wettability of the
+cornea and conjunctiva, contributes to instability of the tear
+film, shortens the tear film breakup time, and is diagnosed by
+noting a spot or dimple pattern. Spot break is diagnosed as a
+spot‑like shape immediately after eye opening, and at least one
+spot break is required for diagnosis. Dimple break is diagnosed
+as an irregular but vertical line–like shape during the upward
+movement of fluorescein within the zone closer to the central
+part of the cornea. Abnormal lipid components are thought to
+accelerate tear evaporation, resulting in an unstable tear film,
+and is diagnosed by noting a random pattern. Random break
+is diagnosed as an irregular and indefinite shape whose typical
+location differs between cases and with each blink.
+Figure 2: Fluorescein staining of the ocular surface – the three steps (Images from “Fluorescein Gallery Book” with permission)
+June 2022	 1887 Koh, et al.: Ocular Surface Evaluation
+Although TFOD is attractive as it uses a simple clinical
+method, it requires practice to recognize the various patterns
+described, which can be challenging, at least in the beginning.
+The DEWS II guidelines include the use of non‑invasive tear
+breakup time, tear osmolarity measurement, and ocular
+surface staining to confirm the presence of a tear deficiency
+state. Of these, only the last can be performed in a general eye
+clinic in the absence of specific instrumentation. To determine
+the contribution of aqueous deficiency and evaporative
+pathologies, the DEWS II guidelines recommend the use of tear
+Figure 3: The use of a yellow filter allows assessment of conjunctival staining with fluorescein
+Figure 4: Tear Film Oriented Diagnosis (TFOD) – the fluorescein breakup patterns and their significance in diagnosing different types of dry 
+eye. (FL ‑ fluorescein). (Reprinted with permission from reference 26 with modification)
+1888 Indian Journal of Ophthalmology	 Volume 70 Issue 6
+meniscus height measurement, lipid layer measurement, and
+visualization of the meibomian gland anatomy,[27] all of which
+require instrumentation usually not available in a general eye
+clinic. Conventional methods such as Schirmertest, fluorescein
+tear breakup time, and assessment of the quantum and quality
+of the meibum secretions by pressure on the lower lid can also
+be used to determine the extent and type of tear deficit.
+Assessing ocular surface inflammation
+Apart from the changes described in the previous section, the
+DEWS IIreport also implicates inflammation and neurosensory
+abnormalities as key etiological components of DED.[27]
+Inflammation is intended to protect an injured ocular surface by
+activation ofthe innate immune system. However, in conditions
+such as DED, the persisting stimuli of hyperosmolarity and
+friction‑induced surface damage during blinking result in
+activation of the adaptive immune system, resulting in chronic
+inflammation.[28]The inflammationfurtherpotentates thedryeye
+state by damaging the tear secreting elements in the conjunctiva,
+and the stressed epithelial cells produce corneal envelope
+precursors, which induce keratinization in the secretory ducts
+of the meibomian glands. This results in less lipid secretion
+onto the ocular surface, further worsening DED, and the
+backpressure in the glands due to the blocked ducts produces
+gland atrophy and dropout. Thus, overtime, the vicious cycles
+of DED, MGD, and inflammation coexist on the ocular surface
+and are interrelated and self‑propagating. Knowledge of these
+changes is helpful as immune pathways and moleculartriggers
+can be targeted with specific therapy[29] [Fig. 5].
+The most clinically evaluated inflammatory biomarker
+at present is matrix metalloproteinase‑9 (MMP‑9), although
+this marker is not specific for DED. It is also possible that
+inflammation on the ocular surface can be mediated by other
+molecules and enzymes. Thus, while the ability to detect
+the presence of MMP‑9 on the ocular surface by using the
+point‑of‑care InflammaDry® test is useful, it has its limitations.
+It is a semi‑quantitative test that is positive when more than
+40 ng/mL of MMP‑9 is detected. However, it is associated with
+a high cost per test and is unavailable in a general eye clinic
+at present. Because inflammation is considered an important
+part of the ocular surface system dysfunction, detecting it by
+other clinical tests becomes necessary.
+Clinically, conjunctival hyperemia is a simple but effective
+sign of ocular surface inflammation. The location and extent
+of the redness, associated with the presence of edema, provide
+clues regarding the cause and severity of the inflammation.
+In ocular surface inflammation related to DED, the redness is
+diffuse, and the extent can either be graded semi‑quantitatively
+or by using photographic standards such as the Efron scale. The
+quantification can also be done with the help of an automated
+measurement and digital image analysis. If the inflammation
+is intraocular as in uveitis, the redness is often more in the
+circumcorneal region, while in scleritis and episcleritis, it is
+more often localized to the inflamed area. In conjunctivitis,
+the redness in the palpebral conjunctiva often exceeds that
+in the bulbar conjunctiva, and there is associated watering or
+discharge depending on the cause of the infection. Redness
+limited to the superiorlimbal and bulbar conjunctiva suggests
+limbic keratoconjunctivitis, while that limited to the inferior
+bulbar conjunctiva associated with conjunctival staining
+suggests medication toxicity.
+A study by Yang et al.[30] noted that the extent of 
+conjunctival staining with lissamine green correlated with
+the levels of markers of inflammation such as interferon‑γ,
+IL‑6, IL‑17, and MMP‑9 in two groups of patients with
+non‑Sjögren’s syndrome DE and Sjögren’s syndrome DED.
+Although corneal staining scores with fluorescein showed
+positive correlations with interferon‑γ, IL‑17, and MMP‑9,
+the correlation coefficients were lower than those seen with
+conjunctival staining.
+Another sign that has been described is the presence of lid
+parallel conjunctival folds (LIPCOF), and their number and
+height can vary depending on the severity and duration of the
+chronic inflammatory DED. They are most often seen in the
+temporal corner of the lowerlid and may explain the irritation
+that often occurs in this area. They are postulated to occur
+due to the effect of the increased amounts of MMP‑9 present
+in this condition, which dissolve the extracellular matrix of
+the conjunctiva to facilitate migration and recruitment of
+leukocytes to the inflamed ocular surface. The increased friction
+during blinking in eyes with less tears causes the loosened
+conjunctiva to form folds along the lid margin.[31]
+Apart from these easily performed clinical tests, confocal
+microscopy can beusedto look forthepresence ofinflammatory
+cells, epithelial changes, and the nerve plexus in such eyes. Use
+of conjunctival HLA‑DR expression obtained from conjunctival
+impression cytology has been reported, though the normal
+range varies widely between studies.[32] Another advantage 
+of impression cytology is the ability to analyze immune cells
+with flow cytometry.[33] Flow cytometry on tear fluid washings
+detects neutrophils and natural killer cells, and a study reported
+a higher proportion of the former and a lower proportion of the 
+latterinADDE with corneal staining compared to those without
+staining and to controls.[34] Similarly, the quantification of tear
+inflammatory cytokines may have interesting applications in
+DED, but one of the practical issues to overcome is the wide
+range of tear cytokine levels in the general population and
+the effect of increasing age on the normal range.[35] These are 
+presently used in studies.
+Diagnosing disorders of the tear film and ocular surface
+Tear dysfunction, an increasingly prevalent condition, causes
+epithelial stress, inflammation, MGD, and ocular surface
+damage.[28] The ocular surface and tearfunction are evaluated to
+detect the presence of such alterations in a symptomatic patient,
+use the changes to diagnose specific disease entities, document
+the extent and grade severity of the condition, prognosticate
+outcomes, and monitor progress and treatment efficacy. The
+testing process is also performed in an asymptomatic patient
+if there is an underlying condition such as mixed connective
+disease. This is necessary as the presence of significant
+ocular surface changes and even paracentral corneal melting
+has been described in such eyes in the absence of patient
+symptoms.[36] Subjective patient‑reported symptoms are also
+assessed although they sometimes do not correlate closely with
+the results of the objective tests.[37]
+The test result values are used to understand the changes
+in the ocular surface and tear film. Stability of the tear film is
+indicated by the ocular protection index, defined as the ratio of
+the BUT to the duration of the inter‑blink interval. Fluorescein
+staining is used to detect damage, and the location and extent
+June 2022	 1889 Koh, et al.: Ocular Surface Evaluation
+Figure 6: An example of an automated device (a) that provides measurements of non‑invasive breakup time ‑ NIBUT (b), tear meniscus height (c), 
+lipid layer assessment (d), scales to grade ocular redness score (e), and meibography (f). These results are presented in a composite report that 
+also includes an assessment of the extent of meibomian gland dropout (g). Clinical assessment of the same parameters is performed by using the 
+Schirmer test, fluorescein tear breakup time (FBUT), and slit‑lamp assessment of meibomian gland architecture, secretions, and inflammation (h)
+d
+h
+c
+g
+b
+f
+a
+e
+Figure 5: The inter‑relationships between the vicious cycles of dry eye disease, meibomian gland dysfunction, and inflammation. All three coexist 
+in eyes with chronic dry eye disease and tend to be self‑propagating, resulting in loss of ocular surface homeostasis and damage
+of the stain can provide clues to different disease processes.
+Staining of the lower third of the cornea is indicative of lid
+margin disease, while that in the upperthird suggests upperlid
+changes, often allergic. Interpalpebral corneal staining sparing
+the uppermost 2 mm suggests a moderate amount of dry eye,
+while staining of the entire corneal surface indicates very severe
+dryeye (withequivalent conjunctival staining) ormedicamentosa
+(withrelatively less conjunctiva staining). Staining ofthe superior
+1890 Indian Journal of Ophthalmology	 Volume 70 Issue 6
+bulbar conjunctiva in superior limbic keratoconjunctivitis,
+the inferior in conjunctivochalasis, medial in mucus fishing
+syndrome, and the temporal area in angular conjunctivitis can
+be noted. The upper palpebral conjunctiva can show staining
+in lid wiper epitheliopathy. The Marx line on the lower lid
+margin indicated by spotty rose bengal or fluorescein stain is
+located at the orifices of the meibomian glands and indicates the
+mucocutaneous junction. With aging and in conditions causing
+scarring and MGD, this line migrates anteriorly, moving closer
+to the outer border of the lid margin, especially along the lower
+temporal eyelid.[38] Staining preferentially in the lower bulbar
+conjunctiva is suggestive of medication toxicity, while significant
+redness of the conjunctiva without concurrent staining suggests
+inflammation of the ocular surface.
+A preferred order of manual testing would be fluorescein
+use for BUT, corneal staining, lissamine green for lid wiper
+epitheliopathy and conjunctival staining, Schirmer test, and
+expression tests for meibomian gland secretions. If there is an
+obvious lack of tears noted during slit‑lamp evaluation, then
+topical anesthetic use is deferred, while it may be helpful to
+use it at the start of the evaluation process if the deficit is less
+obvious. Once measures of dysfunction have been obtained,
+then these have to be interpreted and a suggested table for the
+same is provided [Table 1]. Using the metrics for aqueous tear
+volume, mucin‑related tear film stability, and lipid function, an
+assessment of the type of DED can be obtained. To this is added
+the presence and extent of inflammation and the occurrence
+of other disorders of the ocular surface and adnexa to allow
+a holistic determination of the condition of the ocular surface
+and tear film, which then allows the formulation of a rational
+strategy for management. Serial monitoring of these changes
+also allows determination of the success of treatment overtime.
+The clinical methods take more time, need a reproducible
+standardized technique, often involve contact tests, and are
+possibly less quantitative. However, they are simplerto do, cost
+less, and do not require the need for specialized equipment.
+The automated methods, although costly, are generally
+more time‑efficient as one instrument can perform multiple
+evaluations, are non‑contact, and provide a summary printout
+of the results, which helps in documentation and discussions
+with the patient. The endpoints of many of the parameters
+that reflect a loss of ocular surface homeostasis often show a
+significant overlap between normal and affected eyes, and there
+is usually a range of values that detect dysfunction. Thus, a
+precise endpoint is often not the goal, forinstance, in measuring
+the axial length of the eye, and clinical methods generally
+serve the purpose if access to an automated device is not
+available. Given the disconnect between signs and symptoms
+in this condition and the lack of precise endpoints, it has been
+suggested that a panel of tests is betterfor an accurate diagnosis
+rather than relying on one “gold standard” test [Fig. 6].
+Conclusion
+A thorough assessment of the ocular surface system anatomy
+and function can be performed using history of illness, patient
+symptoms, traditional clinical tests, the newly described TFOD,
+or by using instruments to obtain quantitative measurements.
+While there is currently very little data about the comparative
+efficiency of each of these approaches, they do provide the
+ophthalmologist with a choice of options. With time and
+experience, using these approaches concurrently can help the
+clinician decide about their relative importance in a clinical
+setting and patient population and aid in the evolution of
+the testing process to achieve greater efficiency and efficacy.
+In conclusion, this paper provides an overview of currently
+available techniques and their interpretation and suggests an
+approach that would allow general ophthalmologists to detect
+and grade dysfunction of the ocular surface and tear film in
+their clinics by using easily available tools.
+Financial support and sponsorship
+Nil.
+Conflicts of interest
+There are no conflicts of interest.
+References
+1.	 Wolff E. The muco‑cutaneous junction of the lid margin and
+the distribution of the tear fluid. Trans Ophthalmol Soc UK
+1946;66:291–308.
+2.	 Yokoi N, BronAJ, Georgiev GA. The precorneal tear film as a fluid
+shell: The effect of blinking and saccades on tear film distribution
+and dynamics. Ocul Surf 2014;12:252–6.
+3.	 Tiffany JM. The normal tear film. Dev Ophthalmol 2008;41:1‑20.
+4.	 Research in dry eye: Report of the research Subcommittee of the
+International Dry Eye Workshop in: Report of the International
+Dry Eye Workshop (DEWS). Ocul Surf 2007;5:179‑93.
+5.	 Report of the International Dry Eye Workshop (DEWS). Ocul Surf
+2007;5:67‑202.
+6.	 Braun RJ. Dynamics of the tear film. Annu Rev Fluid Mech
+2012;44:267‑7.
+7.	 Mantelli F, Mauris J,Argüeso P. The ocular surface epithelial barrier
+and other mechanisms of mucosal protection. Curr Opin Allergy
+Clin Immunol 2013;13:563‑8.
+8.	 Wang J, Aquavella J, Palakru J, Chung S, Feng C. Relationships
+between central tear film thickness and tear menisci of the upper
+and lower eyelids. Invest Ophthalmol Vis Sci 2006;47:4349–55.
+9.	 Mertzanis P, Abetz L, Rajagopalan K, Espindle D, Chalmers R,
+Snyder C, et al. The relative burden of dry eye in patients’ lives:
+Comparisons to a U.S. normative sample. Invest Ophthalmol Vis
+Sci 2005;46:46‑50.
+Table 1: Assessment of the tear breakup time, Schirmer 
+test, and lipid layer allows detection of the type of tear 
+film deficit. Evaluating the presence of ocular surface 
+inflammation, extent and location of staining, and other 
+adnexal conditions allows holistic assessment of the loss 
+of ocular surface homeostasis, aids in proper diagnosis, 
+and helps plan treatment
+BUT Schirmer Lipid Diagnosis
+Normal Normal Normal NORMAL
+Normal Decreased Normal ADDE ‑ PRECLINICAL
+Normal Normal Decreased EDE ‑ PRECLINICAL
+Normal Decreased Decreased ADDE + EDE ‑
+PRECLINICAL
+Decreased Decreased Normal ADDE
+Decreased Normal Decreased EDE
+Decreased Normal Normal SHORT BUT DE
+Decreased Decreased Decreased SEVERE DRY EYE – 
+ADDE + EDE
+June 2022	 1891 Koh, et al.: Ocular Surface Evaluation
+10.	 Clayton JA. Dry eye. N Engl J Med 2018;378:2212‑3.
+11.	 Nichols KK, Nichols JJ, Mitchell GL. The lack of association between
+signs and symptoms in patients with dry eye disease. Cornea
+2004;23:762‑70.
+12.	 Schein OD, Tielsch JM, Munõz B, Bandeen‑Roche K, West S.
+Relation between signs and symptoms of dry eye in the
+elderly. A population‑based perspective. Ophthalmology
+1997;104:1395‑401.
+13.	 Galor A, Felix ER, Feuer W, Shalabi N, Martin ER, Margolis TP,
+et al. Dry eye symptoms align more closely to non‑ocular conditions
+than to tear film parameters. Br J Ophthalmol 2015;99:1126‑9.
+14.	 Vehof J, Sillevis Smitt‑Kamminga N, Kozareva D, Nibourg SA,
+Hammond CJ. Clinical characteristics of dry eye patients with
+chronic pain syndromes. Am J Ophthalmol 2016;162:59‑65.
+15.	 Vehof J, Zavos HMS, Lachance G, Hammond CJ, Williams FMK.
+Shared genetic factors underlie chronic pain syndromes. Pain
+2014;155:1562‑8.
+16.	 Vehof J, Wang B, Kozareva D, Hysi PG, Snieder H, Hammond CJ.
+The heritability of dry eye disease in a female twin cohort. Invest
+Ophthalmol Vis Sci 2014;55:7278–83.
+17.	 Wan KH, Chen LJ, Young AL. Depression and anxiety in dry
+eye disease: A systematic review and meta‑analysis. Eye (Lond)
+2016;30:1558‑67.
+18.	 Wolffsohn JS, Arita R, Chalmers R, Djalilian A, Dogru M,
+Dumbleton K,et al. TFOS DEWS II Diagnostic Methodology report.
+Ocul Surf 2017;15:539–74.
+19.	 Tsubota K, Yokoi N, Shimazaki J, Watanabe H, Dogru M,
+Yamamda M, et al. New perspectives on dry eye definition and
+diagnosis: A consensus report by the Asia Dry Eye Society. Ocul
+Surf 2017;15:65–76.
+20.	 Yokoi N, BronA, Tiffany J, Brown N, Hsuan J, Fowler C. Reflective
+meniscometry: A non‑invasive method to measure tear meniscus
+curvature. Br J Ophthalmol 1999;83:92–7.
+21.	 Korb DR, Blackie CA. Meibomian gland diagnostic expressibility:
+Correlation with dry eye symptoms and gland location. Cornea
+2008;27:1142–7.
+22.	 Szalai E, Berta A, Szekanecz Z, Szucs G, Modis L Jr. Evaluation
+of tear osmolarity in non‑Sjogren and Sjogren syndrome dry eye 
+patients with the TearLab system. Cornea 2012;31:867‑71.
+23.	 Koh S, Watanabe H, Hosohata J, Hori Y, Hibino S, Nishida K,
+et al. Diagnosing dry eye using a blue‑free barrier filter. Am J
+Ophthalmol 2003;136:513‑9.
+24.	 Yokoi N, Georgiev GA. Tear film‑oriented diagnosis and tear
+film‑oriented therapy for dry eye based on tear film dynamics.
+Invest Ophthalmol Vis Sci 2018;59:DES13‑22.
+25.	 Yokoi N, Georgiev GA, Kato H, Komuro A, Sonomura Y,
+Sotozono C, et al. Classification of fluorescein breakup patterns:
+A Novel method of differential diagnosis for dry eye. Am J
+Ophthalmol 2017;180:72‑85.
+26.	 Koh S, Tung CI, Inoue Y, Jhanji V. Effects of tear film dynamics on
+quality of vision. Br J Ophthalmol 2018;102:1615‑20.
+27.	 Craig JP, Nichols KK, Akpek EK, Caffery B, Dua HS, Joo CK, et al.
+TFOS DEWS II Definition and classification report. Ocul Surf
+2017;15:276‑83.
+28.	 Baudouin C, Messmer EM, Aragona P, Geerling G, Akova YA,
+Benitez‑del‑Castillo J, et al. Revisiting the vicious circle of dry
+eye disease: A focus on the pathophysiology of meibomian gland
+dysfunction. Br J Ophthalmol 2016;100:300‑6.
+29.	 Aragona P, Giannaccare G, Mencucci R, Rubino P, Cantera E,
+Rolando M. Modern approach to the treatment of dry eye, a
+complex multifactorial disease: A P.I.C.A.S.S.O. board review. Br
+J Ophthalmol 2021;105:446‑53.
+30.	 Yang S, Lee HJ, Kim D, Shin S, Barabino S, Chung SH. The use of
+conjunctival staining to measure ocular surface inflammation in
+patients with dry eye. Cornea 2019;38:698‑705.
+31.	 Meller D, Li DQ, Tseng SC. Regulation of collagenase, stromelysin
+and gelatinise B in human conjunctival and conjunctivochalasis
+fibroblasts by interleukin‑1beta and tumour necrosis factor‑alpha.
+Invest Ophthalmol Vis Sci 2000;41:2922‑9.
+32.	 Epstein SP, Gadaria‑Rathod N, Wei Y, Maguire MG, Asbell PA.
+HLA‑DRexpression as a biomarker ofinflammation for multicenter
+clinical trials of ocular surface disease. Exp EyeRes 2013;111:95‑104.
+33.	 Bose T, Hou A, Lee R, Tong L, Chandy KG. A non‑invasive way
+to isolate and phenotype cells from the conjunctiva. J Vis Exp
+2017;5:55591.
+34.	 Nair AP, D’Souza S, Shetty R, Ahuja P, Kundu G, Khamar P, et al.
+Altered ocular surface immune cell profile in patients with dry eye
+disease. Ocul Surf 2021;21:96‑106.
+35.	 Tong L, Wong TY, Cheng Y. Level of tear cytokines in
+population‑level participants and correlation with clinical features.
+Cytokine 2018;110:452‑8.
+36.	 Kervick GN, Pflugfelder SC, Haimovici R, Brown H, Tozman E,
+Yee R. Paracentralrheumatoid corneal ulceration. Clinical features
+and cyclosporine therapy. Ophthalmology 1992;99:80‑8.
+37.	 Smith J, Nichols KK, Baldwin EK. Current patterns in the use of
+diagnostic tests in dry eye evaluation. Cornea 2008;27:656‑62.
+38.	 Yamaguchi M, Kutsuna M, Uno T, Zheng X, Kodama T, Ohashi Y.
+Marx Line: Fluorescein staining line on the innerlid as indicator of
+meibomian gland dysfunction.Am J Ophthalmol 2006;141:669‑75.

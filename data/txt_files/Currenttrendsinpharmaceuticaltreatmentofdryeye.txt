@@ -1,0 +1,2060 @@
+European Journal of Pharmaceutical Sciences 175 (2022) 106206
+Available online 11 May 2022
+0928-0987/© 2022 The Author(s). Published by Elsevier B.V. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by￾nc-nd/4.0/).
+Current trends in pharmaceutical treatment of dry eye disease: A review 
+Hebatallah B. Mohamed a,*
+, Basma N. Abd El-Hamid b
+, Dina Fathalla b
+, Ehab A Fouad b 
+a Department of Pharmaceutics, Faculty of Pharmacy, South Valley University, Qena 83523, Egypt b Department of Pharmaceutics Faculty of Pharmacy, Assiut University, Assiut 71526, Egypt 
+ARTICLE INFO 
+Keywords: 
+Dry eye disease 
+Nanomedicine 
+Ocular delivery system 
+New treatment 
+Ocular devices 
+New diagnostic techniques 
+ABSTRACT 
+Dry eye disease (DED), keratoconjunctivitis sicca or dysfunctional tear syndrome, is the most prevalent 
+ophthalmic disease which affects a substantial segment of people worldwide with increasing frequency. It is 
+considered a multifactorial disease of the ocular surface and tear film, characterized by a variation of signs and 
+symptoms. The symptoms range from mild to severe itching, burning, irritation, eye fatigue, and ocular 
+inflammation that may lead to potential damage to the cornea, conjunctiva and even vision loss. Correspond￾ingly, depending on the different manifestations and pathophysiology, the treatment must be tailored specifically 
+to each patient by targeting the specific mechanisms implicated in their disease. Currently, there are several 
+medical products and techniques available or under investigation for the treatment of DED. The present article 
+focused on the pathophysiology of DED, the new diagnostic approach and the recently developed drug delivery 
+systems or devices reducing the progress of the disease and treating the causes. 
+1. Introduction 
+When the eye is unable to produce an adequate amount of tear with 
+good quality, "there is a disturbance between tear production, absorp￾tion, and drainage". Or when the eye produces an acceptable amount of 
+tear, but this tear is unable to provide good lubrication, protection 
+against infection, and assess wound healing of the eye surface, this 
+medical condition is known as dry eye disease (DED) (Craig et al., 2017; 
+Messmer, 2015; Modis ´ and Szalai, 2011; Perry, 2008; Pflugfelder and de 
+Paiva, 2017). DED is a very common ocular condition characterized by 
+loss of the tear film homeostasis with an increase in its osmolarity 
+(Messmer, 2015; Pflugfelder and de Paiva, 2017). It is defined by In￾ternational Dry Eye Workshop in 2017, as “Dry eye is a multifactorial 
+disease of the ocular surface characterized by a loss of homeostasis of the tear 
+film, and accompanied by ocular symptoms, in which tear film instability and 
+hyperosmolarity, ocular surface inflammation and damage, and neurosen￾sory abnormalities play etiological roles.” (Craig et al., 2017). Approxi￾mately 5–30% of the population have been diagnosed with DED, and the 
+prevalence increases significantly with age (Modis ´ and Szalai, 2011). 
+Historically, in 1933 DED was reported as a sign related to Sjogren ¨
+syndrome, an autoimmune disease that attacks the glands that secrete 
+tears and saliva. Then, excessive studies occurred on the ocular surface 
+to recognize the real causes of DED since the reported signs of DED were 
+detected in a large number of patients who were not suffering from 
+Sjogren ¨ syndrome. In 1946 Eugene Wolff proposed that the tear film is 
+composed of three layers: outer lipid layer, middle aqueous layer, and 
+inner mucin layer, covering corneal epithelial cells. In 1995 National 
+Eye Institute stated the first overall definition of DED as a "disorder of the 
+tear film due to tear deficiency or excessive evaporation” (Dunn et al., 
+2021). In 2017 the International Dry Eye Workshop (DEWS II) refined 
+the definition of DED to include a loss of homeostasis and neurosensory 
+abnormalities. The treatment strategy of DED was based on the 
+compensation for loss of tear, so artificial tears containing buffer and 
+viscolizer were used. Nowadays, with the development of DED diag￾nosing techniques, tear structure is found to contain proteins and fatty 
+materials. So, the treatment policy is changed not only to compensate for 
+the decreased part in tear composition but also to stimulate the secretion 
+of this part and treat the underline causes of DED. This review highlights 
+the etiologies, the pathophysiology of DED, and the role of diagnostic 
+techniques in the policy of treatment. 
+2. Anatomical and physiological overview 
+The tear film is a complex structure produced by the lacrimal func￾tional unit (LFU). LFU is an integrated system that includes the lacrimal 
+glands, ocular surface (cornea and conjunctiva), meibomian glands, 
+eyelids, and net of nerves connect them (Aragona et al., 2013; Craig 
+et al., 2017). The normal tear film forms a layer, approximately three μm 
+* Corresponding author. 
+E-mail address: dochoba2014@svu.edu.eg (H.B. Mohamed). 
+Contents lists available at ScienceDirect 
+European Journal of Pharmaceutical Sciences 
+journal homepage: www.elsevier.com/locate/ejps 
+https://doi.org/10.1016/j.ejps.2022.106206 
+Received 7 March 2022; Received in revised form 5 May 2022; Accepted 9 May 2022 
+European Journal of Pharmaceutical Sciences 175 (2022) 106206
+2
+thick and a three µl volume, located on the anterior conjunctival surface. 
+The main three components of this film are: the outermost lipid layer 
+secreted by the meibomian glands, the intermediate aqueous layer 
+secreted by lacrimal glands, and the innermost mucin layer secreted by 
+conjunctival goblet cells (Akpek et al., 2019; Modis ´ and Szalai, 2011) 
+(Table 1). Recently, this tear film is described as a complex blend of 
+two-layer structures: the outer lipid layer and a muco-aqueous layer 
+(Dunn et al., 2021) (Fig. 1). 
+This film has different functions, including lubrication, maintenance 
+of corneal transparency with the smooth optical surface, antimicrobial 
+protection, nutrition, wound healing of the ocular surface, and removal 
+of any foreign body (Akpek et al., 2019; Messmer, 2015; Perry, 2008). 
+Typically, the spontaneous blink (5–10 blinks/second) spreads the tear 
+film over the ocular surface and the excess fluid drains into the nose 
+through the tear ducts. This process is regulated centrally by the brain to 
+maintain the good optical quality of the eye (Porola et al., 2007; Wilson, 
+2003). 
+3. Pathophysiology 
+DED is a multifactorial disorder including several interacting 
+mechanisms. The LFU is worked as a tightly integrated unit (Azcarate 
+et al., 2014). Any disease or environmental factors disrupt the function 
+of this unit, causing a disturbance in the tear film by changing its volume 
+or composition will lead to loss of ocular surface homeostasis. Normally, 
+the stimulation of nerve endings in the cornea and nasal passages sends 
+impulses to the central nervous system that regulates tear-producing and 
+blinking. Through blinking processes, gentle squeezing occurred to 
+meibomian glands to produce lipids that spread over the ocular surface, 
+forming the lipid layer of the tear film. Also, stimulating the nerve end 
+encourages the lachrymal gland to produce the watery part of the tear 
+film. Finally, the goblet cells in the conjunctiva and ocular surface are 
+accelerated to create a mucin layer (Dunn et al., 2021; Modis ´ and Szalai, 
+2011). Ocular inflammation and hyperosmolarity of tear film are 
+considered the hallmarks of this disease. This hyperosmolarity triggers 
+the production of inflammatory mediators (e.g., interleukin 1, tumor 
+necrosis factor-α) into the ocular surface that damage each of the ocular 
+epithelial and the goblet cells leading to disturbance in the tear film and 
+then DED exists (Dunn et al., 2021; Garrigue et al., 2017; Pflugfelder and 
+de Paiva, 2017). However, it is unclear whether this hyperosmolarity of 
+the tear film arises early in the course of the DED or if it is a manifes￾tation of tear film dysfunction. 
+Usually, the osmolarity of the tear film is 296–302 mOsm/L; how￾ever, in cases with DED, this rate rises to 316–360 mOsm/L. Several 
+studies performed in animal models and humans have found that the 
+application of hyperosmolar slain to the ocular surface initiates a sec￾ondary immune response that can lead to a direct pro-inflammatory 
+effect on the ocular surface epithelium. It has been shown to activate 
+mitogen-activated protein kinases (MAPKs); stimulate the secretion of 
+pro-inflammatory cytokines (e.g., interleukin [IL]-1b, TNF-a, and IL-6), 
+Table 1 
+The composition of the tear film′
+s layers. 
+Type of layer Origin Major components Function References 
+The outermost 
+(lipid layer) 
+- Meibomian glands on 
+the eyelid. 
+- Zeis and Moll glands. 
+Combination of low polarity lipids (e.g., wax and 
+cholesterol esters) and high polarity lipids (e.g., 
+triglycerides, free fatty acids, and phospholipids). 
+- Preventing evaporation of the tear film 
+between blinks. 
+- Enhancing tear film spreading. 
+- Providing a smooth optical surface. 
+(Craig et al., 2017) 
+The middle 
+(aqueous 
+layer) 
+- Lacrimal gland (above 
+the lateral end of the 
+eye). 
+Represents the bulk of the precorneal tear film. 
+- Water and electrolytes. 
+- Antibacterial proteins (e.g., lysozyme, lactoferrin, and 
+immunoglobulins). 
+- Vitamins (vitamin A). 
+- Growth factors. 
+- Wettability to the ocular surface. 
+- Carrying oxygen and nutrients to the 
+cornea. 
+- Protecting against infections. 
+- Promoting wound healing. 
+(Akpek et al., 2019; 
+Modis ´ and Szalai, 
+2011) 
+The innermost 
+(mucin layer) 
+- Conjunctival goblet 
+cells. 
+- Ocular surface 
+epithelium. 
+- High molecular weight glycoproteins are called mucins. - Lubricating the ocular surface. 
+- Providing an adsorbent interface between 
+the aqueous layer and the hydrophobic 
+ocular epithelium surface. 
+(Dunn et al., 2021) 
+Fig. 1. Tear film structure: lipid (oil), aqueous (water), and mucous layers. 
+Each layer owns a different content which dictates its function. These layers 
+work together to maintain the health of our eyes and prevent infection. 
+Table 2 
+Some factors lead to dysfunction in the lacrimal fluid unit. 
+Medical condition Examples 
+Aging Older age and female gender (McCarty et al., 1998; 
+Pflugfelder, 2004). 
+Decrease in supportive 
+factors 
+Decrease androgen hormone (Azcarate et al., 2014). 
+Ocular disease Keratitis, blepharitis, and allergic eye disease (Akpek 
+et al., 2019; Leonardi et al., 2017). 
+Systemic condition - Rheumatoid arthritis (McCarty et al., 1998; Moss et al., 
+2000). 
+- Autoimmune thyroid disease (Bacman et al., 2001). 
+- Sjӧgren syndrome (Akpek et al., 2019). 
+Medications Antihistamines, antidepressants, antianxiety, 
+anticholinergics, diuretics, oral corticosteroids (Bacman 
+et al., 2001; Moss et al., 2000; Rolando et al., 2018), and 
+hormonal replacement therapy (ex. estrogen) (Rolando 
+et al., 2018; Schaumberg et al., 2001). 
+Loss in corneal nerve 
+sensitivity 
+- Contact lens use (Craig et al., 2017). 
+- Chronic diabetes causes nerve damage (Zhang et al., 
+2016). 
+- Laser eye surgery may cause nerve damage (Bacman 
+et al., 2001). 
+Other conditions - Extensive desk work (Uchino et al., 2008). 
+- Prolonged use of eye drops containing preservatives ( 
+Leung et al., 2008; Rossi et al., 2009). 
+- Smoking (Bacman et al., 2001). 
+- Reduced humidity and increased wind (Bacman et al., 
+2001). 
+- Deficiency of vitamin A or omega-3 (Aragona et al., 
+2013). 
+H.B. Mohamed et al. 
+European Journal of Pharmaceutical Sciences 175 (2022) 106206
+3
+chemokines, and matrix metalloproteinases (MMP-3 and MMP-9); and 
+induce apoptosis (Guzman ´ et al., 2020; Liu et al., 2009; Luo et al., 2005). 
+Several clinical researchers observed that the inflammation in the 
+ocular surface, meibomian glands, Lacrimal gland, autoimmune disease 
+or systemic inflammation, and dysfunction develop with age play a great 
+role in the pathogenesis of DED (Barabino et al., 2005; Ciprandi et al., 
+1994; Rolando et al., 2018; Rolando et al., 1990; Stern et al., 1998; Wei 
+and Asbell, 2014). Other factors, Table 2, lead to the development of 
+LFU dysfunction and then DED were reported (Pflugfelder et al., 2000; 
+Stern et al., 1998). Generally, if the case is left untreated, the corneal 
+ulcer may develop in this case and a loss of vision will exist (Dunn et al., 
+2021). 
+4. Etiology and classification 
+DED is classified according to the causes: "The aqueous-deficient 
+type" with reduced tear production and "The hyper-evaporative type" 
+with increased tear film evaporation (Craig et al., 2017; Messmer, 2015; 
+Modis ´ and Szalai, 2011; Pflugfelder and de Paiva, 2017; Rolando et al., 
+2018). Mixed cases between the two types can be occurred e.g., in the 
+case of Sjogren ¨ syndrome, the autoimmune inflammation of lacrimal 
+glands leads to a decrease in the secretion of the aqueous part, followed 
+by inflammation in the meibomian glands that leads to insufficient 
+production of lipid in the tear film. This disturbance in the tear film 
+resulted from numerous factors (Modis ´ and Szalai, 2011), including 
+androgen hormone changes, systemic autoimmune disease, inflamed 
+meibomian glands, or allergic eye disease, Fig. 2. Both types make film 
+composition hyper-osmotic due to an increase in the concentration of 
+Fig. 2. The classification of dry eye disease according to causes into two basic types: aqueous-deficiency and hyper-evaporative types. These two types result from 
+numerous pathways leading to a loss of the tear film homeostasis. 
+Table 3 
+Diagnostic tests for dry eye disease. 
+Diagnostic tests Management 
+Patient history - Symptom-oriented questionnaire. 
+Physical 
+examination 
+- Measurement of visual disturbance. 
+Slit-lamp 
+examination 
+- The eyelid margins (Lid congruity and lid closure). 
+- Temporal lid-parallel conjunctival folds (LIPCOFs). 
+- The meibomian gland orifices. 
+- Ocular surface (staining with fluorescein/lissamine green) ( 
+Macri et al., 2000). 
+- Tear film break-up time (Tear film stability) with 
+fluorescein drops (Less than ten seconds considered 
+abnormal). 
+The Schirmer test - Aqueous tear production (ten mm on the test strip or less 
+considered abnormal)(Aaron et al., 2005). 
+laboratory 
+measurements 
+- Tear film (osmolarity, lysozyme level, lactoferrin level, 
+glycoprotein content, and immunoglobulin content) (Lemp 
+et al., 2011; Messmer et al., 2010). 
+- The Oculus Keratograph (non-invasive tear-film break-up 
+time) (Gulati and Jain, 2017). 
+- LipiView uses interferometry to quantitatively evaluate 
+tear-film lipid layer thickness(Gulati and Jain, 2017). 
+H.B. Mohamed et al. 
+European Journal of Pharmaceutical Sciences 175 (2022) 106206
+4
+solutes in the tear film, which stimulates the release of inflammatory 
+mediators into the tears and damages the ocular surface over time. Also, 
+this inflammation leads to the loss of goblet cells and reduces mucin 
+production, which finally contributes to the tearing film instability 
+(Perry, 2008; Pflugfelder and de Paiva, 2017; Wei and Asbell, 2014). 
+5. Diagnosis of DED using subjective and objective signs 
+The two types of DED have the same symptoms. Patients typically 
+feel painful eyes, a grittiness or sandy sensation in both eyes, leading to 
+redness, itching, burning, and a scratchy sensation. Watery eyes develop 
+as a body responds to the eyes’ irritation. These symptoms progress over 
+time to photophobia with corneal complications (ulceration and even 
+corneal perforation), and then, finally, loss of vision may occur (Craig 
+et al., 2017; Messmer, 2015; Modis ´ and Szalai, 2011; Perry, 2008; 
+Pflugfelder and de Paiva, 2017). Both types of DED appear similar in 
+symptoms to infectious or allergic eye diseases (Akpek et al., 2019; 
+Kojima et al., 2020; Messmer, 2015; Perry, 2008). The diagnostic tests in 
+addition to physical examination are necessary to differentiate between 
+them (Table 3). If a patient with DED is incorrectly diagnosed and pre￾scribed epitheliotoxic antibiotics or antiallergic drugs, DED may worsen 
+(Messmer, 2015). 
+Diagnosis of DED is mainly based on the review of symptoms and 
+patient history. That summarized the medical and ocular history, 
+including ocular surgery, and past or current use of systemic and ocular 
+medications for conditions such as DED, blepharitis, and allergies. Then 
+preliminary assessments of the patient’s visual acuity are performed by a 
+physician through physical examination as a blurred or intermittent 
+distortion of vision is observed in patients with DED. After that, the tear 
+film osmolarity and the ocular inflammation were estimated then the 
+tear volume was measured by a Schirmer strip test. Next to that, the 
+primary assessments were occurred using a slit-lamp examination to 
+detect eyelids abnormalities, alteration or inflammation of the orifices of 
+the meibomian glands. Also, a slit-lamp can be used to visualized any 
+damage to the ocular surface after the application of dye and determined 
+the tear break-up time (TBUT), the time required for the appearance of 
+the first patch in the continuity tear film after the last blink of a patient, 
+wherein the case of DED the patient has a rapid TBUT (<10 s). Addi￾tional diagnostic tests such as LipiView and the Oculus Keratograph are 
+used to quantitatively evaluate tear-film lipid layer thickness and for 
+evaluating patients suffering from a distortion of vision respectively. 
+The patient history, physical examination, and diagnostic tests 
+should be performed to assess DED in general, but the determination of 
+the type of DED is a very important step to choose the correct specialized 
+treatments for each case, Table 4 (Kojima et al., 2020). The aqueous 
+deficiency type of DED, that characterized by a decrease in the amount 
+of the major aqueous component of the tear film through lowering in the 
+secretions of the lacrimal gland, can be diagnosed by a reduction in the 
+Schirmer score test to less than 10 mm on the test strip, a decreased tear 
+meniscus, and the ocular staining pattern showing a keratoconjunctivitis 
+sicca. Further, the hyper-evaporative type of DED, that characterized by 
+a deficiency in the outer lipid component of the tear film via meibomian 
+gland dysfunction, can be observed by interferometry and meibography, 
+assess any changes in the lipids component of the tear film, and also by 
+an intensive investigation of the eye lid margins and meibomian glands. 
+Otherwise, if there are any deficiencies in a goblet cell or mucin that 
+affects the stability of the tear film that is detected through lowering in 
+TBUT (<10 s) and ocular surface damage that is evaluated by in-vivo 
+confocal microscopy. 
+Table 4 
+Differential diagnoses for types of dry eye disease. 
+Aqueous-deficient 
+dry eye 
+Hyper-evaporative dry eye Both forms 
+- Reduced tear 
+meniscus. 
+- Reduced 
+LIPCOFs. 
+- Low Schirmer 
+test. 
+- Pathological changes to the 
+lid margins. 
+- Obstructed meibomian gland 
+orifices. 
+- Thickened meibomian gland 
+secretion. 
+- Tear film break-up time is 
+reduced. 
+- Ocular surface damage. 
+- Elevated tear film 
+osmolarity. 
+Fig. 3. The management logarithm of dry eye disease; DED is a multi-factorial disease; therefore a proper diagnostic approach must decide the important factors 
+from the patient’s clinical standpoint. So a personalized, effective, and long-term treatment can be administered and altered if necessary. 
+H.B. Mohamed et al. 
+European Journal of Pharmaceutical Sciences 175 (2022) 106206
+5
+6. Management of DED 
+DED greatly impacts the patient′
+s life through everyday activities 
+like driving, reading, and using devices containing monitors as the pa￾tient complains of uncomfortable and visual instability. Also, over time 
+the untreated DED undergoes serious complications (eye inflammation, 
+corneal ulcers, and vision loss) that become more difficult to get under 
+control. The management of DED (Fig. 3) aims to reduce each of the 
+subjective and objective manifestations on the ocular surface to restore a 
+good quality of life (Modis ´ and Szalai, 2011). Scientists do all their best 
+to find a solution to this complicated situation of DED. Generally, the 
+DED is believed as a non-curable condition that needs chronic therapy to 
+re-establish and maintain the ocular surface system homeostasis. Taking 
+into consideration that diseases such as diabetes, thyroid problems, 
+systemic lupus erythematosus, rheumatoid arthritis, Sjogren ¨ ’s syn￾drome, and blepharitis usually aggravate symptoms of DED (Javadi and 
+Feizi, 2011). Patient education is an important step for the successful 
+management of DED. Ophthalmologists should educate the patients 
+about the fact that DED is a chronic disease that needs long-term 
+treatment. The treatment of DED can be either “aqueous-deficient” or 
+“hyper-evaporative.” based on the severity of the disease, Fig 4 (Modis ´
+and Szalai, 2011). 
+6.1. Conservative treatment 
+6.1.1. Tear substitution 
+6.1.1.1. Artificial tears. Artificial tears are topical eye formulations used 
+to lubricate dry eyes and help in maintaining the moisture on the outer 
+surface of the eyes. They are used traditionally in all stages of DED 
+treatment as a first-line therapy to improve symptoms. However, it is not 
+specifically designed to improve symptoms, but to prevent their build￾up. Artificial tears are classified according to US Food and Drug 
+Administration FDA into two categories:(Pucker et al., 2016) (1) 
+demulcent agents which are water-soluble polymers applied directly to 
+the ocular surface, and (2) emollient agents which is a fat or oil applied 
+externally on eyelids or oil in water emulsion eye drops. These two 
+categories aim to protect and lubricate mucous membrane and prevent 
+drying and cracking respectively. 
+In addition to the above function, they replenish the deficiency of the 
+components of the tear film, wettability, and spreading. Also, artificial 
+tears reduce the osmolarity of the ocular surface through dilution of the 
+inflammatory cytokines and lower the susceptibility of the ocular sur￾face to inflammation (Aragona et al., 2021). The approved components 
+of artificial tears by the FDA and their function are depicted in Table 5. 
+On the other hand, other classes of pharmaceutical excipients and 
+food additives were reported to provide therapeutic improvement in 
+DED, but these items are not listed in the FDA monograph as active 
+therapeutic ingredients for the treatment of DED as it needs numerous 
+clinical studies with a huge cost. So, the manufacturers list them as 
+inactive ingredients used in artificial tears to avoid these trials. Exam￾ples of these agents are (Kathuria et al., 2021): 
+- Osmoprotectants: Agents help in protecting the ocular cells from 
+injury by hyperosmolarity within DED e.g., trehalose, erythritol, 
+levocarnitine. 
+Fig. 4. Symptoms development and treatment of DED: treatment recommended options according to the progress of the symptoms of the disease. 
+H.B. Mohamed et al. 
+European Journal of Pharmaceutical Sciences 175 (2022) 106206
+6
+- Humectants: Hygroscopic agents that encourage the retention of 
+water on the ocular surface e.g., sodium hyaluronate. 
+- Hydroxypropyl Guar gum: A viscous protein-polymer used as a soft 
+gel to increase the viscosity of the tear, therefore, increasing the 
+retention time of the aqueous layer to the mucins. 
+- Oils: oils used to mimic the lipid layer of the tear film (e.g., flaxseed 
+oil, castor oil, mineral oil). 
+The artificial tears exist as units preserved (multidose) or united non￾preserved (single dose) preparations. Benzalkonium chloride, chlor￾obutanol, and cetrimide are usually used as preservatives in multidose 
+artificial tears. The non-preserved type is preferred for use when the 
+patient needs four times daily administrations. This recommendation is 
+attributed to the aggravation of symptoms by disruption of the ocular 
+epithelial cell-cell junction and inducing toxic epitheliopathy in case of 
+long-lasting application of preserved products (Javadi and Feizi, 2011). 
+6.1.1.2. Autologous serum. Tears may also be substituted with naturally 
+occurring biologic fluids, such as serum (autologous serum tears), which 
+are prepared from the patients’ blood. It includes many components e.g., 
+growth factors, immunoglobulins, vitamin A, enzymes, and proteins like 
+albumin and lactoferrin. Although the use of autologous serum has 
+disadvantages such as the possibility of contamination, denaturation of 
+the component by time, and the need to blood sample collection from 
+the patient for each preparation time, it is showing a beneficial effect on 
+advanced and severe cases of DED (Akpek et al., 2019; Kojima et al., 
+2020; Milner et al., 2017). 
+6.1.2. Anti-inflammatory agents 
+In the moderate to severe cases of DED, using anti-inflammatory 
+drugs is required. With environmental stress and physiologic changes 
+with aging, inflammation of the ocular surface usually occurred. Also, 
+this ocular manifestation may be caused by systemic inflammatory 
+conditions (Kojima et al., 2020; Modis ´ and Szalai, 2011). The inflam￾mation of the ocular surface and the secretory components of the 
+lacrimal system (the lacrimal gland and/or lacrimal ducts) consider the 
+core features of DED pathogenesis. This inflammation affects greatly the 
+amount and the composition of produced tears causing tear deficiency 
+and usually building up over time causing severe chronic cases (Milner 
+et al., 2017). Therefore, controlling inflammation is a critical step to 
+prevent and treat chronic DED (Aragona et al., 2021). 
+6.1.2.1. Cyclosporine. Cyclosporine A (CsA) is a fungus-derived peptide, 
+which has anti-inflammatory and immunosuppressive properties by 
+preventing T-cell activation and inflammatory cytokines production. 
+Cyclosporine A (0.05%) topically eye drop was approved by FDA for use 
+twice daily as targeting to treat ocular surface inflammation in DED 
+(Hessen and Akpek, 2014; Milner et al., 2017; Sall et al., 2000). The 
+application of topical cyclosporine A (0.05%) improves the Schirmer test 
+value, corneal fluorescein staining, and increases goblet cell density. So 
+that, it alleviates the signs and symptoms of DED in about 50% of pa￾tients, although, the application of this drug is usually associated with 
+eye irritation (Aragona et al., 2021; Modis ´ and Szalai, 2011). The 
+combined use of steroid eye drops may be beneficial to decrease the side 
+effect of CsA (Sheppard et al., 2014). 
+6.1.3. Corticosteroids 
+In moderate to severe dry eye disease, using corticosteroid topically 
+as unpreserved eye drops over 2 to 4 weeks e.g., 0.1% fluorometholone 2 
+to 4 times/day for two-four weeks or hydrocortisone showing great 
+improvement in the symptoms and clinical signs. By long-term therapy, 
+the corticosteroids’ side effects will appear (cataract formation and 
+elevated intraocular pressure) (Marsh and Pflugfelder, 1999), so this 
+type of treatment is recommended only for short-term therapy 
+(Messmer, 2015; Modis ´ and Szalai, 2011). Hydrocortisone is recom￾mended to be used safely for a patient with severe DED; however, the 
+occurrence of complications is still possible. In the case of systemic in￾flammatory disease or autoimmune disorders (e.g., Sjogren ¨ syndrome) 
+using corticosteroids systemically in a short pulse (e.g., 40 mg on 
+alternate days) is recommended but under control. Generally, using 
+topical or systemic corticosteroids improve both subjective and objec￾tive signs and symptom but they should be used under the monitoring of 
+specialists. 
+6.1.4. Rebamipide 
+However, rebamipide is an oral drug used for the treatment of gastric 
+ulcers; it has been shown to increase the amount of mucin-like sub￾stances and the number of conjunctival goblet cells on the ocular sur￾face. In addition, it has anti-inflammatory action by suppressing T cell 
+activation and cytokine production, so it has been indicated as oral 
+mucin secretagogues in DED management (Tandon et al., 2012). 
+6.1.5. Lactoferrin 
+Lactoferrin secreted by the lacrimal gland into tears provides a 
+protective effect to ocular cells against cell death by oxidative ultraviolet 
+Table 5 
+Artificial tears components as approved by FDA. 
+Component Specific use Concentration Notes 
+Carboxymethylcellulose 
+sodium 
+Demulcents 0.2 to 2.5% 
+Hydroxyethylcellulose Demulcents 0.2 to 2.5% 
+Hydroxypropyl 
+methylcellulose 
+Demulcents 0.2 to 2.5% 
+Methylcellulose Demulcents 0.2 to 2.5% 
+Dextran 70 Demulcents 0.1% used with another 
+polymeric 
+demulcent agent. 
+Gelatin Demulcents 0.01% 
+Glycerin Demulcents 0.2 to 1% 
+Polyethylene glycol 300 Demulcents 0.2 to 1% 
+Polyethylene glycol 400 Demulcents 0.2 to 1% 
+Polysorbate 80 Demulcents 0.2 to 1% 
+Propylene glycol Demulcents 0.2 to 1% 
+Anhydrous lanolin Emollients 1 to 10% Used in 
+combination with 
+one or more 
+oleaginous 
+emollient agents. 
+Lanolin Emollients 1 to 10% Used in 
+combination with 
+one or more 
+oleaginous 
+emollient agents. 
+Polyvinyl alcohol Demulcents 0.1 to 4% 
+Povidone Demulcents 0.1 to 2% 
+Light mineral oil Oleaginous 
+Emollients 
+up to 50% Used in 
+combination with 
+one or more 
+emollient agents. 
+Mineral oil Oleaginous 
+Emollients 
+up to 50% Used in 
+combination with 
+one or more 
+emollient agents. 
+Paraffin Oleaginous 
+Emollients 
+up to 5% Used in 
+combination with 
+one or more 
+emollient agents. 
+Petrolatum up to 100% 
+White ointment up to 100% 
+White petrolatum up to 100% 
+White wax up to 5% Used in 
+combination with 
+one or more 
+emollient agents. 
+Yellow wax up to 5% Used in 
+combination with 
+one or more 
+emollient agents. 
+H.B. Mohamed et al. 
+European Journal of Pharmaceutical Sciences 175 (2022) 106206
+7
+stress and inhibits the production of various cytokines, so it suppresses 
+the eye inflammation of DED. Lactoferrin is used orally as an enteric￾coated tablet (270 mg/day) for one month to treat DED. A significant 
+improvement in symptoms was observed. 
+6.1.6. Fatty acid supplements 
+Omega-3 and omega-6 are polyunsaturated essential fatty acids 
+absorbed from food. Both of them are included in all body cell mem￾branes, however, omega-3 competes with omega-6 for inclusion ac￾cording to their dietary intake (Kathuria et al., 2021; Vickers and Gupta, 
+2015). Arachidonic acid which is one of the omega-6 fatty acids com￾ponents is transformed into pro-inflammatory mediators, once the cells 
+are activated by external stimuli. This mediator decreased when omega-3 
+displaces omega-6 as a result of increasing omega-3 intake. This is the 
+main anti-inflammatory mechanism of omega-3(Garrigue et al., 2017; 
+Surette, 2008). In a recent study, researchers found a relation between the 
+ratio of omega-6 to omega-3 and tear film stability whereby increasing 
+this ratio the symptoms of DED are exaggerated. Further, they found that 
+the signs and symptoms of DED improved with increased omega-3 dietary 
+supplement intake (Kangari et al., 2013; Liu and Ji, 2014). Omega-3 fatty 
+acids (eicosapentaenoic acid, docosahexaenoic acid, and a-linolenic acid) 
+are recommended as a 500 mg/day oral dose for patients with dry eye 
+disease associated with systemic autoimmune inflammatory disorders, 
+but increasing omega-3 fatty acid intake may increase the risk of prostate 
+cancer (Rashid et al., 2008). Recently, to overcome this problem, the 
+omega-3 fatty acid is applied topically as an eye drop. It has the potential 
+benefit to improve ocular inflammation in DED but is still currently under 
+investigation (Rashid et al., 2008). 
+6.1.7. Tetracyclines and their derivatives 
+Tetracycline and its derivatives Doxycycline and Minocycline have 
+anti-inflammatory, as well as bacteriostatic effects. They act by lowering 
+the production of interleukin-1 (IL-1α) and tumor necrosis factor (TNF- 
+α) and lowering the activity of several matrix metalloproteinases, 
+collagenase, and phospholipase A2. They have been used successfully in 
+the treatment of meibomian gland dysfunction and corneal ulceration in 
+small oral doses (40 - 400 mg/day for doxycycline and between 50 - 100 
+mg/day for minocycline), however, in large doses skin and gastroin￾testinal tract side effects appear (Javadi and Feizi, 2011; Messmer, 
+2015). Several studies using experimental DED models demonstrated 
+that the use of these drugs in small doses for 6 to 12 weeks improves 
+corneal surface regularity, tear production, and tear film stability (De 
+Paiva et al., 2006a, 2006b). 
+6.1.8. Macrolides 
+In general, antibiotics play important role in the management of 
+DED, especially when bacterial meibomian glands infection is the 
+causative agent of DED. Azithromycin is one of the macrolides that have 
+anti-inflammatory and antibacterial effects. Several studies reported 
+that the use of 1% azithromycin eye drops for the treatment of ble￾pharitis and meibomian gland dysfunction improved the lipid layer 
+secretion and tear film stability(Foulks et al., 2010; Haque et al., 2010). 
+6.2. Topical mucin secretagogues 
+Secretagogues are agents that stimulate mucin secretion as a mech￾anism of action. Topical secretagogue formulations are a novel treat￾ment that is applied to the ocular surface to induce aqueous and/or 
+mucin secretion. They are available internationally and used for the 
+treatment of DED in Japan and South Korea but are not currently 
+available in the United States. This drug is a P2Y2 purinergic receptor 
+agonist that stimulates the receptors in ocular tissues as stimulates 
+conjunctival epithelial cells for water secretion (e.g., diquafosol tetra￾sodium 3% ophthalmic solution) and conjunctival goblet cells for mucin 
+secretion (diquafosol tetrasodium 3% ophthalmic solution and 2% 
+rebamipide ophthalmic suspension). They have a beneficial effect on 
+Table 6 
+New devices used in the treatment of DED. 
+Name of device Definition Advantages Disadvantages Availability References 
+Intranasal tear neuro￾stimulator 
+It applies small electrical currents to 
+stimulate the mucosal nerves ending 
+that increases natural tear production 
+through a process named (the 
+nasolacrimal reflex pathway of the 
+lacrimal function unit). 
+- Use the device four times /day 
+for 180 days (Schirmer scores 
+were significantly higher, 
+improvement of ocular 
+symptoms). 
+- Most useful in patients with 
+aqueous tear deficiency. 
+- Nasal (pain, burning, 
+congestion), facial pain, and 
+headache. 
+- Not to be used in case of 
+patients having cardiac 
+pacemakers, implanted 
+metallic or electronic devices 
+in the head or neck. 
+- A highly costive technique. 
+Approved by 
+FDA 
+(Gumus et al., 2017; 
+Yu et al., 2021) 
+Extranasal tear neuro￾stimulator 
+It stimulates the external nasal nerve by 
+applying small electrical currents 
+superficially on the skin of the nose at 
+the junction between the nasal cartilage 
+and nasal bone. 
+Significant improvement in the 
+mean of Schirmer score after 
+using the device for 30 seconds 
+at a time at least twice daily for 
+30 days. 
+• No reported adverse events. Approved by 
+FDA 
+(Yu et al., 2021) 
+Scleral Lenses - These are lenses applied to the sclera; 
+they should not touch the corneal 
+surface. They act as a fluid-filled 
+reservoir. 
+- They are used for patients with the 
+irregular corneal surface. 
+- Significantly improve DED 
+signs and symptoms. 
+The lengthy and costly fitting 
+process. 
+Available 
+(Since 2013) 
+(Nguyen et al., 2018; 
+Romero-Rangel 
+et al., 2000) 
+Amniotic Membrane - It is a basement membrane substitute 
+or temporary graft coverage of the 
+epithelium to allow healing. 
+- It has anti-inflammatory and anti￾scarring effects. 
+- It contains growth factors that impart 
+anti-inflammatory properties. 
+- Promoting epithelial wound 
+healing on the eye surface. 
+- Recommended for severe 
+indications that require longer 
+treatment. 
+- Significant decrease in 
+symptoms after treatment 
+duration of five days. 
+- Costly process. 
+- Pain and inflammation of lid 
+or/and conjunctiva from 
+symblepharon ring. 
+Currently 
+available 
+(Cheng et al., 2016; 
+McDonald et al., 
+2018) 
+Aero Pump’s med spray It is a new ophthalmic drug delivery 
+device that can be applied micro-and 
+nanotechnology-based ocular 
+formulation from a close distance 
+directly onto the open eye, without 
+causing a blink reflex. 
+- Administered easily without 
+the need to tilt the head back. 
+- Used for numerous 
+commercially ophthalmic 
+products for DED (Low and 
+high viscosity products). 
+Currently 
+available 
+(Kraus, 2020) 
+H.B. Mohamed et al. 
+European Journal of Pharmaceutical Sciences 175 (2022) 106206
+8
+stabilizing the tear film and repairing the corneal epithelial damage 
+(Jones et al., 2017; Kojima et al., 2020; Li et al., 2019; Milner et al., 
+2017). Increased tear secretion by using secretagogues agents can be 
+achieved by a local or systemic application. 
+The most used eye drops as artificial tears are 0.1% and 0.3% sodium 
+hyaluronate ophthalmic solution. It has been reported that the combi￾nation of sodium hyaluronate and diquafosol sodium as an aqueous 
+secretagogue, increases the retention time of water secreted by diqua￾fosol. Therefore increase the wettability time of the ocular surface and 
+the therapeutic effect of diquafosol drug (Kamiya et al., 2012). Finally, 
+most secretagogues agents are still under investigation (Kojima et al., 
+2020; Milner et al., 2017; Modis ´ and Szalai, 2011). 
+7. New treatments used for the management of DED 
+Recently, the developed techniques used to investigate and diagnose 
+the different types as well as stages of DED help in the decision of the 
+suitable treatment protocol. Up till now lubricant eye drops or ointments 
+to overcome the symptoms of DED are the mainstay treatment, however, 
+they cannot relieve the underline causes of DED. There are new pro￾cedures, devices, and topical medications introduced into the field of 
+DED treatment, where some of them are under investigation or in early 
+clinical trials (Akpek et al., 2019; Kojima et al., 2020; O’Neil et al., 
+2019). 
+Nowadays, there are numerous devices for the treatment of DED. 
+Some of these devices are useful for patients with aqueous tear defi￾ciency as intra or extra nasal neurostimulators whereas scleral lenses can 
+be used as a fluid-filled reservoir for a patient with an irregular corneal 
+surface. Also, the amniotic membrane is prescribed for various ocular 
+surface disorders and can be used for the DED as it has anti￾inflammatory and restorative properties. Recently, Aero Pumpʼs med 
+spray is considered an alternative device to eye droppers that can be 
+applied an ophthalmic medication from a close distance onto an open 
+eye as an ultra-soft, slow-moving fine mist without causing a blink reflex 
+by using a micro-nanotechnology-based spray nozzle. The new open-eye 
+spray offers a propellant and preservative-free multi-dose spray device. 
+On the other hand, there has been increasing attention to the study of 
+several processes for the treatment of DED. For example, using thermal 
+or mechanical energy via Intense Pulsed Light and Vectored Thermal 
+Pulsation to express glands and re-establish the normal flow of meibum. 
+Moreover, using the Meibomian Gland Probing technique by applying a 
+solid stainless steel probe directly into meibomian gland orifices pro￾vides a faster improvement in all DED measurements. The following 
+Tables 6 and 7 summarize the recently developed devices, and treatment 
+processes of DED respectively. 
+Despite a good understanding of the DED pathogenesis and the 
+presence of different types of treatment strategies, DED is still incom￾pletely treated. Several challenges in the management of DED are still 
+present. Using eye lubricants is still considered an important step in DED 
+management. However, they only relieve the symptoms and do not in￾fluence the real causes of DED. Furthermore, the chronic use of preser￾vative lubricant formulations can lead to damaging effects on the ocular 
+surface so preservative-free artificial tears are needed for long term 
+therapy (Jones et al., 2017). Moreover, using topical corticosteroids for 
+a long time will lead to several problems, containing opportunistic in￾fections and cataracts (Jones et al., 2017). 
+New alternative therapies are needed to be developed. Table 8 
+summarizes the recently developed therapies for the treatment of DED 
+that may particularly impact in the future, they are classified as: 
+- A mucin-like glycoprotein group e.g., Lacritin and Lubricin 
+They present naturally as a lubricant on the ocular surface and 
+protects the ocular surface against shear forces of physiological eyelid 
+blinks. Therefore, lowering the production of lubricin and/or lacritin 
+elevates the shear stress at the ocular surface, which may cause 
+inflammation and build-up of inflammatory mediators (e.g., IL-1α, IL-6, 
+TNF-α) and proteases (e.g., MMP-9) in the tear film. So the adminis￾tration of Lacritin and/or Lubricin locally as eye drops will improve both 
+signs and symptoms of DED. 
+- Mucin secretagogues e.g., Rebamipide, Diquafosol, Sulglycotide, 
+Tavilermide, Gefarnate, Ecabet sodium, Mycophenolate mofetil, and 
+15(s)-HETE (Icomucret). 
+Mucins are heavy glycoproteins, classified as gel-forming mucins 
+(MUC2, MUC5AC, MUC5B, MUC6, and MUC19) and soluble mucins 
+(MUC7 and MUC9). The most important gel-forming mucin is MUC5AC 
+which is secreted by the conjunctival goblet cells into the tear fluid 
+however MUC7 is the greatest significant soluble mucin obtained from 
+the acinar cells of the lacrimal glands. Mucins play significant roles on 
+the ocular surface (e.g., lubrication of the ocular surface, maintenance of 
+lacrimal fluid, and barrier against pathogens) (Hori, 2018). In DED, the 
+conjunctival goblet cells and mucin secretion are decreased. 
+Recently, the treatment strategies of DED are based on the stimula￾tion of tears production rather than tear substitution. The stimulation of 
+lacrimal glands chemically to produce aqueous tears using neuro￾stimulator drugs is still under investigation. On the other hand, 
+several drugs act as mucin secretagogues, increase the secretion of 
+mucin from conjunctival goblet cells and/or increase the goblet cell 
+Table 7 
+New process used for the treatment of DED. 
+Name of 
+process 
+Definition Advantages Disadvantages Availability References 
+Intense pulsed 
+light (IPL) 
+This technique is used for the hyper￾evaporative type of DED by applying 
+infrared light that is converted to 
+destructive heat upon absorption. 
+- Reducing inflammation and 
+bacterial growth on the 
+eyelid. 
+- Melting the viscous lipid in 
+meibomian glands to improve 
+the flow. 
+- Localizing redness and 
+swelling. 
+- There are no 
+significant adverse 
+effects. 
+FDA-approved for 
+dermatological treatment and 
+used recently for DED as off￾label. 
+(Dell et al., 2017; 
+Gupta et al., 2016) 
+Vectored 
+Thermal 
+Pulsation 
+- The applied heat and therapeutic 
+pressure on both eyelids. 
+- Preferred in the treatment of DED 
+with a defect in meibomian gland 
+dysfunction. 
+- Improving both signs and 
+symptoms of DED. 
+- The single treatment effects 
+lasting six to nine months. 
+- Minimal side effects 
+were noted as eyelid 
+discomfort only. 
+- The device is 
+expensive. 
+A clinical trial is needed to 
+become available. 
+(Blackie et al., 2016; 
+Hagen et al., 2018) 
+Meibomian 
+Gland 
+Probing 
+The applied stainless steel probe 
+directly into the meibomian gland 
+orifices to open the closed orifice. 
+- The significantly faster 
+improvement lasted for 11.5 
+months. 
+- It an application for the 
+patient’s suffering from DED 
+with meibomian glands 
+dysfunction 
+- Need skill and 
+experience. 
+Numerous placebo-controlled 
+trials are needed. 
+(Magno et al., 2021; 
+Maskin and Testa, 
+2018; Syed and 
+Sutula, 2017) 
+H.B. Mohamed et al. 
+European Journal of Pharmaceutical Sciences 175 (2022) 106206
+9
+Table 8 
+New topical eye therapies used in the treatment of DED. 
+Therapies Class Functions Stage of clinical 
+trials 
+References 
+A mucin-like glycoprotein 
+Lacritin - A tear glycoprotein is secreted mainly by the 
+lacrimal gland. 
+- Increasing mucin amount. 
+- Reducing signs of epithelial 
+damage. 
+Phase II (McNamara et al., 2016; 
+Vijmasi et al., 2014) 
+Lubricin - It is a lubricant agent present naturally on the 
+ocular surface. 
+- Decreased by increasing the production of 
+cytokines during inflammation. 
+- Decreasing friction between 
+cornea, conjunctiva, and eyelid. 
+- Preventing epithelial dysfunction 
+and degradation. 
+- Significantly outperformed sodium 
+hyaluronate in both signs and 
+symptoms of DED. 
+Phase II (Lambiase et al., 2017; 
+Schmidt et al., 2013) 
+Mucin secretagogues 
+Rebamipide 2% suspension Quinolinone derivative. - Increasing mucin-like glycoprotein. 
+- Stabilizing the mucin component of 
+the tear film after applying it four 
+times daily for four weeks. 
+- phase ІІІ trial in 
+the US 
+- Approved in 
+Japan and South 
+Korea 
+(Kinoshita et al., 2013) 
+Diquafosol sodium 3% A purinergic agonist of the ocular surface 
+(P2Y2 receptor agonist). 
+- Promoting fluid transfer and mucin 
+secretion by activation of 
+phospholipase proteins. 
+- Increasing mucin production. 
+- Has anti-inflammatory action. 
+(Koh, 2015) 
+Tavilermide (MIM-D3 
+(1% or 5%) 
+- Mimetogen (MIM-D3) is a synthetic (tyrosine 
+kinase) neurotrophin mimetic that belongs to 
+the nerve growth factor (NGF) family. 
+- It is TrkA receptor agonist. 
+- Stimulating TrkA receptors in the 
+conjunctiva leads to mucin secretion. 
+- Improving corneal damage healing. 
+- Improving DED symptoms after 
+administration twice daily for 28 
+days. 
+Phase II (Meerovitch et al., 2013) 
+Ecabet sodium A new class of diterpenoids molecules - Increasing the quantity and quality 
+of mucin. 
+- Improving both signs and 
+symptoms of DED after instillation 
+four times daily. 
+Phase III (Mito et al., 2007) 
+Mycophenolate mofetil Corticosteroid-sparing agent - Controlling the eye inflammation 
+and enhancing the function of goblet 
+cells. 
+Phase II (He et al., 2010) 
+15(s)-HETE or Icomucret 15(S)-hydroperoxyeicosatetraenoic acid is a 
+metabolite of arachidonic acid 
+- Mucin stimulants. 
+- Relieving corneal injury and 
+reestablishing corneal integrity. 
+Phase III/II (Gamache et al., 2002) 
+Anti-inflammatory and/or 
+immunosuppressive 
+Loteprednol etabonate 0.25% 
+suspension 
+A retro-metabolically designed corticosteroid 
+with low corticosteroid-related adverse 
+effects. 
+- Lowering the inflammation 
+associated with DED after being 
+dosed four times daily for 28 days. 
+FDA-approved (Beckman et al., 2020) 
+OCS-02 anti-TNFα antibody - Relieving severe ocular discomfort 
+accompanied with DED effectively. 
+Phase II (Galor, 2021) 
+A higher concentration of 
+cyclosporine (0.09 or 0.1) 
+- A T-cell immunomodulator in patients with 
+DED 
+- It acts as an anti-inflammatory and 
+immunosuppressive agent 
+- Increasing the density of goblet 
+cells in the conjunctiva significantly 
+after twice-daily administration. 
+- 0.09% formulation (rapid onset of 
+action with the same safety of 0.05% 
+formulations). 
+- 0.1% water-free drug formulation 
+delivery solution (earlier onset of 
+action, more safe and tolerable). 
+Phase III 
+Phase II 
+(Tauber et al., 2018) 
+(Wirta et al., 2019) 
+Tacrolimus (0.03%) eye drops Macrolide antibiotics have anti￾inflammatory/immunosuppressive effects 
+- Inhibiting the activation of 
+lymphocytes and the release of 
+inflammatory mediators 
+(interleukin-4, interleukin-8, and 
+tumor necrosis factor-a). 
+- Improving the symptoms and 
+clinical signs of DED. 
+Phase Ⅳ (Varela Rey et al., 2021) 
+Rapamycin (sirolimus) Anti-inflammatory and immunomodulatory Improving the signs and symptoms 
+of DED 
+Phase І (Linares-Alba et al., 2016) 
+EBI-005 Interleukin-1 receptor antagonists (IL-1R 
+antagonists) with an anti-inflammatory. 
+- Improving the signs and symptoms 
+of moderate to severe DED. 
+Phase ІІІ (Kovalchin et al., 2017) 
+Resolvin E1 analogues Lipid-derived autacoids play a role in the 
+resolution phase of inflammation. 
+- Increasing the tear production. 
+- Inhibiting the inflammatory 
+enzyme COX2. 
+- Inhibiting the ocular inflammation. 
+- Protecting the corneal integrity. 
+Phase ІІ (Cholkar et al., 2016) 
+Biological components 
+(continued on next page) 
+H.B. Mohamed et al. 
+European Journal of Pharmaceutical Sciences 175 (2022) 106206
+10
+numbers become available in the market and give good improvement 
+results. Several agents act as mucin secretagogues some of them are on 
+the market and others are in preclinical and clinical development. In 
+Japan regarding secretory mucins, two eye drops secretagogue (diqua￾fosol and rebamipide) were approved in December 2010 and January 
+2012, respectively for treating DED (Hori, 2018). 
+Diquafosol as a P2Y2 purinergic receptor agonist stimulates the 
+secretion of mucin from conjunctival goblet cells into the tear film after 
+local instillation. On the other hand, rebamipide might cure the ocular 
+surface and increase the goblet cell numbers as it stimulates the 
+prostaglandin and mucus glycoprotein synthesis and also inhibits in￾flammatory cytokines and reactive oxygen species (Hori, 2018). 
+- Anti-inflammatory and/or immunosuppressive e.g., loteprednol 
+etabonate, OCS-02, a higher concentration of cyclosporine, dapsone, 
+tacrolimus, rapamycin (sirolimus), EBI-005, and resolvin E1 
+analogues. 
+As previously discussed ocular inflammation is the core feature of 
+DED pathogenesis. Consequently using anti-inflammatory drugs 
+Table 8 (continued ) 
+Albumin 5% A major component of human serum - Improving corneal healing without 
+adverse events was observed in 
+patients after treatment every four 
+hours for four weeks. 
+Phase ІІ (Higuchi et al., 2007; 
+Shimmura et al., 2003) 
+Estradiol A synthetic form of naturally occurring 
+estradiol, a steroid sex hormone. 
+- Estradiol eye drops improve both 
+signs and symptoms of moderate to 
+severe DED in postmenopausal 
+women. 
+- phase II (Schmidl et al., 2021) 
+N-acetylcysteine A naturally-occurring amino acid (a derivative 
+of L-cysteine). 
+- Anti-inflammatory, anti￾collagenolytic and antioxidant 
+properties. 
+- Improving the ocular symptoms of 
+DED after being used topically four 
+times per day for two weeks. 
+phase II (Li et al., 2018; Schmidl 
+et al., 2017) 
+Thymosin b4 - A naturally occurring G-actin-binding 
+protein 
+- Found in high concentrations in ocular 
+surface fluid) 
+- Lowering pro-inflammatory 
+cytokines and improving symptoms 
+and signs in DED after application 
+for 28 days. 
+- Improving the symptoms of DED in 
+a murine model. 
+phase II (Kim et al., 2018; Sosne 
+et al., 2015; Sosne and 
+Kleinman, 2015) 
+Amniotic membrane extract eye 
+drops 
+- As cryopreserved amniotic membrane 
+- Including growth factors, cytokines, and 
+collagens 
+- Helping in the corneal wound 
+healing. 
+- Lowering the fibroblast activity. 
+- Decreasing the ocular surface 
+inflammation. 
+- Limiting use due to difficulty in 
+processing and preserving. 
+Phase I / ІІ (Murri et al., 2018; Perez 
+et al., 2021) 
+Mesenchymal stem cells - Multipotent stem cells can distinguish into 
+numerous cell types. 
+- Have immunomodulatory and anti￾inflammatory effects. 
+- Lowering the ocular surface 
+inflammation. 
+- Restoring of tear production. 
+- Restoring of conjunctival goblet 
+cells. 
+- Improving the symptoms of 
+patients with aqueous deficient DED. 
+Phase I / ІІ (Lu et al., 2020; Zhang 
+et al., 2015) 
+Other’s products 
+Visomitin (SkQ1) - A synthetic antioxidant 
+- Lowering the production of TNFα and IL-6 
+- Decreasing the tear film instability. 
+- Improving the functional state of 
+the cornea. 
+- Improving symptoms of patients 
+with mild to moderate DED. 
+phase II / III (Brzheskiy et al., 2015; 
+Zernii et al., 2017) 
+Tivanisiran (SYL1001) - a 19-base small interfering RNA (siRNA) 
+- Reducing the levels of the human transient 
+receptor potential vanilloid 1 (TRVP1) protein 
+within the cells 
+- Reducing ocular pain and 
+discomfort in patients with moderate 
+to severe DED. 
+phase III (Benitez-Del-Castillo et al., 
+2016) 
+Osmoprotectants 
+(e. g., erythritol, L-carnitine, and 
+trehalose) 
+- Naturally occurring small molecules that 
+lower the concentration of intracellular 
+organic salts without disturbing cellular 
+components. 
+- Preventing ocular cell death and 
+reducing inflammation in DED 
+significantly by lowering the 
+hyperosmolarity of tear fluid 
+Erythritol and L￾carnitine in lipid￾based eyedrops 
+(currently used) 
+A trehalose 
+solution of 3% 
+(currently used) 
+(Deng et al., 2014; 
+Giannaccare, 2016; 
+Kaercher et al., 2009) 
+(Orobia et al., 2017) 
+Types of osmoprotectants: (Chen 
+et al., 2013; Giannaccare, 2016; 
+Orobia et al., 2017; Simmons et al., 
+2015) 
+polyelectrolytes as carbohydrates 
+(trehalose and hypromellose) 
+▪ polyols (glycerol, erythritol, 
+inositol, and sorbitol) 
+▪ zwitterions as amino acids (e.g., 
+glycine, betaine, proline, and 
+taurine) 
+▪ methylamines/methyl sulfonium 
+solutes (e.g., L-carnitine and 
+Erythritol). 
+H.B. Mohamed et al. 
+European Journal of Pharmaceutical Sciences 175 (2022) 106206
+11
+consider one of the effective treatment approaches during DED man￾agement, so the development of this class attracts the attention of sci￾entists. Some of these agents are already used like cyclosporine and 
+loteprednol etabonate but there are higher concentrations and new 
+ophthalmic delivery systems of them under development of clinical 
+trials. Other drugs were performed to assess their safety and efficacy of 
+them in patients with DED, but up to now, they are still under 
+investigation. 
+- Biological components e.g., albumin, topical steroid hormones, N￾acetylcysteine, thymosin b4, amniotic membrane extract, mesen￾chymal stem cells. 
+Human serum albumin; blood derivatives can be used for the treat￾ment of DED. It is similar to natural tears; includes growth factors, lipids, 
+proteins, and antimicrobial elements. Application of It improves signs and 
+symptoms of DED. Moreover, mesenchymal stem cells can be differenti￾ated into several cell types and have an anti-inflammatory and immuno￾modulatory effect. Mesenchymal stem cells are effective in DED treatment 
+by enhancing reparative activities of the lacrimal gland after modulation 
+of macrophage polarization and so suppress the inflammation in the 
+lacrimal gland. In addition, they enhanced the restoration of conjunctival 
+goblet cells and the production of tears (Giannaccare et al., 2020). 
+Amniotic membrane extract like amniotic membrane is offered 
+beneficial substances counting cytokines, growth factors, and collagens 
+to induce corneal healing and decrease ocular surface inflammation. 
+Like other biological components thymosin b4; presents naturally in the 
+ocular surface promotes healing of the ocular surface and inhibit pro￾inflammatory cytokines. Moreover, the beneficial treatment of the 
+ocular signs and symptoms of DED was indicated after using topical 
+hormone therapy. This potential effect on DED was elucidated by the 
+presence of receptors for sex hormones on the meibomian and the 
+lacrimal glands that regulate the function of these glands (Barabino 
+et al., 2012). N-Acetylcysteine is a naturally occurring derivative of 
+L-cysteine amino acid with mucolytic, anticollagenolytic, 
+anti-inflammatory, and antioxidant properties (Ziment, 1988). The 
+clinical result observed after topical application of N-acetylcysteine 
+showed significant improvements in signs and symptoms of DED. 
+- Other’s products e.g., visomitin, tivanisiran, and osmoprotectants. 
+Visomitin is an antioxidant drug that accumulates inside the cells and 
+lowers the damage of overproduction to reactive oxygen species by 
+mitochondrial. Also, it decreases the production of TNFα and IL-6 and so 
+enhances the protection of the cornea (Skulachev, 2013). Tivanisiran is a 
+selective inhibitor to transient receptor potential vanilloid 1 (TRPV1); 
+stimulated by inflammatory mediators and hyperosmolarity in DED and 
+leads to transmitting a pain signal to the brain (Bourinet et al., 2014). 
+Using Tivanisiran in clinical trials for the management of DED has been 
+investigated and shows promising results in lowering ocular pain and 
+discomfort. Osmoprotectants are naturally occurring molecules; they 
+decrease the intracellular organic salts concentration without disturbing 
+cellular components. They investigated to lower the tear fluid hyper￾osmolarity associated with DED (Yancey, 2005). 
+8. Ocular drug delivery systems 
+Commercially available ophthalmic drug formulations are effective 
+but less efficient to manage DED. Ocular instillation is the most widely 
+preferred route of drug administration, particularly for the management 
+of anterior segment diseases, such as DED. Local therapies to the anterior 
+segment, the targeted ocular tissues, have low bioavailability; restricted 
+by major challenges of physiological eye defences such as tear turnover, 
+nasolacrimal duct drainage, and eye complex structure. Thus drug 
+therapeutic levels are not sustained for a longer period in target tissues. 
+Due to DED being a multifactorial disease involving several underlying 
+pathologies, it rapidly progresses to become a chronic refractory disor￾der. Hence, several pharmacological treatments are often concurrently 
+recommended to treat DED efficiently. Moreover, the treatment courses 
+of DED take a long time with repeated drugs instillation daily. 
+Commonly, the excipients used in commercial eye drops can exhibit 
+ocular toxicity and aggravate the signs and symptoms of DED (Epstein 
+et al., 2009; Walsh and Jones, 2019). So, the challenge in the treatment 
+of DED is using ocular formulations suitable and applicable; increasing 
+ocular retention time, and improving ocular bioavailability with effi￾cient safety upon use for a long time. 
+Nanomedicines, as delivery systems, have great development in 
+ophthalmology. They increase ocular drug bioavailability via over￾coming ocular physiological barriers through mucoadhesive ability 
+aiming to deliver drugs to the target site with appropriate concentration. 
+Moreover, they deliver drugs in a preprogrammed sustained release 
+fashion. For DED specifically, the pharmaceutical formulators do their 
+best to produce safer formulations without preservatives (Gote et al., 
+2019; Weng et al., 2017). 
+The topical ophthalmic formulation for hydrophobic drugs has been 
+a great challenge for ocular drug delivery. Cyclodextrins (CDs) are three 
+types of cyclic oligosaccharides (α, β, and γ) that have a hydrophobic 
+cavity and hydrophilic outer surface. Usually, CDs are used to improve 
+the solubility of hydrophobic drugs by forming water-soluble complexes 
+(Agarwal and Rupenthal, 2016). This complex between drug and CD 
+enhances drug solubility in the aqueous part of tear film and penetration 
+to the mucin layer that provides sustained drug release and so, increases 
+ocular drug bioavailability. Further, the solubility of the hydrophobic 
+drugs is increased by using micelles. Micelles are a spherical system with 
+a hydrophobic core and hydrophilic shell formed by the self-assembling 
+of surfactant molecules. The corneal drug uptake increased by using 
+micelles in nano-size. So, this approach was evaluated for a different 
+drug to treat DED. The preservative-free 0.09% CsA micelle formulation 
+is the first approved FDA micelle formulation for the treatment of DED 
+(Mandal et al., 2019). Liposomes are phospholipid bilayer structures, 
+used to increase the solubility of both hydrophilic and hydrophobic 
+drugs. Specifically for DED treatment, phospholipids in liposomes play a 
+role in the renewing of the lipid layer of the tear film (Acar et al., 2018). 
+Liposomal spray, non-drug-loaded, was recently introduced for the 
+treatment of DED. The clinical studies of liposomal eye drop as well as 
+liposomal spray provide their effectiveness in the treatment of DED. 
+The development of liposomal formulations is limited due to several 
+factors; poor stability, low encapsulation efficacy, and difficulty in the 
+sterilization manufacturing process. Therefore, the proliposomes, dry 
+powder that freely assembles to form liposomes, have been developed to 
+overcome some of these limitations. 
+Nano-emulsions are another form of lipid-based therapy as lipo￾somes. They are composed of both aqueous and oil phases that make 
+them useful in the delivery of both hydrophilic and hydrophobic drugs 
+to ocular tissue. For lipophilic drugs, oil in water emulsions as a topical 
+ophthalmic delivery system is more useful due to the increasing ocular 
+permeability and cellular uptake of a drug (Gan et al., 2013). According 
+to the chemical nature of components added during the formulation, the 
+emulsions are classified into two types anionic and cationic. Both types 
+of emulsion increase a drug ocular bioavailability as their small size can 
+enhance drug uptake by the cornea. A 0.05% preservative-free CsA 
+anionic oil-in-water nanoemulsion was approved by FDA in 2003. On 
+the other hand, a double concentration of CsA has displayed better 
+ocular tolerability and higher bioavailability in a cationic nanoemulsion 
+formula and was approved by the EU in 2015. Moreover, a 0.05% CsA 
+nanoemulsion formula was established by the self-nano emulsifying 
+drug delivery system (SNEDDS) to provide better physicochemical drug 
+stability and solubility. SNEDDS are water-free homogenous mixtures of 
+a drug, oil, a surfactant, and a co-surfactant. Upon the addition of water, 
+transparent emulsions are formed in nanometers droplet size. 
+Other lipid-based therapies; solid lipid nanoparticles (SLNs), Lipid 
+nanocapsules, nanostructured lipid carriers (NLCs), and lipid-based 
+H.B. Mohamed et al. 
+European Journal of Pharmaceutical Sciences 175 (2022) 106206
+12
+Table 9 
+Ocular drug delivery system used for management of DED 
+Ocular delivery Advantages Applications References 
+- Enhancing drug solubility in the aqueous tear fluid. 
+- Penetrating the mucus layer. 
+- Providing sustained drug release. 
+- Improving ocular drug permeation and bioavailability. 
+- Aqueous cyclosporine A (CsA) 
+eyedrops 
+- Tacrolimus 
+- Loteprednol etabonate 
+- OCS-02 (anti-TNFα antibody) 
+(Agarwal and Rupenthal, 2016; 
+Mahmoudi et al., 2020; Soliman 
+et al., 2017) 
+Increasing uptake in all layers of the cornea. - Micellar CsA formulations 
+- Diclofenac sodium eye drops 
+(Lallemand et al., 2017; Mandal 
+et al., 2019; Quintana-Hau et al., 
+2005) 
+Their phospholipids stabilize the lipid layer of the tear 
+film. 
+- CsA 
+- Medroxyprogesterone acetate 
+- Sirolimus 
+(Li et al., 2012; Soriano-Romaní 
+et al., 2017) 
+Proliposomes - Have a longer shelf-life. 
+- High safety and efficacy. 
+- CsA (Karn et al., 2014) 
+liposome lid sprays 
+or liposomal spray 
+- They are applied onto the outside of the lids, where the 
+polar phospholipids diffuse from the lid surface to the 
+tear film to provide a supplement. 
+- Providing lubrication, preventing tear film evaporation, 
+and so treating DED symptoms. 
+- Replacing both aqueous and lipid components of the 
+tear film. 
+- Lipid-soluble vitamins with ocular 
+protective effects (e.g., vitamins A and 
+E) 
+- Tetracycline, diclofenac, Fluconazole, 
+and CsA 
+- Osmoprotectants activity through the 
+addition of L-carnitine or trehalose 
+(Agarwal et al., 2021; Garrigue 
+et al., 2017) 
+Punctal plug 
+“intracanalicular” 
+- Acting as a drug reservoir. 
+- Biodegrading after completing the release of the drug 
+without the need for removal by the physician. 
+- Releasing the drug loaded for up to 30 days. 
+- Sustained-release dexamethasone (Vickers and Gupta, 2015) 
+KPI-121 - Proprietary technology is known as mucus penetrating 
+particles (MPP). 
+- It is specific for loteprednol etabonate, 
+approved by the FDA in 2020. 
+(Gupta and Venkateswaran, 
+2021; Popov, 2020; Schopf 
+et al., 2014, 2015) 
+- SFAs (semifluorinated alkanes) 
+■ Synthetic pharmacologically inert hydrophobic liquids 
+of minimized. 
+■ Blurring of vision. 
+■ Having extremely low surface tension, so spreading 
+rapidly on the ocular surface. 
+- No need for preservation when they are used. 
+- SFA based Omega-3 eyedrops (ex vivo 
+studies) 
+- SFA based CsA eyedrops (ex vivo 
+studies) 
+- SFA based azithromycin suspensions 
+eyedrops (ex vivo studies) 
+- Medium-chain triglycerides are used as 
+the oil phase in ocular emulsions 
+- Azithromycin 1.5% 
+(Agarwal et al., 2019; Agarwal 
+et al., 2018; Garnock-Jones, 
+2012; Wirta et al., 2019) 
+Nano-emulsion 
+Anionic emulsions Cationic 
+emulsions 
+- Improving ocular drug delivery. 
+- Enhancing drug uptake into the cornea. 
+Anionic emulsion 
+Decreasing eye irritation and vision disturbances 
+Cationic emulsions 
+The positively charged nanodroplets interact with the 
+negatively charged mucin on the ocular surface. 
+Therefore this formulation prolongs drug residence time 
+and improves drug bioavailability. 
+- A preservative-free CsA anionic oil-in￾water nanoemulsion 
+- CsA anionic oil-in-water nanoemulsion 
+contains sodium hyaluronate 
+- Cataionic nanoemulsion of CsA 
+(Singh et al., 2020) 
+(Daull et al., 2021; Lallemand 
+et al., 2017; Tong et al., 2020) 
+(Daull et al., 2013; Lallemand 
+et al., 2012) 
+Selfnanoemulsifying drug delivery 
+systems (SNEDDS) 
+Improving physicochemical properties of drugs and 
+treatment efficacy in DED. 
+- CsA eyedrops with SNEDDS (Bang et al., 2019) 
+Polymeric Nanoparticles - Cationic nanoparticles 
+-Improving mucoadhesion by ionic interaction with 
+negatively charged mucin. 
+- CsA nanoparticles are surface-modified 
+with phenylboronic once-weekly 
+administration. 
+(Liu et al., 2014) 
+Solid lipid nanoparticles 
+- Nanostructured Lipid Carriers 
+- Lipid nanocapsules 
+- Lipid-based (lipomimetic) eyedrops 
+- Improving formulation shelf-life. 
+- Improving drug ocular bioavailability. 
+- CsA formulated in compritol (Gokçe ¨ et al., 2009) 
+- A dexamethasone-encapsulated 
+cholesterol-Labrafac™ lipophile system. 
+(Kumari et al., 2021) 
+- Promising corneal mucoadhesion, biodistribution, and 
+preclinical efficacy in rabbits. 
+- An aqueous ophthalmic, patient￾friendly, CsA formulation. 
+(Eldesouky et al., 2021) 
+(Agarwal and Craig, 2021) 
+(continued on next page) 
+H.B. Mohamed et al. 
+European Journal of Pharmaceutical Sciences 175 (2022) 106206
+13
+(lipomimetics) are attractive alternatives to aqueous artificial tears due 
+to their lipid compositions are close to the tear film composition that 
+leads to relieve DED symptoms and improve the stability of the tear film 
+directly after instillation. In addition to that, these lipid-based nano￾technologies provide a high degree of drug solubility, drug ocular resi￾dence time, and tissue penetration. 
+Using cationic nanoparticles mainly prolongs the ocular residence 
+time. So, the CsA nanoparticle’s surface is modified with a cationic 
+phenylboronic acid proposing that the drug concentration remains 
+within the therapeutic range even after once-weekly application. 
+Moreover, mucus penetrating nanoparticles (MPN) have been developed 
+as another approach to reduce the entrapment of particles and increase 
+ocular bioavailability (Lai et al., 2009). Recently, in 2020 FDA approved 
+loteprednol etabonate nanoparticles coated with Poloxamer 407 
+(KPI-121) that were formulated by the MPN technology for short-term 
+DED treatment. 
+Semifluorinated alkanes (SFAs) are non-aqueous vehicles used to 
+formulate eye drops free from preservatives. These carriers were intro￾duced recently to DED formulations as they enhance the diffusion of a 
+drug through the cornea, stabilize the tear film and relieve the DED 
+symptoms effectively. 
+Contact lenses are thin-curved-disk of polymeric materials used as 
+drug carrier systems. They can be classified into types (soft, rigid, and 
+semi-rigid) accordingly to the polymers used. Generally, the drug 
+bounded and loaded to lenses by presoaked in the drug solution. Drug 
+contact lenses offer higher ocular bioavailability than eye drops due to 
+their close contact with the cornea. On the other hand, ocular inserts are 
+solid or semisolid and soluble or insoluble polymeric devices that are 
+applied to the conjunctival sac. They increase ocular residence time, 
+prolong the drug release to the eye, and improve patient compliance by 
+lowering administration frequency. Further, nanowafers are thin poly￾meric membranes designed as rectangular. They act as a drug reservoir 
+to improve therapeutic drug efficacy. Moreover, punctual plugs are a 
+biodegradable polymer that dispenses a drug onto the ocular surface up 
+to 30 days after insertion. 
+Generally, nanomedicine entered to DED management field through 
+numerous types of nanocarriers, listed in Table 9, some of them already 
+marketed, while others are still under investigation. 
+9. Concluding remarks 
+The present retrospective article is focusing light on the current 
+dealing with DED from a pharmaceutical point of view. In fact and up till 
+now there is not sufficient data for complete restoring of tear film effi￾ciency. Early and objective diagnosing of DED will manage the treat￾ment process. 
+Nowadays several new diagnostic techniques are already estab￾lished. The use of these techniques shows a great impact on the deter￾mination of the different types and causes of DED. Although the 
+underlying causes still need further elucidation. Usually, the ophthal￾mologist prescribes various medicines that act as tear substitution or 
+punctual plugs to help alleviate the symptoms of DED, but actually, 
+these don’t address the problem. 
+Currently, to overcome the problem, researchers have focused on the 
+development of devices, processes, and medicines that help in the 
+stimulation of tear secretion. Some of them are approved and marketed; 
+however, others are still under investigation. DED is a chronic and 
+progressive disorder, using medical devices or processes in management 
+is not cheap as usual, so using medicines is more suitable and applicable 
+for patients. Pharmaceutical scientists facing a great challenge in 
+developing ocular delivery systems those help in the treatment of DED 
+preserving patient compliance. Theoretically, topical application of 
+drugs is the most appropriate for the management of DED, however, the 
+inefficient integrity of tear film increases the susceptibility to ocular 
+toxicity after long-lasting topical application. So, the ideal topical drug 
+delivery system should base on the compromisation between safety and 
+efficacy. Practically, they are striving hard to improve ocular drug de￾livery systems for topical applications that target multiple underlying 
+causes with high drug bioavailability in formulations lacking 
+preservatives 
+Declaration of Competing Interest 
+The authors declare that they have no known competing financial 
+interests or personal relationships that could have appeared to influence 
+the work reported in this paper. 
+Supplementary materials 
+Supplementary material associated with this article can be found, in 
+the online version, at doi:10.1016/j.ejps.2022.106206. 
+Appendix 
+Table A1. 
+Table 9 (continued ) 
+Ocular delivery Advantages Applications References 
+- Reducing the interfacial tension between the aqueous 
+and lipid components of the tear film and improving tear 
+film stability and continuity. 
+- Providing a more consistent barrier to excessive tear 
+evaporation. 
+- Oil in water emulsion (soybean oil and 
+egg yolk phospholipids in aqueous 
+sodium hyaluronate. 
+Contact lens - Promoting residence time of drug on the cornea. 
+- Increasing drug ocular bioavailability. 
+- Polyvinylpyrrolidone 
+- Hyaluronic acid 
+- Phospholipids 
+- Hydroxypropyl methylcellulose 
+- Cyclosporine A 
+- Dexamethasone 
+- Diclofenac 
+- Betaine 
+(Maulvi et al., 2020) 
+(Chang et al., 2021; Maulvi 
+et al., 2015) 
+(Pitt et al., 2011) 
+(White et al., 2011) 
+(Choi et al., 2019) 
+(Bengani et al., 2020) 
+(Demirel and Sarac, 2012) 
+(Hsu et al., 2015) 
+Nanowafers - They are applied by patients easily. 
+- The system is slowly dissolved and so resulting in a long 
+duration of the drug. 
+- Dexamethasone (Coursey et al., 2015) 
+Ocular inserts (Lacrisert) - A preservative-free. 
+- Applied once-daily. 
+- Used in moderate to severe cases. 
+- After application, they are softened and dissolved 
+slowly, which leads to stabilizing the tear film and 
+relieving symptoms of DED. 
+- Hydroxypropyl cellulose (Nguyen and Latkany, 2011) 
+H.B. Mohamed et al. 
+European Journal of Pharmaceutical Sciences 175 (2022) 106206
+14
+References 
+Aaron, M., Solley, W.A., Broocker, G., 2005. Chapter 1 - general eye examination. Eds.. 
+In: Palay, D.A., Krachmer, J.H. (Eds.), Primary Care Ophthalmology 1–23. 
+Acar, D., Molina-Martínez, I.T., Gomez-Ballesteros, ´ M., Guzman-Navarro, ´ M., Benítez￾Del-Castillo, J.M., Herrero-Vanrell, R., 2018. Novel liposome-based and in situ 
+gelling artificial tear formulation for dry eye disease treatment. Contact Lens 
+Anterior Eye 41, 93–96. 
+Agarwal, P., Craig, J.P., 2021. Formulation considerations for the management of dry eye 
+disease. 13. 
+Agarwal, P., Craig, J.P., Krosser, ¨ S., Eickhoff, K., Swift, S., Rupenthal, I.D., 2019. Topical 
+semifluorinated alkane-based azithromycin suspension for the management of 
+ocular infections. Eur. J. Pharm. Biopharm. 142, 83–91. 
+Agarwal, P., Craig, J.P., Rupenthal, I.D., 2021. Formulation considerations for the 
+management of dry eye disease. Pharmaceutics 13, 207. 
+Agarwal, P., Rupenthal, I.D., 2016. Modern approaches to the ocular delivery of 
+cyclosporine A. Drug Discov. Today 21, 977–988. 
+Agarwal, P., Scherer, D., Günther, B., Rupenthal, I.D., 2018. Semifluorinated alkane 
+based systems for enhanced corneal penetration of poorly soluble drugs. Int. J. 
+Pharm. 538, 119–129. 
+Akpek, E.K., Amescua, G., Farid, M., Garcia-Ferrer, F.J., Lin, A., Rhee, M.K., Varu, D.M., 
+Musch, D.C., Dunn, S.P., Mah, F.S., 2019. Dry eye syndrome preferred practice 
+pattern®. Ophthalmology 126, P286–p334. 
+Aragona, P., Giannaccare, G., Mencucci, R., Rubino, P., Cantera, E., Rolando, M., 2021. 
+Modern approach to the treatment of dry eye, a complex multifactorial disease: a P.I. 
+C.A.S.S.O. board review. Br. J. Ophthalmol. 105, 446–453. 
+Aragona, P., Rania, L., Micali, A., Puzzolo, D., 2013. Nutrition and dry eye. Curr. 
+Ophthalmol. Rep. 1, 58–64. 
+Azcarate, P.M., Venincasa, V.D., Feuer, W., Stanczyk, F., Schally, A.V., Galor, A., 2014. 
+Androgen deficiency and dry eye syndrome in the aging male. Invest. Ophthalmol. 
+Vis. Sci. 55, 5046–5053. 
+Bacman, S., Berra, A., Sterin-Borda, L., Borda, E., 2001. Muscarinic acetylcholine 
+receptor antibodies as a new marker of dry eye Sjogren ¨ syndrome. Invest. 
+Ophthalmol. Vis. Sci. 42, 321–327. 
+Bang, S.P., Yeon, C.Y., Adhikari, N., Neupane, S., Kim, H., Lee, D.C., Son, M.J., Lee, H.G., 
+Kim, J.-Y., Jun, J.H., 2019. Cyclosporine A eyedrops with self-nanoemulsifying drug 
+delivery systems have improved physicochemical properties and efficacy against dry 
+eye disease in a murine dry eye model. PLoS ONE 14, e0224805. -e0224805. 
+Barabino, S., Chen, Y., Chauhan, S., Dana, R., 2012. Ocular surface immunity: 
+homeostatic mechanisms and their disruption in dry eye disease. Prog. Retin. Eye 
+Res. 31, 271–285. 
+Barabino, S., Shen, L., Chen, L., Rashid, S., Rolando, M., Dana, M.R., 2005. The 
+controlled-environment chamber: a new mouse model of dry eye. Invest. 
+Ophthalmol. Vis. Sci. 46, 2766–2771. 
+Beckman, K., Katz, J., Majmudar, P., Rostov, A., 2020. Loteprednol etabonate for the 
+treatment of dry eye disease. J. Ocular Pharmacol. Therap. 36, 497–511. 
+Bengani, L.C., Kobashi, H., Ross, A.E., Zhai, H., Salvador-Culla, B., Tulsan, R., Kolovou, P. 
+E., Mittal, S.K., Chauhan, S.K., Kohane, D.S., Ciolino, J.B., 2020. Steroid-eluting 
+contact lenses for corneal and intraocular inflammation. Acta Biomater. 116, 
+149–161. 
+Benitez-Del-Castillo, J.M., Moreno-Montan˜´es, J., Jim´enez-Alfaro, I., Munoz-Negrete, ˜ F.J., 
+Turman, K., Palumaa, K., S´
+adaba, B., Gonz´
+alez, M.V., Ruz, V., Vargas, B., Paneda, ˜ C., 
+Martínez, T., Bleau, A.M., Jimenez, A.I., 2016. Safety and efficacy clinical trials for 
+SYL1001, a novel short interfering RNA for the treatment of dry eye disease. Invest. 
+Ophthalmol. Vis. Sci. 57, 6447–6454. 
+Blackie, C.A., Coleman, C.A., Holland, E.J., 2016. The sustained effect (12 months) of a 
+single-dose vectored thermal pulsation procedure for meibomian gland dysfunction 
+and evaporative dry eye. Clin. Ophthalmol. 10, 1385–1396. 
+Bourinet, E., Altier, C., Hildebrand, M.E., Trang, T., Salter, M.W., Zamponi, G.W., 2014. 
+Calcium-permeable ion channels in pain signaling. Physiol. Rev. 94, 81–140. 
+Brzheskiy, V.V., Efimova, E.L., Vorontsova, T.N., Alekseev, V.N., Gusarevich, O.G., 
+Shaidurova, K.N., Ryabtseva, A.A., Andryukhina, O.M., Kamenskikh, T.G., 
+Sumarokova, E.S., Miljudin, E.S., Egorov, E.A., Lebedev, O.I., Surov, A.V., Korol, A. 
+R., Korol, A.R., Nasinnyk, I.O., Bezditko, P.A., Muzhychuk, O.P., Vygodin, V.A., 
+Yani, E.V., Savchenko, A.Y., Karger, E.M., Fedorkin, O.N., Mironov, A.N., 
+Ostapenko, V., Popeko, N.A., Skulachev, V.P., Skulachev, M.V., 2015. Results of a 
+multicenter, randomized, double-masked, placebo-controlled clinical study of the 
+efficacy and safety of visomitin eye drops in patients with dry eye syndrome. Adv. 
+Ther. 32, 1263–1279. 
+Chang, W.-H., Liu, P.-Y., Lin, M.-H., Lu, C.-J., Chou, H.-Y., Nian, C.-Y., Jiang, Y.-T., 
+Hsu, Y.-H.H., 2021. Applications of hyaluronic acid in ophthalmology and contact 
+lenses. Molecules 26, 2485. 
+Chen, W., Zhang, X., Li, J., Wang, Y., Chen, Q., Hou, C., Garrett, Q., 2013. Efficacy of 
+osmoprotectants on prevention and treatment of murine dry eye. Invest. 
+Ophthalmol. Vis. Sci. 54, 6287–6297. 
+Cheng, A.M., Zhao, D., Chen, R., Yin, H.Y., Tighe, S., Sheha, H., Casas, V., Tseng, S.C., 
+2016. Accelerated restoration of ocular surface health in dry eye disease by self￾retained cryopreserved amniotic membrane. Ocular Surf. 14, 56–63. 
+Choi, J.H., Li, Y., Jin, R., Shrestha, T., Choi, J.S., Lee, W.J., Moon, M.J., Ju, H.T., 
+Choi, W., Yoon, K.C., 2019. The efficiency of cyclosporine A-eluting contact lenses 
+for the treatment of dry eye. Curr. Eye Res. 44, 486–496. 
+Cholkar, K., Gilger, B.C., Mitra, A.K., 2016. Corrigendum to "topical delivery of aqueous 
+micellar Resolvin E1 analog (RX-10045)" [Int. J. Pharm. 498 (2016) 326-334]. Int. J. 
+Pharm. 509, 528. 
+Ciprandi, G., Buscaglia, S., Pesce, G., Lotti, R., Rolando, M., Bagnasco, M., Canonica, G. 
+W., 1994. Effects of conjunctival hyperosmolar challenge in allergic subjects and 
+normal controls. Int. Arch. Allergy Immunol. 104, 92–96. 
+Coursey, T.G., Henriksson, J.T., Marcano, D.C., Shin, C.S., Isenhart, L.C., Ahmed, F., De 
+Paiva, C.S., Pflugfelder, S.C., Acharya, G., 2015. Dexamethasone nanowafer as an 
+effective therapy for dry eye disease. J. Control. Release 213, 168–174. 
+Craig, J.P., Nelson, J.D., Azar, D.T., Belmonte, C., Bron, A.J., Chauhan, S.K., de Paiva, C. 
+S., Gomes, J.A.P., Hammitt, K.M., Jones, L., Nichols, J.J., Nichols, K.K., Novack, G. 
+D., Stapleton, F.J., Willcox, M.D.P., Wolffsohn, J.S., Sullivan, D.A., 2017. TFOS 
+DEWS II Report Executive Summary. Ocular Surf. 15, 802–812. 
+Daull, P., Lallemand, F., Philips, B., Lambert, G., Buggage, R., Garrigue, J.S., 2013. 
+Distribution of cyclosporine A in ocular tissues after topical administration of 
+cyclosporine A cationic emulsions to pigmented rabbits. Cornea 32, 345–354. 
+Daull, P., Nagano, T., Gros, E., Feraille, L., Barabino, S., Garrigue, J.-S., 2021. Ocular 
+surface response of two preservative-free cylcosporine A emulsion eye drops in a 
+mouse model of dry eye. Curr. Eye Res. 46, 1096–1104. 
+Table A1 
+Definitions of some delivery systems or devices. 
+Name Definition References 
+Liposome lid sprays Pharmaceutical liposomal 
+formulation intended to be 
+sprayed on eyelids with or 
+without drug-loaded for 
+renewing the tear film. 
+(Agarwal and 
+Craig, 2021) 
+Aero Pump’s med spray It is a medically developed 
+ophthalmic drug delivery device 
+to apply pharmaceutical ocular 
+formulations as a mist of nano or 
+micro-sized directly onto the 
+open eye without causing a blink 
+reflex. 
+(Kraus, 2020) 
+Punctal plugs 
+"intracanalicular" 
+It is a pharmaceutical moulded 
+plug formulation of drugs 
+embedded in biodegradable 
+polymeric materials such as 
+collagen, absorbable 
+polyethylene glycol hydrogel, or 
+acrylic polymer to close lacrimal 
+ducts and release drugs in a 
+predetermined time. 
+(Vickers and 
+Gupta, 2015) 
+KPI-121 The ophthalmic suspension uses 
+the mucus-penetrating particles 
+MPP technology to deliver the 
+drug more efficiently to the 
+ocular tissues. 
+(Gupta and 
+Venkateswaran, 
+2021) 
+Selfnanoemulsifying 
+drug delivery systems 
+It is an anhydrous homogenous 
+mixture of drug, oil, surfactant, 
+and cosurfactant that is 
+converted to nanoemulsion upon 
+dilution with water. 
+(Bang et al., 2019) 
+Nanostructured Lipid 
+Carriers 
+It is a pharmaceutical delivery 
+system composed mainly of 
+liquid oil core enveloped in solid 
+lipid nanoparticles. 
+(Kumari et al., 
+2021) 
+Lipid nanocapsules It is a new biomimetic nano 
+vector for drug or gene delivery. 
+It is composed of lecithin and 
+PEGylated surfactant and 
+occupies a liquid oil carrying 
+drug. 
+(Eldesouky et al., 
+2021) 
+Lipid-based 
+(lipomimetic) 
+eyedrops 
+Eye drops usually contain 
+amphipathic lipids such as 
+phospholipids 
+(phosphatidylcholine) and 
+ω-hydroxy fatty acids. 
+(Agarwal and 
+Craig, 2021) 
+Nanowafers They are circular discs nanosized 
+loaded with drug and 
+administered onto the eye 
+surface, where it is applied easily 
+as a contact lens. 
+(Coursey et al., 
+2015) 
+Ocular inserts (lacrisert) They are sterile thin, 
+multilayered, solid, or semisolid 
+devices impregnated with the 
+drug and applied in the cul-de￾sac or conjunctival sac. Their 
+shape and size are designed 
+especially for ophthalmic 
+applications. 
+(Tsubota et al., 
+2020) 
+H.B. Mohamed et al. 
+European Journal of Pharmaceutical Sciences 175 (2022) 106206
+15
+De Paiva, C.S., Corrales, R.M., Villarreal, A.L., Farley, W., Li, D.Q., Stern, M.E., 
+Pflugfelder, S.C., 2006a. Apical corneal barrier disruption in experimental murine 
+dry eye is abrogated by methylprednisolone and doxycycline. Invest. Ophthalmol. 
+Vis. Sci. 47, 2847–2856. 
+De Paiva, C.S., Corrales, R.M., Villarreal, A.L., Farley, W.J., Li, D.Q., Stern, M.E., 
+Pflugfelder, S.C., 2006b. Corticosteroid and doxycycline suppress MMP-9 and 
+inflammatory cytokine expression, MAPK activation in the corneal epithelium in 
+experimental dry eye. Exp. Eye Res. 83, 526–535. 
+Dell, S.J., Gaster, R.N., Barbarino, S.C., Cunningham, D.N., 2017. Prospective evaluation 
+of intense pulsed light and meibomian gland expression efficacy on relieving signs 
+and symptoms of dry eye disease due to meibomian gland dysfunction. Clin. 
+Ophthalmol. 11, 817–827. 
+Demirel, S., Sarac, O., 2012. Late corneal perforation with topical diclofenac sodium use 
+after radiotherapy. Eye Contact Lens 38, 197–199. 
+Deng, R., Su, Z., Hua, X., Zhang, Z., Li, D.Q., Pflugfelder, S.C., 2014. Osmoprotectants 
+suppress the production and activity of matrix metalloproteinases induced by 
+hyperosmolarity in primary human corneal epithelial cells. Mol. Vis. 20, 1243–1252. 
+Dunn, J.D., Karpecki, P.M., Meske, M.E., Reissman, D., 2021. Evolving knowledge of the 
+unmet needs in dry eye disease. Am. J. Manage. Care 27, S23–s32. 
+Eldesouky, L.M., El-Moslemany, R.M., Ramadan, A.A., Morsi, M.H., Khalafallah, N.M., 
+2021. Cyclosporine lipid nanocapsules as thermoresponsive gel for dry eye 
+management: promising corneal mucoadhesion, biodistribution and preclinical 
+efficacy in rabbits. Pharmaceutics 13 (3), 360. https://doi.org/10.3390/ 
+pharmaceutics13030360. Mar 9. 
+Epstein, S.P., Ahdoot, M., Marcus, E., Asbell, P.A., 2009. Comparative toxicity of 
+preservatives on immortalized corneal and conjunctival epithelial cells. J. Ocular 
+Pharmacol. Therap. 25, 113–119. 
+Foulks, G.N., Borchman, D., Yappert, M., Kim, S.H., McKay, J.W., 2010. Topical 
+azithromycin therapy for meibomian gland dysfunction: clinical response and lipid 
+alterations. Cornea 29, 781–788. 
+Galor, A., 2021. Efficacy and Safety of OCS-02 a novel, potent, topical TNFα antibody in 
+acute anterior uveitis (AAU): a phase 2 study. Invest. Ophthalmol. Vis. Sci. 62, 3476, 
+3476. 
+Gamache, D.A., Wei, Z.Y., Weimer, L.K., Miller, S.T., Spellman, J.M., Yanni, J.M., 2002. 
+Corneal protection by the ocular mucin secretagogue 15(S)-HETE in a rabbit model 
+of desiccation-induced corneal defect. J. Ocular Pharmacol. Therap. 18, 349–361. 
+Gan, L., Wang, J., Jiang, M., Bartlett, H., Ouyang, D., Eperjesi, F., Liu, J., Gan, Y., 2013. 
+Recent advances in topical ophthalmic drug delivery with lipid-based nanocarriers. 
+Drug Discov. Today 18, 290–297. 
+Garnock-Jones, K.P., 2012. Azithromycin 1.5% ophthalmic solution: in purulent 
+bacterial or trachomatous conjunctivitis. Drugs 72, 361–373. 
+Garrigue, J.-S., Amrane, M., Faure, M.-O., Holopainen, J.M., Tong, L., 2017. Relevance of 
+lipid-based products in the management of dry eye disease. J. Ocular Pharmacol. 
+Therap. 33, 647–661. 
+Giannaccare, G., 2016. A novel osmoprotectant tear substitute for the treatment of dry 
+eye disease. Int. J. Ophthalmol. Clin. Res. 3 https://doi.org/10.23937/2378-346X/ 
+1410058. 
+Giannaccare, G., Carnevali, A., Senni, C., Logozzo, L., Scorcia, V., 2020. Umbilical cord 
+blood and serum for the treatment of ocular diseases: a comprehensive review. 
+Ophthalmol. Ther. 9, 235–248. 
+Gokçe, ¨ E.H., Sandri, G., Egrilmez, ˘ S., Bonferoni, M.C., Güneri, T., Caramella, C., 2009. 
+Cyclosporine a-loaded solid lipid nanoparticles: ocular tolerance and in vivo drug 
+release in rabbit eyes. Curr. Eye Res. 34, 996–1003. 
+Gote, V., Sikder, S., Sicotte, J., Pal, D., 2019. Ocular drug delivery: present innovations 
+and future challenges. J. Pharmacol. Exp. Ther. 370, 602. 
+Gulati, S., Jain, S., 2017. Ocular pharmacology of tear film, dry eye, and allergic 
+conjunctivitis. Handb. Exp. Pharmacol. 242, 97–118. 
+Gumus, K., Schuetzle, K.L., Pflugfelder, S.C., 2017. Randomized controlled crossover trial 
+comparing the impact of sham or intranasal tear neurostimulation on conjunctival 
+goblet cell degranulation. Am. J. Ophthalmol. 177, 159–168. 
+Gupta, P.K., Venkateswaran, N., 2021. The role of KPI-121 0.25% in the treatment of dry 
+eye disease: penetrating the mucus barrier to treat periodic flares. Ther. Adv. 
+Ophthalmol. 13, 25158414211012797. 
+Gupta, P.K., Vora, G.K., Matossian, C., Kim, M., Stinnett, S., 2016. Outcomes of intense 
+pulsed light therapy for treatment of evaporative dry eye disease. Can. J. 
+Ophthalmol. 51, 249–253. 
+Guzman, ´ M., Miglio, M., Keitelman, I., Shiromizu, C.M., Sabbione, F., Fuentes, F., 
+Trevani, A.S., Giordano, M.N., Galletti, J.G., 2020. Transient tear hyperosmolarity 
+disrupts the neuroimmune homeostasis of the ocular surface and facilitates dry eye 
+onset. Immunology 161, 148–161. 
+Hagen, K.B., Bedi, R., Blackie, C.A., Christenson-Akagi, K.J., 2018. Comparison of a 
+single-dose vectored thermal pulsation procedure with a 3-month course of daily 
+oral doxycycline for moderate-to-severe meibomian gland dysfunction. Clin. 
+Ophthalmol. 12, 161–168. 
+Haque, R.M., Torkildsen, G.L., Brubaker, K., Zink, R.C., Kowalski, R.P., Mah, F.S., 
+Pflugfelder, S.C., 2010. Multicenter open-label study evaluating the efficacy of 
+azithromycin ophthalmic solution 1% on the signs and symptoms of subjects with 
+blepharitis. Cornea 29, 871–877. 
+He, H., Ding, H., Liao, A., Liu, Q., Yang, J., Zhong, X., 2010. Effects of mycophenolate 
+mofetil on proliferation and mucin-5AC expression in human conjunctival goblet 
+cells in vitro. Mol. Vis. 16, 1913–1919. 
+Hessen, M., Akpek, E.K., 2014. Dry eye: an inflammatory ocular disease. J. Ophthal. Vis. 
+Res. 9, 240–250. 
+Higuchi, A., Ueno, R., Shimmura, S., Suematsu, M., Dogru, M., Tsubota, K., 2007. 
+Albumin rescues ocular epithelial cells from cell death in dry eye. Curr. Eye Res. 32, 
+83–88. 
+Hori, Y., 2018. Secreted mucins on the ocular surface. Invest. Ophthalmol. Vis. Sci. 59, 
+DES151–DES156. 
+Hsu, K.H., de la Jara, P.L., Ariyavidana, A., Watling, J., Holden, B., Garrett, Q., 
+Chauhan, A., 2015. Release of betaine and dexpanthenol from vitamin E modified 
+silicone-hydrogel contact lenses. Curr. Eye Res. 40, 267–273. 
+Javadi, M.A., Feizi, S., 2011. Dry eye syndrome. J. Ophthal. Vis. Res. 6, 192–198. 
+Jones, L., Downie, L.E., Korb, D., Benitez-Del-Castillo, J.M., Dana, R., Deng, S.X., 
+Dong, P.N., Geerling, G., Hida, R.Y., Liu, Y., Seo, K.Y., Tauber, J., Wakamatsu, T.H., 
+Xu, J., Wolffsohn, J.S., Craig, J.P., 2017. TFOS DEWS II management and therapy 
+report. Ocular Surf. 15, 575–628. 
+Kaercher, T., Buchholz, P., Kimmich, F., 2009. Treatment of patients with 
+keratoconjunctivitis sicca with optive: results of a multicenter, open-label 
+observational study in Germany. Clin. Ophthalmol. 3, 33–39. 
+Kamiya, K., Nakanishi, M., Ishii, R., Kobashi, H., Igarashi, A., Sato, N., Shimizu, K., 2012. 
+Clinical evaluation of the additive effect of diquafosol tetrasodium on sodium 
+hyaluronate monotherapy in patients with dry eye syndrome: a prospective, 
+randomized, multicenter study. Eye 26, 1363–1368. 
+Kangari, H., Eftekhari, M.H., Sardari, S., Hashemi, H., Salamzadeh, J., Ghassemi￾Broumand, M., Khabazkhoob, M., 2013. Short-term consumption of oral omega-3 
+and dry eye syndrome. Ophthalmology 120, 2191–2196. 
+Karn, P.R., Jin, S.E., Lee, B.J., Sun, B.K., Kim, M.S., Sung, J.H., Hwang, S.J., 2014. 
+Preparation and evaluation of cyclosporin A-containing proliposomes: a comparison 
+of the supercritical antisolvent process with the conventional film method. Int. J. 
+Nanomed. 9, 5079–5091. 
+Kathuria, A., Shamloo, K., Jhanji, V., Sharma, A., 2021. Categorization of marketed 
+artificial tear formulations based on their ingredients: a rational approach for their 
+use. 10. 
+Kim, C.E., Kleinman, H.K., Sosne, G., Ousler, G.W., Kim, K., Kang, S., Yang, J., 2018. 
+RGN-259 (thymosin β4) improves clinically important dry eye efficacies in 
+comparison with prescription drugs in a dry eye model. Sci. Rep. 8, 10500. 
+Kinoshita, S., Oshiden, K., Awamura, S., Suzuki, H., Nakamichi, N., Yokoi, N., 2013. 
+A randomized, multicenter phase 3 study comparing 2% rebamipide (OPC-12759) 
+with 0.1% sodium hyaluronate in the treatment of dry eye. Ophthalmology 120, 
+1158–1165. 
+Koh, S., 2015. Clinical utility of 3% diquafosol ophthalmic solution in the treatment of 
+dry eyes. Clin. Ophthalmol. 9, 865–872. 
+Kojima, T., Dogru, M., Kawashima, M., Nakamura, S., Tsubota, K., 2020. Advances in the 
+diagnosis and treatment of dry eye. Prog. Retin. Eye Res. 100842 https://doi.org/ 
+10.1016/j.preteyeres.2020.100842. 
+Kovalchin, J., King, B., Masci, A., Hopkins, E., Fry, J., Hou, J., Li, C., Tenneson, K., 
+Weber, S., Wolfe, G., Collins, K., Furfine, E., 2017. Preclinical development of EBI- 
+005: an IL-1 receptor-1 inhibitor for the topical ocular treatment of ocular surface 
+inflammatory diseases. Eye Contact Lens 44, 1. 
+Kraus R, Woesthuis W, “Advanced Drug Delivery for Dry Eye Treatment”. 
+ONdrugDelivery Magazine, Issue 104 (Jan 2020), pp 4–6. 
+Kumari, S., Dandamudi, M., Rani, S., Behaeghel, E., Behl, G., Kent, D., O’Reilly, N.J., 
+O’Donovan, O., McLoughlin, P., Fitzhenry, L., 2021. Dexamethasone-loaded 
+nanostructured lipid carriers for the treatment of dry eye disease. Pharmaceutics 13, 
+905. 
+Lai, S.K., Wang, Y.Y., Hanes, J., 2009. Mucus-penetrating nanoparticles for drug and 
+gene delivery to mucosal tissues. Adv. Drug Deliv. Rev. 61, 158–171. 
+Lallemand, F., Daull, P., Benita, S., Buggage, R., Garrigue, J.S., 2012. Successfully 
+improving ocular drug delivery using the cationic nanoemulsion, novasorb. J. Drug 
+Deliv. 2012, 604204. 
+Lallemand, F., Schmitt, M., Bourges, J.L., Gurny, R., Benita, S., Garrigue, J.S., 2017. 
+Cyclosporine A delivery to the eye: a comprehensive review of academic and 
+industrial efforts. Eur. J. Pharm. Biopharm. 117, 14–28. 
+3rd Lambiase, A., Sullivan, B.D., Schmidt, T.A., Sullivan, D.A., Jay, G.D., Truitt, E.R., 
+Bruscolini, A., Sacchetti, M., Mantelli, F., 2017. A two-week, randomized, double￾masked study to evaluate safety and efficacy of lubricin (150μg/mL) eye drops 
+versus sodium hyaluronate (HA) 0.18% eye drops (Vismed®) in patients with 
+moderate dry eye disease. Ocular Surf. 15, 77–87. 
+Lemp, M.A., Bron, A.J., Baudouin, C., Benítez Del Castillo, J.M., Geffen, D., Tauber, J., 
+Foulks, G.N., Pepose, J.S., Sullivan, B.D., 2011. Tear osmolarity in the diagnosis and 
+management of dry eye disease. Am. J. Ophthalmol. 151, 792–798 e791. 
+Leonardi, A., Flamion, B., Baudouin, C., 2017. Keratitis in dry eye disease and topical 
+ciclosporin A. Ocular Immunol. Inflam. 25, 577–586. 
+Leung, E.W., Medeiros, F.A., Weinreb, R.N., 2008. Prevalence of ocular surface disease in 
+glaucoma patients. J. Glaucoma 17, 350–355. 
+Li, N., Zhuang, C.Y., Wang, M., Sui, C.G., Pan, W.S., 2012. Low molecular weight 
+chitosan-coated liposomes for ocular drug delivery: in vitro and in vivo studies. Drug 
+Deliv. 19, 28–35. 
+Li, X., Kang, B., Eom, Y., Lee, H.K., Kim, H.M., Song, J.S., 2019. The protective effect of a 
+topical mucin secretagogue on ocular surface damage induced by airborne carbon 
+black exposure. Invest. Ophthalmol. Vis. Sci. 60, 255–264. 
+Li, X., Kang, B., Woo, I.H., Eom, Y., Lee, H.K., Kim, H.M., Song, J.S., 2018. Effects of 
+topical mucolytic agents on the tears and ocular surface: a plausible animal model of 
+mucin-deficient dry eye. Invest. Ophthalmol. Vis. Sci. 59, 3104–3114. 
+Linares-Alba, M.A., Gomez-Guajardo, ´ M.B., Fonzar, J.F., Brooks, D.E., García-S´
+anchez, G. 
+A., Bernad-Bernad, M.J., 2016. Preformulation studies of a liposomal formulation 
+containing sirolimus for the treatment of dry eye disease. J. Ocular Pharmacol. 
+Therap. 32, 11–22. 
+Liu, A., Ji, J., 2014. Omega-3 essential fatty acids therapy for dry eye syndrome: a meta￾analysis of randomized controlled studies. Med. Sci. Monit. 20, 1583–1589. 
+H.B. Mohamed et al. 
+European Journal of Pharmaceutical Sciences 175 (2022) 106206
+16
+Liu, H., Begley, C., Chen, M., Bradley, A., Bonanno, J., McNamara, N., Nelson, J., 
+Simpson, T., 2009. A link between tear instability and hyperosmolarity in dry eye. 
+Invest. Ophthalmol. Vis. Sci. 50, 3671–3679. 
+Liu, S., Chang, C.-N., Verma, M., Hileeto, D., Muntz, A., Stahl, U., Woods, J., Jones, L., 
+Gu, F., 2014. Phenylboronic acid modified mucoadhesive nanoparticle drug carriers 
+facilitate weekly treatment of experimentallyinduced dry eye syndrome. Nano Res. 
+8, 621–635. 
+Lu, X., Li, N., Zhao, L., Guo, D., Yi, H., Yang, L., Liu, X., Sun, D., Nian, H., Wei, R., 2020. 
+Human umbilical cord mesenchymal stem cells alleviate ongoing autoimmune 
+dacryoadenitis in rabbits via polarizing macrophages into an anti-inflammatory 
+phenotype. Exp. Eye Res. 191, 107905, 107905. 
+Luo, L., Li, D.Q., Corrales, R.M., Pflugfelder, S.C., 2005. Hyperosmolar saline is a 
+proinflammatory stress on the mouse ocular surface. Eye Contact Lens 31, 186–193. 
+Macri, A., Rolando, M., Pflugfelder, S., 2000. A standardized visual scale for evaluation 
+of tear fluorescein clearance. Ophthalmology 107, 1338–1343. 
+Magno, M., Moschowits, E., Arita, R., Vehof, J., Utheim, T.P., 2021. Intraductal 
+meibomian gland probing and its efficacy in the treatment of meibomian gland 
+dysfunction. Surv. Ophthalmol. 66, 612–622. 
+Mahmoudi, A., Malaekeh-Nikouei, B., Hanafi-Bojd, M.Y., Toloei, M., Hosseini, M., 
+Nikandish, M., 2020. Preliminary in vivo safety evaluation of a tacrolimus eye drop 
+formulation using hydroxypropyl beta cyclodextrin after ocular administration in 
+NZW rabbits. Clin. Ophthalmol. 14, 947–953. 
+Mandal, A., Gote, V., Pal, D., Ogundele, A., Mitra, A.K., 2019. Ocular pharmacokinetics 
+of a topical ophthalmic nanomicellar solution of cyclosporine (Cequa®) for dry eye 
+disease. Pharm. Res. 36, 36. 
+Marsh, P., Pflugfelder, S.C., 1999. Topical nonpreserved methylprednisolone therapy for 
+keratoconjunctivitis sicca in Sjogren ¨ syndrome. Ophthalmology 106, 811–816. 
+Maskin, S.L., Testa, W.R., 2018. Growth of meibomian gland tissue after intraductal 
+meibomian gland probing in patients with obstructive meibomian gland dysfunction. 
+Br. J. Ophthalmol. 102, 59–68. 
+Maulvi, F.A., Patel, P.J., Soni, P.D., Desai, A.R., Desai, D.T., Shukla, M.R., Ranch, K.M., 
+Shah, S.A., Shah, D.O., 2020. Novel poly(vinylpyrrolidone)-coated silicone contact 
+lenses to improve tear volume during lens wear: in vitro and in vivo studies. ACS 
+Omega 5, 18148–18154. 
+Maulvi, F.A., Soni, T.G., Shah, D.O., 2015. Extended release of hyaluronic acid from 
+hydrogel contact lenses for dry eye syndrome. J. Biomater. Sci. 26, 1035–1050. 
+Polymer edition. 
+McCarty, C.A., Bansal, A.K., Livingston, P.M., Stanislavsky, Y.L., Taylor, H.R., 1998. The 
+epidemiology of dry eye in Melbourne, Australia. Ophthalmology 105, 1114–1119. 
+McDonald, M.B., Sheha, H., Tighe, S., Janik, S.B., Bowden, F.W., Chokshi, A.R., 
+Singer, M.A., Nanda, S., Qazi, M.A., Dierker, D., Shupe, A.T., McMurren, B.J., 2018. 
+Treatment outcomes in the dry eye amniotic membrane (DREAM) study. Clin. 
+Ophthalmol. 12, 677–681. 
+McNamara, N.A., Ge, S., Lee, S.M., Enghauser, A.M., Kuehl, L., Chen, F.Y., Gallup, M., 
+McKown, R.L., 2016. Reduced levels of tear lacritin are associated with corneal 
+neuropathy in patients with the ocular component of Sjogren ¨ ’s syndrome. Invest. 
+Ophthalmol. Vis. Sci. 57, 5237–5243. 
+Meerovitch, K., Torkildsen, G., Lonsdale, J., Goldfarb, H., Lama, T., Cumberlidge, G., 
+Ousler, G.W., 2013. Safety and efficacy of MIM-D3 ophthalmic solutions in a 
+randomized, placebo-controlled Phase 2 clinical trial in patients with dry eye. Clin. 
+Ophthalmol. 7, 1275–1285. 
+Messmer, E.M., 2015. The pathophysiology, diagnosis, and treatment of dry eye disease. 
+Deutsches Arzteblatt Int. 112, 71–81 quiz 82. 
+Messmer, E.M., Bulgen, M., Kampik, A., 2010. Hyperosmolarity of the tear film in dry eye 
+syndrome. Dev. Ophthalmol. 45, 129–138. 
+Milner, M.S., Beckman, K.A., Luchs, J.I., Allen, Q.B., Awdeh, R.M., Berdahl, J., Boland, T. 
+S., Buznego, C., Gira, J.P., Goldberg, D.F., Goldman, D., Goyal, R.K., Jackson, M.A., 
+Katz, J., Kim, T., Majmudar, P.A., Malhotra, R.P., McDonald, M.B., Rajpal, R.K., 
+Raviv, T., Rowen, S., Shamie, N., Solomon, J.D., Stonecipher, K., Tauber, S., 
+Trattler, W., Walter, K.A., Waring, G.O.t., Weinstock, R.J., Wiley, W.F., Yeu, E., 
+2017. Dysfunctional tear syndrome: dry eye disease and associated tear film 
+disorders - new strategies for diagnosis and treatment. Curr. Opin. Ophthalmol. 27 
+(1), 3–47. 
+Mito, C., Tokushige, H., Kida, T., Sakaki, H., Ogawa, T., 2007. Ecabet sodium promotes 
+MUC5AC secretion in rabbit tears. Invest. Ophthalmol. Vis. Sci. 48, 384, 384. 
+Modis, ´ L., Szalai, E., 2011. Dry eye diagnosis and management. Expert Rev. Ophthalmol. 
+6, 67–79. 
+Moss, S.E., Klein, R., Klein, B.E., 2000. Prevalence of and risk factors for dry eye 
+syndrome. Arch. Ophthalmol. 118, 1264–1268. 
+Murri, M.S., Moshirfar, M., Birdsong, O.C., Ronquillo, Y.C., Ding, Y., Hoopes, P.C., 2018. 
+Amniotic membrane extract and eye drops: a review of literature and clinical 
+application. Clin. Ophthalmol. 12, 1105–1112. 
+Nguyen, M.T.B., Thakrar, V., Chan, C.C., 2018. EyePrintPRO therapeutic scleral contact 
+lens: indications and outcomes. Can. J. Ophthalmol. 53, 66–70. 
+Nguyen, T., Latkany, R., 2011. Review of hydroxypropyl cellulose ophthalmic inserts for 
+treatment of dry eye. Clin. Ophthalmol. 5, 587–591. 
+O’Neil, E.C., Henderson, M., Massaro-Giordano, M., Bunya, V.Y., 2019. Advances in dry 
+eye disease treatment. Curr. Opin. Ophthalmol. 30, 166–178. 
+Mateo Orobia, A.J., Casas Pascual, P., Cristobal ´ Bescos, ´ J.A., ´ Perez García, D., Peiro 
+Embid, C., Del Buey Sayas, M.A., ´ Korobko Kulikova, V., Lafuente Ojeda, N., 2015. 
+Effects of 3% trehalose as an adjuvant treatment after LASIK. Clin Ophthalmol. 11, 
+347–353. 
+Perez, M., Barreales, S., Sabater-Cruz, N., Martinez-Conesa, E., Vilarrodona, A., Casaroli￾Marano, R., 2021. Amniotic membrane extract eye drops: a new approach to severe 
+ocular surface pathologies. Cell Tissue Bank. https://doi.org/10.1007/s10561-021- 
+09962-4. 
+Perry, H.D., 2008. Dry eye disease: pathophysiology, classification, and diagnosis. Am. J. 
+Manage. Care 14, S79–S87. 
+Pflugfelder, S.C., 2004. Antiinflammatory therapy for dry eye. Am. J. Ophthalmol. 137, 
+337–342. 
+Pflugfelder, S.C., de Paiva, C.S., 2017. The pathophysiology of dry eye disease: what we 
+know and future directions for research. Ophthalmology 124, S4–s13. 
+Pflugfelder, S.C., Solomon, A., Stern, M.E., 2000. The diagnosis and management of dry 
+eye: a twenty-five-year review. Cornea 19, 644–649. 
+Pitt, W.G., Jack, D.R., Zhao, Y., Nelson, J.L., Pruitt, J.D., 2011. Loading and release of a 
+phospholipid from contact lenses. Optometry and vision science : official publication 
+of the American Academy of Optometry 88, 502–506. 
+Popov, A., 2020. Mucus-Penetrating Particles and the Role of Ocular Mucus as a Barrier 
+to Micro- and Nanosuspensions. J. Ocular Pharmacol. Therap. 36, 366–375. https:// 
+doi.org/10.1089/jop.2020.0022. 
+Porola, P., Laine, M., Virkki, L., Poduval, P., Konttinen, Y.T., 2007. The influence of sex 
+steroids on Sjogren ¨ ’s syndrome. Ann. N.Y. Acad. Sci. 1108, 426–432. 
+Pucker, A.D., Ng, S.M., Nichols, J.J., 2016. Over the counter (OTC) artificial tear drops 
+for dry eye syndrome. Cochrane Database Syst. Rev. 2, CD009729. CD009729. 
+Quintana-Hau, J.D., Cruz-Olmos, E., Lopez-S ´ ´
+anchez, M.I., Sanchez-Castellanos, ´ V., Baiza￾Duran, ´ L., Gonzalez, ´ J.R., Tornero, M., Mondragon-Flores, ´ R., Hern´
+andez￾Santoyo, A., 2005. Characterization of the novel ophthalmic drug carrier Sophisen in 
+two of its derivatives: 3A Ofteno and Modusik-A Ofteno. Drug Dev. Ind. Pharm. 31, 
+263–269. 
+Rashid, S., Jin, Y., Ecoiffier, T., Barabino, S., Schaumberg, D.A., Dana, M.R., 2008. 
+Topical omega-3 and omega-6 fatty acids for treatment of dry eye. Arch. 
+Ophthalmol. 126, 219–225. 
+Rolando, M., Cantera, E., Mencucci, R., Rubino, P., Aragona, P., 2018. The correct 
+diagnosis and therapeutic management of tear dysfunction: recommendations of the 
+P.I.C.A.S.S.O. board. 38, 875–895. 
+Rolando, M., Terragna, F., Giordano, G., Calabria, G., 1990. Conjunctival surface damage 
+distribution in keratoconjunctivitis sicca. An impression cytology study. 
+Ophthalmologica 200 (6), 170–176. https://doi.org/10.1159/000310101. 
+Romero-Rangel, T., Stavrou, P., Cotter, J., Rosenthal, P., Baltatzis, S., Foster, C.S., 2000. 
+Gas-permeable scleral contact lens therapy in ocular surface disease. Am. J. 
+Ophthalmol. 130, 25–32. 
+Rossi, G.C., Tinelli, C., Pasinetti, G.M., Milano, G., Bianchi, P.E., 2009. Dry eye 
+syndrome-related quality of life in glaucoma patients. Eur. J. Ophthalmol. 19, 
+572–579. 
+Sall, K., Stevenson, O.D., Mundorf, T.K., Reis, B.L., 2000. Two multicenter, randomized 
+studies of the efficacy and safety of cyclosporine ophthalmic emulsion in moderate to 
+severe dry eye disease. CsA phase 3 study group. Ophthalmology 107, 631–639. 
+Schaumberg, D.A., Buring, J.E., Sullivan, D.A., Dana, M.R., 2001. Hormone replacement 
+therapy and dry eye syndrome. JAMA 286, 2114–2119. 
+Schmidl, D., Szalai, L., Kiss, O.G., Schmetterer, L., Garhofer, ¨ G., 2021. A phase II, 
+multicenter, randomized, placebo-controlled, double-masked trial of a topical 
+estradiol ophthalmic formulation in postmenopausal women with moderate-to￾severe dry eye disease. Adv. Ther. 38, 1975–1986. 
+Schmidl, D., Werkmeister, R., Kaya, S., Unterhuber, A., Witkowska, K.J., 
+Baumgartner, R., Holler, ¨ S., O’Rourke, M., Peterson, W., Wolter, A., Prinz, M., 
+Schmetterer, L., Garhofer, ¨ G., 2017. A controlled, randomized double-blind study to 
+evaluate the safety and efficacy of chitosan-N-acetylcysteine for the treatment of dry 
+eye syndrome. J. Ocular Pharmacol. Therap. 33, 375–382. 
+Schmidt, T.A., Sullivan, D.A., Knop, E., Richards, S.M., Knop, N., Liu, S., Sahin, A., 
+Darabad, R.R., Morrison, S., Kam, W.R., Sullivan, B.D., 2013. Transcription, 
+translation, and function of lubricin, a boundary lubricant, at the ocular surface. 
+JAMA Ophthalmol. 131, 766–776. 
+Schopf, L., Enlow, E., Popov, A., Bourassa, J., Chen, H., 2014. Ocular pharmacokinetics 
+of a novel loteprednol etabonate 0.4% ophthalmic formulation. Ophthalmol Ther 3, 
+63–72. https://doi.org/10.1007/s40123-014-0021-z. 
+Schopf, L.R., Popov, A.M., Enlow, E.M., Bourassa, J.L., Ong, W.Z., Nowak, P., Chen, H., 
+2015. Topical ocular drug delivery to the back of the eye by mucus-penetrating 
+particles. Transl. Vis. Sci. Technol. 4, 11. https://doi.org/10.1167/tvst.4.3.11. 
+Sheppard, J.D., Donnenfeld, E.D., Holland, E.J., Slonim, C.B., Solomon, R., Solomon, K. 
+D., McDonald, M.B., Perry, H.D., Lane, S.S., Pflugfelder, S.C., Samudre, S.S., 2014. 
+Effect of loteprednol etabonate 0.5% on initiation of dry eye treatment with topical 
+cyclosporine 0.05%. Eye Contact Lens 40, 289–296. 
+Shimmura, S., Ueno, R., Matsumoto, Y., Goto, E., Higuchi, A., Shimazaki, J., Tsubota, K., 
+2003. Albumin as a tear supplement in the treatment of severe dry eye. Br. J. 
+Ophthalmol. 87, 1279–1283. 
+Simmons, P.A., Carlisle-Wilcox, C., Chen, R., Liu, H., Vehige, J.G., 2015. Efficacy, safety, 
+and acceptability of a lipid-based artificial tear formulation: a randomized, 
+controlled, multicenter clinical trial. Clin. Ther. 37, 858–868. 
+Singh, M., Bharadwaj, S., Lee, K.E., Kang, S.G., 2020. Therapeutic nanoemulsions in 
+ophthalmic drug administration: Concept in formulations and characterization 
+techniques for ocular drug delivery. J. Control. Release 328, 895–916. 
+Skulachev, V.P., 2013. Cationic antioxidants as a powerful tool against mitochondrial 
+oxidative stress. Biochem. Biophys. Res. Commun. 441, 275–279. 
+Soliman, O.A.E., Mohamed, E.A.M., El-Dahan, M.S., Khatera, N.A.A., 2017. Potential use 
+of cyclodextrin complexes for enhanced stability, anti-inflammatory efficacy, and 
+ocular bioavailability of loteprednol etabonate. AAPS PharmSciTech 18, 1228–1241. 
+Soriano-Romaní, L., Vicario-de-la-Torre, M., Crespo-Moral, M., Lopez-García, ´ A., 
+Herrero-Vanrell, R., Molina-Martínez, I.T., Diebold, Y., 2017. Novel anti￾inflammatory liposomal formulation for the pre-ocular tear film: in vitro and ex vivo 
+functionality studies in corneal epithelial cells. Exp. Eye Res. 154, 79–87. 
+Sosne, G., Dunn, S.P., Kim, C., 2015. Thymosin β4 significantly improves signs and 
+symptoms of severe dry eye in a phase 2 randomized trial. Cornea 34, 491–496. 
+H.B. Mohamed et al. 
+European Journal of Pharmaceutical Sciences 175 (2022) 106206
+17
+Sosne, G., Kleinman, H.K., 2015. Primary mechanisms of thymosin β4 repair activity in 
+dry eye disorders and other tissue injuries. Invest. Ophthalmol. Vis. Sci. 56, 
+5110–5117. 
+Stern, M.E., Beuerman, R.W., Fox, R.I., Gao, J., Mircheff, A.K., Pflugfelder, S.C., 1998. 
+The pathology of dry eye: the interaction between the ocular surface and lacrimal 
+glands. Cornea 17, 584–589. 
+Surette, M.E., 2008. The science behind dietary omega-3 fatty acids. CMAJ 178, 
+177–180. 
+Syed, Z.A., Sutula, F.C., 2017. Dynamic intraductal meibomian probing: a modified 
+approach to the treatment of obstructive meibomian gland dysfunction. Ophthal. 
+Plast. Reconstr. Surg. 33, 307–309. 
+Tandon, R., Gantyala, S.P., Velpandian, T., Ahuja, V., Sinha, R., Sharma, N., Titiyal, J.S., 
+Sen, S., Shukla, D.K., 2012. Study of ocular bioavailability of oral rebamipide to 
+determine its potential value in the management of dry eye. Invest. Ophthalmol. Vis. 
+Sci. 53, 2347, 2347. 
+Tauber, J., Schechter, B.A., Bacharach, J., Toyos, M.M., Smyth-Medina, R., Weiss, S.L., 
+Luchs, J.I., 2018. A Phase II/III, randomized, double-masked, vehicle-controlled, 
+dose-ranging study of the safety and efficacy of OTX-101 in the treatment of dry eye 
+disease. Clin. Ophthalmol. 12, 1921–1929. 
+Tong, L., Sun, C.-C., Yoon, K.C., Siong, R., Puangsricharern, V., Baudouin, C., 2020. 
+Cyclosporine anionic and cationic ophthalmic emulsions in dry eye disease: a 
+literature review. Ocul. Immunol. Inflamm. 29, 1–10. 
+Tsubota, K., Yokoi, N., Watanabe, H., Dogru, M., Kojima, T., Yamada, M., Kinoshita, S., 
+Kim, H.M., Tchah, H.W., Hyon, J.Y., Yoon, K.C., Seo, K.Y., Sun, X., Chen, W., 
+Liang, L., Li, M., Tong, L., Hu, F.R., Puangsricharern, V., Lim-Bon-Siong, R., Yong, T. 
+K., Liu, Z., Shimazaki, J., 2020. A new perspective on dry eye classification: proposal 
+by the Asia dry eye society. Eye Contact Lens 46 (1), S2–s13. 
+Uchino, M., Schaumberg, D.A., Dogru, M., Uchino, Y., Fukagawa, K., Shimmura, S., 
+Satoh, T., Takebayashi, T., Tsubota, K., 2008. Prevalence of dry eye disease among 
+Japanese visual display terminal users. Ophthalmology 115, 1982–1988. 
+Varela Rey, I., Gonzalez-Barcia, M., García-Quintanilla, L., Castro-Balado, A., Busto￾Iglesias, M., Zarra-Ferro, I., Fernandez-Ferreiro, ´ A., 2021. 4CPS-323 evaluation of 
+the use, adherence and tolerance of 0.03% tacrolimus eye drops. Eur. J. Hosp. 
+Pharm. 28, A76. A76. 
+Vickers, L.A., Gupta, P.K., 2015. The future of dry eye treatment: a glance into the 
+therapeutic pipeline. Ophthalmol. Ther. 4, 69–78. 
+Vijmasi, T., Chen, F.Y., Balasubbu, S., Gallup, M., McKown, R.L., Laurie, G.W., 
+McNamara, N.A., 2014. Topical administration of lacritin is a novel therapy for 
+aqueous-deficient dry eye disease. Invest. Ophthalmol. Vis. Sci. 55, 5401–5409. 
+Walsh, K., Jones, L., 2019. The use of preservatives in dry eye drops. Clin. Ophthalmol. 
+13, 1409–1425. 
+Wei, Y., Asbell, P.A., 2014. The core mechanism of dry eye disease is inflammation. Eye 
+Contact Lens 40, 248–256. 
+Weng, Y., Liu, J., Jin, S., Guo, W., Liang, X., Hu, Z., 2017. Nanotechnology-based 
+strategies for treatment of ocular disease. Acta Pharma. Sin. B 7, 281–291. 
+White, C.J., McBride, M.K., Pate, K.M., Tieppo, A., Byrne, M.E., 2011. Extended release 
+of high molecular weight hydroxypropyl methylcellulose from molecularly 
+imprinted, extended wear silicone hydrogel contact lenses. Biomaterials 32, 
+5698–5705. 
+Wilson, S.E., 2003. Inflammation: a unifying theory for the origin of dry eye syndrome. 
+Manage. Care 12, 14–19. 
+Wirta, D.L., Torkildsen, G.L., Moreira, H.R., Lonsdale, J.D., Ciolino, J.B., Jentsch, G., 
+Beckert, M., Ousler, G.W., Steven, P., Krosser, ¨ S., 2019. A clinical phase II study to 
+assess efficacy, safety, and tolerability of waterfree cyclosporine formulation for 
+treatment of dry eye disease. Ophthalmology 126, 792–800. 
+Yancey, P.H., 2005. Organic osmolytes as compatible, metabolic and counteracting 
+cytoprotectants in high osmolarity and other stresses. J. Exp. Biol. 208, 2819–2830. 
+Yu, M.D., Park, J.K., Kossler, A.L., 2021. Stimul. Tear Prod. 15, 4219–4226. 
+Zernii, E.Y., Gancharova, O.S., Baksheeva, V.E., Golovastova, M.O., Kabanova, E.I., 
+Savchenko, M.S., Tiulina, V.V., Sotnikova, L.F., Zamyatnin, A.A., Philippov, P.P., 
+Senin, I.I., 2017. Mitochondria-targeted antioxidant SkQ1 prevents anesthesia￾induced dry eye syndrome. Oxid. Med. Cell. Longev. 2017, 9281519 https://doi.org/ 
+10.1155/2017/9281519. 
+Zhang, L., Coulson-Thomas, V.J., Ferreira, T.G., Kao, W.W.Y., 2015. Mesenchymal stem 
+cells for treating ocular surface diseases. BMC Ophthalmol. 15 (1), 155, 155. 
+Zhang, X., Zhao, L., Deng, S., Sun, X., Wang, N., 2016. Dry eye syndrome in patients with 
+diabetes mellitus: prevalence, etiology, and clinical characteristics. J. Ophthalmol. 
+2016, 8201053, 8201053. 
+Ziment, I., 1988. Acetylcysteine: a drug that is much more than a mucokinetic. Biomed. 
+Pharmacother. 42, 513–519. 
+H.B. Mohamed et al. 
