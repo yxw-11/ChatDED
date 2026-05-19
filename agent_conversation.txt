@@ -1,0 +1,175 @@
+### CASE 2
+Patient:  Doctor, my eyes have been feeling dry recently, and sometimes there's mild stinging, especially when reading at night.
+Agent:  Hi, I’m here to help.
+- How long have you had this problem?
+- Do you use your eyes intensively, such as spending long hours on the computer or phone, especially at night?
+
+Patient  About two months, and I use the computer for six to seven hours a day.
+
+Retrieved Patient Records:  ID,Age,Sex,Schirmer_mm_5min,NIBUT_first_sec,NIBUT_avg_sec,TMH_mm,OSDI,History of systemic autoimmune disease,History of long-term medication use,Dry eye treatment record
+P2,12,Male,2,11.0,15.0,0.1,33,none,none,none
+
+Agent: your records summary --  Male, 12 years old, no history of systemic autoimmune disease, no long-term medication use, and no prior dry eye treatment. OSDI score 33 (moderate dry eye symptoms).
+
+Agent: Next, I will analyze your meibomian gland images
+Data obtained through analysis:  Meibomian gland image quality,Average Length,Average Width,Average Area,Average Curvature,Number of glands,Total Glands Ratio,Glandular deletion ratio,score
+normal,4.25572620616737,0.306392651452446,1.38245909934222,2.37052462318731,20,33.91%,66.09%,0
+
+Return: Average gland length 4.26 mm, average width 0.31 mm, average area 1.38 mm², curvature 2.37; gland count 20, total gland proportion 33.91%, gland dropout rate 66.09%, grade: 0 points; image quality: qualified.
+Agent: Your gland dropout rate is 66.09%, the gland morphology is generally normal, but tear secretion (Schirmer 2 mm) is significantly insufficient. Tear film breakup time is 11 seconds, within normal range, suggesting aqueous-deficient dry eye.
+
+Agent: Let me check evidence-based treatment recommendations for similar cases
+
+Agent: Here are the suggestions --  Key facts from your visit
+- Who/what: 12-year-old male with dry, mildly stinging eyes, worse when reading at night.
+- How long: About 2 months.
+- Triggers: 6–7 hours/day on the computer; nighttime reading.
+- Symptom severity: OSDI 33 (moderate).
+- Test findings:
+  - Schirmer: 2 mm (very low tear production).
+  - Tear film breakup time (NIBUT/TFBUT): 11 seconds (within normal range).
+  - Meibography (image quality: qualified): average gland length 4.26 mm, width 0.31 mm, area 1.38 mm²; gland count 20; total gland proportion 33.91%; gland dropout 66.09%.
+
+How this fits with current guidance
+- Based on TFOS DEWS II (international dry eye guidelines) and tear-film–oriented therapy principles, your pattern—very low Schirmer with normal breakup time—suggests mainly aqueous-deficient dry eye (reduced tear production), with some meibomian gland changes that may contribute but are not the primary driver right now. Screen time and reduced blinking likely aggravate symptoms.
+
+Advice for you
+- Summary: You’ve had 2 months of dry, stinging eyes (OSDI 33), with very low tear production (Schirmer 2 mm), normal tear stability (11 s), and some meibomian gland dropout on imaging (66%), which suggests mainly low tear production with digital-eye-strain contribution.
+- What this means: This pattern is consistent with aqueous-deficient dry eye rather than primarily oily-layer problems; long screen sessions likely make it feel worse.
+
+Next steps (start now)
+1) Lubrication:
+   - Use preservative-free artificial tears 4–6 times daily and before/after computer use; add a lubricating gel or ointment at bedtime if nighttime symptoms persist.
+2) Screen and environment habits:
+   - Follow the 20-20-20 rule (every 20 minutes, look 20 feet away for 20 seconds) and practice full, gentle blinks; keep screens slightly below eye level; use a humidifier and avoid direct fan/AC flow to the face; stay well hydrated.
+3) Eyelid care:
+   - Warm compresses 5–10 minutes once daily, then gently clean the lid margins to support the oil glands.
+
+Follow-up
+- Book a non-urgent eye appointment in 2–4 weeks to reassess tear production and discuss options if not improving (for example, punctal plugs or prescription anti-inflammatory drops). If you wear contact lenses (including overnight lenses), limit or pause wear until symptoms are controlled.
+
+Seek urgent care now if you notice
+- Eye pain, marked redness, light sensitivity, or a sudden drop in vision.
+- Thick discharge or inability to keep the eye open.
+
+### CASE 3
+Patient:  Doctor, my eyes have been a bit dry recently, and sometimes feel blurry, especially after reading for a long time.
+
+Agent:  Hi there—thanks for reaching out.
+- How long have you had this problem?
+- Do you use your eyes intensively, such as spending long hours on the computer or phone?
+
+Patient  About a month, and I use the computer for about five to six hours a day.
+
+Retrieved Patient Records:  ID,Age,Sex,Schirmer_mm_5min,NIBUT_first_sec,NIBUT_avg_sec,TMH_mm,OSDI,History of systemic autoimmune disease,History of long-term medication use,Dry eye treatment record
+P3,13,Male,15,23.32,23.43,0.36,10,none,none,none
+
+Agent: your records summary --  Male, 13 years old, no history of systemic autoimmune disease, no long-term medication use, and no prior dry eye treatment. OSDI score 10 (mild dry eye symptoms).
+
+Agent: Next, I will analyze your meibomian gland images
+Data obtained through analysis:  Meibomian gland image quality,Average Length,Average Width,Average Area,Average Curvature,Number of glands,Total Glands Ratio,Glandular deletion ratio,score
+normal,4.02053479042797,0.280556038781619,1.16434474616293,8.40790601468671,20,30.33%,69.67%,0
+
+Return: Average gland length 4.02 mm, average width 0.28 mm, average area 1.16 mm², curvature 8.41; gland count 20, total gland proportion 30.33%, gland dropout rate 69.67%, grade: 0 points; image quality: qualified.
+
+Agent: Your gland dropout rate is 69.67%, gland morphology is generally normal, tear secretion (Schirmer 15 mm) is normal, and tear film breakup time (first 23.32 seconds) and average value are both well above the normal lower limit. This suggests good tear film stability; current symptoms may be related to environment or visual habits rather than tear film quality issues.
+
+Agent: Let me check evidence-based treatment recommendations for similar cases
+
+Agent: Here are the suggestions --  Key facts you shared and test results
+- Who/what: 13-year-old male with mild eye dryness and occasional blurriness, mainly after long reading/computer work.
+- How long: About 1 month.
+- Triggers: 5–6 hours/day of computer use and prolonged near work.
+- Symptom severity: OSDI score 10 (mild).
+- Tear tests: Schirmer 15 mm (normal tear production); non-invasive tear breakup time (first) 23.3 s (tear film stability is good; average also above normal).
+- Meibography (eyelid oil glands): Avg length 4.02 mm, width 0.28 mm, area 1.16 mm², curvature 8.41; gland count 20; one metric flagged higher “dropout” (~69.7%), but the automated grade was 0 and image quality was reported as qualified.
+
+How the evidence fits your situation
+- Research shows symptoms and imaging signs don’t always match; people can have gland changes but normal tear function and few symptoms. Your normal tear quantity and very stable tear film suggest your current discomfort is more consistent with digital eye strain/environmental dryness than with significant dry-eye disease at this time. The single high “dropout” percentage may warrant a repeat image or review, but your functional tests are reassuring.
+
+Patient advice
+- Recap: You have mild, month-long dryness/blur after extended screen/reading, with normal tear production (Schirmer 15 mm), strong tear stability (NIBUT 23.3 s), and an imaging report that flagged possible gland loss but otherwise normal function.
+- What this suggests: Your symptoms are most consistent with eye strain and environmental dryness rather than a tear-film problem; the meibography finding may reflect measurement variability and should be confirmed.
+
+What you can do now
+- Screen/reading habits: Use the 20-20-20 rule (every 20 minutes, look 20 feet away for 20 seconds) and make 3–5 full, gentle blinks at each break. Keep screens slightly below eye level and reduce glare; consider a humidifier and avoid direct AC/fan airflow to the face.
+- Lubrication: Use preservative-free artificial tears as needed (up to 4 times/day to start). If evening symptoms persist, a gel drop before bed can help.
+- Lid care: If your eyes feel heavy or vision fluctuates, apply a warm compress to closed lids for 5–10 minutes once daily and gently clean the lid margins a few times per week.
+
+Follow-up
+- If symptoms don’t improve within 2–3 weeks or start to interfere with schoolwork, book a routine eye check. Ask to repeat meibography and have gland function (meibum quality/expression, lipid layer) reviewed to confirm the earlier “dropout” reading.
+
+Seek urgent care now if
+- You develop significant eye pain, marked light sensitivity, redness with discharge, or a sudden drop in vision.
+
+### CASE 4
+Patient:  Doctor, my eyes have been especially dry recently, and sometimes there's a burning sensation. Watching TV for a while makes them uncomfortable.
+
+Agent:  Hi, thanks for sharing that.
+- How long have you had this problem?
+- Do you use your eyes intensively, such as spending long hours on the computer or phone?
+Patient  About six months, and I use the computer four to five hours a day.
+Retrieved Patient Records:  ID,Age,Sex,Schirmer_mm_5min,NIBUT_first_sec,NIBUT_avg_sec,TMH_mm,OSDI,History of systemic autoimmune disease,History of long-term medication use,Dry eye treatment record
+P4,75,Male,3,9.37,16.71,0.12,45,none,none,none
+
+Agent: your records summary --  Male, 75 years old, no history of systemic autoimmune disease, no long-term medication use, and no prior dry eye treatment. OSDI score 45 (severe dry eye symptoms).
+
+Agent: Next, I will analyze your meibomian gland images
+Data obtained through analysis:  Meibomian gland image quality,Average Length,Average Width,Average Area,Average Curvature,Number of glands,Total Glands Ratio,Glandular deletion ratio,score
+normal,2.31624290152866,0.376274468979116,0.866756620003373,4.83847226581202,12,15.22%,84.78%,3
+
+Return: Average gland length 2.32 mm, average width 0.38 mm, average area 0.87 mm², curvature 4.84; gland count 12, total gland proportion 15.22%, gland dropout rate 84.78%, grade: 3 points; image quality: qualified.
+Agent: Your gland dropout rate is very high (84.78%), glands are shorter with smaller area, indicating significantly reduced gland secretion function. Tear secretion (Schirmer 3 mm) is insufficient, and first tear film breakup time is 9.37 seconds, also shorter than normal. This suggests decreased tear film stability, indicating mixed-type dry eye (aqueous-deficient + evaporative).
+
+Agent: Let me check evidence-based treatment recommendations for similar cases
+
+Agent: Here are the suggestions --  Summary: You’re a 75-year-old man with 6 months of dryness and burning that worsen with TV/computer use; your scores show severe symptoms (OSDI 45), very low tear production (Schirmer 3 mm), reduced tear film stability (first breakup 9.37 s), and marked oil-gland loss in the lids (meibomian gland dropout 84.8%, grade 3; images adequate). This pattern suggests mixed‑type dry eye (both low tear volume and oil‑gland dysfunction), which is commonly aggravated by screen time.
+
+What to do next:
+- Twice daily: Warm compresses for 10 minutes, then gently massage and clean the eyelid margins (use a clean cloth or lid wipes); use preservative‑free artificial tears 4–6 times a day and a gel/ointment at bedtime if nighttime or morning dryness persists.
+- Screen and environment: Follow the 20‑20‑20 rule and deliberate blinking when viewing screens/TV; avoid direct air from fans/AC, consider a humidifier, and wear wraparound glasses outdoors to reduce evaporation.
+- Follow‑up: Book an eye care visit in 2–4 weeks to consider in‑office meibomian gland treatments (thermal pulsation/expressions or IPL) and prescription anti‑inflammatory drops (such as cyclosporine or lifitegrast); punctal plugs may be added after inflammation is controlled if dryness remains.
+
+Seek urgent care now if you develop severe or worsening eye pain, sudden drop in vision, marked light sensitivity, rapidly increasing redness or discharge, or a new white spot on the eye.
+
+### CASE 5
+Patient:  Doctor, my eyes have been extremely dry recently, with a stinging sensation when blinking, and sometimes my eyelids feel tight.
+Agent:  Hi there—sorry you’re dealing with this.
+
+- How long have you had this problem?
+- Do you wear contact lenses or have any history of eye disease?
+Patient  About three to four months, I don't wear contact lenses, and my eyes used to be fine.
+Retrieved Patient Records:  ID,Age,Sex,Schirmer_mm_5min,NIBUT_first_sec,NIBUT_avg_sec,TMH_mm,OSDI,History of systemic autoimmune disease,History of long-term medication use,Dry eye treatment record
+P5,64,Female,11,2.87,4.04,0.25,43,none,none,none
+
+Agent: your records summary --  Female, 64 years old, no history of systemic autoimmune disease, no long-term medication use, and no prior dry eye treatment. OSDI score 43 (severe dry eye symptoms).
+Agent: Next, I will analyze your meibomian gland images
+Data obtained through analysis:  Meibomian gland image quality,Average Length,Average Width,Average Area,Average Curvature,Number of glands,Total Glands Ratio,Glandular deletion ratio,score
+normal,1.37008543975264,0.312792696352812,0.418013155675493,1.97522582823505,5,2.36%,97.64%,3
+
+Return: Average gland length 1.37 mm, average width 0.31 mm, average area 0.42 mm², curvature 1.98; gland count 5, total gland proportion 2.36%, gland dropout rate 97.64%, grade: 3 points; image quality: qualified.
+Agent: Your gland dropout rate is extremely high (97.64%), and both gland length and area are very small, indicating near total loss of function. Tear secretion (Schirmer 11 mm) is normal, but first tear film breakup time (2.87 seconds) is well below normal, suggesting poor tear quality and rapid evaporation — a typical evaporative dry eye.
+
+Agent: Let me check evidence-based treatment recommendations for similar cases
+Similarities: tensor([0.2076, 0.1813, 0.1362,  ..., 0.5108, 0.1993, 0.2036], device='cuda:0')
+Agent: Here are the suggestions --  Key facts and structured findings from your conversation and tests
+- Who: Female, 64 years old; no contact lens wear; no autoimmune disease; no long‑term medications; no prior dry‑eye treatment.
+- What/how long: 3–4 months of very dry eyes with stinging on blinking and a feeling of tight eyelids.
+- Symptom severity: OSDI 43 (severe symptoms).
+- Meibomian gland imaging: Image quality qualified; average gland length 1.37 mm; width 0.31 mm; area 0.42 mm²; curvature 1.98; gland count 5; total gland proportion 2.36%; gland dropout 97.64%; grade 3 (marked loss).
+- Tear tests: Schirmer 11 mm (tear quantity in the normal range); first tear film break‑up time 2.87 seconds (well below normal, indicating very unstable/quickly evaporating tears).
+
+How this aligns with guideline-based care
+- This pattern (normal tear quantity, very short break‑up time, and severe gland loss) is consistent with evaporative dry eye from meibomian gland dysfunction (MGD), as described by TFOS DEWS II and the International MGD Workshop. These guidelines support warm compresses and lid hygiene, frequent preservative‑free lubricants (especially lipid‑containing drops), and considering in‑office treatments (thermal pulsation, manual expression, or IPL) and anti‑inflammatory therapy if symptoms persist.
+
+Patient-facing advice
+- Recap: You’ve had 3–4 months of severe dryness with stinging on blinking; testing shows normal tear quantity (Schirmer 11 mm) but very fast tear evaporation (break‑up 2.87 s) and marked loss of oil glands (dropout 97.6%).
+- What this likely indicates: This suggests dry eye driven mainly by poor tear oil quality from severely reduced meibomian gland function, which makes tears evaporate too quickly.
+
+Next steps you can start now
+1) Eyelid warming and cleaning: Apply a warm compress (clean microwavable mask or warm towel) for 10–15 minutes once to twice daily, then gently massage the lids toward the lash line; cleanse the lid margins once daily with a commercial lid wipe/foam or hypochlorous spray (avoid getting soap in the eye).
+2) Lubrication and environment: Use preservative‑free, lipid‑containing artificial tears 4–6 times/day; consider a lubricating gel/ointment at bedtime if you wake dry. Improve your environment (humidifier, avoid direct airflow from fans/vents, take regular blink breaks during screen time).
+3) Follow‑up plan: Book an eye care appointment within 2–4 weeks to review response and discuss in‑office gland treatments (thermal pulsation/LipiFlow, manual expression, or IPL) and whether anti‑inflammatory drops (e.g., cyclosporine or lifitegrast) or a short course of doxycycline/azithromycin are appropriate for you.
+
+Seek urgent care if
+- You develop sudden vision changes or severe eye pain/light sensitivity.
